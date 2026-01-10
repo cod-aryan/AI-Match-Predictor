@@ -1,0 +1,4499 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-18'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Harare
+  dates:
+  - '2023-01-18'
+  gender: male
+  match_type: ODI
+  match_type_number: 4506
+  outcome:
+    winner: Zimbabwe
+    by:
+      wickets: 3
+    method: D/L
+  overs: 50
+  player_of_match:
+  - RP Burl
+  players:
+    Ireland:
+    - PR Stirling
+    - ST Doheny
+    - A Balbirnie
+    - HT Tector
+    - GH Dockrell
+    - C Campher
+    - L Tucker
+    - AR McBrine
+    - MR Adair
+    - GI Hume
+    - J Little
+    Zimbabwe:
+    - W Madhevere
+    - I Kaia
+    - CR Ervine
+    - GS Ballance
+    - Sikandar Raza
+    - RP Burl
+    - C Madande
+    - B Evans
+    - WP Masakadza
+    - R Ngarava
+    - VM Nyauchi
+  registry:
+    people:
+      A Balbirnie: 6ef13460
+      AJ Pycroft: 685d3f80
+      AR McBrine: e957b38f
+      B Evans: e7e86505
+      C Campher: 478a63e7
+      C Madande: 3560a786
+      C Phiri: ade73404
+      CR Ervine: c96311d4
+      GH Dockrell: 99cddc5e
+      GI Hume: 25550d06
+      GS Ballance: 755a77c6
+      HT Tector: 59ea70a4
+      I Chabi: 5e39110e
+      I Kaia: 5ad8c974
+      J Little: 9061a703
+      L Rusere: 6a4734ae
+      L Tucker: 3979b5e0
+      MA Gough: 76752ac8
+      MR Adair: fc55ec67
+      PR Stirling: cf494ffe
+      R Ngarava: 6e3f5a5c
+      RP Burl: b08252b8
+      ST Doheny: 4992d6f6
+      Sikandar Raza: 26d041c4
+      TE Kane: af28816c
+      VM Nyauchi: 1bd16445
+      W Madhevere: a879b92c
+      WP Masakadza: 4bc0a378
+  teams:
+  - Ireland
+  - Zimbabwe
+  toss:
+    winner: Zimbabwe
+    decision: field
+  umpires:
+  - I Chabi
+  - MA Gough
+  venue: Harare Sports Club
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: ST Doheny
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 0.2:
+        non_striker: PR Stirling
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Doheny
+    - 0.3:
+        non_striker: PR Stirling
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 0.4:
+        non_striker: PR Stirling
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 0.5:
+        non_striker: PR Stirling
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 0.6:
+        non_striker: PR Stirling
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Doheny
+    - 1.1:
+        non_striker: PR Stirling
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 1.2:
+        non_striker: PR Stirling
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 1.3:
+        non_striker: PR Stirling
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+    - 1.4:
+        non_striker: PR Stirling
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Doheny
+        wicket:
+          player_out: ST Doheny
+          kind: bowled
+    - 1.5:
+        non_striker: PR Stirling
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 1.6:
+        non_striker: PR Stirling
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 2.1:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.2:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.3:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 2.4:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 2.5:
+        non_striker: PR Stirling
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 2.6:
+        non_striker: PR Stirling
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.1:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.2:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 3.3:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 3.4:
+        non_striker: PR Stirling
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 3.5:
+        non_striker: PR Stirling
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 3.6:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 4.1:
+        non_striker: PR Stirling
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 4.2:
+        non_striker: PR Stirling
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 4.3:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 4.4:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 4.5:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 4.6:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 5.1:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Stirling
+    - 5.2:
+        non_striker: PR Stirling
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 5.3:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.4:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.5:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 5.6:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PR Stirling
+    - 6.1:
+        non_striker: PR Stirling
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 6.2:
+        non_striker: PR Stirling
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 6.3:
+        non_striker: PR Stirling
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 6.4:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 6.5:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 6.6:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 7.1:
+        non_striker: PR Stirling
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 7.2:
+        non_striker: PR Stirling
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 7.3:
+        non_striker: PR Stirling
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 7.4:
+        non_striker: PR Stirling
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 7.5:
+        non_striker: PR Stirling
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 7.6:
+        non_striker: PR Stirling
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 8.1:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PR Stirling
+    - 8.2:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 8.3:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 8.4:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+    - 8.5:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Stirling
+        wicket:
+          player_out: PR Stirling
+          kind: lbw
+    - 8.6:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 8.7:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 9.1:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 9.2:
+        non_striker: A Balbirnie
+        bowler: B Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HT Tector
+    - 9.3:
+        non_striker: A Balbirnie
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 9.4:
+        non_striker: A Balbirnie
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 9.5:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 9.6:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 9.7:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 10.1:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 10.2:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 10.3:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 10.4:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 10.5:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 10.6:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 11.1:
+        non_striker: A Balbirnie
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 11.2:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 11.3:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 11.4:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 11.5:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 11.6:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 12.1:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 12.2:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 12.3:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 12.4:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 12.5:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 12.6:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 13.1:
+        non_striker: A Balbirnie
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 13.2:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 13.3:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 13.4:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 13.5:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 13.6:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 14.1:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 14.2:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 14.3:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 14.4:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 14.5:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 14.6:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 15.1:
+        non_striker: A Balbirnie
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 15.2:
+        non_striker: A Balbirnie
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 15.3:
+        non_striker: A Balbirnie
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 15.4:
+        non_striker: A Balbirnie
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 15.5:
+        non_striker: A Balbirnie
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 15.6:
+        non_striker: A Balbirnie
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 16.1:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 16.2:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Balbirnie
+    - 16.3:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 16.4:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 16.5:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 16.6:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 16.7:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HT Tector
+    - 16.8:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 17.1:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 17.2:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 17.3:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 17.4:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 17.5:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 17.6:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 18.1:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 18.2:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 18.3:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 18.4:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 18.5:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 18.6:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 19.1:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 19.2:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 19.3:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 19.4:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 19.5:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 19.6:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 20.1:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 20.2:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 20.3:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 20.4:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 20.5:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 20.6:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 21.1:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 21.2:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 21.3:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 21.4:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 21.5:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 21.6:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 22.1:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 22.2:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 22.3:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 22.4:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 22.5:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 22.6:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 23.1:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 23.2:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 23.3:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 23.4:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 23.5:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 23.6:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 24.1:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 24.2:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 24.3:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 24.4:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 24.5:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 24.6:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 25.1:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 25.2:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 25.3:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 25.4:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 25.5:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 25.6:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 26.1:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 26.2:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 26.3:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: A Balbirnie
+    - 26.4:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 26.5:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 26.6:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 27.1:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 27.2:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 27.3:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 27.4:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 27.5:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 27.6:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 28.1:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 28.2:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 28.3:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 28.4:
+        non_striker: A Balbirnie
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 28.5:
+        non_striker: A Balbirnie
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 28.6:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Balbirnie
+    - 29.1:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 29.2:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 29.3:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 29.4:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 29.5:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 29.6:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 30.1:
+        non_striker: A Balbirnie
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 30.2:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 30.3:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 30.4:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 30.5:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 30.6:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 31.1:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 31.2:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 31.3:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 31.4:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: A Balbirnie
+    - 31.5:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 31.6:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 32.1:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 32.2:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 32.3:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 32.4:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 32.5:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 32.6:
+        non_striker: A Balbirnie
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 33.1:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 33.2:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 33.3:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 33.4:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 33.5:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 33.6:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 34.1:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 34.2:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 34.3:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 34.4:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 34.5:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 34.6:
+        non_striker: HT Tector
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 35.1:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 35.2:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 35.3:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 35.4:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 35.5:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 35.6:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 36.1:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 36.2:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 36.3:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 36.4:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 36.5:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 36.6:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 37.1:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 37.2:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 37.3:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 37.4:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: HT Tector
+    - 37.5:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 37.6:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 37.7:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 38.1:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 38.2:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 38.3:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 38.4:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 38.5:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 38.6:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 39.1:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 39.2:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 39.3:
+        non_striker: A Balbirnie
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 39.4:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 39.5:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 39.6:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 40.1:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 40.2:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 40.3:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 40.4:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 40.5:
+        non_striker: A Balbirnie
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 40.6:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 41.1:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Balbirnie
+    - 41.2:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 41.3:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 41.4:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 41.5:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 41.6:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 42.1:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Balbirnie
+    - 42.2:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Balbirnie
+    - 42.3:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Balbirnie
+    - 42.4:
+        non_striker: A Balbirnie
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 42.5:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Balbirnie
+    - 42.6:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 42.7:
+        non_striker: HT Tector
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 43.1:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 43.2:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 43.3:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 43.4:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 43.5:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HT Tector
+    - 43.6:
+        non_striker: A Balbirnie
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 43.7:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Balbirnie
+    - 44.1:
+        non_striker: A Balbirnie
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HT Tector
+    - 44.2:
+        non_striker: A Balbirnie
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 44.3:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Balbirnie
+    - 44.4:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Balbirnie
+        wicket:
+          player_out: A Balbirnie
+          kind: retired hurt
+    - 44.5:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Dockrell
+    - 44.6:
+        non_striker: HT Tector
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 44.7:
+        non_striker: GH Dockrell
+        bowler: B Evans
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HT Tector
+    - 45.1:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GH Dockrell
+    - 45.2:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Dockrell
+    - 45.3:
+        non_striker: GH Dockrell
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 45.4:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Dockrell
+        wicket:
+          player_out: GH Dockrell
+          fielders:
+          - RP Burl
+          kind: caught
+    - 45.5:
+        non_striker: HT Tector
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 45.6:
+        non_striker: C Campher
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 46.1:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 46.2:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Campher
+    - 46.3:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Campher
+    - 46.4:
+        non_striker: C Campher
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 46.5:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 46.6:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+    - 47.1:
+        non_striker: C Campher
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 47.2:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Campher
+    - 47.3:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Campher
+        wicket:
+          player_out: C Campher
+          fielders:
+          - RP Burl
+          kind: caught
+    - 47.4:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+    - 47.5:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 47.6:
+        non_striker: L Tucker
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HT Tector
+    - 48.1:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 48.2:
+        non_striker: L Tucker
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 48.3:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Tucker
+    - 48.4:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Tucker
+    - 48.5:
+        non_striker: L Tucker
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 48.6:
+        non_striker: HT Tector
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 49.1:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Tucker
+    - 49.2:
+        non_striker: L Tucker
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 49.3:
+        non_striker: L Tucker
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 49.4:
+        non_striker: L Tucker
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HT Tector
+    - 49.5:
+        non_striker: L Tucker
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HT Tector
+    - 49.6:
+        non_striker: HT Tector
+        bowler: VM Nyauchi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Tucker
+- 2nd innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 0.2:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 0.3:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 0.4:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 0.5:
+        non_striker: W Madhevere
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 0.6:
+        non_striker: W Madhevere
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 1.1:
+        non_striker: I Kaia
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 1.2:
+        non_striker: W Madhevere
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 1.3:
+        non_striker: W Madhevere
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Kaia
+    - 1.4:
+        non_striker: W Madhevere
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 1.5:
+        non_striker: W Madhevere
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 1.6:
+        non_striker: I Kaia
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 1.7:
+        non_striker: I Kaia
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 2.1:
+        non_striker: W Madhevere
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 2.2:
+        non_striker: W Madhevere
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 2.3:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 2.4:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 2.5:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 2.6:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 3.1:
+        non_striker: W Madhevere
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 3.2:
+        non_striker: W Madhevere
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 3.3:
+        non_striker: W Madhevere
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 3.4:
+        non_striker: W Madhevere
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Kaia
+    - 3.5:
+        non_striker: W Madhevere
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 3.6:
+        non_striker: W Madhevere
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 4.1:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 4.2:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 4.3:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+        wicket:
+          player_out: W Madhevere
+          fielders:
+          - TE Kane (sub)
+          kind: caught
+    - 4.4:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 4.5:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 4.6:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 5.1:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 5.2:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Kaia
+    - 5.3:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 5.4:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 5.5:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 5.6:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 5.7:
+        non_striker: I Kaia
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 6.1:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 6.2:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 6.3:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 6.4:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: I Kaia
+    - 6.5:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 6.6:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 7.1:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 7.2:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 7.3:
+        non_striker: CR Ervine
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 7.4:
+        non_striker: I Kaia
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 7.5:
+        non_striker: I Kaia
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 7.6:
+        non_striker: I Kaia
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 8.1:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 8.2:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 8.3:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 8.4:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 8.5:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 8.6:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 9.1:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 9.2:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 9.3:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 9.4:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 9.5:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 9.6:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 10.1:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 10.2:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Kaia
+    - 10.3:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 10.4:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 10.5:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 10.6:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 11.1:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 11.2:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 11.3:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 11.4:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Kaia
+    - 11.5:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Kaia
+    - 11.6:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 11.7:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 11.8:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 12.1:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 12.2:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 12.3:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 12.4:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+        wicket:
+          player_out: I Kaia
+          fielders:
+          - C Campher
+          kind: caught
+    - 12.5:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Ballance
+    - 12.6:
+        non_striker: GS Ballance
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 13.1:
+        non_striker: GS Ballance
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 13.2:
+        non_striker: GS Ballance
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 13.3:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GS Ballance
+    - 13.4:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Ballance
+    - 13.5:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Ballance
+    - 13.6:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Ballance
+    - 14.1:
+        non_striker: CR Ervine
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Ballance
+    - 14.2:
+        non_striker: CR Ervine
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Ballance
+    - 14.3:
+        non_striker: CR Ervine
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Ballance
+    - 14.4:
+        non_striker: CR Ervine
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Ballance
+    - 14.5:
+        non_striker: GS Ballance
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 14.6:
+        non_striker: GS Ballance
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 15.1:
+        non_striker: GS Ballance
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 15.2:
+        non_striker: GS Ballance
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 15.3:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Ballance
+    - 15.4:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Ballance
+    - 15.5:
+        non_striker: GS Ballance
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 15.6:
+        non_striker: GS Ballance
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 16.1:
+        non_striker: CR Ervine
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Ballance
+    - 16.2:
+        non_striker: CR Ervine
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Ballance
+    - 16.3:
+        non_striker: CR Ervine
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Ballance
+    - 16.4:
+        non_striker: GS Ballance
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 16.5:
+        non_striker: CR Ervine
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GS Ballance
+    - 16.6:
+        non_striker: CR Ervine
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Ballance
+    - 17.1:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Ballance
+    - 17.2:
+        non_striker: GS Ballance
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 17.3:
+        non_striker: GS Ballance
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 17.4:
+        non_striker: GS Ballance
+        bowler: HT Tector
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: CR Ervine
+    - 17.5:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Ballance
+    - 17.6:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Ballance
+    - 17.7:
+        non_striker: GS Ballance
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 18.1:
+        non_striker: GS Ballance
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 18.2:
+        non_striker: GS Ballance
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 18.3:
+        non_striker: GS Ballance
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 18.4:
+        non_striker: GS Ballance
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 18.5:
+        non_striker: GS Ballance
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 18.6:
+        non_striker: GS Ballance
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 19.1:
+        non_striker: CR Ervine
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Ballance
+    - 19.2:
+        non_striker: GS Ballance
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+        wicket:
+          player_out: CR Ervine
+          kind: caught and bowled
+    - 19.3:
+        non_striker: GS Ballance
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 19.4:
+        non_striker: Sikandar Raza
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Ballance
+    - 19.5:
+        non_striker: GS Ballance
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 19.6:
+        non_striker: GS Ballance
+        bowler: HT Tector
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 20.1:
+        non_striker: Sikandar Raza
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Ballance
+    - 20.2:
+        non_striker: GS Ballance
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 20.3:
+        non_striker: Sikandar Raza
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Ballance
+    - 20.4:
+        non_striker: Sikandar Raza
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Ballance
+    - 20.5:
+        non_striker: Sikandar Raza
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GS Ballance
+    - 20.6:
+        non_striker: Sikandar Raza
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GS Ballance
+    - 20.7:
+        non_striker: Sikandar Raza
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Ballance
+    - 21.1:
+        non_striker: Sikandar Raza
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GS Ballance
+    - 21.2:
+        non_striker: GS Ballance
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 21.3:
+        non_striker: GS Ballance
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 21.4:
+        non_striker: GS Ballance
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 21.5:
+        non_striker: GS Ballance
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 21.6:
+        non_striker: GS Ballance
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 22.1:
+        non_striker: Sikandar Raza
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GS Ballance
+        wicket:
+          player_out: GS Ballance
+          fielders:
+          - GI Hume
+          kind: caught
+    - 22.2:
+        non_striker: Sikandar Raza
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RP Burl
+    - 22.3:
+        non_striker: RP Burl
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 22.4:
+        non_striker: RP Burl
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 22.5:
+        non_striker: Sikandar Raza
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 22.6:
+        non_striker: Sikandar Raza
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 23.1:
+        non_striker: RP Burl
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 23.2:
+        non_striker: RP Burl
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 23.3:
+        non_striker: Sikandar Raza
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 23.4:
+        non_striker: Sikandar Raza
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 23.5:
+        non_striker: RP Burl
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 23.6:
+        non_striker: RP Burl
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 24.1:
+        non_striker: RP Burl
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 24.2:
+        non_striker: RP Burl
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 24.3:
+        non_striker: RP Burl
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 24.4:
+        non_striker: Sikandar Raza
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 24.5:
+        non_striker: Sikandar Raza
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 24.6:
+        non_striker: RP Burl
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 25.1:
+        non_striker: RP Burl
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 25.2:
+        non_striker: RP Burl
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 25.3:
+        non_striker: RP Burl
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 25.4:
+        non_striker: RP Burl
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 25.5:
+        non_striker: RP Burl
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 25.6:
+        non_striker: RP Burl
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 26.1:
+        non_striker: Sikandar Raza
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 26.2:
+        non_striker: RP Burl
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 26.3:
+        non_striker: Sikandar Raza
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Burl
+    - 26.4:
+        non_striker: Sikandar Raza
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 26.5:
+        non_striker: RP Burl
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 26.6:
+        non_striker: Sikandar Raza
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 27.1:
+        non_striker: RP Burl
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 27.2:
+        non_striker: Sikandar Raza
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 27.3:
+        non_striker: Sikandar Raza
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RP Burl
+    - 27.4:
+        non_striker: Sikandar Raza
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 27.5:
+        non_striker: Sikandar Raza
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 27.6:
+        non_striker: RP Burl
+        bowler: GH Dockrell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 28.1:
+        non_striker: RP Burl
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 28.2:
+        non_striker: RP Burl
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 28.3:
+        non_striker: Sikandar Raza
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 28.4:
+        non_striker: Sikandar Raza
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 28.5:
+        non_striker: RP Burl
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 28.6:
+        non_striker: RP Burl
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 29.1:
+        non_striker: Sikandar Raza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 29.2:
+        non_striker: Sikandar Raza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 29.3:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Sikandar Raza
+    - 29.4:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 29.5:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 29.6:
+        non_striker: Sikandar Raza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 30.1:
+        non_striker: Sikandar Raza
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 30.2:
+        non_striker: Sikandar Raza
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 30.3:
+        non_striker: Sikandar Raza
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 30.4:
+        non_striker: Sikandar Raza
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 30.5:
+        non_striker: Sikandar Raza
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Burl
+    - 30.6:
+        non_striker: Sikandar Raza
+        bowler: AR McBrine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 31.1:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 31.2:
+        non_striker: Sikandar Raza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 31.3:
+        non_striker: Sikandar Raza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 31.4:
+        non_striker: Sikandar Raza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 31.5:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 31.6:
+        non_striker: Sikandar Raza
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RP Burl
+    - 31.7:
+        non_striker: Sikandar Raza
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 32.1:
+        non_striker: RP Burl
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 32.2:
+        non_striker: Sikandar Raza
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 32.3:
+        non_striker: Sikandar Raza
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 32.4:
+        non_striker: RP Burl
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 32.5:
+        non_striker: RP Burl
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 32.6:
+        non_striker: Sikandar Raza
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 33.1:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 33.2:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 33.3:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sikandar Raza
+    - 33.4:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 33.5:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          fielders:
+          - C Campher
+          kind: caught
+    - 33.6:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Madande
+    - 33.7:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Madande
+    - 33.8:
+        non_striker: RP Burl
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Madande
+    - 34.1:
+        non_striker: RP Burl
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Madande
+    - 34.2:
+        non_striker: C Madande
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 34.3:
+        non_striker: C Madande
+        bowler: GI Hume
+        runs:
+          extras: 0
+          non_boundary: 1
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 34.4:
+        non_striker: C Madande
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Burl
+    - 34.5:
+        non_striker: C Madande
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 34.6:
+        non_striker: RP Burl
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Madande
+    - 35.1:
+        non_striker: RP Burl
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Madande
+    - 35.2:
+        non_striker: RP Burl
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Madande
+    - 35.3:
+        non_striker: C Madande
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 35.4:
+        non_striker: RP Burl
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Madande
+    - 35.5:
+        non_striker: C Madande
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Burl
+    - 35.6:
+        non_striker: C Madande
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RP Burl
+    - 36.1:
+        non_striker: RP Burl
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Madande
+    - 36.2:
+        non_striker: C Madande
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+        wicket:
+          player_out: RP Burl
+          fielders:
+          - C Campher
+          - L Tucker
+          kind: run out
+    - 36.3:
+        non_striker: C Madande
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Evans
+    - 36.4:
+        non_striker: C Madande
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Evans
+        wicket:
+          player_out: B Evans
+          kind: lbw
+    - 36.5:
+        non_striker: C Madande
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Masakadza
+    - 36.6:
+        non_striker: WP Masakadza
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Madande

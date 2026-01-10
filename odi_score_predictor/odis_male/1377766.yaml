@@ -1,0 +1,5175 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-06-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bulawayo
+  dates:
+  - '2023-06-29'
+  gender: male
+  match_type: ODI
+  match_type_number: 4605
+  outcome:
+    winner: Zimbabwe
+    by:
+      runs: 14
+  overs: 50
+  player_of_match:
+  - SC Williams
+  players:
+    Zimbabwe:
+    - J Gumbie
+    - CR Ervine
+    - SC Williams
+    - W Madhevere
+    - Sikandar Raza
+    - RP Burl
+    - LM Jongwe
+    - WP Masakadza
+    - R Ngarava
+    - TL Chatara
+    - B Muzarabani
+    Oman:
+    - KH Prajapati
+    - Jatinder Singh
+    - Aqib Ilyas
+    - Zeeshan Maqsood
+    - Ayan Khan
+    - Shoaib Khan
+    - Naseem Khushi
+    - Mohammad Nadeem
+    - Kaleemullah
+    - Fayyaz Butt
+    - Bilal Khan
+  registry:
+    people:
+      Aqib Ilyas: b3b39bed
+      Asif Yaqoob: 6b35790c
+      Ayan Khan: 44d6a8b8
+      B Muzarabani: 449f4e3c
+      Bilal Khan: dcdb87f2
+      CR Ervine: c96311d4
+      Fayyaz Butt: bd9fbd51
+      J Gumbie: c8d74c21
+      Jatinder Singh: b80dd12c
+      KH Prajapati: c4e73ff1
+      Kaleemullah: 72253b87
+      LM Jongwe: b8704508
+      MJ Saggers: 402d5937
+      Mohammad Nadeem: c5d7b244
+      Muhammad Javed: bde2d0ea
+      Naseem Khushi: c63671e9
+      R Black: 156c8fb1
+      R Ngarava: 6e3f5a5c
+      RP Burl: b08252b8
+      SC Williams: afe57f7a
+      Shoaib Khan: 21afb939
+      Sikandar Raza: 26d041c4
+      TL Chatara: 5bbabe59
+      W Madhevere: a879b92c
+      WP Masakadza: 4bc0a378
+      WR Knights: 63cbf8d8
+      Zeeshan Maqsood: '34464143'
+  teams:
+  - Zimbabwe
+  - Oman
+  toss:
+    winner: Oman
+    decision: field
+  umpires:
+  - R Black
+  - WR Knights
+  venue: Queens Sports Club, Bulawayo
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: CR Ervine
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gumbie
+    - 0.2:
+        non_striker: J Gumbie
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 0.3:
+        non_striker: J Gumbie
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 0.4:
+        non_striker: J Gumbie
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 0.5:
+        non_striker: J Gumbie
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 0.6:
+        non_striker: J Gumbie
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 1.1:
+        non_striker: CR Ervine
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 1.2:
+        non_striker: CR Ervine
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Gumbie
+    - 1.3:
+        non_striker: CR Ervine
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 1.4:
+        non_striker: CR Ervine
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gumbie
+    - 1.5:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 1.6:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 2.1:
+        non_striker: CR Ervine
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Gumbie
+    - 2.2:
+        non_striker: CR Ervine
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 2.3:
+        non_striker: CR Ervine
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gumbie
+    - 2.4:
+        non_striker: J Gumbie
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 2.5:
+        non_striker: J Gumbie
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 2.6:
+        non_striker: CR Ervine
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 3.1:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 3.2:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 3.3:
+        non_striker: CR Ervine
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Gumbie
+    - 3.4:
+        non_striker: CR Ervine
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 3.5:
+        non_striker: CR Ervine
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 3.6:
+        non_striker: CR Ervine
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 4.1:
+        non_striker: J Gumbie
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 4.2:
+        non_striker: J Gumbie
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 4.3:
+        non_striker: J Gumbie
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 4.4:
+        non_striker: J Gumbie
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CR Ervine
+    - 4.5:
+        non_striker: J Gumbie
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 4.6:
+        non_striker: J Gumbie
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CR Ervine
+    - 5.1:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 5.2:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 5.3:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 5.4:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 5.5:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 5.6:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 6.1:
+        non_striker: CR Ervine
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 6.2:
+        non_striker: CR Ervine
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 6.3:
+        non_striker: CR Ervine
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Gumbie
+    - 6.4:
+        non_striker: CR Ervine
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 6.5:
+        non_striker: CR Ervine
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 6.6:
+        non_striker: CR Ervine
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 7.1:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 7.2:
+        non_striker: CR Ervine
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 7.3:
+        non_striker: CR Ervine
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 7.4:
+        non_striker: CR Ervine
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Gumbie
+    - 7.5:
+        non_striker: CR Ervine
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gumbie
+    - 7.6:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 8.1:
+        non_striker: CR Ervine
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gumbie
+    - 8.2:
+        non_striker: J Gumbie
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 8.3:
+        non_striker: CR Ervine
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 8.4:
+        non_striker: CR Ervine
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 8.5:
+        non_striker: CR Ervine
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 8.6:
+        non_striker: CR Ervine
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 9.1:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 9.2:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 9.3:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 9.4:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 9.5:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 9.6:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 10.1:
+        non_striker: CR Ervine
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gumbie
+    - 10.2:
+        non_striker: J Gumbie
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 10.3:
+        non_striker: J Gumbie
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 10.4:
+        non_striker: J Gumbie
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 10.5:
+        non_striker: J Gumbie
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 10.6:
+        non_striker: J Gumbie
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 11.1:
+        non_striker: CR Ervine
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Gumbie
+    - 11.2:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 11.3:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 11.4:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+        wicket:
+          player_out: CR Ervine
+          kind: bowled
+    - 11.5:
+        non_striker: J Gumbie
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 11.6:
+        non_striker: SC Williams
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 12.1:
+        non_striker: J Gumbie
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 12.2:
+        non_striker: J Gumbie
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 12.3:
+        non_striker: J Gumbie
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 12.4:
+        non_striker: SC Williams
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 12.5:
+        non_striker: SC Williams
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+    - 12.6:
+        non_striker: SC Williams
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Gumbie
+        wicket:
+          player_out: J Gumbie
+          fielders:
+          - Naseem Khushi
+          kind: caught
+    - 13.1:
+        non_striker: W Madhevere
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 13.2:
+        non_striker: W Madhevere
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 13.3:
+        non_striker: W Madhevere
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 13.4:
+        non_striker: W Madhevere
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 13.5:
+        non_striker: W Madhevere
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 13.6:
+        non_striker: SC Williams
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 14.1:
+        non_striker: W Madhevere
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 14.2:
+        non_striker: W Madhevere
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 14.3:
+        non_striker: W Madhevere
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 14.4:
+        non_striker: W Madhevere
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 14.5:
+        non_striker: W Madhevere
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 14.6:
+        non_striker: W Madhevere
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 15.1:
+        non_striker: SC Williams
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 15.2:
+        non_striker: SC Williams
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Madhevere
+    - 15.3:
+        non_striker: SC Williams
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 15.4:
+        non_striker: SC Williams
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Madhevere
+    - 15.5:
+        non_striker: SC Williams
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Madhevere
+    - 15.6:
+        non_striker: SC Williams
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 16.1:
+        non_striker: W Madhevere
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 16.2:
+        non_striker: W Madhevere
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 16.3:
+        non_striker: W Madhevere
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 16.4:
+        non_striker: SC Williams
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 16.5:
+        non_striker: W Madhevere
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 16.6:
+        non_striker: W Madhevere
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 17.1:
+        non_striker: SC Williams
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 17.2:
+        non_striker: SC Williams
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 17.3:
+        non_striker: W Madhevere
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 17.4:
+        non_striker: SC Williams
+        bowler: Kaleemullah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Madhevere
+    - 17.5:
+        non_striker: SC Williams
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 17.6:
+        non_striker: SC Williams
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 17.7:
+        non_striker: SC Williams
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 18.1:
+        non_striker: W Madhevere
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 18.2:
+        non_striker: SC Williams
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 18.3:
+        non_striker: W Madhevere
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 18.4:
+        non_striker: W Madhevere
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 18.5:
+        non_striker: W Madhevere
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 18.6:
+        non_striker: W Madhevere
+        bowler: Aqib Ilyas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 19.1:
+        non_striker: W Madhevere
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 19.2:
+        non_striker: SC Williams
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 19.3:
+        non_striker: W Madhevere
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 19.4:
+        non_striker: W Madhevere
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 19.5:
+        non_striker: SC Williams
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 19.6:
+        non_striker: SC Williams
+        bowler: Kaleemullah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 20.1:
+        non_striker: W Madhevere
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SC Williams
+    - 20.2:
+        non_striker: W Madhevere
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 20.3:
+        non_striker: W Madhevere
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 20.4:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 20.5:
+        non_striker: W Madhevere
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 20.6:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 20.7:
+        non_striker: W Madhevere
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 21.1:
+        non_striker: SC Williams
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+    - 21.2:
+        non_striker: SC Williams
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: W Madhevere
+    - 21.3:
+        non_striker: SC Williams
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: W Madhevere
+    - 21.4:
+        non_striker: SC Williams
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 21.5:
+        non_striker: W Madhevere
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 21.6:
+        non_striker: SC Williams
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 22.1:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Madhevere
+    - 22.2:
+        non_striker: W Madhevere
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 22.3:
+        non_striker: W Madhevere
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 22.4:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Madhevere
+        wicket:
+          player_out: W Madhevere
+          fielders:
+          - Naseem Khushi
+          kind: stumped
+    - 22.5:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 22.6:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 23.1:
+        non_striker: Sikandar Raza
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 23.2:
+        non_striker: Sikandar Raza
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 23.3:
+        non_striker: Sikandar Raza
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 23.4:
+        non_striker: SC Williams
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 23.5:
+        non_striker: Sikandar Raza
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 23.6:
+        non_striker: Sikandar Raza
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 24.1:
+        non_striker: Sikandar Raza
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 24.2:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 24.3:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 24.4:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 24.5:
+        non_striker: Sikandar Raza
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 24.6:
+        non_striker: Sikandar Raza
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 25.1:
+        non_striker: Sikandar Raza
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 25.2:
+        non_striker: Sikandar Raza
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 25.3:
+        non_striker: Sikandar Raza
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 25.4:
+        non_striker: SC Williams
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 25.5:
+        non_striker: SC Williams
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 25.6:
+        non_striker: SC Williams
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 26.1:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 26.2:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 26.3:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 26.4:
+        non_striker: Sikandar Raza
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 26.5:
+        non_striker: Sikandar Raza
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 26.6:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 27.1:
+        non_striker: SC Williams
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 27.2:
+        non_striker: SC Williams
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sikandar Raza
+    - 27.3:
+        non_striker: SC Williams
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 27.4:
+        non_striker: SC Williams
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 27.5:
+        non_striker: SC Williams
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 27.6:
+        non_striker: SC Williams
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 28.1:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 28.2:
+        non_striker: Sikandar Raza
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 28.3:
+        non_striker: Sikandar Raza
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 28.4:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 28.5:
+        non_striker: Sikandar Raza
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 28.6:
+        non_striker: Sikandar Raza
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 29.1:
+        non_striker: Sikandar Raza
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 29.2:
+        non_striker: Sikandar Raza
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 29.3:
+        non_striker: SC Williams
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 29.4:
+        non_striker: SC Williams
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 29.5:
+        non_striker: SC Williams
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 29.6:
+        non_striker: SC Williams
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 30.1:
+        non_striker: Sikandar Raza
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 30.2:
+        non_striker: Sikandar Raza
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 30.3:
+        non_striker: Sikandar Raza
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 30.4:
+        non_striker: Sikandar Raza
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 30.5:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 30.6:
+        non_striker: Sikandar Raza
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 31.1:
+        non_striker: Sikandar Raza
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 31.2:
+        non_striker: SC Williams
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 31.3:
+        non_striker: SC Williams
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 31.4:
+        non_striker: SC Williams
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 31.5:
+        non_striker: Sikandar Raza
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 31.6:
+        non_striker: SC Williams
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 32.1:
+        non_striker: Sikandar Raza
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 32.2:
+        non_striker: Sikandar Raza
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 32.3:
+        non_striker: Sikandar Raza
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 32.4:
+        non_striker: SC Williams
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 32.5:
+        non_striker: SC Williams
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 32.6:
+        non_striker: SC Williams
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 33.1:
+        non_striker: Sikandar Raza
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 33.2:
+        non_striker: Sikandar Raza
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 33.3:
+        non_striker: Sikandar Raza
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SC Williams
+    - 33.4:
+        non_striker: Sikandar Raza
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 33.5:
+        non_striker: SC Williams
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 33.6:
+        non_striker: Sikandar Raza
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 34.1:
+        non_striker: SC Williams
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 34.2:
+        non_striker: Sikandar Raza
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 34.3:
+        non_striker: Sikandar Raza
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 34.4:
+        non_striker: Sikandar Raza
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 34.5:
+        non_striker: SC Williams
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 34.6:
+        non_striker: SC Williams
+        bowler: Ayan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 35.1:
+        non_striker: Sikandar Raza
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 35.2:
+        non_striker: SC Williams
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 35.3:
+        non_striker: SC Williams
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 35.4:
+        non_striker: Sikandar Raza
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 35.5:
+        non_striker: SC Williams
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 35.6:
+        non_striker: SC Williams
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 36.1:
+        non_striker: Sikandar Raza
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 36.2:
+        non_striker: Sikandar Raza
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 36.3:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 36.4:
+        non_striker: Sikandar Raza
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 36.5:
+        non_striker: Sikandar Raza
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 36.6:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 37.1:
+        non_striker: SC Williams
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sikandar Raza
+    - 37.2:
+        non_striker: Sikandar Raza
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 37.3:
+        non_striker: SC Williams
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 37.4:
+        non_striker: SC Williams
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sikandar Raza
+    - 37.5:
+        non_striker: SC Williams
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 37.6:
+        non_striker: SC Williams
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+    - 38.1:
+        non_striker: Sikandar Raza
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 38.2:
+        non_striker: SC Williams
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sikandar Raza
+        wicket:
+          player_out: Sikandar Raza
+          kind: lbw
+    - 38.3:
+        non_striker: SC Williams
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 38.4:
+        non_striker: SC Williams
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 38.5:
+        non_striker: SC Williams
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 38.6:
+        non_striker: RP Burl
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 39.1:
+        non_striker: RP Burl
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 39.2:
+        non_striker: SC Williams
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 39.3:
+        non_striker: RP Burl
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 39.4:
+        non_striker: RP Burl
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 39.5:
+        non_striker: RP Burl
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 39.6:
+        non_striker: RP Burl
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 40.1:
+        non_striker: RP Burl
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Williams
+    - 40.2:
+        non_striker: RP Burl
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 40.3:
+        non_striker: RP Burl
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 40.4:
+        non_striker: SC Williams
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 40.5:
+        non_striker: RP Burl
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Williams
+    - 40.6:
+        non_striker: RP Burl
+        bowler: Fayyaz Butt
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: SC Williams
+    - 40.7:
+        non_striker: RP Burl
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+    - 41.1:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 41.2:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 41.3:
+        non_striker: RP Burl
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 41.4:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Burl
+    - 41.5:
+        non_striker: RP Burl
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SC Williams
+    - 41.6:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Burl
+    - 42.1:
+        non_striker: RP Burl
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 42.2:
+        non_striker: SC Williams
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RP Burl
+    - 42.3:
+        non_striker: SC Williams
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+    - 42.4:
+        non_striker: SC Williams
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Burl
+        wicket:
+          player_out: RP Burl
+          kind: lbw
+    - 42.5:
+        non_striker: SC Williams
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Jongwe
+    - 42.6:
+        non_striker: SC Williams
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Jongwe
+    - 43.1:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Jongwe
+    - 43.2:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Jongwe
+    - 43.3:
+        non_striker: LM Jongwe
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 43.4:
+        non_striker: SC Williams
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Jongwe
+    - 43.5:
+        non_striker: LM Jongwe
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SC Williams
+    - 43.6:
+        non_striker: LM Jongwe
+        bowler: Zeeshan Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 44.1:
+        non_striker: LM Jongwe
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SC Williams
+    - 44.2:
+        non_striker: LM Jongwe
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Williams
+    - 44.3:
+        non_striker: SC Williams
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Jongwe
+    - 44.4:
+        non_striker: SC Williams
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Jongwe
+    - 44.5:
+        non_striker: LM Jongwe
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Williams
+        wicket:
+          player_out: SC Williams
+          fielders:
+          - KH Prajapati
+          kind: caught
+    - 44.6:
+        non_striker: LM Jongwe
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Masakadza
+    - 45.1:
+        non_striker: LM Jongwe
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Masakadza
+    - 45.2:
+        non_striker: WP Masakadza
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Jongwe
+    - 45.3:
+        non_striker: WP Masakadza
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Jongwe
+    - 45.4:
+        non_striker: WP Masakadza
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Jongwe
+    - 45.5:
+        non_striker: WP Masakadza
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Jongwe
+    - 45.6:
+        non_striker: WP Masakadza
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Jongwe
+    - 46.1:
+        non_striker: LM Jongwe
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Masakadza
+    - 46.2:
+        non_striker: WP Masakadza
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Jongwe
+    - 46.3:
+        non_striker: LM Jongwe
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WP Masakadza
+    - 46.4:
+        non_striker: LM Jongwe
+        bowler: Fayyaz Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WP Masakadza
+    - 46.5:
+        non_striker: WP Masakadza
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Jongwe
+    - 46.6:
+        non_striker: WP Masakadza
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Jongwe
+    - 47.1:
+        non_striker: LM Jongwe
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WP Masakadza
+    - 47.2:
+        non_striker: WP Masakadza
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Jongwe
+    - 47.3:
+        non_striker: WP Masakadza
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Jongwe
+    - 47.4:
+        non_striker: WP Masakadza
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Jongwe
+    - 47.5:
+        non_striker: WP Masakadza
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Jongwe
+    - 47.6:
+        non_striker: LM Jongwe
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WP Masakadza
+        wicket:
+          player_out: WP Masakadza
+          kind: lbw
+    - 48.1:
+        non_striker: R Ngarava
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Jongwe
+    - 48.2:
+        non_striker: R Ngarava
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Jongwe
+    - 48.3:
+        non_striker: LM Jongwe
+        bowler: Fayyaz Butt
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: R Ngarava
+    - 48.4:
+        non_striker: R Ngarava
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Jongwe
+    - 48.5:
+        non_striker: R Ngarava
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Jongwe
+    - 48.6:
+        non_striker: LM Jongwe
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Ngarava
+    - 48.7:
+        non_striker: LM Jongwe
+        bowler: Fayyaz Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ngarava
+    - 49.1:
+        non_striker: R Ngarava
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Jongwe
+    - 49.2:
+        non_striker: R Ngarava
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LM Jongwe
+    - 49.3:
+        non_striker: R Ngarava
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LM Jongwe
+    - 49.4:
+        non_striker: R Ngarava
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LM Jongwe
+    - 49.5:
+        non_striker: R Ngarava
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LM Jongwe
+    - 49.6:
+        non_striker: LM Jongwe
+        bowler: Bilal Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ngarava
+- 2nd innings:
+    team: Oman
+    deliveries:
+    - 0.1:
+        non_striker: Jatinder Singh
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 0.2:
+        non_striker: Jatinder Singh
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Prajapati
+    - 0.3:
+        non_striker: Jatinder Singh
+        bowler: TL Chatara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KH Prajapati
+    - 0.4:
+        non_striker: Jatinder Singh
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 0.5:
+        non_striker: Jatinder Singh
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 0.6:
+        non_striker: Jatinder Singh
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 0.7:
+        non_striker: Jatinder Singh
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 1.1:
+        non_striker: Jatinder Singh
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KH Prajapati
+    - 1.2:
+        non_striker: Jatinder Singh
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 1.3:
+        non_striker: Jatinder Singh
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Prajapati
+    - 1.4:
+        non_striker: Jatinder Singh
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 1.5:
+        non_striker: KH Prajapati
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 1.6:
+        non_striker: Jatinder Singh
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 1.7:
+        non_striker: Jatinder Singh
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 2.1:
+        non_striker: KH Prajapati
+        bowler: TL Chatara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Jatinder Singh
+    - 2.2:
+        non_striker: Jatinder Singh
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 2.3:
+        non_striker: Jatinder Singh
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Prajapati
+    - 2.4:
+        non_striker: Jatinder Singh
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Prajapati
+    - 2.5:
+        non_striker: Jatinder Singh
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 2.6:
+        non_striker: Jatinder Singh
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KH Prajapati
+    - 3.1:
+        non_striker: KH Prajapati
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 3.2:
+        non_striker: KH Prajapati
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 3.3:
+        non_striker: KH Prajapati
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 3.4:
+        non_striker: Jatinder Singh
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 3.5:
+        non_striker: Jatinder Singh
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 3.6:
+        non_striker: Jatinder Singh
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Prajapati
+    - 4.1:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 4.2:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 4.3:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 4.4:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+        wicket:
+          player_out: Jatinder Singh
+          kind: lbw
+    - 4.5:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aqib Ilyas
+    - 4.6:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 5.1:
+        non_striker: Aqib Ilyas
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 5.2:
+        non_striker: KH Prajapati
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 5.3:
+        non_striker: KH Prajapati
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 5.4:
+        non_striker: KH Prajapati
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 5.5:
+        non_striker: KH Prajapati
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 5.6:
+        non_striker: KH Prajapati
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 6.1:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 6.2:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 6.3:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 6.4:
+        non_striker: Aqib Ilyas
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 6.5:
+        non_striker: Aqib Ilyas
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 6.6:
+        non_striker: Aqib Ilyas
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 7.1:
+        non_striker: KH Prajapati
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aqib Ilyas
+    - 7.2:
+        non_striker: KH Prajapati
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aqib Ilyas
+    - 7.3:
+        non_striker: KH Prajapati
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 7.4:
+        non_striker: KH Prajapati
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aqib Ilyas
+    - 7.5:
+        non_striker: KH Prajapati
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 7.6:
+        non_striker: KH Prajapati
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aqib Ilyas
+    - 7.7:
+        non_striker: KH Prajapati
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aqib Ilyas
+    - 8.1:
+        non_striker: Aqib Ilyas
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 8.2:
+        non_striker: Aqib Ilyas
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Prajapati
+    - 8.3:
+        non_striker: Aqib Ilyas
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KH Prajapati
+    - 8.4:
+        non_striker: Aqib Ilyas
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 8.5:
+        non_striker: Aqib Ilyas
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 8.6:
+        non_striker: Aqib Ilyas
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 8.7:
+        non_striker: Aqib Ilyas
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 9.1:
+        non_striker: KH Prajapati
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 9.2:
+        non_striker: KH Prajapati
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 9.3:
+        non_striker: Aqib Ilyas
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 9.4:
+        non_striker: Aqib Ilyas
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 9.5:
+        non_striker: KH Prajapati
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 9.6:
+        non_striker: KH Prajapati
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 10.1:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 10.2:
+        non_striker: Aqib Ilyas
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 10.3:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 10.4:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 10.5:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 10.6:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 11.1:
+        non_striker: Aqib Ilyas
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 11.2:
+        non_striker: Aqib Ilyas
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 11.3:
+        non_striker: Aqib Ilyas
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 11.4:
+        non_striker: Aqib Ilyas
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 11.5:
+        non_striker: KH Prajapati
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 11.6:
+        non_striker: Aqib Ilyas
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 12.1:
+        non_striker: Aqib Ilyas
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Prajapati
+    - 12.2:
+        non_striker: Aqib Ilyas
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 12.3:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aqib Ilyas
+    - 12.4:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 12.5:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 12.6:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 13.1:
+        non_striker: Aqib Ilyas
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Prajapati
+    - 13.2:
+        non_striker: Aqib Ilyas
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 13.3:
+        non_striker: KH Prajapati
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 13.4:
+        non_striker: Aqib Ilyas
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 13.5:
+        non_striker: KH Prajapati
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 13.6:
+        non_striker: Aqib Ilyas
+        bowler: WP Masakadza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 14.1:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aqib Ilyas
+    - 14.2:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aqib Ilyas
+    - 14.3:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 14.4:
+        non_striker: Aqib Ilyas
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 14.5:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 14.6:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 15.1:
+        non_striker: KH Prajapati
+        bowler: Sikandar Raza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Aqib Ilyas
+    - 15.2:
+        non_striker: Aqib Ilyas
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 15.3:
+        non_striker: Aqib Ilyas
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 15.4:
+        non_striker: KH Prajapati
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 15.5:
+        non_striker: KH Prajapati
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 15.6:
+        non_striker: KH Prajapati
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 16.1:
+        non_striker: Aqib Ilyas
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 16.2:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 16.3:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 16.4:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 16.5:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 16.6:
+        non_striker: Aqib Ilyas
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 17.1:
+        non_striker: Aqib Ilyas
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 17.2:
+        non_striker: KH Prajapati
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 17.3:
+        non_striker: Aqib Ilyas
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Prajapati
+    - 17.4:
+        non_striker: Aqib Ilyas
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 17.5:
+        non_striker: Aqib Ilyas
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 17.6:
+        non_striker: KH Prajapati
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 18.1:
+        non_striker: Aqib Ilyas
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 18.2:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 18.3:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 18.4:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 18.5:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aqib Ilyas
+    - 18.6:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 19.1:
+        non_striker: Aqib Ilyas
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KH Prajapati
+    - 19.2:
+        non_striker: Aqib Ilyas
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 19.3:
+        non_striker: KH Prajapati
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 19.4:
+        non_striker: KH Prajapati
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aqib Ilyas
+    - 19.5:
+        non_striker: KH Prajapati
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 19.6:
+        non_striker: Aqib Ilyas
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 20.1:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 20.2:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 20.3:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+    - 20.4:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 20.5:
+        non_striker: Aqib Ilyas
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 20.6:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Ilyas
+    - 21.1:
+        non_striker: KH Prajapati
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Ilyas
+        wicket:
+          player_out: Aqib Ilyas
+          fielders:
+          - J Gumbie
+          kind: caught
+    - 21.2:
+        non_striker: KH Prajapati
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 21.3:
+        non_striker: KH Prajapati
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 21.4:
+        non_striker: Zeeshan Maqsood
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 21.5:
+        non_striker: Zeeshan Maqsood
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 21.6:
+        non_striker: Zeeshan Maqsood
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 22.1:
+        non_striker: Zeeshan Maqsood
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 22.2:
+        non_striker: Zeeshan Maqsood
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 22.3:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 22.4:
+        non_striker: Zeeshan Maqsood
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 22.5:
+        non_striker: Zeeshan Maqsood
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 22.6:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 23.1:
+        non_striker: KH Prajapati
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 23.2:
+        non_striker: Zeeshan Maqsood
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Prajapati
+    - 23.3:
+        non_striker: Zeeshan Maqsood
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 23.4:
+        non_striker: Zeeshan Maqsood
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Prajapati
+    - 23.5:
+        non_striker: Zeeshan Maqsood
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 23.6:
+        non_striker: KH Prajapati
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 24.1:
+        non_striker: Zeeshan Maqsood
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 24.2:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 24.3:
+        non_striker: Zeeshan Maqsood
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 24.4:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 24.5:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zeeshan Maqsood
+    - 24.6:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 24.7:
+        non_striker: Zeeshan Maqsood
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 25.1:
+        non_striker: KH Prajapati
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 25.2:
+        non_striker: KH Prajapati
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 25.3:
+        non_striker: Zeeshan Maqsood
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 25.4:
+        non_striker: KH Prajapati
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 25.5:
+        non_striker: Zeeshan Maqsood
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 25.6:
+        non_striker: Zeeshan Maqsood
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 26.1:
+        non_striker: Zeeshan Maqsood
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 26.2:
+        non_striker: Zeeshan Maqsood
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 26.3:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 26.4:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Maqsood
+    - 26.5:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 26.6:
+        non_striker: KH Prajapati
+        bowler: SC Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 27.1:
+        non_striker: KH Prajapati
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 27.2:
+        non_striker: Zeeshan Maqsood
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 27.3:
+        non_striker: KH Prajapati
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 27.4:
+        non_striker: KH Prajapati
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 27.5:
+        non_striker: KH Prajapati
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 27.6:
+        non_striker: KH Prajapati
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 28.1:
+        non_striker: KH Prajapati
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Maqsood
+    - 28.2:
+        non_striker: KH Prajapati
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Maqsood
+    - 28.3:
+        non_striker: KH Prajapati
+        bowler: TL Chatara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zeeshan Maqsood
+    - 28.4:
+        non_striker: KH Prajapati
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 28.5:
+        non_striker: KH Prajapati
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Maqsood
+    - 28.6:
+        non_striker: KH Prajapati
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 28.7:
+        non_striker: KH Prajapati
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 29.1:
+        non_striker: Zeeshan Maqsood
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 29.2:
+        non_striker: KH Prajapati
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 29.3:
+        non_striker: KH Prajapati
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 29.4:
+        non_striker: KH Prajapati
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: Ayan Khan
+            out: Zeeshan Maqsood
+            reason: injury
+            role: batter
+        batsman: Ayan Khan
+    - 29.5:
+        non_striker: KH Prajapati
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayan Khan
+    - 29.6:
+        non_striker: KH Prajapati
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayan Khan
+    - 30.1:
+        non_striker: Ayan Khan
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 30.2:
+        non_striker: Ayan Khan
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 30.3:
+        non_striker: KH Prajapati
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 30.4:
+        non_striker: Ayan Khan
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KH Prajapati
+    - 30.5:
+        non_striker: Ayan Khan
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 30.6:
+        non_striker: KH Prajapati
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayan Khan
+    - 31.1:
+        non_striker: Ayan Khan
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 31.2:
+        non_striker: KH Prajapati
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 31.3:
+        non_striker: Ayan Khan
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KH Prajapati
+    - 31.4:
+        non_striker: Ayan Khan
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 31.5:
+        non_striker: KH Prajapati
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayan Khan
+    - 31.6:
+        non_striker: KH Prajapati
+        bowler: W Madhevere
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 32.1:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ayan Khan
+    - 32.2:
+        non_striker: Ayan Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 32.3:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 32.4:
+        non_striker: Ayan Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KH Prajapati
+    - 32.5:
+        non_striker: Ayan Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KH Prajapati
+    - 32.6:
+        non_striker: Ayan Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 33.1:
+        non_striker: Ayan Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 33.2:
+        non_striker: KH Prajapati
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 33.3:
+        non_striker: Ayan Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 33.4:
+        non_striker: Ayan Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 33.5:
+        non_striker: Ayan Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 33.6:
+        non_striker: KH Prajapati
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayan Khan
+    - 34.1:
+        non_striker: Ayan Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KH Prajapati
+    - 34.2:
+        non_striker: Ayan Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KH Prajapati
+    - 34.3:
+        non_striker: KH Prajapati
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 34.4:
+        non_striker: Ayan Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+    - 34.5:
+        non_striker: Ayan Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KH Prajapati
+        wicket:
+          player_out: KH Prajapati
+          fielders:
+          - Sikandar Raza
+          kind: caught
+    - 34.6:
+        non_striker: Ayan Khan
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 35.1:
+        non_striker: Ayan Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Khan
+    - 35.2:
+        non_striker: Ayan Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 35.3:
+        non_striker: Ayan Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 35.4:
+        non_striker: Shoaib Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayan Khan
+    - 35.5:
+        non_striker: Shoaib Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ayan Khan
+    - 35.6:
+        non_striker: Shoaib Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 36.1:
+        non_striker: Shoaib Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 36.2:
+        non_striker: Ayan Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 36.3:
+        non_striker: Ayan Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 36.4:
+        non_striker: Shoaib Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayan Khan
+    - 36.5:
+        non_striker: Shoaib Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayan Khan
+    - 36.6:
+        non_striker: Shoaib Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 37.1:
+        non_striker: Shoaib Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 37.2:
+        non_striker: Ayan Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 37.3:
+        non_striker: Ayan Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 37.4:
+        non_striker: Ayan Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 37.5:
+        non_striker: Shoaib Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayan Khan
+    - 37.6:
+        non_striker: Shoaib Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ayan Khan
+    - 38.1:
+        non_striker: Ayan Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 38.2:
+        non_striker: Ayan Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 38.3:
+        non_striker: Shoaib Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 38.4:
+        non_striker: Ayan Khan
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shoaib Khan
+    - 38.5:
+        non_striker: Ayan Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Khan
+    - 38.6:
+        non_striker: Ayan Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+        wicket:
+          player_out: Shoaib Khan
+          kind: caught and bowled
+    - 38.7:
+        non_striker: Ayan Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Khushi
+    - 39.1:
+        non_striker: Naseem Khushi
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 39.2:
+        non_striker: Ayan Khan
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Naseem Khushi
+    - 39.3:
+        non_striker: Ayan Khan
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Naseem Khushi
+    - 39.4:
+        non_striker: Ayan Khan
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Khushi
+    - 39.5:
+        non_striker: Ayan Khan
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naseem Khushi
+    - 39.6:
+        non_striker: Naseem Khushi
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 40.1:
+        non_striker: Naseem Khushi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 40.2:
+        non_striker: Ayan Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Khushi
+    - 40.3:
+        non_striker: Ayan Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naseem Khushi
+    - 40.4:
+        non_striker: Naseem Khushi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayan Khan
+    - 40.5:
+        non_striker: Naseem Khushi
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayan Khan
+    - 40.6:
+        non_striker: Naseem Khushi
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 40.7:
+        non_striker: Ayan Khan
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naseem Khushi
+    - 41.1:
+        non_striker: Ayan Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Khushi
+    - 41.2:
+        non_striker: Ayan Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naseem Khushi
+    - 41.3:
+        non_striker: Naseem Khushi
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayan Khan
+    - 41.4:
+        non_striker: Naseem Khushi
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayan Khan
+    - 41.5:
+        non_striker: Naseem Khushi
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ayan Khan
+    - 41.6:
+        non_striker: Naseem Khushi
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 42.1:
+        non_striker: Naseem Khushi
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ayan Khan
+    - 42.2:
+        non_striker: Naseem Khushi
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayan Khan
+    - 42.3:
+        non_striker: Naseem Khushi
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 42.4:
+        non_striker: Ayan Khan
+        bowler: TL Chatara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Naseem Khushi
+    - 42.5:
+        non_striker: Ayan Khan
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Naseem Khushi
+    - 42.6:
+        non_striker: Ayan Khan
+        bowler: TL Chatara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Naseem Khushi
+    - 42.7:
+        non_striker: Ayan Khan
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naseem Khushi
+        wicket:
+          player_out: Naseem Khushi
+          fielders:
+          - W Madhevere
+          kind: caught
+    - 42.8:
+        non_striker: Ayan Khan
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 43.1:
+        non_striker: Mohammad Nadeem
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 43.2:
+        non_striker: Ayan Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 43.3:
+        non_striker: Ayan Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 43.4:
+        non_striker: Ayan Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 43.5:
+        non_striker: Mohammad Nadeem
+        bowler: Sikandar Raza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ayan Khan
+    - 43.6:
+        non_striker: Mohammad Nadeem
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayan Khan
+    - 43.7:
+        non_striker: Ayan Khan
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nadeem
+    - 44.1:
+        non_striker: Mohammad Nadeem
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayan Khan
+    - 44.2:
+        non_striker: Mohammad Nadeem
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Ayan Khan
+    - 44.3:
+        non_striker: Mohammad Nadeem
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ayan Khan
+    - 44.4:
+        non_striker: Mohammad Nadeem
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayan Khan
+    - 44.5:
+        non_striker: Mohammad Nadeem
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayan Khan
+        wicket:
+          player_out: Ayan Khan
+          fielders:
+          - WP Masakadza
+          kind: caught
+    - 44.6:
+        non_striker: Mohammad Nadeem
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kaleemullah
+    - 44.7:
+        non_striker: Kaleemullah
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nadeem
+    - 45.1:
+        non_striker: Mohammad Nadeem
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaleemullah
+        wicket:
+          player_out: Kaleemullah
+          fielders:
+          - LM Jongwe
+          kind: caught
+    - 45.2:
+        non_striker: Mohammad Nadeem
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayyaz Butt
+    - 45.3:
+        non_striker: Fayyaz Butt
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 45.4:
+        non_striker: Fayyaz Butt
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Nadeem
+    - 45.5:
+        non_striker: Fayyaz Butt
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: Mohammad Nadeem
+    - 45.6:
+        non_striker: Fayyaz Butt
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 45.7:
+        non_striker: Mohammad Nadeem
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayyaz Butt
+    - 46.1:
+        non_striker: Mohammad Nadeem
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fayyaz Butt
+    - 46.2:
+        non_striker: Mohammad Nadeem
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayyaz Butt
+    - 46.3:
+        non_striker: Fayyaz Butt
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nadeem
+    - 46.4:
+        non_striker: Fayyaz Butt
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Nadeem
+    - 46.5:
+        non_striker: Fayyaz Butt
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 46.6:
+        non_striker: Mohammad Nadeem
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fayyaz Butt
+    - 46.7:
+        non_striker: Mohammad Nadeem
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fayyaz Butt
+    - 47.1:
+        non_striker: Mohammad Nadeem
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fayyaz Butt
+        wicket:
+          player_out: Fayyaz Butt
+          kind: lbw
+    - 47.2:
+        non_striker: Mohammad Nadeem
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 47.3:
+        non_striker: Zeeshan Maqsood
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Nadeem
+    - 47.4:
+        non_striker: Zeeshan Maqsood
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 47.5:
+        non_striker: Mohammad Nadeem
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 47.6:
+        non_striker: Mohammad Nadeem
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 48.1:
+        non_striker: Mohammad Nadeem
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 48.2:
+        non_striker: Mohammad Nadeem
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 48.3:
+        non_striker: Zeeshan Maqsood
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 48.4:
+        non_striker: Zeeshan Maqsood
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 48.5:
+        non_striker: Mohammad Nadeem
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Zeeshan Maqsood
+    - 48.6:
+        non_striker: Zeeshan Maqsood
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nadeem
+    - 49.1:
+        non_striker: Mohammad Nadeem
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Maqsood
+    - 49.2:
+        non_striker: Zeeshan Maqsood
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nadeem
+    - 49.3:
+        non_striker: Mohammad Nadeem
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+    - 49.4:
+        non_striker: Mohammad Nadeem
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zeeshan Maqsood
+    - 49.5:
+        non_striker: Mohammad Nadeem
+        bowler: TL Chatara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zeeshan Maqsood
+    - 49.6:
+        non_striker: Mohammad Nadeem
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Maqsood
+    - 49.7:
+        non_striker: Mohammad Nadeem
+        bowler: TL Chatara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zeeshan Maqsood
+    - 49.8:
+        non_striker: Mohammad Nadeem
+        bowler: TL Chatara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Maqsood
+        wicket:
+          player_out: Zeeshan Maqsood
+          fielders:
+          - LM Jongwe
+          kind: caught

@@ -1,0 +1,2169 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-08-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Oslo
+  dates:
+  - '2025-08-17'
+  gender: male
+  match_type: T20
+  match_type_number: 3409
+  outcome:
+    winner: Sweden
+    by:
+      runs: 79
+  overs: 20
+  player_of_match:
+  - Saeed Ahmed
+  players:
+    Sweden:
+    - Awais Ahmad
+    - Imal Zuwak
+    - A Mundra
+    - YS Chauhan
+    - Saeed Ahmed
+    - Samiullah Rahmani
+    - J Stanigze
+    - A Dhabe
+    - SK Gedara
+    - Abdul Naser Baluch
+    - Khalid Zahid
+    Hungary:
+    - Abbas Ghani
+    - V Ravindran
+    - Zeeshan Kukikhel
+    - JM Polarouthu
+    - Ali Farasat
+    - Ali Nawaz
+    - Zahir Mohammed
+    - SA Mohandas
+    - KN Gabhane
+    - Amal Jacob
+    - Kamran Wahid
+  registry:
+    people:
+      A Dhabe: 5a0dbdeb
+      A Mundra: 30ffaf85
+      Abbas Ghani: a8f91f78
+      Abdul Naser Baluch: 6a88d66d
+      Ali Farasat: 5845b99b
+      Ali Nawaz: deef8879
+      Amal Jacob: 5772882c
+      Awais Ahmad: 518a21ed
+      Imal Zuwak: 1283e17b
+      J Stanigze: 935305fd
+      JM Polarouthu: e1481606
+      KN Gabhane: '28252261'
+      Kamran Wahid: 5592153b
+      Khalid Zahid: 5c93efb1
+      SA Mohandas: 8b0b3bba
+      SK Gedara: 84c5c2f2
+      Saeed Ahmed: 63d6e16e
+      Samiullah Rahmani: d5c38041
+      V Ravindran: e5ecb1ef
+      YS Chauhan: fb3233d4
+      Zahir Mohammed: 7c38942a
+      Zeeshan Kukikhel: 5d6a1f76
+  teams:
+  - Sweden
+  - Hungary
+  toss:
+    winner: Hungary
+    decision: field
+  venue: Stubberudmyra Cricket Ground, Oslo
+innings:
+- 1st innings:
+    team: Sweden
+    deliveries:
+    - 0.1:
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Imal Zuwak
+        batsman: Awais Ahmad
+    - 0.2:
+        non_striker: Awais Ahmad
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+    - 0.3:
+        non_striker: Awais Ahmad
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Imal Zuwak
+        wicket:
+          player_out: Imal Zuwak
+          kind: bowled
+    - 0.4:
+        non_striker: Awais Ahmad
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 0.5:
+        non_striker: Awais Ahmad
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 0.6:
+        non_striker: Awais Ahmad
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 1.1:
+        non_striker: Awais Ahmad
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mundra
+    - 1.2:
+        non_striker: Awais Ahmad
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 1.3:
+        non_striker: A Mundra
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Awais Ahmad
+    - 1.4:
+        non_striker: A Mundra
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Awais Ahmad
+    - 1.5:
+        non_striker: A Mundra
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Awais Ahmad
+    - 1.6:
+        non_striker: Awais Ahmad
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 2.1:
+        non_striker: Awais Ahmad
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 2.2:
+        non_striker: Awais Ahmad
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 2.3:
+        non_striker: A Mundra
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Awais Ahmad
+        wicket:
+          player_out: Awais Ahmad
+          fielders:
+          - Abbas Ghani
+          kind: caught
+    - 2.4:
+        non_striker: A Mundra
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 2.5:
+        non_striker: A Mundra
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 2.6:
+        non_striker: YS Chauhan
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 3.1:
+        non_striker: YS Chauhan
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 3.2:
+        non_striker: A Mundra
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 3.3:
+        non_striker: YS Chauhan
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 3.4:
+        non_striker: A Mundra
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 3.5:
+        non_striker: A Mundra
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 3.6:
+        non_striker: A Mundra
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 4.1:
+        non_striker: A Mundra
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Chauhan
+    - 4.2:
+        non_striker: A Mundra
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 4.3:
+        non_striker: A Mundra
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 4.4:
+        non_striker: YS Chauhan
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mundra
+    - 4.5:
+        non_striker: YS Chauhan
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 4.6:
+        non_striker: YS Chauhan
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 5.1:
+        non_striker: YS Chauhan
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mundra
+    - 5.2:
+        non_striker: YS Chauhan
+        bowler: Amal Jacob
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mundra
+    - 5.3:
+        non_striker: YS Chauhan
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 5.4:
+        non_striker: YS Chauhan
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 5.5:
+        non_striker: YS Chauhan
+        bowler: Amal Jacob
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mundra
+    - 5.6:
+        non_striker: YS Chauhan
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mundra
+    - 5.7:
+        non_striker: YS Chauhan
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 5.8:
+        non_striker: YS Chauhan
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 6.1:
+        non_striker: A Mundra
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Chauhan
+    - 6.2:
+        non_striker: A Mundra
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 6.3:
+        non_striker: A Mundra
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 6.4:
+        non_striker: YS Chauhan
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 6.5:
+        non_striker: A Mundra
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 6.6:
+        non_striker: A Mundra
+        bowler: SA Mohandas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YS Chauhan
+    - 7.1:
+        non_striker: YS Chauhan
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 7.2:
+        non_striker: A Mundra
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Chauhan
+    - 7.3:
+        non_striker: A Mundra
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 7.4:
+        non_striker: A Mundra
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 7.5:
+        non_striker: A Mundra
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Chauhan
+    - 7.6:
+        non_striker: A Mundra
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Chauhan
+    - 8.1:
+        non_striker: YS Chauhan
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 8.2:
+        non_striker: YS Chauhan
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mundra
+    - 8.3:
+        non_striker: YS Chauhan
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 8.4:
+        non_striker: YS Chauhan
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mundra
+    - 8.5:
+        non_striker: YS Chauhan
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Mundra
+    - 8.6:
+        non_striker: YS Chauhan
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+    - 9.1:
+        non_striker: A Mundra
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 9.2:
+        non_striker: A Mundra
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+    - 9.3:
+        non_striker: A Mundra
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Chauhan
+    - 9.4:
+        non_striker: A Mundra
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 9.5:
+        non_striker: YS Chauhan
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mundra
+    - 9.6:
+        non_striker: A Mundra
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 10.1:
+        non_striker: A Mundra
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Chauhan
+    - 10.2:
+        non_striker: A Mundra
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 10.3:
+        non_striker: YS Chauhan
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mundra
+    - 10.4:
+        non_striker: YS Chauhan
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mundra
+        wicket:
+          player_out: A Mundra
+          fielders:
+          - V Ravindran
+          kind: caught
+    - 10.5:
+        non_striker: YS Chauhan
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Ahmed
+    - 10.6:
+        non_striker: YS Chauhan
+        bowler: Zeeshan Kukikhel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Ahmed
+    - 11.1:
+        non_striker: YS Chauhan
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Ahmed
+    - 11.2:
+        non_striker: YS Chauhan
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saeed Ahmed
+    - 11.3:
+        non_striker: YS Chauhan
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saeed Ahmed
+    - 11.4:
+        non_striker: YS Chauhan
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Ahmed
+    - 11.5:
+        non_striker: Saeed Ahmed
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 11.6:
+        non_striker: YS Chauhan
+        bowler: Amal Jacob
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Ahmed
+    - 12.1:
+        non_striker: YS Chauhan
+        bowler: Ali Nawaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saeed Ahmed
+    - 12.2:
+        non_striker: YS Chauhan
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Ahmed
+    - 12.3:
+        non_striker: Saeed Ahmed
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Chauhan
+    - 12.4:
+        non_striker: Saeed Ahmed
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Chauhan
+    - 12.5:
+        non_striker: Saeed Ahmed
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 12.6:
+        non_striker: YS Chauhan
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Ahmed
+    - 12.7:
+        non_striker: YS Chauhan
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Ahmed
+    - 13.1:
+        non_striker: YS Chauhan
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saeed Ahmed
+    - 13.2:
+        non_striker: YS Chauhan
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Ahmed
+    - 13.3:
+        non_striker: YS Chauhan
+        bowler: Abbas Ghani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saeed Ahmed
+    - 13.4:
+        non_striker: YS Chauhan
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Ahmed
+    - 13.5:
+        non_striker: YS Chauhan
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Ahmed
+    - 13.6:
+        non_striker: Saeed Ahmed
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 13.7:
+        non_striker: YS Chauhan
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saeed Ahmed
+    - 14.1:
+        non_striker: Saeed Ahmed
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Chauhan
+    - 14.2:
+        non_striker: Saeed Ahmed
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YS Chauhan
+    - 14.3:
+        non_striker: Saeed Ahmed
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 14.4:
+        non_striker: YS Chauhan
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Ahmed
+    - 14.5:
+        non_striker: Saeed Ahmed
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 14.6:
+        non_striker: YS Chauhan
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saeed Ahmed
+    - 15.1:
+        non_striker: Saeed Ahmed
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 15.2:
+        non_striker: YS Chauhan
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Ahmed
+    - 15.3:
+        non_striker: Saeed Ahmed
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 15.4:
+        non_striker: YS Chauhan
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saeed Ahmed
+    - 15.5:
+        non_striker: YS Chauhan
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Ahmed
+    - 15.6:
+        non_striker: Saeed Ahmed
+        bowler: Abbas Ghani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 16.1:
+        non_striker: Saeed Ahmed
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YS Chauhan
+    - 16.2:
+        non_striker: YS Chauhan
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saeed Ahmed
+    - 16.3:
+        non_striker: YS Chauhan
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saeed Ahmed
+    - 16.4:
+        non_striker: YS Chauhan
+        bowler: Ali Nawaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saeed Ahmed
+    - 16.5:
+        non_striker: YS Chauhan
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saeed Ahmed
+    - 16.6:
+        non_striker: YS Chauhan
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Ahmed
+    - 16.7:
+        non_striker: Saeed Ahmed
+        bowler: Ali Nawaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YS Chauhan
+    - 16.8:
+        non_striker: Saeed Ahmed
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YS Chauhan
+    - 17.1:
+        non_striker: YS Chauhan
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Ahmed
+    - 17.2:
+        non_striker: Saeed Ahmed
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YS Chauhan
+    - 17.3:
+        non_striker: Saeed Ahmed
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YS Chauhan
+        wicket:
+          player_out: YS Chauhan
+          fielders:
+          - KN Gabhane
+          kind: caught
+    - 17.4:
+        non_striker: Saeed Ahmed
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Samiullah Rahmani
+    - 17.5:
+        non_striker: Samiullah Rahmani
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Ahmed
+    - 17.6:
+        non_striker: Samiullah Rahmani
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Ahmed
+    - 18.1:
+        non_striker: Samiullah Rahmani
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saeed Ahmed
+    - 18.2:
+        non_striker: Samiullah Rahmani
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Ahmed
+    - 18.3:
+        non_striker: Saeed Ahmed
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Samiullah Rahmani
+    - 18.4:
+        non_striker: Samiullah Rahmani
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saeed Ahmed
+    - 18.5:
+        non_striker: Samiullah Rahmani
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saeed Ahmed
+    - 18.6:
+        non_striker: Samiullah Rahmani
+        bowler: Ali Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Ahmed
+    - 19.1:
+        non_striker: Samiullah Rahmani
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Ahmed
+        wicket:
+          player_out: Samiullah Rahmani
+          fielders:
+          - Zeeshan Kukikhel
+          - Kamran Wahid
+          kind: run out
+    - 19.2:
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: J Stanigze
+        batsman: Saeed Ahmed
+    - 19.3:
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Stanigze
+        batsman: Saeed Ahmed
+    - 19.4:
+        non_striker: Saeed Ahmed
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Stanigze
+    - 19.5:
+        non_striker: J Stanigze
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Saeed Ahmed
+    - 19.6:
+        non_striker: J Stanigze
+        bowler: Kamran Wahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Ahmed
+- 2nd innings:
+    team: Hungary
+    deliveries:
+    - 0.1:
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: V Ravindran
+        batsman: Abbas Ghani
+    - 0.2:
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: V Ravindran
+        batsman: Abbas Ghani
+    - 0.3:
+        non_striker: Abbas Ghani
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ravindran
+    - 0.4:
+        non_striker: V Ravindran
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Ghani
+    - 0.5:
+        non_striker: V Ravindran
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Ghani
+    - 0.6:
+        non_striker: V Ravindran
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Ghani
+    - 1.1:
+        non_striker: Abbas Ghani
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Ravindran
+    - 1.2:
+        non_striker: Abbas Ghani
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Ravindran
+    - 1.3:
+        non_striker: V Ravindran
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abbas Ghani
+    - 1.4:
+        non_striker: V Ravindran
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abbas Ghani
+    - 1.5:
+        non_striker: V Ravindran
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abbas Ghani
+    - 1.6:
+        non_striker: V Ravindran
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abbas Ghani
+    - 2.1:
+        non_striker: V Ravindran
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abbas Ghani
+    - 2.2:
+        non_striker: V Ravindran
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abbas Ghani
+    - 2.3:
+        non_striker: Abbas Ghani
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Ravindran
+    - 2.4:
+        non_striker: Abbas Ghani
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Ravindran
+    - 2.5:
+        non_striker: Abbas Ghani
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Ravindran
+        wicket:
+          player_out: V Ravindran
+          fielders:
+          - Samiullah Rahmani
+          kind: caught
+    - 2.6:
+        non_striker: Abbas Ghani
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Kukikhel
+    - 3.1:
+        non_striker: Zeeshan Kukikhel
+        bowler: SK Gedara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abbas Ghani
+    - 3.2:
+        non_striker: Abbas Ghani
+        bowler: SK Gedara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Kukikhel
+    - 3.3:
+        non_striker: Abbas Ghani
+        bowler: SK Gedara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Kukikhel
+    - 3.4:
+        non_striker: Abbas Ghani
+        bowler: SK Gedara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zeeshan Kukikhel
+    - 3.5:
+        non_striker: Abbas Ghani
+        bowler: SK Gedara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Kukikhel
+    - 3.6:
+        non_striker: Abbas Ghani
+        bowler: SK Gedara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zeeshan Kukikhel
+    - 3.7:
+        non_striker: Abbas Ghani
+        bowler: SK Gedara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Kukikhel
+    - 3.8:
+        non_striker: Zeeshan Kukikhel
+        bowler: SK Gedara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abbas Ghani
+    - 4.1:
+        non_striker: Zeeshan Kukikhel
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Ghani
+    - 4.2:
+        non_striker: Zeeshan Kukikhel
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Ghani
+    - 4.3:
+        non_striker: Zeeshan Kukikhel
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abbas Ghani
+    - 4.4:
+        non_striker: Zeeshan Kukikhel
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abbas Ghani
+    - 4.5:
+        non_striker: Zeeshan Kukikhel
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abbas Ghani
+    - 4.6:
+        non_striker: Abbas Ghani
+        bowler: Abdul Naser Baluch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Kukikhel
+    - 5.1:
+        non_striker: Abbas Ghani
+        bowler: SK Gedara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Kukikhel
+        wicket:
+          player_out: Zeeshan Kukikhel
+          kind: lbw
+    - 5.2:
+        non_striker: Abbas Ghani
+        bowler: SK Gedara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Polarouthu
+    - 5.3:
+        non_striker: Abbas Ghani
+        bowler: SK Gedara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Polarouthu
+    - 5.4:
+        non_striker: JM Polarouthu
+        bowler: SK Gedara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abbas Ghani
+    - 5.5:
+        non_striker: JM Polarouthu
+        bowler: SK Gedara
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abbas Ghani
+    - 5.6:
+        non_striker: JM Polarouthu
+        bowler: SK Gedara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Ghani
+    - 5.7:
+        non_striker: JM Polarouthu
+        bowler: SK Gedara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abbas Ghani
+    - 6.1:
+        non_striker: JM Polarouthu
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abbas Ghani
+    - 6.2:
+        non_striker: Abbas Ghani
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Polarouthu
+    - 6.3:
+        non_striker: JM Polarouthu
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abbas Ghani
+    - 6.4:
+        non_striker: Abbas Ghani
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Polarouthu
+    - 6.5:
+        non_striker: Abbas Ghani
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Polarouthu
+    - 6.6:
+        non_striker: Abbas Ghani
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Polarouthu
+    - 7.1:
+        non_striker: JM Polarouthu
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Ghani
+    - 7.2:
+        non_striker: JM Polarouthu
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abbas Ghani
+    - 7.3:
+        non_striker: JM Polarouthu
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abbas Ghani
+        wicket:
+          player_out: Abbas Ghani
+          fielders:
+          - Saeed Ahmed
+          kind: caught
+    - 7.4:
+        non_striker: JM Polarouthu
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+    - 7.5:
+        non_striker: JM Polarouthu
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Farasat
+        wicket:
+          player_out: Ali Farasat
+          fielders:
+          - J Stanigze
+          kind: caught
+    - 7.6:
+        non_striker: JM Polarouthu
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Nawaz
+    - 8.1:
+        non_striker: Ali Nawaz
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Polarouthu
+    - 8.2:
+        non_striker: Ali Nawaz
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Polarouthu
+    - 8.3:
+        non_striker: JM Polarouthu
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Nawaz
+    - 8.4:
+        non_striker: JM Polarouthu
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Nawaz
+        wicket:
+          player_out: Ali Nawaz
+          fielders:
+          - Saeed Ahmed
+          kind: caught
+    - 8.5:
+        non_striker: JM Polarouthu
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 8.6:
+        non_striker: JM Polarouthu
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 9.1:
+        non_striker: Zahir Mohammed
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Polarouthu
+    - 9.2:
+        non_striker: Zahir Mohammed
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Polarouthu
+    - 9.3:
+        non_striker: Zahir Mohammed
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Polarouthu
+    - 9.4:
+        non_striker: Zahir Mohammed
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Polarouthu
+    - 9.5:
+        non_striker: Zahir Mohammed
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Polarouthu
+    - 9.6:
+        non_striker: Zahir Mohammed
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Polarouthu
+    - 10.1:
+        non_striker: JM Polarouthu
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahir Mohammed
+    - 10.2:
+        non_striker: Zahir Mohammed
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Polarouthu
+    - 10.3:
+        non_striker: Zahir Mohammed
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Polarouthu
+    - 10.4:
+        non_striker: JM Polarouthu
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahir Mohammed
+    - 10.5:
+        non_striker: Zahir Mohammed
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Polarouthu
+        wicket:
+          player_out: JM Polarouthu
+          fielders:
+          - Samiullah Rahmani
+          kind: run out
+    - 10.6:
+        non_striker: SA Mohandas
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahir Mohammed
+    - 11.1:
+        non_striker: SA Mohandas
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 11.2:
+        non_striker: SA Mohandas
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+    - 11.3:
+        non_striker: SA Mohandas
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahir Mohammed
+    - 11.4:
+        non_striker: Zahir Mohammed
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Mohandas
+    - 11.5:
+        non_striker: Zahir Mohammed
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Mohandas
+    - 11.6:
+        non_striker: Zahir Mohammed
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Mohandas
+    - 12.1:
+        non_striker: SA Mohandas
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahir Mohammed
+    - 12.2:
+        non_striker: Zahir Mohammed
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Mohandas
+    - 12.3:
+        non_striker: SA Mohandas
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahir Mohammed
+    - 12.4:
+        non_striker: Zahir Mohammed
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Mohandas
+    - 12.5:
+        non_striker: Zahir Mohammed
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Mohandas
+        wicket:
+          player_out: SA Mohandas
+          fielders:
+          - A Mundra
+          kind: caught
+    - 12.6:
+        non_striker: Zahir Mohammed
+        bowler: Samiullah Rahmani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Gabhane
+    - 13.1:
+        non_striker: Zahir Mohammed
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Gabhane
+    - 13.2:
+        non_striker: Zahir Mohammed
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Gabhane
+    - 13.3:
+        non_striker: Zahir Mohammed
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Gabhane
+    - 13.4:
+        non_striker: Zahir Mohammed
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Gabhane
+    - 13.5:
+        non_striker: KN Gabhane
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahir Mohammed
+    - 13.6:
+        non_striker: Zahir Mohammed
+        bowler: A Dhabe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Gabhane
+    - 14.1:
+        non_striker: KN Gabhane
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zahir Mohammed
+    - 14.2:
+        non_striker: KN Gabhane
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zahir Mohammed
+    - 14.3:
+        non_striker: Zahir Mohammed
+        bowler: J Stanigze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KN Gabhane
+    - 14.4:
+        non_striker: KN Gabhane
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zahir Mohammed
+        wicket:
+          player_out: Zahir Mohammed
+          fielders:
+          - Abdul Naser Baluch
+          kind: caught
+    - 14.5:
+        non_striker: KN Gabhane
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amal Jacob
+    - 14.6:
+        non_striker: KN Gabhane
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amal Jacob
+    - 15.1:
+        non_striker: Amal Jacob
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KN Gabhane
+    - 15.2:
+        non_striker: Amal Jacob
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KN Gabhane
+    - 15.3:
+        non_striker: Amal Jacob
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Gabhane
+    - 15.4:
+        non_striker: Amal Jacob
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Gabhane
+    - 15.5:
+        non_striker: Amal Jacob
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Gabhane
+    - 15.6:
+        non_striker: KN Gabhane
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amal Jacob
+    - 16.1:
+        non_striker: Amal Jacob
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KN Gabhane
+    - 16.2:
+        non_striker: Amal Jacob
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Gabhane
+    - 16.3:
+        non_striker: KN Gabhane
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amal Jacob
+    - 16.4:
+        non_striker: Amal Jacob
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Gabhane
+    - 16.5:
+        non_striker: KN Gabhane
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amal Jacob
+    - 16.6:
+        non_striker: Amal Jacob
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Gabhane
+    - 17.1:
+        non_striker: KN Gabhane
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amal Jacob
+    - 17.2:
+        non_striker: KN Gabhane
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amal Jacob
+    - 17.3:
+        non_striker: Amal Jacob
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: KN Gabhane
+    - 17.4:
+        non_striker: KN Gabhane
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amal Jacob
+    - 17.5:
+        non_striker: Amal Jacob
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Gabhane
+    - 17.6:
+        non_striker: KN Gabhane
+        bowler: Khalid Zahid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Amal Jacob
+    - 18.1:
+        non_striker: Amal Jacob
+        bowler: Imal Zuwak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Gabhane
+    - 18.2:
+        non_striker: Amal Jacob
+        bowler: Imal Zuwak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Gabhane
+    - 18.3:
+        non_striker: Amal Jacob
+        bowler: Imal Zuwak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KN Gabhane
+    - 18.4:
+        non_striker: Amal Jacob
+        bowler: Imal Zuwak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Gabhane
+    - 18.5:
+        non_striker: Amal Jacob
+        bowler: Imal Zuwak
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: KN Gabhane
+    - 18.6:
+        non_striker: Amal Jacob
+        bowler: Imal Zuwak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Gabhane
+    - 19.1:
+        non_striker: Amal Jacob
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Gabhane
+    - 19.2:
+        non_striker: KN Gabhane
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amal Jacob
+    - 19.3:
+        non_striker: Amal Jacob
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KN Gabhane
+    - 19.4:
+        non_striker: Amal Jacob
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KN Gabhane
+    - 19.5:
+        non_striker: Amal Jacob
+        bowler: J Stanigze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KN Gabhane
+    - 19.6:
+        non_striker: Amal Jacob
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KN Gabhane
+    - 19.7:
+        non_striker: KN Gabhane
+        bowler: J Stanigze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Amal Jacob

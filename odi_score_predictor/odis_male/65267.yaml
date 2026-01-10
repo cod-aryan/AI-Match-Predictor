@@ -1,0 +1,5094 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Johannesburg
+  dates:
+  - '2003-03-01'
+  gender: male
+  match_type: ODI
+  match_type_number: 1974
+  outcome:
+    winner: Kenya
+    by:
+      runs: 32
+  overs: 50
+  player_of_match:
+  - MO Odumbe
+  players:
+    Kenya:
+    - KO Otieno
+    - RD Shah
+    - BJ Patel
+    - SO Tikolo
+    - HS Modi
+    - MO Odumbe
+    - TM Odoyo
+    - CO Obuya
+    - PJ Ongondo
+    - MA Suji
+    - AO Suji
+    Bangladesh:
+    - Al Sahariar
+    - Mohammad Ashraful
+    - Tushar Imran
+    - Khaled Mashud
+    - Alok Kapali
+    - Akram Khan
+    - Sanwar Hossain
+    - Khaled Mahmud
+    - Mohammad Rafique
+    - Tapash Baisya
+    - Manjural Islam
+  registry:
+    people:
+      AO Suji: b15eaf77
+      Akram Khan: fbc5b9e2
+      Al Sahariar: fdd414ab
+      Alok Kapali: 54279e23
+      BJ Patel: 0b7930ed
+      CO Obuya: 5680f1ad
+      EAR de Silva: dc63f509
+      HS Modi: 5abdfd23
+      Joseph Angara: 744b6ab0
+      KO Otieno: fbaa61d2
+      Khaled Mahmud: 0c8a1d51
+      Khaled Mashud: ade071c5
+      MA Suji: 331bd689
+      MO Odumbe: '45477249'
+      Manjural Islam: 2cfa6534
+      Mohammad Ashraful: 2bb09eb2
+      Mohammad Rafique: 7ff3fcaa
+      NA Mallender: 3b5dfcd4
+      PJ Ongondo: 27cc4361
+      RD Shah: 45d4cb14
+      RS Madugalle: 766b5798
+      SJA Taufel: 4b43d5ac
+      SO Tikolo: 00d69fa4
+      Sanwar Hossain: 2cccba8f
+      TM Odoyo: 2c13defe
+      Tapash Baisya: bb1819fa
+      Tushar Imran: b58af144
+  teams:
+  - Kenya
+  - Bangladesh
+  toss:
+    winner: Kenya
+    decision: bat
+  umpires:
+  - EAR de Silva
+  - NA Mallender
+  venue: New Wanderers Stadium, Johannesburg
+innings:
+- 1st innings:
+    team: Kenya
+    deliveries:
+    - 0.1:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KO Otieno
+    - 0.2:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KO Otieno
+    - 0.3:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KO Otieno
+    - 0.4:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KO Otieno
+        wicket:
+          player_out: KO Otieno
+          fielders:
+          - Khaled Mashud
+          kind: caught
+    - 0.5:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 0.6:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ Patel
+    - 0.7:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Patel
+    - 0.8:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 1.1:
+        non_striker: BJ Patel
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 1.2:
+        non_striker: BJ Patel
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 1.3:
+        non_striker: BJ Patel
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 1.4:
+        non_striker: BJ Patel
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Shah
+    - 1.5:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 1.6:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Patel
+    - 2.1:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 2.2:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 2.3:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ Patel
+    - 2.4:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 2.5:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ Patel
+    - 2.6:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 2.7:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 2.8:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 3.1:
+        non_striker: BJ Patel
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 3.2:
+        non_striker: BJ Patel
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 3.3:
+        non_striker: BJ Patel
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Shah
+    - 3.4:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 3.5:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 3.6:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 4.1:
+        non_striker: BJ Patel
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 4.2:
+        non_striker: BJ Patel
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 4.3:
+        non_striker: BJ Patel
+        bowler: Manjural Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Shah
+    - 4.4:
+        non_striker: BJ Patel
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 4.5:
+        non_striker: BJ Patel
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Shah
+    - 4.6:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 4.7:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 5.1:
+        non_striker: BJ Patel
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 5.2:
+        non_striker: BJ Patel
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Shah
+    - 5.3:
+        non_striker: BJ Patel
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 5.4:
+        non_striker: BJ Patel
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 5.5:
+        non_striker: BJ Patel
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Shah
+    - 5.6:
+        non_striker: BJ Patel
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 6.1:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 6.2:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 6.3:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BJ Patel
+    - 6.4:
+        non_striker: BJ Patel
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 6.5:
+        non_striker: BJ Patel
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 6.6:
+        non_striker: BJ Patel
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Shah
+    - 7.1:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 7.2:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 7.3:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 7.4:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ Patel
+    - 7.5:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 7.6:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: BJ Patel
+    - 7.7:
+        non_striker: BJ Patel
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 8.1:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 8.2:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 8.3:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 8.4:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 8.5:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Patel
+    - 8.6:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Patel
+    - 9.1:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 9.2:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 9.3:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 9.4:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 9.5:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 9.6:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 10.1:
+        non_striker: BJ Patel
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 10.2:
+        non_striker: BJ Patel
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 10.3:
+        non_striker: BJ Patel
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 10.4:
+        non_striker: BJ Patel
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Shah
+    - 10.5:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 10.6:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 11.1:
+        non_striker: BJ Patel
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 11.2:
+        non_striker: BJ Patel
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 11.3:
+        non_striker: BJ Patel
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Shah
+    - 11.4:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 11.5:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 11.6:
+        non_striker: RD Shah
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Patel
+    - 12.1:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Patel
+    - 12.2:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 12.3:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Patel
+    - 12.4:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 12.5:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 12.6:
+        non_striker: RD Shah
+        bowler: Manjural Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Patel
+    - 13.1:
+        non_striker: BJ Patel
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 13.2:
+        non_striker: BJ Patel
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 13.3:
+        non_striker: BJ Patel
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 13.4:
+        non_striker: BJ Patel
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 13.5:
+        non_striker: BJ Patel
+        bowler: Khaled Mahmud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Shah
+    - 13.6:
+        non_striker: BJ Patel
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 13.7:
+        non_striker: BJ Patel
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Shah
+    - 14.1:
+        non_striker: RD Shah
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Patel
+    - 14.2:
+        non_striker: BJ Patel
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 14.3:
+        non_striker: BJ Patel
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Shah
+    - 14.4:
+        non_striker: RD Shah
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Patel
+    - 14.5:
+        non_striker: BJ Patel
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 14.6:
+        non_striker: BJ Patel
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 15.1:
+        non_striker: RD Shah
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 15.2:
+        non_striker: RD Shah
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 15.3:
+        non_striker: RD Shah
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 15.4:
+        non_striker: RD Shah
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 15.5:
+        non_striker: RD Shah
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 15.6:
+        non_striker: RD Shah
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ Patel
+    - 16.1:
+        non_striker: BJ Patel
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Shah
+    - 16.2:
+        non_striker: BJ Patel
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 16.3:
+        non_striker: BJ Patel
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 16.4:
+        non_striker: BJ Patel
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Shah
+    - 16.5:
+        non_striker: BJ Patel
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 16.6:
+        non_striker: BJ Patel
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 17.1:
+        non_striker: RD Shah
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 17.2:
+        non_striker: RD Shah
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ Patel
+    - 17.3:
+        non_striker: RD Shah
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+    - 17.4:
+        non_striker: RD Shah
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ Patel
+    - 17.5:
+        non_striker: BJ Patel
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Shah
+    - 17.6:
+        non_striker: RD Shah
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ Patel
+        wicket:
+          player_out: BJ Patel
+          fielders:
+          - Manjural Islam
+          kind: caught
+    - 18.1:
+        non_striker: SO Tikolo
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 18.2:
+        non_striker: SO Tikolo
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 18.3:
+        non_striker: SO Tikolo
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Shah
+    - 18.4:
+        non_striker: RD Shah
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 18.5:
+        non_striker: RD Shah
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 18.6:
+        non_striker: RD Shah
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Tikolo
+    - 19.1:
+        non_striker: RD Shah
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 19.2:
+        non_striker: RD Shah
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 19.3:
+        non_striker: RD Shah
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Tikolo
+    - 19.4:
+        non_striker: SO Tikolo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 19.5:
+        non_striker: SO Tikolo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Shah
+    - 19.6:
+        non_striker: RD Shah
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 20.1:
+        non_striker: SO Tikolo
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Shah
+    - 20.2:
+        non_striker: SO Tikolo
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Shah
+    - 20.3:
+        non_striker: SO Tikolo
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+    - 20.4:
+        non_striker: SO Tikolo
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Shah
+        wicket:
+          player_out: RD Shah
+          fielders:
+          - Akram Khan
+          kind: caught
+    - 20.5:
+        non_striker: SO Tikolo
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 20.6:
+        non_striker: SO Tikolo
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 21.1:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 21.2:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 21.3:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Tikolo
+    - 21.4:
+        non_striker: SO Tikolo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 21.5:
+        non_striker: SO Tikolo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 21.6:
+        non_striker: SO Tikolo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 22.1:
+        non_striker: HS Modi
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 22.2:
+        non_striker: HS Modi
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 22.3:
+        non_striker: HS Modi
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Tikolo
+    - 22.4:
+        non_striker: SO Tikolo
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 22.5:
+        non_striker: SO Tikolo
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HS Modi
+    - 22.6:
+        non_striker: SO Tikolo
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 23.1:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 23.2:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Tikolo
+    - 23.3:
+        non_striker: SO Tikolo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Modi
+    - 23.4:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 23.5:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Tikolo
+    - 23.6:
+        non_striker: SO Tikolo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 24.1:
+        non_striker: HS Modi
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 24.2:
+        non_striker: HS Modi
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Tikolo
+    - 24.3:
+        non_striker: HS Modi
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 24.4:
+        non_striker: HS Modi
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 24.5:
+        non_striker: HS Modi
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Tikolo
+    - 24.6:
+        non_striker: SO Tikolo
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 25.1:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 25.2:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 25.3:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 25.4:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 25.5:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 25.6:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Tikolo
+    - 26.1:
+        non_striker: HS Modi
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Tikolo
+    - 26.2:
+        non_striker: SO Tikolo
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Modi
+    - 26.3:
+        non_striker: HS Modi
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Tikolo
+    - 26.4:
+        non_striker: SO Tikolo
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 26.5:
+        non_striker: SO Tikolo
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 26.6:
+        non_striker: SO Tikolo
+        bowler: Mohammad Rafique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Modi
+    - 27.1:
+        non_striker: SO Tikolo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 27.2:
+        non_striker: SO Tikolo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 27.3:
+        non_striker: SO Tikolo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 27.4:
+        non_striker: SO Tikolo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 27.5:
+        non_striker: SO Tikolo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 27.6:
+        non_striker: SO Tikolo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 28.1:
+        non_striker: HS Modi
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Tikolo
+    - 28.2:
+        non_striker: SO Tikolo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 28.3:
+        non_striker: SO Tikolo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 28.4:
+        non_striker: SO Tikolo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 28.5:
+        non_striker: SO Tikolo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 28.6:
+        non_striker: SO Tikolo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 29.1:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Tikolo
+    - 29.2:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Tikolo
+    - 29.3:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Tikolo
+    - 29.4:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 29.5:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 29.6:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 29.7:
+        non_striker: HS Modi
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Tikolo
+    - 30.1:
+        non_striker: HS Modi
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 30.2:
+        non_striker: HS Modi
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Tikolo
+    - 30.3:
+        non_striker: SO Tikolo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 30.4:
+        non_striker: SO Tikolo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Modi
+    - 30.5:
+        non_striker: HS Modi
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Tikolo
+    - 30.6:
+        non_striker: SO Tikolo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 31.1:
+        non_striker: HS Modi
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+    - 31.2:
+        non_striker: HS Modi
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Tikolo
+    - 31.3:
+        non_striker: SO Tikolo
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 31.4:
+        non_striker: SO Tikolo
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Modi
+    - 31.5:
+        non_striker: HS Modi
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Tikolo
+    - 31.6:
+        non_striker: SO Tikolo
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 32.1:
+        non_striker: HS Modi
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Tikolo
+    - 32.2:
+        non_striker: SO Tikolo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Modi
+    - 32.3:
+        non_striker: HS Modi
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Tikolo
+        wicket:
+          player_out: SO Tikolo
+          kind: bowled
+    - 32.4:
+        non_striker: HS Modi
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Odumbe
+    - 32.5:
+        non_striker: HS Modi
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Odumbe
+    - 32.6:
+        non_striker: HS Modi
+        bowler: Sanwar Hossain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MO Odumbe
+    - 32.7:
+        non_striker: HS Modi
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Odumbe
+    - 33.1:
+        non_striker: MO Odumbe
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Modi
+    - 33.2:
+        non_striker: HS Modi
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MO Odumbe
+    - 33.3:
+        non_striker: HS Modi
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 33.4:
+        non_striker: MO Odumbe
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HS Modi
+    - 33.5:
+        non_striker: HS Modi
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Odumbe
+    - 33.6:
+        non_striker: HS Modi
+        bowler: Alok Kapali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 34.1:
+        non_striker: HS Modi
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 34.2:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 34.3:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+    - 34.4:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HS Modi
+        wicket:
+          player_out: HS Modi
+          kind: caught and bowled
+    - 34.5:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Odoyo
+    - 34.6:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Odoyo
+    - 35.1:
+        non_striker: TM Odoyo
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 35.2:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Odoyo
+    - 35.3:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Odoyo
+    - 35.4:
+        non_striker: TM Odoyo
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MO Odumbe
+    - 35.5:
+        non_striker: TM Odoyo
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Odumbe
+    - 35.6:
+        non_striker: TM Odoyo
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Odumbe
+    - 36.1:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Odoyo
+    - 36.2:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Odoyo
+    - 36.3:
+        non_striker: TM Odoyo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 36.4:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Odoyo
+    - 36.5:
+        non_striker: TM Odoyo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 36.6:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Odoyo
+    - 37.1:
+        non_striker: TM Odoyo
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MO Odumbe
+    - 37.2:
+        non_striker: TM Odoyo
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 37.3:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Odoyo
+    - 37.4:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Odoyo
+    - 37.5:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Odoyo
+    - 37.6:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Odoyo
+    - 38.1:
+        non_striker: TM Odoyo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 38.2:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Odoyo
+    - 38.3:
+        non_striker: TM Odoyo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MO Odumbe
+    - 38.4:
+        non_striker: TM Odoyo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Odumbe
+    - 38.5:
+        non_striker: TM Odoyo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 38.6:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Odoyo
+    - 39.1:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Odoyo
+    - 39.2:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Odoyo
+    - 39.3:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Odoyo
+    - 39.4:
+        non_striker: TM Odoyo
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 39.5:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Odoyo
+    - 39.6:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Odoyo
+    - 40.1:
+        non_striker: TM Odoyo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 40.2:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Odoyo
+    - 40.3:
+        non_striker: TM Odoyo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Odumbe
+    - 40.4:
+        non_striker: TM Odoyo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 40.5:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Odoyo
+    - 40.6:
+        non_striker: TM Odoyo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Odumbe
+    - 41.1:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Odoyo
+    - 41.2:
+        non_striker: TM Odoyo
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 41.3:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM Odoyo
+    - 41.4:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Odoyo
+    - 41.5:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Odoyo
+    - 41.6:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Odoyo
+    - 42.1:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Odoyo
+    - 42.2:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Odoyo
+    - 42.3:
+        non_striker: TM Odoyo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MO Odumbe
+    - 42.4:
+        non_striker: TM Odoyo
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 42.5:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Odoyo
+        wicket:
+          player_out: TM Odoyo
+          kind: lbw
+    - 42.6:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CO Obuya
+    - 43.1:
+        non_striker: CO Obuya
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 43.2:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CO Obuya
+    - 43.3:
+        non_striker: CO Obuya
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 43.4:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CO Obuya
+    - 43.5:
+        non_striker: CO Obuya
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 43.6:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CO Obuya
+    - 44.1:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CO Obuya
+    - 44.2:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CO Obuya
+    - 44.3:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CO Obuya
+    - 44.4:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CO Obuya
+    - 44.5:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CO Obuya
+    - 44.6:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CO Obuya
+    - 45.1:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CO Obuya
+    - 45.2:
+        non_striker: CO Obuya
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 45.3:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CO Obuya
+    - 45.4:
+        non_striker: CO Obuya
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 45.5:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CO Obuya
+    - 45.6:
+        non_striker: MO Odumbe
+        bowler: Mohammad Ashraful
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CO Obuya
+    - 46.1:
+        non_striker: CO Obuya
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Odumbe
+    - 46.2:
+        non_striker: CO Obuya
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 46.3:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CO Obuya
+    - 46.4:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CO Obuya
+    - 46.5:
+        non_striker: MO Odumbe
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CO Obuya
+    - 46.6:
+        non_striker: CO Obuya
+        bowler: Sanwar Hossain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MO Odumbe
+    - 47.1:
+        non_striker: MO Odumbe
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CO Obuya
+    - 47.2:
+        non_striker: MO Odumbe
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CO Obuya
+    - 47.3:
+        non_striker: MO Odumbe
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CO Obuya
+    - 47.4:
+        non_striker: CO Obuya
+        bowler: Tapash Baisya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MO Odumbe
+    - 47.5:
+        non_striker: MO Odumbe
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CO Obuya
+        wicket:
+          player_out: CO Obuya
+          kind: bowled
+    - 47.6:
+        non_striker: MO Odumbe
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Ongondo
+    - 48.1:
+        non_striker: PJ Ongondo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MO Odumbe
+    - 48.2:
+        non_striker: PJ Ongondo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MO Odumbe
+    - 48.3:
+        non_striker: PJ Ongondo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MO Odumbe
+    - 48.4:
+        non_striker: PJ Ongondo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MO Odumbe
+    - 48.5:
+        non_striker: PJ Ongondo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MO Odumbe
+    - 48.6:
+        non_striker: PJ Ongondo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MO Odumbe
+    - 48.7:
+        non_striker: PJ Ongondo
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 48.8:
+        non_striker: MO Odumbe
+        bowler: Khaled Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Ongondo
+    - 49.1:
+        non_striker: PJ Ongondo
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 49.2:
+        non_striker: MO Odumbe
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Ongondo
+    - 49.3:
+        non_striker: PJ Ongondo
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+    - 49.4:
+        non_striker: MO Odumbe
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Ongondo
+    - 49.5:
+        non_striker: PJ Ongondo
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MO Odumbe
+    - 49.6:
+        non_striker: PJ Ongondo
+        bowler: Tapash Baisya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MO Odumbe
+- 2nd innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohammad Ashraful
+        batsman: Al Sahariar
+    - 0.2:
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohammad Ashraful
+        batsman: Al Sahariar
+    - 0.3:
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Mohammad Ashraful
+        batsman: Al Sahariar
+    - 0.4:
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohammad Ashraful
+        batsman: Al Sahariar
+    - 0.5:
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohammad Ashraful
+        batsman: Al Sahariar
+    - 0.6:
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Mohammad Ashraful
+        batsman: Al Sahariar
+    - 1.1:
+        non_striker: Al Sahariar
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 1.2:
+        non_striker: Al Sahariar
+        bowler: TM Odoyo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Ashraful
+    - 1.3:
+        non_striker: Al Sahariar
+        bowler: TM Odoyo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Ashraful
+    - 1.4:
+        non_striker: Al Sahariar
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 1.5:
+        non_striker: Al Sahariar
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 1.6:
+        non_striker: Al Sahariar
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 1.7:
+        non_striker: Al Sahariar
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 1.8:
+        non_striker: Al Sahariar
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 2.1:
+        non_striker: Mohammad Ashraful
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al Sahariar
+    - 2.2:
+        non_striker: Mohammad Ashraful
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al Sahariar
+    - 2.3:
+        non_striker: Mohammad Ashraful
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al Sahariar
+    - 2.4:
+        non_striker: Mohammad Ashraful
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Al Sahariar
+    - 2.5:
+        non_striker: Mohammad Ashraful
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al Sahariar
+    - 2.6:
+        non_striker: Mohammad Ashraful
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Al Sahariar
+        wicket:
+          player_out: Al Sahariar
+          fielders:
+          - KO Otieno
+          kind: caught
+    - 3.1:
+        non_striker: Tushar Imran
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+    - 3.2:
+        non_striker: Tushar Imran
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Ashraful
+    - 3.3:
+        non_striker: Mohammad Ashraful
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 3.4:
+        non_striker: Mohammad Ashraful
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 3.5:
+        non_striker: Mohammad Ashraful
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 3.6:
+        non_striker: Mohammad Ashraful
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 4.1:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Ashraful
+        wicket:
+          player_out: Mohammad Ashraful
+          kind: lbw
+    - 4.2:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 4.3:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 4.4:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khaled Mashud
+    - 4.5:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 4.6:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 5.1:
+        non_striker: Khaled Mashud
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 5.2:
+        non_striker: Khaled Mashud
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 5.3:
+        non_striker: Khaled Mashud
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tushar Imran
+    - 5.4:
+        non_striker: Khaled Mashud
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 5.5:
+        non_striker: Khaled Mashud
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 5.6:
+        non_striker: Khaled Mashud
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 6.1:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 6.2:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 6.3:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 6.4:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 6.5:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Khaled Mashud
+    - 6.6:
+        non_striker: Khaled Mashud
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 7.1:
+        non_striker: Tushar Imran
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 7.2:
+        non_striker: Tushar Imran
+        bowler: TM Odoyo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khaled Mashud
+    - 7.3:
+        non_striker: Tushar Imran
+        bowler: TM Odoyo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khaled Mashud
+    - 7.4:
+        non_striker: Tushar Imran
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Mashud
+    - 7.5:
+        non_striker: Khaled Mashud
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tushar Imran
+    - 7.6:
+        non_striker: Tushar Imran
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 7.7:
+        non_striker: Tushar Imran
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 7.8:
+        non_striker: Tushar Imran
+        bowler: TM Odoyo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 8.1:
+        non_striker: Khaled Mashud
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tushar Imran
+    - 8.2:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 8.3:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 8.4:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 8.5:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 8.6:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 9.1:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Tushar Imran
+    - 9.2:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 9.3:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 9.4:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 9.5:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 9.6:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 9.7:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 10.1:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 10.2:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 10.3:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Mashud
+    - 10.4:
+        non_striker: Khaled Mashud
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tushar Imran
+    - 10.5:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 10.6:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 11.1:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 11.2:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 11.3:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 11.4:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tushar Imran
+    - 11.5:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Tushar Imran
+    - 11.6:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 12.1:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 12.2:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khaled Mashud
+    - 12.3:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 12.4:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 12.5:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khaled Mashud
+    - 12.6:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Mashud
+    - 12.7:
+        non_striker: Khaled Mashud
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 13.1:
+        non_striker: Tushar Imran
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 13.2:
+        non_striker: Tushar Imran
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Mashud
+    - 13.3:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 13.4:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 13.5:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 13.6:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 14.1:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 14.2:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 14.3:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 14.4:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 14.5:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Khaled Mashud
+    - 14.6:
+        non_striker: Tushar Imran
+        bowler: MA Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 15.1:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 15.2:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 15.3:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 15.4:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 15.5:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 15.6:
+        non_striker: Khaled Mashud
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tushar Imran
+    - 16.1:
+        non_striker: Tushar Imran
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+    - 16.2:
+        non_striker: Tushar Imran
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khaled Mashud
+    - 16.3:
+        non_striker: Tushar Imran
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mashud
+        wicket:
+          player_out: Khaled Mashud
+          fielders:
+          - RD Shah
+          kind: caught
+    - 16.4:
+        non_striker: Tushar Imran
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alok Kapali
+    - 16.5:
+        non_striker: Alok Kapali
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tushar Imran
+    - 16.6:
+        non_striker: Alok Kapali
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 17.1:
+        non_striker: Tushar Imran
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 17.2:
+        non_striker: Tushar Imran
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alok Kapali
+    - 17.3:
+        non_striker: Alok Kapali
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 17.4:
+        non_striker: Alok Kapali
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tushar Imran
+    - 17.5:
+        non_striker: Tushar Imran
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 17.6:
+        non_striker: Tushar Imran
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 18.1:
+        non_striker: Alok Kapali
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tushar Imran
+    - 18.2:
+        non_striker: Alok Kapali
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tushar Imran
+    - 18.3:
+        non_striker: Tushar Imran
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alok Kapali
+    - 18.4:
+        non_striker: Alok Kapali
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 18.5:
+        non_striker: Alok Kapali
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tushar Imran
+    - 18.6:
+        non_striker: Tushar Imran
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 19.1:
+        non_striker: Alok Kapali
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 19.2:
+        non_striker: Alok Kapali
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 19.3:
+        non_striker: Alok Kapali
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tushar Imran
+    - 19.4:
+        non_striker: Tushar Imran
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 19.5:
+        non_striker: Tushar Imran
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alok Kapali
+    - 19.6:
+        non_striker: Alok Kapali
+        bowler: PJ Ongondo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tushar Imran
+    - 19.7:
+        non_striker: Alok Kapali
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 20.1:
+        non_striker: Tushar Imran
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alok Kapali
+    - 20.2:
+        non_striker: Alok Kapali
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 20.3:
+        non_striker: Alok Kapali
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tushar Imran
+    - 20.4:
+        non_striker: Alok Kapali
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tushar Imran
+    - 20.5:
+        non_striker: Tushar Imran
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 20.6:
+        non_striker: Tushar Imran
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alok Kapali
+    - 21.1:
+        non_striker: Tushar Imran
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 21.2:
+        non_striker: Tushar Imran
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 21.3:
+        non_striker: Tushar Imran
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Alok Kapali
+    - 21.4:
+        non_striker: Tushar Imran
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Alok Kapali
+    - 21.5:
+        non_striker: Tushar Imran
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 21.6:
+        non_striker: Tushar Imran
+        bowler: PJ Ongondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 22.1:
+        non_striker: Alok Kapali
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tushar Imran
+    - 22.2:
+        non_striker: Alok Kapali
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 22.3:
+        non_striker: Alok Kapali
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tushar Imran
+    - 22.4:
+        non_striker: Alok Kapali
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 22.5:
+        non_striker: Alok Kapali
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 22.6:
+        non_striker: Alok Kapali
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 23.1:
+        non_striker: Tushar Imran
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 23.2:
+        non_striker: Tushar Imran
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 23.3:
+        non_striker: Tushar Imran
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 23.4:
+        non_striker: Tushar Imran
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alok Kapali
+    - 23.5:
+        non_striker: Alok Kapali
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 23.6:
+        non_striker: Alok Kapali
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tushar Imran
+    - 24.1:
+        non_striker: Tushar Imran
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 24.2:
+        non_striker: Tushar Imran
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Alok Kapali
+    - 24.3:
+        non_striker: Alok Kapali
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 24.4:
+        non_striker: Alok Kapali
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 24.5:
+        non_striker: Alok Kapali
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 24.6:
+        non_striker: Alok Kapali
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tushar Imran
+    - 25.1:
+        non_striker: Alok Kapali
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 25.2:
+        non_striker: Alok Kapali
+        bowler: AO Suji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tushar Imran
+    - 25.3:
+        non_striker: Alok Kapali
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tushar Imran
+    - 25.4:
+        non_striker: Alok Kapali
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 25.5:
+        non_striker: Alok Kapali
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 25.6:
+        non_striker: Alok Kapali
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tushar Imran
+    - 25.7:
+        non_striker: Alok Kapali
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tushar Imran
+    - 26.1:
+        non_striker: Alok Kapali
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tushar Imran
+    - 26.2:
+        non_striker: Tushar Imran
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+    - 26.3:
+        non_striker: Tushar Imran
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Alok Kapali
+        wicket:
+          player_out: Alok Kapali
+          fielders:
+          - KO Otieno
+          kind: caught
+    - 26.4:
+        non_striker: Tushar Imran
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 26.5:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tushar Imran
+    - 26.6:
+        non_striker: Tushar Imran
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 27.1:
+        non_striker: Tushar Imran
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 27.2:
+        non_striker: Akram Khan
+        bowler: AO Suji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Tushar Imran
+    - 27.3:
+        non_striker: Akram Khan
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tushar Imran
+    - 27.4:
+        non_striker: Akram Khan
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 27.5:
+        non_striker: Akram Khan
+        bowler: AO Suji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Tushar Imran
+    - 27.6:
+        non_striker: Tushar Imran
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 27.7:
+        non_striker: Akram Khan
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 28.1:
+        non_striker: Tushar Imran
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 28.2:
+        non_striker: Tushar Imran
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 28.3:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 28.4:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+    - 28.5:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tushar Imran
+        wicket:
+          player_out: Tushar Imran
+          fielders:
+          - Joseph Angara (sub)
+          kind: caught
+    - 28.6:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sanwar Hossain
+    - 29.1:
+        non_striker: Akram Khan
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sanwar Hossain
+    - 29.2:
+        non_striker: Sanwar Hossain
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Akram Khan
+    - 29.3:
+        non_striker: Sanwar Hossain
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 29.4:
+        non_striker: Akram Khan
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sanwar Hossain
+    - 29.5:
+        non_striker: Akram Khan
+        bowler: AO Suji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sanwar Hossain
+    - 29.6:
+        non_striker: Sanwar Hossain
+        bowler: AO Suji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Akram Khan
+    - 30.1:
+        non_striker: Sanwar Hossain
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 30.2:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sanwar Hossain
+    - 30.3:
+        non_striker: Sanwar Hossain
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 30.4:
+        non_striker: Sanwar Hossain
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 30.5:
+        non_striker: Sanwar Hossain
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Akram Khan
+    - 30.6:
+        non_striker: Sanwar Hossain
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 31.1:
+        non_striker: Akram Khan
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sanwar Hossain
+    - 31.2:
+        non_striker: Sanwar Hossain
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 31.3:
+        non_striker: Sanwar Hossain
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Akram Khan
+    - 31.4:
+        non_striker: Sanwar Hossain
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 31.5:
+        non_striker: Akram Khan
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sanwar Hossain
+    - 31.6:
+        non_striker: Sanwar Hossain
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 32.1:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sanwar Hossain
+    - 32.2:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sanwar Hossain
+    - 32.3:
+        non_striker: Sanwar Hossain
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 32.4:
+        non_striker: Sanwar Hossain
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 32.5:
+        non_striker: Sanwar Hossain
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 32.6:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sanwar Hossain
+    - 33.1:
+        non_striker: Sanwar Hossain
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 33.2:
+        non_striker: Akram Khan
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sanwar Hossain
+    - 33.3:
+        non_striker: Akram Khan
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sanwar Hossain
+    - 33.4:
+        non_striker: Akram Khan
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sanwar Hossain
+    - 33.5:
+        non_striker: Akram Khan
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sanwar Hossain
+    - 33.6:
+        non_striker: Sanwar Hossain
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 34.1:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sanwar Hossain
+    - 34.2:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sanwar Hossain
+    - 34.3:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sanwar Hossain
+    - 34.4:
+        non_striker: Sanwar Hossain
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 34.5:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sanwar Hossain
+    - 34.6:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sanwar Hossain
+    - 35.1:
+        non_striker: Sanwar Hossain
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 35.2:
+        non_striker: Sanwar Hossain
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 35.3:
+        non_striker: Akram Khan
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sanwar Hossain
+    - 35.4:
+        non_striker: Akram Khan
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sanwar Hossain
+    - 35.5:
+        non_striker: Sanwar Hossain
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Akram Khan
+    - 35.6:
+        non_striker: Akram Khan
+        bowler: CO Obuya
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Sanwar Hossain
+    - 35.7:
+        non_striker: Sanwar Hossain
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 36.1:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sanwar Hossain
+    - 36.2:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sanwar Hossain
+    - 36.3:
+        non_striker: Sanwar Hossain
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 36.4:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sanwar Hossain
+    - 36.5:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sanwar Hossain
+    - 36.6:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sanwar Hossain
+    - 37.1:
+        non_striker: Sanwar Hossain
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Akram Khan
+    - 37.2:
+        non_striker: Sanwar Hossain
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 37.3:
+        non_striker: Sanwar Hossain
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 37.4:
+        non_striker: Sanwar Hossain
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 37.5:
+        non_striker: Sanwar Hossain
+        bowler: SO Tikolo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Akram Khan
+    - 37.6:
+        non_striker: Sanwar Hossain
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 37.7:
+        non_striker: Sanwar Hossain
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 38.1:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sanwar Hossain
+        wicket:
+          player_out: Sanwar Hossain
+          fielders:
+          - MA Suji
+          kind: caught
+    - 38.2:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Mahmud
+    - 38.3:
+        non_striker: Khaled Mahmud
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 38.4:
+        non_striker: Khaled Mahmud
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 38.5:
+        non_striker: Khaled Mahmud
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 38.6:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mahmud
+    - 39.1:
+        non_striker: Khaled Mahmud
+        bowler: SO Tikolo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Akram Khan
+    - 39.2:
+        non_striker: Khaled Mahmud
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 39.3:
+        non_striker: Khaled Mahmud
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 39.4:
+        non_striker: Khaled Mahmud
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 39.5:
+        non_striker: Khaled Mahmud
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 39.6:
+        non_striker: Akram Khan
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Khaled Mahmud
+    - 39.7:
+        non_striker: Akram Khan
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mahmud
+    - 40.1:
+        non_striker: Khaled Mahmud
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 40.2:
+        non_striker: Khaled Mahmud
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 40.3:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mahmud
+    - 40.4:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mahmud
+    - 40.5:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Mahmud
+        wicket:
+          player_out: Khaled Mahmud
+          fielders:
+          - KO Otieno
+          kind: stumped
+    - 40.6:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 41.1:
+        non_striker: Mohammad Rafique
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 41.2:
+        non_striker: Mohammad Rafique
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 41.3:
+        non_striker: Akram Khan
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 41.4:
+        non_striker: Akram Khan
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 41.5:
+        non_striker: Akram Khan
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 41.6:
+        non_striker: Akram Khan
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 42.1:
+        non_striker: Mohammad Rafique
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Akram Khan
+    - 42.2:
+        non_striker: Mohammad Rafique
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 42.3:
+        non_striker: Mohammad Rafique
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 42.4:
+        non_striker: Mohammad Rafique
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 42.5:
+        non_striker: Mohammad Rafique
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Akram Khan
+    - 42.6:
+        non_striker: Mohammad Rafique
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 43.1:
+        non_striker: Akram Khan
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 43.2:
+        non_striker: Akram Khan
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+    - 43.3:
+        non_striker: Akram Khan
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rafique
+    - 43.4:
+        non_striker: Mohammad Rafique
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+    - 43.5:
+        non_striker: Mohammad Rafique
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 43.6:
+        non_striker: Akram Khan
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rafique
+    - 44.1:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rafique
+    - 44.2:
+        non_striker: Mohammad Rafique
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 44.3:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Rafique
+    - 44.4:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rafique
+    - 44.5:
+        non_striker: Mohammad Rafique
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 44.6:
+        non_striker: Akram Khan
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Rafique
+    - 44.7:
+        non_striker: Mohammad Rafique
+        bowler: MO Odumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 45.1:
+        non_striker: Mohammad Rafique
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 45.2:
+        non_striker: Akram Khan
+        bowler: SO Tikolo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammad Rafique
+    - 45.3:
+        non_striker: Mohammad Rafique
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akram Khan
+    - 45.4:
+        non_striker: Akram Khan
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Rafique
+        wicket:
+          player_out: Mohammad Rafique
+          fielders:
+          - HS Modi
+          kind: caught
+    - 45.5:
+        non_striker: Tapash Baisya
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akram Khan
+        wicket:
+          player_out: Akram Khan
+          fielders:
+          - Joseph Angara (sub)
+          kind: caught
+    - 45.6:
+        non_striker: Manjural Islam
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tapash Baisya
+    - 46.1:
+        non_striker: Tapash Baisya
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manjural Islam
+    - 46.2:
+        non_striker: Tapash Baisya
+        bowler: CO Obuya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Manjural Islam
+    - 46.3:
+        non_striker: Manjural Islam
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tapash Baisya
+    - 46.4:
+        non_striker: Manjural Islam
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tapash Baisya
+    - 46.5:
+        non_striker: Tapash Baisya
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manjural Islam
+    - 46.6:
+        non_striker: Tapash Baisya
+        bowler: CO Obuya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manjural Islam
+    - 47.1:
+        non_striker: Manjural Islam
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tapash Baisya
+    - 47.2:
+        non_striker: Tapash Baisya
+        bowler: SO Tikolo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manjural Islam
+        wicket:
+          player_out: Manjural Islam
+          fielders:
+          - KO Otieno
+          kind: stumped

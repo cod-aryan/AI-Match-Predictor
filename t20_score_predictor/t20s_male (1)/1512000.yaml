@@ -1,0 +1,976 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-11-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kuala Lumpur
+  dates:
+  - '2025-11-27'
+  gender: male
+  match_type: T20
+  match_type_number: 3590
+  outcome:
+    result: no result
+  overs: 20
+  players:
+    Thailand:
+    - S Desungnoen
+    - S Rungrueang
+    - Y Saranonnakkun
+    - C Chatphaisan
+    - N Nuntarach
+    - P Suanchuai
+    - P Thongsa
+    - C Pengkumta
+    - N Senamontree
+    - K Senamontree
+    - T Yotharat
+    Bahrain:
+    - Imran Anwar
+    - P Kurup
+    - Junaid Aziz
+    - Rizwan Butt
+    - Ahmer Bin Nisar
+    - Asif Shaikh
+    - Asif Ali
+    - Asif Javed
+    - Naveena Shetty
+    - Muhammad Salman
+    - Abdul Majid Abbasi
+  registry:
+    people:
+      Abdul Majid Abbasi: 0cfb42b5
+      Ahmer Bin Nisar: afbc53ba
+      Asif Ali: 0a4736eb
+      Asif Javed: 6e397f37
+      Asif Shaikh: 231daa19
+      C Chatphaisan: 85c56be8
+      C Pengkumta: b3540b2a
+      Chandra Segar: a61f0e67
+      Imran Anwar: a9a18e3e
+      Junaid Aziz: c39ee9e0
+      K Senamontree: e553e27f
+      Muhammad Salman: 460fc0ba
+      N Nuntarach: 9e3575ce
+      N Senamontree: 44e00a4c
+      N Sivan: 8f4a0102
+      Naveena Shetty: dd968a7b
+      P Kurup: 50ceaef6
+      P Suanchuai: e6948355
+      P Thongsa: '62318525'
+      Rizwan Butt: e741ed8f
+      Rudy Ismandy: '84682045'
+      S Desungnoen: 3eb26dc4
+      S Rungrueang: 35ae9e8a
+      Suresh Singh: 073de6f9
+      T Yotharat: 1f74f675
+      Y Saranonnakkun: 9c93c0a3
+  teams:
+  - Thailand
+  - Bahrain
+  toss:
+    winner: Bahrain
+    decision: field
+  umpires:
+  - N Sivan
+  - Rudy Ismandy
+  venue: Bayuemas Oval, Kuala Lumpur
+innings:
+- 1st innings:
+    team: Thailand
+    deliveries:
+    - 0.1:
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Rungrueang
+        batsman: S Desungnoen
+    - 0.2:
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Rungrueang
+        batsman: S Desungnoen
+    - 0.3:
+        non_striker: S Desungnoen
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Rungrueang
+        wicket:
+          player_out: S Rungrueang
+          kind: bowled
+    - 0.4:
+        non_striker: S Desungnoen
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 0.5:
+        non_striker: S Desungnoen
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 0.6:
+        non_striker: S Desungnoen
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 1.1:
+        non_striker: Y Saranonnakkun
+        bowler: Imran Anwar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Desungnoen
+    - 1.2:
+        non_striker: Y Saranonnakkun
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 1.3:
+        non_striker: Y Saranonnakkun
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 1.4:
+        non_striker: Y Saranonnakkun
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Desungnoen
+    - 1.5:
+        non_striker: S Desungnoen
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 1.6:
+        non_striker: S Desungnoen
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 1.7:
+        non_striker: S Desungnoen
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+    - 2.1:
+        non_striker: Y Saranonnakkun
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 2.2:
+        non_striker: Y Saranonnakkun
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 2.3:
+        non_striker: Y Saranonnakkun
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+    - 2.4:
+        non_striker: Y Saranonnakkun
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Desungnoen
+    - 2.5:
+        non_striker: Y Saranonnakkun
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Desungnoen
+        wicket:
+          player_out: S Desungnoen
+          kind: bowled
+    - 2.6:
+        non_striker: Y Saranonnakkun
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+    - 3.1:
+        non_striker: C Chatphaisan
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Saranonnakkun
+        wicket:
+          player_out: Y Saranonnakkun
+          kind: lbw
+    - 3.2:
+        non_striker: C Chatphaisan
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 3.3:
+        non_striker: C Chatphaisan
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 3.4:
+        non_striker: C Chatphaisan
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 3.5:
+        non_striker: C Chatphaisan
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 3.6:
+        non_striker: C Chatphaisan
+        bowler: Imran Anwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 4.1:
+        non_striker: N Nuntarach
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatphaisan
+        wicket:
+          player_out: C Chatphaisan
+          fielders:
+          - Rizwan Butt
+          kind: caught
+    - 4.2:
+        non_striker: N Nuntarach
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 4.3:
+        non_striker: N Nuntarach
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 4.4:
+        non_striker: N Nuntarach
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 4.5:
+        non_striker: N Nuntarach
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 4.6:
+        non_striker: N Nuntarach
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 5.1:
+        non_striker: P Suanchuai
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Nuntarach
+    - 5.2:
+        non_striker: P Suanchuai
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+    - 5.3:
+        non_striker: P Suanchuai
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Nuntarach
+        wicket:
+          player_out: N Nuntarach
+          kind: bowled
+    - 5.4:
+        non_striker: P Suanchuai
+        bowler: Muhammad Salman
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          wides: 4
+        batsman: P Thongsa
+    - 5.5:
+        non_striker: P Thongsa
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 5.6:
+        non_striker: P Thongsa
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 5.7:
+        non_striker: P Thongsa
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 6.1:
+        non_striker: P Suanchuai
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 6.2:
+        non_striker: P Thongsa
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 6.3:
+        non_striker: P Thongsa
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 6.4:
+        non_striker: P Thongsa
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 6.5:
+        non_striker: P Thongsa
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Suanchuai
+    - 6.6:
+        non_striker: P Thongsa
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+    - 7.1:
+        non_striker: P Suanchuai
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 7.2:
+        non_striker: P Thongsa
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Suanchuai
+    - 7.3:
+        non_striker: P Suanchuai
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 7.4:
+        non_striker: P Suanchuai
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 7.5:
+        non_striker: P Suanchuai
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 7.6:
+        non_striker: P Suanchuai
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 8.1:
+        non_striker: P Thongsa
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Suanchuai
+        wicket:
+          player_out: P Suanchuai
+          fielders:
+          - Muhammad Salman
+          kind: caught
+    - 8.2:
+        non_striker: P Thongsa
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 8.3:
+        non_striker: C Pengkumta
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 8.4:
+        non_striker: C Pengkumta
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 8.5:
+        non_striker: C Pengkumta
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 8.6:
+        non_striker: C Pengkumta
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Thongsa
+    - 9.1:
+        non_striker: P Thongsa
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 9.2:
+        non_striker: P Thongsa
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 9.3:
+        non_striker: P Thongsa
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 9.4:
+        non_striker: P Thongsa
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Pengkumta
+    - 9.5:
+        non_striker: P Thongsa
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 9.6:
+        non_striker: C Pengkumta
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 10.1:
+        non_striker: C Pengkumta
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 10.2:
+        non_striker: P Thongsa
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 10.3:
+        non_striker: P Thongsa
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 10.4:
+        non_striker: P Thongsa
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 10.5:
+        non_striker: P Thongsa
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 10.6:
+        non_striker: C Pengkumta
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 11.1:
+        non_striker: C Pengkumta
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 11.2:
+        non_striker: P Thongsa
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 11.3:
+        non_striker: C Pengkumta
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 11.4:
+        non_striker: P Thongsa
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 11.5:
+        non_striker: C Pengkumta
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 11.6:
+        non_striker: C Pengkumta
+        bowler: Asif Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 12.1:
+        non_striker: P Thongsa
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 12.2:
+        non_striker: P Thongsa
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 12.3:
+        non_striker: C Pengkumta
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 12.4:
+        non_striker: P Thongsa
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Pengkumta
+    - 12.5:
+        non_striker: P Thongsa
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 12.6:
+        non_striker: P Thongsa
+        bowler: Rizwan Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 13.1:
+        non_striker: C Pengkumta
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 13.2:
+        non_striker: P Thongsa
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Pengkumta
+    - 13.3:
+        non_striker: P Thongsa
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Pengkumta
+    - 13.4:
+        non_striker: C Pengkumta
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 13.5:
+        non_striker: C Pengkumta
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 13.6:
+        non_striker: P Thongsa
+        bowler: Muhammad Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+    - 14.1:
+        non_striker: C Pengkumta
+        bowler: Ahmer Bin Nisar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 14.2:
+        non_striker: P Thongsa
+        bowler: Ahmer Bin Nisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Pengkumta
+        wicket:
+          player_out: C Pengkumta
+          fielders:
+          - Asif Javed
+          kind: caught
+    - 14.3:
+        non_striker: P Thongsa
+        bowler: Ahmer Bin Nisar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Senamontree
+    - 14.4:
+        non_striker: P Thongsa
+        bowler: Ahmer Bin Nisar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 14.5:
+        non_striker: N Senamontree
+        bowler: Ahmer Bin Nisar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 14.6:
+        non_striker: P Thongsa
+        bowler: Ahmer Bin Nisar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 15.1:
+        non_striker: P Thongsa
+        bowler: Asif Shaikh
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: N Senamontree
+    - 15.2:
+        non_striker: P Thongsa
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Senamontree
+    - 15.3:
+        non_striker: P Thongsa
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 15.4:
+        non_striker: N Senamontree
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Thongsa
+    - 15.5:
+        non_striker: N Senamontree
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 15.6:
+        non_striker: P Thongsa
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 15.7:
+        non_striker: N Senamontree
+        bowler: Asif Shaikh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Thongsa
+    - 16.1:
+        non_striker: P Thongsa
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 16.2:
+        non_striker: N Senamontree
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 16.3:
+        non_striker: P Thongsa
+        bowler: Asif Javed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Senamontree
+    - 16.4:
+        non_striker: P Thongsa
+        bowler: Asif Javed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Senamontree
+    - 16.5:
+        non_striker: P Thongsa
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Senamontree
+    - 16.6:
+        non_striker: P Thongsa
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree
+    - 16.7:
+        non_striker: N Senamontree
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Thongsa
+    - 16.8:
+        non_striker: P Thongsa
+        bowler: Asif Javed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Senamontree

@@ -1,0 +1,3587 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-13'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: London
+  dates:
+  - '2003-06-20'
+  gender: male
+  match_type: ODI
+  match_type_number: 2026
+  outcome:
+    winner: England
+    by:
+      wickets: 7
+  overs: 50
+  player_of_match:
+  - ME Trescothick
+  players:
+    Pakistan:
+    - Imran Nazir
+    - Mohammad Hafeez
+    - Yasir Hameed
+    - Yousuf Youhana
+    - Younis Khan
+    - Shoaib Malik
+    - Rashid Latif
+    - Azhar Mahmood
+    - Abdul Razzaq
+    - Shoaib Akhtar
+    - Mohammad Sami
+    England:
+    - ME Trescothick
+    - VS Solanki
+    - MP Vaughan
+    - JO Troughton
+    - A Flintoff
+    - A McGrath
+    - R Clarke
+    - CMW Read
+    - AF Giles
+    - D Gough
+    - JM Anderson
+  registry:
+    people:
+      A Flintoff: ddc0828d
+      A McGrath: e8b5ea8d
+      AF Giles: a4af4849
+      Abdul Razzaq: 390ff45b
+      Azhar Mahmood: 9a158001
+      CMW Read: be4cefab
+      D Gough: fcbf5a30
+      DB Hair: 492e1a8e
+      GR Viswanath: 9333bc07
+      Imran Nazir: 3eb7c45d
+      JM Anderson: d12143bf
+      JO Troughton: af2cc80a
+      JW Lloyds: 112b8472
+      ME Trescothick: ea42ddb9
+      MP Vaughan: 6e1b1ec0
+      Mohammad Hafeez: 9ab63e7b
+      Mohammad Sami: 68ddabdb
+      NA Mallender: 3b5dfcd4
+      R Clarke: 8728a058
+      Rashid Latif: d32782ae
+      Shoaib Akhtar: 10a91f35
+      Shoaib Malik: 64c34cd0
+      VS Solanki: 7ee2ce62
+      Yasir Hameed: f144d99b
+      Younis Khan: 33cb3411
+      Yousuf Youhana: e237b28c
+  teams:
+  - Pakistan
+  - England
+  toss:
+    winner: Pakistan
+    decision: bat
+  umpires:
+  - DB Hair
+  - NA Mallender
+  venue: Kennington Oval, London
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohammad Hafeez
+        batsman: Imran Nazir
+        wicket:
+          player_out: Imran Nazir
+          kind: lbw
+    - 0.2:
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohammad Hafeez
+        batsman: Yasir Hameed
+    - 0.3:
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohammad Hafeez
+        batsman: Yasir Hameed
+    - 0.4:
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohammad Hafeez
+        batsman: Yasir Hameed
+    - 0.5:
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Mohammad Hafeez
+        batsman: Yasir Hameed
+    - 0.6:
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Mohammad Hafeez
+        batsman: Yasir Hameed
+    - 1.1:
+        non_striker: Yasir Hameed
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Hafeez
+    - 1.2:
+        non_striker: Yasir Hameed
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Hafeez
+    - 1.3:
+        non_striker: Mohammad Hafeez
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 1.4:
+        non_striker: Mohammad Hafeez
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 1.5:
+        non_striker: Mohammad Hafeez
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 1.6:
+        non_striker: Mohammad Hafeez
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 2.1:
+        non_striker: Yasir Hameed
+        bowler: JM Anderson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Mohammad Hafeez
+    - 2.2:
+        non_striker: Mohammad Hafeez
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 2.3:
+        non_striker: Mohammad Hafeez
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 2.4:
+        non_striker: Mohammad Hafeez
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 2.5:
+        non_striker: Mohammad Hafeez
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 2.6:
+        non_striker: Mohammad Hafeez
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 3.1:
+        non_striker: Yasir Hameed
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 3.2:
+        non_striker: Yasir Hameed
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Hafeez
+    - 3.3:
+        non_striker: Mohammad Hafeez
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yasir Hameed
+    - 3.4:
+        non_striker: Mohammad Hafeez
+        bowler: D Gough
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Yasir Hameed
+    - 3.5:
+        non_striker: Mohammad Hafeez
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 3.6:
+        non_striker: Mohammad Hafeez
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 3.7:
+        non_striker: Mohammad Hafeez
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 4.1:
+        non_striker: Yasir Hameed
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 4.2:
+        non_striker: Yasir Hameed
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 4.3:
+        non_striker: Yasir Hameed
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Hafeez
+    - 4.4:
+        non_striker: Mohammad Hafeez
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 4.5:
+        non_striker: Mohammad Hafeez
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 4.6:
+        non_striker: Mohammad Hafeez
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 5.1:
+        non_striker: Yasir Hameed
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 5.2:
+        non_striker: Yasir Hameed
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 5.3:
+        non_striker: Yasir Hameed
+        bowler: D Gough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Mohammad Hafeez
+    - 5.4:
+        non_striker: Yasir Hameed
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 5.5:
+        non_striker: Yasir Hameed
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 5.6:
+        non_striker: Yasir Hameed
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 5.7:
+        non_striker: Yasir Hameed
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Hafeez
+    - 6.1:
+        non_striker: Mohammad Hafeez
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 6.2:
+        non_striker: Mohammad Hafeez
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 6.3:
+        non_striker: Mohammad Hafeez
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 6.4:
+        non_striker: Mohammad Hafeez
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 6.5:
+        non_striker: Mohammad Hafeez
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasir Hameed
+    - 6.6:
+        non_striker: Mohammad Hafeez
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasir Hameed
+    - 7.1:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Hafeez
+    - 7.2:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Hafeez
+    - 7.3:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 7.4:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 7.5:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 7.6:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 7.7:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 8.1:
+        non_striker: Mohammad Hafeez
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 8.2:
+        non_striker: Mohammad Hafeez
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Hameed
+    - 8.3:
+        non_striker: Yasir Hameed
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 8.4:
+        non_striker: Yasir Hameed
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Hafeez
+    - 8.5:
+        non_striker: Mohammad Hafeez
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 8.6:
+        non_striker: Mohammad Hafeez
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 9.1:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 9.2:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 9.3:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 9.4:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+        wicket:
+          player_out: Mohammad Hafeez
+          kind: lbw
+    - 9.5:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 9.6:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 10.1:
+        non_striker: Yasir Hameed
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 10.2:
+        non_striker: Yasir Hameed
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 10.3:
+        non_striker: Yasir Hameed
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 10.4:
+        non_striker: Yasir Hameed
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 10.5:
+        non_striker: Yasir Hameed
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 10.6:
+        non_striker: Yasir Hameed
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 11.1:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 11.2:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 11.3:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 11.4:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 11.5:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 11.6:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 12.1:
+        non_striker: Yasir Hameed
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yousuf Youhana
+    - 12.2:
+        non_striker: Yasir Hameed
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 12.3:
+        non_striker: Yasir Hameed
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 12.4:
+        non_striker: Yasir Hameed
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 12.5:
+        non_striker: Yasir Hameed
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 12.6:
+        non_striker: Yasir Hameed
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 13.1:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasir Hameed
+    - 13.2:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 13.3:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Hameed
+    - 13.4:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 13.5:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 13.6:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 14.1:
+        non_striker: Yasir Hameed
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 14.2:
+        non_striker: Yasir Hameed
+        bowler: D Gough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yousuf Youhana
+    - 14.3:
+        non_striker: Yasir Hameed
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 14.4:
+        non_striker: Yousuf Youhana
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 14.5:
+        non_striker: Yousuf Youhana
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Hameed
+    - 14.6:
+        non_striker: Yasir Hameed
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 14.7:
+        non_striker: Yasir Hameed
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 15.1:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 15.2:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 15.3:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 15.4:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 15.5:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Hameed
+    - 15.6:
+        non_striker: Yasir Hameed
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 16.1:
+        non_striker: Yasir Hameed
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 16.2:
+        non_striker: Yasir Hameed
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 16.3:
+        non_striker: Yasir Hameed
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 16.4:
+        non_striker: Yousuf Youhana
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 16.5:
+        non_striker: Yousuf Youhana
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 16.6:
+        non_striker: Yousuf Youhana
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Hameed
+    - 17.1:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasir Hameed
+    - 17.2:
+        non_striker: Yasir Hameed
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 17.3:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 17.4:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 17.5:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Yasir Hameed
+    - 17.6:
+        non_striker: Yasir Hameed
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 17.7:
+        non_striker: Yasir Hameed
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yousuf Youhana
+    - 18.1:
+        non_striker: Yousuf Youhana
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 18.2:
+        non_striker: Yousuf Youhana
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 18.3:
+        non_striker: Yousuf Youhana
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 18.4:
+        non_striker: Yousuf Youhana
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+    - 18.5:
+        non_striker: Yousuf Youhana
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasir Hameed
+        wicket:
+          player_out: Yasir Hameed
+          kind: bowled
+    - 18.6:
+        non_striker: Yousuf Youhana
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+        wicket:
+          player_out: Younis Khan
+          fielders:
+          - CMW Read
+          kind: caught
+    - 19.1:
+        non_striker: Shoaib Malik
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 19.2:
+        non_striker: Shoaib Malik
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yousuf Youhana
+    - 19.3:
+        non_striker: Shoaib Malik
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 19.4:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 19.5:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 19.6:
+        non_striker: Shoaib Malik
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 20.1:
+        non_striker: Yousuf Youhana
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 20.2:
+        non_striker: Yousuf Youhana
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 20.3:
+        non_striker: Yousuf Youhana
+        bowler: D Gough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Shoaib Malik
+    - 20.4:
+        non_striker: Yousuf Youhana
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Malik
+    - 20.5:
+        non_striker: Shoaib Malik
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yousuf Youhana
+    - 20.6:
+        non_striker: Shoaib Malik
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 20.7:
+        non_striker: Shoaib Malik
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 21.1:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 21.2:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 21.3:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 21.4:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 21.5:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 21.6:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Malik
+    - 22.1:
+        non_striker: Shoaib Malik
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yousuf Youhana
+    - 22.2:
+        non_striker: Shoaib Malik
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 22.3:
+        non_striker: Shoaib Malik
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+        wicket:
+          player_out: Shoaib Malik
+          fielders:
+          - JO Troughton
+          kind: run out
+    - 22.4:
+        non_striker: Yousuf Youhana
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 22.5:
+        non_striker: Rashid Latif
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 22.6:
+        non_striker: Rashid Latif
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 23.1:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 23.2:
+        non_striker: Rashid Latif
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 23.3:
+        non_striker: Rashid Latif
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yousuf Youhana
+    - 23.4:
+        non_striker: Rashid Latif
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 23.5:
+        non_striker: Rashid Latif
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 23.6:
+        non_striker: Rashid Latif
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 24.1:
+        non_striker: Yousuf Youhana
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 24.2:
+        non_striker: Yousuf Youhana
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 24.3:
+        non_striker: Yousuf Youhana
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 24.4:
+        non_striker: Yousuf Youhana
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 24.5:
+        non_striker: Rashid Latif
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 24.6:
+        non_striker: Yousuf Youhana
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 25.1:
+        non_striker: Rashid Latif
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 25.2:
+        non_striker: Rashid Latif
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 25.3:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 25.4:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 25.5:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 25.6:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+        wicket:
+          player_out: Rashid Latif
+          fielders:
+          - VS Solanki
+          kind: caught
+    - 26.1:
+        non_striker: Azhar Mahmood
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 26.2:
+        non_striker: Azhar Mahmood
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 26.3:
+        non_striker: Yousuf Youhana
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Mahmood
+    - 26.4:
+        non_striker: Azhar Mahmood
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yousuf Youhana
+    - 26.5:
+        non_striker: Azhar Mahmood
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yousuf Youhana
+    - 26.6:
+        non_striker: Azhar Mahmood
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 27.1:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Mahmood
+    - 27.2:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Mahmood
+    - 27.3:
+        non_striker: Azhar Mahmood
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yousuf Youhana
+    - 27.4:
+        non_striker: Azhar Mahmood
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 27.5:
+        non_striker: Azhar Mahmood
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 27.6:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Mahmood
+    - 28.1:
+        non_striker: Yousuf Youhana
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Mahmood
+    - 28.2:
+        non_striker: Azhar Mahmood
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 28.3:
+        non_striker: Yousuf Youhana
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Mahmood
+    - 28.4:
+        non_striker: Azhar Mahmood
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 28.5:
+        non_striker: Azhar Mahmood
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 28.6:
+        non_striker: Azhar Mahmood
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yousuf Youhana
+    - 29.1:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Mahmood
+    - 29.2:
+        non_striker: Azhar Mahmood
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 29.3:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Mahmood
+    - 29.4:
+        non_striker: Azhar Mahmood
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 29.5:
+        non_striker: Azhar Mahmood
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 29.6:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Mahmood
+    - 30.1:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Mahmood
+    - 30.2:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Mahmood
+    - 30.3:
+        non_striker: Azhar Mahmood
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 30.4:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Mahmood
+    - 30.5:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Mahmood
+    - 30.6:
+        non_striker: Azhar Mahmood
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 31.1:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Mahmood
+    - 31.2:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Mahmood
+    - 31.3:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Mahmood
+    - 31.4:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Mahmood
+    - 31.5:
+        non_striker: Azhar Mahmood
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 31.6:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Mahmood
+    - 32.1:
+        non_striker: Azhar Mahmood
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 32.2:
+        non_striker: Azhar Mahmood
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 32.3:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azhar Mahmood
+    - 32.4:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Azhar Mahmood
+    - 32.5:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Mahmood
+    - 32.6:
+        non_striker: Azhar Mahmood
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yousuf Youhana
+    - 33.1:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Mahmood
+    - 33.2:
+        non_striker: Azhar Mahmood
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 33.3:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Azhar Mahmood
+    - 33.4:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Mahmood
+    - 33.5:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Mahmood
+    - 33.6:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Mahmood
+    - 34.1:
+        non_striker: Azhar Mahmood
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 34.2:
+        non_striker: Yousuf Youhana
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Mahmood
+    - 34.3:
+        non_striker: Azhar Mahmood
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 34.4:
+        non_striker: Azhar Mahmood
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 34.5:
+        non_striker: Azhar Mahmood
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 34.6:
+        non_striker: Yousuf Youhana
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Mahmood
+    - 35.1:
+        non_striker: Azhar Mahmood
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 35.2:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Mahmood
+    - 35.3:
+        non_striker: Azhar Mahmood
+        bowler: A McGrath
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Yousuf Youhana
+    - 35.4:
+        non_striker: Azhar Mahmood
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 35.5:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Mahmood
+    - 35.6:
+        non_striker: Yousuf Youhana
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Mahmood
+    - 35.7:
+        non_striker: Azhar Mahmood
+        bowler: A McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 36.1:
+        non_striker: Azhar Mahmood
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 36.2:
+        non_striker: Yousuf Youhana
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Mahmood
+    - 36.3:
+        non_striker: Yousuf Youhana
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Mahmood
+    - 36.4:
+        non_striker: Azhar Mahmood
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 36.5:
+        non_striker: Azhar Mahmood
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yousuf Youhana
+    - 36.6:
+        non_striker: Azhar Mahmood
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 37.1:
+        non_striker: Azhar Mahmood
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 37.2:
+        non_striker: Azhar Mahmood
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 37.3:
+        non_striker: Yousuf Youhana
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Mahmood
+    - 37.4:
+        non_striker: Yousuf Youhana
+        bowler: AF Giles
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Azhar Mahmood
+    - 37.5:
+        non_striker: Yousuf Youhana
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Azhar Mahmood
+    - 37.6:
+        non_striker: Azhar Mahmood
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 37.7:
+        non_striker: Yousuf Youhana
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Mahmood
+    - 38.1:
+        non_striker: Azhar Mahmood
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 38.2:
+        non_striker: Yousuf Youhana
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Mahmood
+    - 38.3:
+        non_striker: Yousuf Youhana
+        bowler: R Clarke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Azhar Mahmood
+    - 38.4:
+        non_striker: Yousuf Youhana
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Mahmood
+    - 38.5:
+        non_striker: Yousuf Youhana
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Azhar Mahmood
+        wicket:
+          player_out: Azhar Mahmood
+          fielders:
+          - VS Solanki
+          kind: caught
+    - 38.6:
+        non_striker: Yousuf Youhana
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Razzaq
+    - 38.7:
+        non_striker: Abdul Razzaq
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 39.1:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+    - 39.2:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Razzaq
+    - 39.3:
+        non_striker: Abdul Razzaq
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 39.4:
+        non_striker: Abdul Razzaq
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 39.5:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abdul Razzaq
+    - 39.6:
+        non_striker: Yousuf Youhana
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+    - 40.1:
+        non_striker: Abdul Razzaq
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 40.2:
+        non_striker: Yousuf Youhana
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+    - 40.3:
+        non_striker: Yousuf Youhana
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abdul Razzaq
+    - 40.4:
+        non_striker: Yousuf Youhana
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+    - 40.5:
+        non_striker: Yousuf Youhana
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Razzaq
+    - 40.6:
+        non_striker: Abdul Razzaq
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 41.1:
+        non_striker: Abdul Razzaq
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 41.2:
+        non_striker: Abdul Razzaq
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 41.3:
+        non_striker: Abdul Razzaq
+        bowler: JM Anderson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yousuf Youhana
+    - 41.4:
+        non_striker: Abdul Razzaq
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 41.5:
+        non_striker: Yousuf Youhana
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Razzaq
+    - 41.6:
+        non_striker: Abdul Razzaq
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 41.7:
+        non_striker: Yousuf Youhana
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdul Razzaq
+    - 42.1:
+        non_striker: Abdul Razzaq
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yousuf Youhana
+    - 42.2:
+        non_striker: Abdul Razzaq
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 42.3:
+        non_striker: Yousuf Youhana
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Razzaq
+    - 42.4:
+        non_striker: Abdul Razzaq
+        bowler: R Clarke
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yousuf Youhana
+    - 42.5:
+        non_striker: Abdul Razzaq
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 42.6:
+        non_striker: Yousuf Youhana
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+    - 42.7:
+        non_striker: Yousuf Youhana
+        bowler: R Clarke
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdul Razzaq
+    - 43.1:
+        non_striker: Abdul Razzaq
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 43.2:
+        non_striker: Yousuf Youhana
+        bowler: JM Anderson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Abdul Razzaq
+    - 43.3:
+        non_striker: Abdul Razzaq
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 43.4:
+        non_striker: Yousuf Youhana
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+        wicket:
+          player_out: Abdul Razzaq
+          fielders:
+          - ME Trescothick
+          kind: caught
+    - 43.5:
+        non_striker: Yousuf Youhana
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Akhtar
+        wicket:
+          player_out: Shoaib Akhtar
+          fielders:
+          - CMW Read
+          kind: caught
+    - 43.6:
+        non_striker: Yousuf Youhana
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Sami
+        wicket:
+          player_out: Mohammad Sami
+          kind: bowled
+- 2nd innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 0.2:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 0.3:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 0.4:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 0.5:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Trescothick
+    - 0.6:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Trescothick
+    - 0.7:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 0.8:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 1.1:
+        non_striker: ME Trescothick
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 1.2:
+        non_striker: VS Solanki
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 1.3:
+        non_striker: VS Solanki
+        bowler: Mohammad Sami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Trescothick
+    - 1.4:
+        non_striker: VS Solanki
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 1.5:
+        non_striker: VS Solanki
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 1.6:
+        non_striker: VS Solanki
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 1.7:
+        non_striker: VS Solanki
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 2.1:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 2.2:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 2.3:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 2.4:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 2.5:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: ME Trescothick
+    - 2.6:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 2.7:
+        non_striker: ME Trescothick
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 3.1:
+        non_striker: VS Solanki
+        bowler: Azhar Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 3.2:
+        non_striker: VS Solanki
+        bowler: Azhar Mahmood
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: ME Trescothick
+    - 3.3:
+        non_striker: VS Solanki
+        bowler: Azhar Mahmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 3.4:
+        non_striker: VS Solanki
+        bowler: Azhar Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 3.5:
+        non_striker: VS Solanki
+        bowler: Azhar Mahmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 3.6:
+        non_striker: VS Solanki
+        bowler: Azhar Mahmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 4.1:
+        non_striker: ME Trescothick
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 4.2:
+        non_striker: ME Trescothick
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VS Solanki
+    - 4.3:
+        non_striker: ME Trescothick
+        bowler: Mohammad Sami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VS Solanki
+    - 4.4:
+        non_striker: ME Trescothick
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 4.5:
+        non_striker: ME Trescothick
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 4.6:
+        non_striker: ME Trescothick
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 4.7:
+        non_striker: ME Trescothick
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 5.1:
+        non_striker: VS Solanki
+        bowler: Azhar Mahmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Trescothick
+    - 5.2:
+        non_striker: VS Solanki
+        bowler: Azhar Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 5.3:
+        non_striker: VS Solanki
+        bowler: Azhar Mahmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 5.4:
+        non_striker: VS Solanki
+        bowler: Azhar Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 5.5:
+        non_striker: VS Solanki
+        bowler: Azhar Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 5.6:
+        non_striker: VS Solanki
+        bowler: Azhar Mahmood
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ME Trescothick
+    - 5.7:
+        non_striker: ME Trescothick
+        bowler: Azhar Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 6.1:
+        non_striker: VS Solanki
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 6.2:
+        non_striker: VS Solanki
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 6.3:
+        non_striker: VS Solanki
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 6.4:
+        non_striker: VS Solanki
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 6.5:
+        non_striker: VS Solanki
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 6.6:
+        non_striker: VS Solanki
+        bowler: Mohammad Sami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: ME Trescothick
+    - 6.7:
+        non_striker: VS Solanki
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 7.1:
+        non_striker: ME Trescothick
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VS Solanki
+    - 7.2:
+        non_striker: ME Trescothick
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 7.3:
+        non_striker: ME Trescothick
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 7.4:
+        non_striker: ME Trescothick
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: VS Solanki
+    - 7.5:
+        non_striker: VS Solanki
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 7.6:
+        non_striker: VS Solanki
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 7.7:
+        non_striker: VS Solanki
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 8.1:
+        non_striker: ME Trescothick
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: VS Solanki
+    - 8.2:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 8.3:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 8.4:
+        non_striker: ME Trescothick
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 8.5:
+        non_striker: ME Trescothick
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 8.6:
+        non_striker: ME Trescothick
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 9.1:
+        non_striker: VS Solanki
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 9.2:
+        non_striker: VS Solanki
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 9.3:
+        non_striker: VS Solanki
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ME Trescothick
+    - 9.4:
+        non_striker: VS Solanki
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 9.5:
+        non_striker: VS Solanki
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 9.6:
+        non_striker: VS Solanki
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 10.1:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 10.2:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 10.3:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ME Trescothick
+    - 10.4:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 10.5:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 10.6:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ME Trescothick
+    - 11.1:
+        non_striker: VS Solanki
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 11.2:
+        non_striker: VS Solanki
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 11.3:
+        non_striker: VS Solanki
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Trescothick
+    - 11.4:
+        non_striker: VS Solanki
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+        wicket:
+          player_out: ME Trescothick
+          fielders:
+          - Rashid Latif
+          kind: caught
+    - 11.5:
+        non_striker: MP Vaughan
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 11.6:
+        non_striker: MP Vaughan
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 12.1:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 12.2:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Vaughan
+    - 12.3:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 12.4:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Vaughan
+    - 12.5:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 12.6:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 13.1:
+        non_striker: MP Vaughan
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 13.2:
+        non_striker: MP Vaughan
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 13.3:
+        non_striker: MP Vaughan
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VS Solanki
+    - 13.4:
+        non_striker: MP Vaughan
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 13.5:
+        non_striker: VS Solanki
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 13.6:
+        non_striker: VS Solanki
+        bowler: Abdul Razzaq
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: MP Vaughan
+    - 13.7:
+        non_striker: MP Vaughan
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 14.1:
+        non_striker: MP Vaughan
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 14.2:
+        non_striker: MP Vaughan
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 14.3:
+        non_striker: MP Vaughan
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: VS Solanki
+    - 14.4:
+        non_striker: MP Vaughan
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VS Solanki
+    - 14.5:
+        non_striker: MP Vaughan
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 14.6:
+        non_striker: MP Vaughan
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 14.7:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 15.1:
+        non_striker: MP Vaughan
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VS Solanki
+    - 15.2:
+        non_striker: MP Vaughan
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 15.3:
+        non_striker: MP Vaughan
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 15.4:
+        non_striker: MP Vaughan
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VS Solanki
+    - 15.5:
+        non_striker: MP Vaughan
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 15.6:
+        non_striker: VS Solanki
+        bowler: Abdul Razzaq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MP Vaughan
+    - 16.1:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 16.2:
+        non_striker: MP Vaughan
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VS Solanki
+    - 16.3:
+        non_striker: MP Vaughan
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 16.4:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 16.5:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 16.6:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+        wicket:
+          player_out: MP Vaughan
+          fielders:
+          - Younis Khan
+          kind: caught
+    - 17.1:
+        non_striker: JO Troughton
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 17.2:
+        non_striker: JO Troughton
+        bowler: Abdul Razzaq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VS Solanki
+    - 17.3:
+        non_striker: JO Troughton
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 17.4:
+        non_striker: VS Solanki
+        bowler: Abdul Razzaq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: JO Troughton
+    - 17.5:
+        non_striker: VS Solanki
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Troughton
+    - 17.6:
+        non_striker: VS Solanki
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Troughton
+    - 17.7:
+        non_striker: VS Solanki
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Troughton
+    - 17.8:
+        non_striker: VS Solanki
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Troughton
+    - 18.1:
+        non_striker: JO Troughton
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 18.2:
+        non_striker: JO Troughton
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 18.3:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Troughton
+        wicket:
+          player_out: JO Troughton
+          fielders:
+          - Rashid Latif
+          kind: caught
+    - 18.4:
+        non_striker: VS Solanki
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Flintoff
+    - 18.5:
+        non_striker: A Flintoff
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 18.6:
+        non_striker: A Flintoff
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 19.1:
+        non_striker: VS Solanki
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Flintoff
+    - 19.2:
+        non_striker: VS Solanki
+        bowler: Abdul Razzaq
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: A Flintoff
+    - 19.3:
+        non_striker: VS Solanki
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Flintoff
+    - 19.4:
+        non_striker: VS Solanki
+        bowler: Abdul Razzaq
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: A Flintoff
+    - 19.5:
+        non_striker: VS Solanki
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Flintoff
+    - 19.6:
+        non_striker: VS Solanki
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Flintoff
+    - 19.7:
+        non_striker: VS Solanki
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Flintoff
+    - 20.1:
+        non_striker: A Flintoff
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 20.2:
+        non_striker: A Flintoff
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 20.3:
+        non_striker: A Flintoff
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 20.4:
+        non_striker: A Flintoff
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VS Solanki
+    - 20.5:
+        non_striker: A Flintoff
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 20.6:
+        non_striker: A Flintoff
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VS Solanki
+    - 20.7:
+        non_striker: A Flintoff
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VS Solanki
+    - 21.1:
+        non_striker: VS Solanki
+        bowler: Azhar Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Flintoff
+    - 21.2:
+        non_striker: A Flintoff
+        bowler: Azhar Mahmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VS Solanki
+    - 21.3:
+        non_striker: A Flintoff
+        bowler: Azhar Mahmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 21.4:
+        non_striker: VS Solanki
+        bowler: Azhar Mahmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Flintoff
+    - 21.5:
+        non_striker: VS Solanki
+        bowler: Azhar Mahmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Flintoff
+    - 21.6:
+        non_striker: VS Solanki
+        bowler: Azhar Mahmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Flintoff
+    - 21.7:
+        non_striker: VS Solanki
+        bowler: Azhar Mahmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Flintoff

@@ -1,0 +1,5007 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-10-31'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  dates:
+  - '2025-10-28'
+  gender: male
+  match_type: ODI
+  match_type_number: 4918
+  outcome:
+    winner: United States of America
+    by:
+      wickets: 4
+  overs: 50
+  player_of_match:
+  - Shubham Ranjane
+  players:
+    United Arab Emirates:
+    - A Sharafu
+    - A Sharma
+    - Muhammad Shahdad
+    - R Chopra
+    - Shoaib Khan
+    - Waseem Muhammad
+    - H Kaushik
+    - Haider Ali
+    - SS Kang
+    - Junaid Siddique
+    - Muhammad Rohid
+    United States of America:
+    - SK Patel
+    - AGS Gous
+    - MD Patel
+    - SR Mukkamalla
+    - Shayan Jahangir
+    - Milind Kumar
+    - Shubham Ranjane
+    - Harmeet Singh
+    - Jasdeep Singh
+    - SN Netravalkar
+    - R Ugarkar
+  registry:
+    people:
+      A Sharafu: 06cad4f0
+      A Sharma: 5661ef90
+      AGS Gous: d1305df0
+      Aasif Iqbal: 42c41e1a
+      H Kaushik: 2bfec670
+      Haider Ali: dd572696
+      Hamim Khan: f82540a3
+      Harmeet Singh: 0bf15e52
+      Jasdeep Singh: 5ec41cd7
+      Junaid Siddique: 84dc72db
+      MD Patel: 25d7f1ac
+      Milind Kumar: b4296080
+      Muhammad Rohid: 9103ecdb
+      Muhammad Shahdad: a8ac334b
+      R Chopra: a71d0f89
+      R Pandit: 8a604384
+      R Ugarkar: 8a58f203
+      SK Patel: f93b43dd
+      SN Netravalkar: c8a3f688
+      SR Mukkamalla: 156d0ea2
+      SS Kang: 797ee165
+      Shayan Jahangir: 571e1d2a
+      Shiju Sam: 1e2f3eae
+      Shoaib Khan: fdee4a01
+      Shubham Ranjane: 6c7a68d0
+      Waseem Muhammad: 6f02fe2a
+  teams:
+  - United Arab Emirates
+  - United States of America
+  toss:
+    winner: United States of America
+    decision: field
+  umpires:
+  - Aasif Iqbal
+  - R Pandit
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: United Arab Emirates
+    deliveries:
+    - 0.1:
+        non_striker: A Sharma
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 0.2:
+        non_striker: A Sharma
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 0.3:
+        non_striker: A Sharafu
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 0.4:
+        non_striker: A Sharafu
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharma
+    - 0.5:
+        non_striker: A Sharma
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 0.6:
+        non_striker: A Sharma
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+        wicket:
+          player_out: A Sharafu
+          fielders:
+          - Milind Kumar
+          kind: caught
+    - 1.1:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Sharma
+    - 1.2:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 1.3:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+    - 1.4:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Sharma
+    - 1.5:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharma
+        wicket:
+          player_out: A Sharma
+          fielders:
+          - Milind Kumar
+          kind: caught
+    - 1.6:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 1.7:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 1.8:
+        non_striker: R Chopra
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 2.1:
+        non_striker: Muhammad Shahdad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 2.2:
+        non_striker: Muhammad Shahdad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 2.3:
+        non_striker: Muhammad Shahdad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 2.4:
+        non_striker: R Chopra
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 2.5:
+        non_striker: R Chopra
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 2.6:
+        non_striker: R Chopra
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Shahdad
+    - 3.1:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 3.2:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 3.3:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 3.4:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 3.5:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 3.6:
+        non_striker: R Chopra
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 4.1:
+        non_striker: Muhammad Shahdad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 4.2:
+        non_striker: R Chopra
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 4.3:
+        non_striker: R Chopra
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 4.4:
+        non_striker: R Chopra
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 4.5:
+        non_striker: R Chopra
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 4.6:
+        non_striker: R Chopra
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 5.1:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Chopra
+    - 5.2:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 5.3:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 5.4:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 5.5:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 5.6:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Chopra
+    - 6.1:
+        non_striker: R Chopra
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 6.2:
+        non_striker: R Chopra
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 6.3:
+        non_striker: R Chopra
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 6.4:
+        non_striker: R Chopra
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 6.5:
+        non_striker: R Chopra
+        bowler: SN Netravalkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Muhammad Shahdad
+    - 6.6:
+        non_striker: Muhammad Shahdad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 7.1:
+        non_striker: R Chopra
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 7.2:
+        non_striker: R Chopra
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Shahdad
+    - 7.3:
+        non_striker: Muhammad Shahdad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 7.4:
+        non_striker: Muhammad Shahdad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 7.5:
+        non_striker: R Chopra
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Shahdad
+    - 7.6:
+        non_striker: R Chopra
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 8.1:
+        non_striker: Muhammad Shahdad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 8.2:
+        non_striker: Muhammad Shahdad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 8.3:
+        non_striker: Muhammad Shahdad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 8.4:
+        non_striker: Muhammad Shahdad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 8.5:
+        non_striker: Muhammad Shahdad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 8.6:
+        non_striker: Muhammad Shahdad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 9.1:
+        non_striker: R Chopra
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 9.2:
+        non_striker: R Chopra
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Shahdad
+    - 9.3:
+        non_striker: Muhammad Shahdad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 9.4:
+        non_striker: Muhammad Shahdad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Chopra
+    - 9.5:
+        non_striker: Muhammad Shahdad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 9.6:
+        non_striker: R Chopra
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 9.7:
+        non_striker: R Chopra
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Shahdad
+    - 10.1:
+        non_striker: R Chopra
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Shahdad
+    - 10.2:
+        non_striker: Muhammad Shahdad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Chopra
+    - 10.3:
+        non_striker: Muhammad Shahdad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 10.4:
+        non_striker: Muhammad Shahdad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 10.5:
+        non_striker: Muhammad Shahdad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 10.6:
+        non_striker: Muhammad Shahdad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 11.1:
+        non_striker: R Chopra
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 11.2:
+        non_striker: R Chopra
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Shahdad
+    - 11.3:
+        non_striker: Muhammad Shahdad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 11.4:
+        non_striker: Muhammad Shahdad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 11.5:
+        non_striker: Muhammad Shahdad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Chopra
+    - 11.6:
+        non_striker: Muhammad Shahdad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 12.1:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 12.2:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 12.3:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 12.4:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 12.5:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 12.6:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Shahdad
+    - 13.1:
+        non_striker: R Chopra
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Shahdad
+    - 13.2:
+        non_striker: Muhammad Shahdad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 13.3:
+        non_striker: R Chopra
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 13.4:
+        non_striker: R Chopra
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Shahdad
+    - 13.5:
+        non_striker: Muhammad Shahdad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 13.6:
+        non_striker: R Chopra
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 14.1:
+        non_striker: Muhammad Shahdad
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Chopra
+    - 14.2:
+        non_striker: Muhammad Shahdad
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 14.3:
+        non_striker: Muhammad Shahdad
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 14.4:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 14.5:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 14.6:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 15.1:
+        non_striker: Muhammad Shahdad
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 15.2:
+        non_striker: R Chopra
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 15.3:
+        non_striker: R Chopra
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Shahdad
+    - 15.4:
+        non_striker: Muhammad Shahdad
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 15.5:
+        non_striker: Muhammad Shahdad
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 15.6:
+        non_striker: R Chopra
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 16.1:
+        non_striker: Muhammad Shahdad
+        bowler: Shubham Ranjane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Chopra
+    - 16.2:
+        non_striker: Muhammad Shahdad
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 16.3:
+        non_striker: Muhammad Shahdad
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 16.4:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Shahdad
+    - 16.5:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 16.6:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 16.7:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Shahdad
+    - 16.8:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Shahdad
+    - 17.1:
+        non_striker: Muhammad Shahdad
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Chopra
+    - 17.2:
+        non_striker: Muhammad Shahdad
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 17.3:
+        non_striker: Muhammad Shahdad
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Chopra
+    - 17.4:
+        non_striker: Muhammad Shahdad
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 17.5:
+        non_striker: Muhammad Shahdad
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 17.6:
+        non_striker: Muhammad Shahdad
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 18.1:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 18.2:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 18.3:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 18.4:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 18.5:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 18.6:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Muhammad Shahdad
+    - 19.1:
+        non_striker: R Chopra
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 19.2:
+        non_striker: R Chopra
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Shahdad
+    - 19.3:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 19.4:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Chopra
+    - 19.5:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 19.6:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 20.1:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 20.2:
+        non_striker: R Chopra
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Muhammad Shahdad
+    - 20.3:
+        non_striker: Muhammad Shahdad
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 20.4:
+        non_striker: Muhammad Shahdad
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+        wicket:
+          player_out: R Chopra
+          kind: lbw
+    - 20.5:
+        non_striker: Muhammad Shahdad
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 20.6:
+        non_striker: Shoaib Khan
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 21.1:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 21.2:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 21.3:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 21.4:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 21.5:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Khan
+    - 21.6:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 22.1:
+        non_striker: Muhammad Shahdad
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 22.2:
+        non_striker: Muhammad Shahdad
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 22.3:
+        non_striker: Muhammad Shahdad
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 22.4:
+        non_striker: Muhammad Shahdad
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 22.5:
+        non_striker: Muhammad Shahdad
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 22.6:
+        non_striker: Muhammad Shahdad
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shoaib Khan
+    - 23.1:
+        non_striker: Shoaib Khan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 23.2:
+        non_striker: Shoaib Khan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 23.3:
+        non_striker: Shoaib Khan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 23.4:
+        non_striker: Shoaib Khan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Shahdad
+    - 23.5:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 23.6:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 24.1:
+        non_striker: Shoaib Khan
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 24.2:
+        non_striker: Shoaib Khan
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 24.3:
+        non_striker: Shoaib Khan
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 24.4:
+        non_striker: Shoaib Khan
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 24.5:
+        non_striker: Shoaib Khan
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 24.6:
+        non_striker: Shoaib Khan
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Shahdad
+    - 25.1:
+        non_striker: Shoaib Khan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Shahdad
+    - 25.2:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 25.3:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 25.4:
+        non_striker: Shoaib Khan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 25.5:
+        non_striker: Shoaib Khan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Shahdad
+    - 25.6:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 26.1:
+        non_striker: Shoaib Khan
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Shahdad
+    - 26.2:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Khan
+    - 26.3:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 26.4:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Khan
+    - 26.5:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 26.6:
+        non_striker: Muhammad Shahdad
+        bowler: R Ugarkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 27.1:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 27.2:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Khan
+    - 27.3:
+        non_striker: Shoaib Khan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 27.4:
+        non_striker: Shoaib Khan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 27.5:
+        non_striker: Shoaib Khan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 27.6:
+        non_striker: Shoaib Khan
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Shahdad
+    - 28.1:
+        non_striker: Muhammad Shahdad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shoaib Khan
+    - 28.2:
+        non_striker: Muhammad Shahdad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+    - 28.3:
+        non_striker: Muhammad Shahdad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Khan
+        wicket:
+          player_out: Shoaib Khan
+          fielders:
+          - R Ugarkar
+          kind: run out
+    - 28.4:
+        non_striker: Waseem Muhammad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 28.5:
+        non_striker: Waseem Muhammad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 28.6:
+        non_striker: Waseem Muhammad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+    - 29.1:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 29.2:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 29.3:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 29.4:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 29.5:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 29.6:
+        non_striker: Muhammad Shahdad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 30.1:
+        non_striker: Waseem Muhammad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Shahdad
+        wicket:
+          player_out: Muhammad Shahdad
+          fielders:
+          - SR Mukkamalla
+          kind: caught
+    - 30.2:
+        non_striker: Waseem Muhammad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 30.3:
+        non_striker: Waseem Muhammad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 30.4:
+        non_striker: Waseem Muhammad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 30.5:
+        non_striker: Waseem Muhammad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 30.6:
+        non_striker: Waseem Muhammad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 31.1:
+        non_striker: H Kaushik
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 31.2:
+        non_striker: Waseem Muhammad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 31.3:
+        non_striker: Waseem Muhammad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 31.4:
+        non_striker: Waseem Muhammad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 31.5:
+        non_striker: Waseem Muhammad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 31.6:
+        non_striker: Waseem Muhammad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 32.1:
+        non_striker: H Kaushik
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 32.2:
+        non_striker: Waseem Muhammad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 32.3:
+        non_striker: Waseem Muhammad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaushik
+    - 32.4:
+        non_striker: H Kaushik
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 32.5:
+        non_striker: H Kaushik
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 32.6:
+        non_striker: H Kaushik
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 33.1:
+        non_striker: Waseem Muhammad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 33.2:
+        non_striker: Waseem Muhammad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaushik
+    - 33.3:
+        non_striker: H Kaushik
+        bowler: Harmeet Singh
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 3
+        batsman: Waseem Muhammad
+    - 33.4:
+        non_striker: Waseem Muhammad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaushik
+    - 33.5:
+        non_striker: Waseem Muhammad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaushik
+    - 33.6:
+        non_striker: Waseem Muhammad
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaushik
+    - 34.1:
+        non_striker: Waseem Muhammad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaushik
+    - 34.2:
+        non_striker: Waseem Muhammad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 34.3:
+        non_striker: Waseem Muhammad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 34.4:
+        non_striker: Waseem Muhammad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 34.5:
+        non_striker: Waseem Muhammad
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaushik
+    - 34.6:
+        non_striker: H Kaushik
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 35.1:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 35.2:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 35.3:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 35.4:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 35.5:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 35.6:
+        non_striker: Waseem Muhammad
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 36.1:
+        non_striker: H Kaushik
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 36.2:
+        non_striker: H Kaushik
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 36.3:
+        non_striker: Waseem Muhammad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Kaushik
+    - 36.4:
+        non_striker: Waseem Muhammad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 36.5:
+        non_striker: Waseem Muhammad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaushik
+    - 36.6:
+        non_striker: Waseem Muhammad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 37.1:
+        non_striker: H Kaushik
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 37.2:
+        non_striker: Waseem Muhammad
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 37.3:
+        non_striker: Waseem Muhammad
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaushik
+    - 37.4:
+        non_striker: H Kaushik
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 37.5:
+        non_striker: Waseem Muhammad
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaushik
+    - 37.6:
+        non_striker: H Kaushik
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 38.1:
+        non_striker: H Kaushik
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 38.2:
+        non_striker: H Kaushik
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 38.3:
+        non_striker: H Kaushik
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 38.4:
+        non_striker: H Kaushik
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 38.5:
+        non_striker: Waseem Muhammad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 38.6:
+        non_striker: Waseem Muhammad
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 39.1:
+        non_striker: H Kaushik
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waseem Muhammad
+    - 39.2:
+        non_striker: H Kaushik
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+        wicket:
+          player_out: Waseem Muhammad
+          fielders:
+          - MD Patel
+          kind: caught
+    - 39.3:
+        non_striker: H Kaushik
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 39.4:
+        non_striker: H Kaushik
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Ali
+    - 39.5:
+        non_striker: Haider Ali
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 39.6:
+        non_striker: Haider Ali
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaushik
+    - 40.1:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Ali
+    - 40.2:
+        non_striker: Haider Ali
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 40.3:
+        non_striker: Haider Ali
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 40.4:
+        non_striker: Haider Ali
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaushik
+    - 40.5:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 40.6:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 41.1:
+        non_striker: Haider Ali
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaushik
+    - 41.2:
+        non_striker: H Kaushik
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Ali
+    - 41.3:
+        non_striker: Haider Ali
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 41.4:
+        non_striker: Haider Ali
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaushik
+    - 41.5:
+        non_striker: H Kaushik
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 41.6:
+        non_striker: H Kaushik
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 42.1:
+        non_striker: Haider Ali
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaushik
+    - 42.2:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 42.3:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Ali
+    - 42.4:
+        non_striker: Haider Ali
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaushik
+    - 42.5:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 42.6:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 43.1:
+        non_striker: Haider Ali
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Kaushik
+    - 43.2:
+        non_striker: Haider Ali
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 43.3:
+        non_striker: Haider Ali
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaushik
+    - 43.4:
+        non_striker: H Kaushik
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 43.5:
+        non_striker: H Kaushik
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 43.6:
+        non_striker: H Kaushik
+        bowler: Shubham Ranjane
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Ali
+    - 44.1:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 44.2:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 44.3:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Haider Ali
+    - 44.4:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Haider Ali
+    - 44.5:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 44.6:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Ali
+    - 45.1:
+        non_striker: H Kaushik
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 45.2:
+        non_striker: H Kaushik
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+        wicket:
+          player_out: Haider Ali
+          fielders:
+          - R Ugarkar
+          kind: caught
+    - 45.3:
+        non_striker: H Kaushik
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Kang
+    - 45.4:
+        non_striker: H Kaushik
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Kang
+    - 45.5:
+        non_striker: SS Kang
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Kaushik
+    - 45.6:
+        non_striker: SS Kang
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaushik
+    - 46.1:
+        non_striker: SS Kang
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 46.2:
+        non_striker: SS Kang
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaushik
+    - 46.3:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Kang
+    - 46.4:
+        non_striker: SS Kang
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+    - 46.5:
+        non_striker: SS Kang
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaushik
+    - 46.6:
+        non_striker: H Kaushik
+        bowler: Milind Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Kang
+    - 47.1:
+        non_striker: SS Kang
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Kaushik
+    - 47.2:
+        non_striker: SS Kang
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaushik
+    - 47.3:
+        non_striker: SS Kang
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+        wicket:
+          player_out: H Kaushik
+          kind: bowled
+    - 47.4:
+        non_striker: SS Kang
+        bowler: Jasdeep Singh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Junaid Siddique
+    - 47.5:
+        non_striker: SS Kang
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Junaid Siddique
+    - 47.6:
+        non_striker: Junaid Siddique
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Kang
+    - 48.1:
+        non_striker: SS Kang
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Junaid Siddique
+        wicket:
+          player_out: Junaid Siddique
+          fielders:
+          - Shayan Jahangir
+          kind: caught
+    - 48.2:
+        non_striker: SS Kang
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Rohid
+    - 48.3:
+        non_striker: SS Kang
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Rohid
+    - 48.4:
+        non_striker: SS Kang
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Rohid
+    - 48.5:
+        non_striker: Muhammad Rohid
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Kang
+    - 48.6:
+        non_striker: SS Kang
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Rohid
+    - 49.1:
+        non_striker: SS Kang
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Rohid
+    - 49.2:
+        non_striker: Muhammad Rohid
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Kang
+    - 49.3:
+        non_striker: SS Kang
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Rohid
+    - 49.4:
+        non_striker: SS Kang
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Rohid
+    - 49.5:
+        non_striker: Muhammad Rohid
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Kang
+    - 49.6:
+        non_striker: Muhammad Rohid
+        bowler: Jasdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SS Kang
+- 2nd innings:
+    team: United States of America
+    deliveries:
+    - 0.1:
+        non_striker: AGS Gous
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Patel
+    - 0.2:
+        non_striker: AGS Gous
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SK Patel
+        wicket:
+          player_out: SK Patel
+          kind: lbw
+    - 0.3:
+        non_striker: AGS Gous
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Patel
+    - 0.4:
+        non_striker: AGS Gous
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 0.5:
+        non_striker: AGS Gous
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 0.6:
+        non_striker: AGS Gous
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 1.1:
+        non_striker: MD Patel
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 1.2:
+        non_striker: AGS Gous
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 1.3:
+        non_striker: AGS Gous
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 1.4:
+        non_striker: AGS Gous
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Patel
+    - 1.5:
+        non_striker: AGS Gous
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 1.6:
+        non_striker: AGS Gous
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 2.1:
+        non_striker: AGS Gous
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 2.2:
+        non_striker: MD Patel
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 2.3:
+        non_striker: MD Patel
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 2.4:
+        non_striker: MD Patel
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 2.5:
+        non_striker: MD Patel
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+        wicket:
+          player_out: AGS Gous
+          fielders:
+          - Waseem Muhammad
+          kind: caught
+    - 2.6:
+        non_striker: MD Patel
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 3.1:
+        non_striker: SR Mukkamalla
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 3.2:
+        non_striker: MD Patel
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 3.3:
+        non_striker: MD Patel
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 3.4:
+        non_striker: MD Patel
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Mukkamalla
+    - 3.5:
+        non_striker: MD Patel
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 3.6:
+        non_striker: MD Patel
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 4.1:
+        non_striker: MD Patel
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 4.2:
+        non_striker: MD Patel
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 4.3:
+        non_striker: MD Patel
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 4.4:
+        non_striker: MD Patel
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 4.5:
+        non_striker: MD Patel
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 4.6:
+        non_striker: MD Patel
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 5.1:
+        non_striker: SR Mukkamalla
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 5.2:
+        non_striker: SR Mukkamalla
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 5.3:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 5.4:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 5.5:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Mukkamalla
+    - 5.6:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 6.1:
+        non_striker: SR Mukkamalla
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 6.2:
+        non_striker: MD Patel
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 6.3:
+        non_striker: MD Patel
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Mukkamalla
+    - 6.4:
+        non_striker: SR Mukkamalla
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 6.5:
+        non_striker: SR Mukkamalla
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 6.6:
+        non_striker: SR Mukkamalla
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 7.1:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 7.2:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 7.3:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 7.4:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 7.5:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+        wicket:
+          player_out: SR Mukkamalla
+          kind: lbw
+    - 7.6:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 8.1:
+        non_striker: Shayan Jahangir
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 8.2:
+        non_striker: MD Patel
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 8.3:
+        non_striker: MD Patel
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 8.4:
+        non_striker: Shayan Jahangir
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 8.5:
+        non_striker: Shayan Jahangir
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 8.6:
+        non_striker: MD Patel
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 9.1:
+        non_striker: Shayan Jahangir
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 9.2:
+        non_striker: Shayan Jahangir
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 9.3:
+        non_striker: Shayan Jahangir
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 9.4:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 9.5:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 9.6:
+        non_striker: Shayan Jahangir
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 10.1:
+        non_striker: Shayan Jahangir
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 10.2:
+        non_striker: Shayan Jahangir
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 10.3:
+        non_striker: Shayan Jahangir
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Patel
+    - 10.4:
+        non_striker: Shayan Jahangir
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 10.5:
+        non_striker: Shayan Jahangir
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Patel
+    - 10.6:
+        non_striker: Shayan Jahangir
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 11.1:
+        non_striker: MD Patel
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shayan Jahangir
+    - 11.2:
+        non_striker: MD Patel
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 11.3:
+        non_striker: Shayan Jahangir
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 11.4:
+        non_striker: Shayan Jahangir
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 11.5:
+        non_striker: Shayan Jahangir
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 11.6:
+        non_striker: Shayan Jahangir
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 12.1:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 12.2:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 12.3:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 12.4:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 12.5:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 12.6:
+        non_striker: Shayan Jahangir
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 13.1:
+        non_striker: Shayan Jahangir
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 13.2:
+        non_striker: MD Patel
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 13.3:
+        non_striker: MD Patel
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 13.4:
+        non_striker: MD Patel
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 13.5:
+        non_striker: MD Patel
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shayan Jahangir
+    - 13.6:
+        non_striker: MD Patel
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 14.1:
+        non_striker: Shayan Jahangir
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 14.2:
+        non_striker: Shayan Jahangir
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 14.3:
+        non_striker: Shayan Jahangir
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 14.4:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shayan Jahangir
+    - 14.5:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 14.6:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 15.1:
+        non_striker: Shayan Jahangir
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MD Patel
+    - 15.2:
+        non_striker: MD Patel
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shayan Jahangir
+    - 15.3:
+        non_striker: MD Patel
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+        wicket:
+          player_out: Shayan Jahangir
+          fielders:
+          - H Kaushik
+          kind: caught
+    - 15.4:
+        non_striker: MD Patel
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 15.5:
+        non_striker: MD Patel
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 15.6:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 16.1:
+        non_striker: MD Patel
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Milind Kumar
+    - 16.2:
+        non_striker: MD Patel
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 16.3:
+        non_striker: MD Patel
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Milind Kumar
+    - 16.4:
+        non_striker: MD Patel
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 16.5:
+        non_striker: MD Patel
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 16.6:
+        non_striker: Milind Kumar
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 17.1:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 17.2:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 17.3:
+        non_striker: MD Patel
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 17.4:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 17.5:
+        non_striker: MD Patel
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 17.6:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 18.1:
+        non_striker: MD Patel
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Milind Kumar
+    - 18.2:
+        non_striker: MD Patel
+        bowler: H Kaushik
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Milind Kumar
+    - 18.3:
+        non_striker: Milind Kumar
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 18.4:
+        non_striker: MD Patel
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 18.5:
+        non_striker: Milind Kumar
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 18.6:
+        non_striker: Milind Kumar
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 18.7:
+        non_striker: Milind Kumar
+        bowler: H Kaushik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 19.1:
+        non_striker: MD Patel
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Milind Kumar
+    - 19.2:
+        non_striker: MD Patel
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 19.3:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Patel
+    - 19.4:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 19.5:
+        non_striker: MD Patel
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Milind Kumar
+    - 19.6:
+        non_striker: MD Patel
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Milind Kumar
+    - 20.1:
+        non_striker: Milind Kumar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 20.2:
+        non_striker: MD Patel
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 20.3:
+        non_striker: Milind Kumar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Patel
+    - 20.4:
+        non_striker: Milind Kumar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 20.5:
+        non_striker: MD Patel
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 20.6:
+        non_striker: MD Patel
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Milind Kumar
+    - 20.7:
+        non_striker: MD Patel
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 21.1:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 21.2:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 21.3:
+        non_striker: Milind Kumar
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 21.4:
+        non_striker: Milind Kumar
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 21.5:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 21.6:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 22.1:
+        non_striker: Milind Kumar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 22.2:
+        non_striker: Milind Kumar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 22.3:
+        non_striker: Milind Kumar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 22.4:
+        non_striker: Milind Kumar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 22.5:
+        non_striker: MD Patel
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 22.6:
+        non_striker: MD Patel
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 23.1:
+        non_striker: Milind Kumar
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 23.2:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 23.3:
+        non_striker: Milind Kumar
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 23.4:
+        non_striker: Milind Kumar
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 23.5:
+        non_striker: MD Patel
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 23.6:
+        non_striker: Milind Kumar
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 24.1:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Patel
+    - 24.2:
+        non_striker: MD Patel
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 24.3:
+        non_striker: MD Patel
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 24.4:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+        wicket:
+          player_out: MD Patel
+          fielders:
+          - A Sharma
+          kind: caught
+    - 24.5:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 24.6:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 25.1:
+        non_striker: Shubham Ranjane
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 25.2:
+        non_striker: Shubham Ranjane
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Milind Kumar
+    - 25.3:
+        non_striker: Shubham Ranjane
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Milind Kumar
+    - 25.4:
+        non_striker: Milind Kumar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 25.5:
+        non_striker: Shubham Ranjane
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 25.6:
+        non_striker: Milind Kumar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 26.1:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 26.2:
+        non_striker: Shubham Ranjane
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 26.3:
+        non_striker: Shubham Ranjane
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 26.4:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 26.5:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 26.6:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 27.1:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 27.2:
+        non_striker: Milind Kumar
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 27.3:
+        non_striker: Milind Kumar
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 27.4:
+        non_striker: Milind Kumar
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 27.5:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 27.6:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 28.1:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 28.2:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 28.3:
+        non_striker: Shubham Ranjane
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 28.4:
+        non_striker: Shubham Ranjane
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 28.5:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 28.6:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 29.1:
+        non_striker: Milind Kumar
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 29.2:
+        non_striker: Milind Kumar
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 29.3:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 29.4:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 29.5:
+        non_striker: Milind Kumar
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 29.6:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 30.1:
+        non_striker: Milind Kumar
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 30.2:
+        non_striker: Milind Kumar
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 30.3:
+        non_striker: Shubham Ranjane
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 30.4:
+        non_striker: Shubham Ranjane
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 30.5:
+        non_striker: Milind Kumar
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 30.6:
+        non_striker: Milind Kumar
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 31.1:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 31.2:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 31.3:
+        non_striker: Milind Kumar
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 31.4:
+        non_striker: Milind Kumar
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 31.5:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 31.6:
+        non_striker: Milind Kumar
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 32.1:
+        non_striker: Shubham Ranjane
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 32.2:
+        non_striker: Shubham Ranjane
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 32.3:
+        non_striker: Shubham Ranjane
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 32.4:
+        non_striker: Milind Kumar
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 32.5:
+        non_striker: Shubham Ranjane
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 32.6:
+        non_striker: Shubham Ranjane
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 33.1:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 33.2:
+        non_striker: Shubham Ranjane
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 33.3:
+        non_striker: Shubham Ranjane
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 33.4:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 33.5:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 33.6:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 34.1:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 34.2:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Milind Kumar
+    - 34.3:
+        non_striker: Milind Kumar
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 34.4:
+        non_striker: Milind Kumar
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 34.5:
+        non_striker: Milind Kumar
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 34.6:
+        non_striker: Milind Kumar
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 35.1:
+        non_striker: Milind Kumar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 35.2:
+        non_striker: Milind Kumar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 35.3:
+        non_striker: Shubham Ranjane
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Milind Kumar
+    - 35.4:
+        non_striker: Shubham Ranjane
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Milind Kumar
+    - 35.5:
+        non_striker: Shubham Ranjane
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 35.6:
+        non_striker: Milind Kumar
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 36.1:
+        non_striker: Milind Kumar
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 36.2:
+        non_striker: Milind Kumar
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 36.3:
+        non_striker: Milind Kumar
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 36.4:
+        non_striker: Milind Kumar
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 36.5:
+        non_striker: Shubham Ranjane
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Milind Kumar
+    - 36.6:
+        non_striker: Milind Kumar
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 37.1:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 37.2:
+        non_striker: Milind Kumar
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 37.3:
+        non_striker: Milind Kumar
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 37.4:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 37.5:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 37.6:
+        non_striker: Milind Kumar
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 38.1:
+        non_striker: Shubham Ranjane
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 38.2:
+        non_striker: Shubham Ranjane
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 38.3:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 38.4:
+        non_striker: Milind Kumar
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 38.5:
+        non_striker: Shubham Ranjane
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 38.6:
+        non_striker: Shubham Ranjane
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 39.1:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 39.2:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 39.3:
+        non_striker: Milind Kumar
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 39.4:
+        non_striker: Milind Kumar
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 39.5:
+        non_striker: Milind Kumar
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 39.6:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 40.1:
+        non_striker: Milind Kumar
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 40.2:
+        non_striker: Milind Kumar
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 40.3:
+        non_striker: Milind Kumar
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 40.4:
+        non_striker: Milind Kumar
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 40.5:
+        non_striker: Milind Kumar
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 40.6:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 41.1:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 41.2:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Milind Kumar
+    - 41.3:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Milind Kumar
+    - 41.4:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Milind Kumar
+    - 41.5:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 41.6:
+        non_striker: Milind Kumar
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 41.7:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 42.1:
+        non_striker: Milind Kumar
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 42.2:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 42.3:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 42.4:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 42.5:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 42.6:
+        non_striker: Milind Kumar
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 43.1:
+        non_striker: Shubham Ranjane
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+        wicket:
+          player_out: Milind Kumar
+          kind: bowled
+    - 43.2:
+        non_striker: Shubham Ranjane
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harmeet Singh
+    - 43.3:
+        non_striker: Harmeet Singh
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 43.4:
+        non_striker: Harmeet Singh
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 43.5:
+        non_striker: Harmeet Singh
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 43.6:
+        non_striker: Shubham Ranjane
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Harmeet Singh
+    - 44.1:
+        non_striker: Harmeet Singh
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 44.2:
+        non_striker: Harmeet Singh
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 44.3:
+        non_striker: Harmeet Singh
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 44.4:
+        non_striker: Harmeet Singh
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubham Ranjane
+    - 44.5:
+        non_striker: Harmeet Singh
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubham Ranjane
+    - 44.6:
+        non_striker: Harmeet Singh
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 45.1:
+        non_striker: Shubham Ranjane
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 45.2:
+        non_striker: Shubham Ranjane
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harmeet Singh
+    - 45.3:
+        non_striker: Harmeet Singh
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 45.4:
+        non_striker: Harmeet Singh
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 45.5:
+        non_striker: Harmeet Singh
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 45.6:
+        non_striker: Harmeet Singh
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 46.1:
+        non_striker: Harmeet Singh
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 46.2:
+        non_striker: Harmeet Singh
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 46.3:
+        non_striker: Harmeet Singh
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 46.4:
+        non_striker: Harmeet Singh
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 46.5:
+        non_striker: Harmeet Singh
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 46.6:
+        non_striker: Harmeet Singh
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 47.1:
+        non_striker: Harmeet Singh
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 47.2:
+        non_striker: Shubham Ranjane
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 47.3:
+        non_striker: Shubham Ranjane
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 47.4:
+        non_striker: Shubham Ranjane
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 47.5:
+        non_striker: Shubham Ranjane
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Harmeet Singh
+    - 47.6:
+        non_striker: Shubham Ranjane
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 48.1:
+        non_striker: Harmeet Singh
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubham Ranjane
+    - 48.2:
+        non_striker: Harmeet Singh
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 48.3:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harmeet Singh
+    - 48.4:
+        non_striker: Harmeet Singh
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubham Ranjane
+    - 48.5:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 48.6:
+        non_striker: Shubham Ranjane
+        bowler: Muhammad Shahdad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harmeet Singh
+    - 49.1:
+        non_striker: Shubham Ranjane
+        bowler: Shoaib Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Harmeet Singh

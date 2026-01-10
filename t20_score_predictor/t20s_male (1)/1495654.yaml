@@ -1,0 +1,1868 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-25'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Szodliget
+  dates:
+  - '2025-07-25'
+  gender: male
+  match_type: T20
+  match_type_number: 3362
+  outcome:
+    winner: Austria
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - Bilal Zalmai
+  players:
+    Romania:
+    - Taranjeet Singh
+    - AN Lascu
+    - Avishka Iroshan
+    - V Saini
+    - Md Ariyan
+    - S Vashisht
+    - Muhammad Moiz
+    - R Pisal
+    - Ali Hussain
+    - M Koli
+    - Luca Petre
+    Austria:
+    - Karanbir Singh
+    - Bilal Zalmai
+    - Zeshan Arif
+    - Mansoor Safi
+    - Aqib Iqbal
+    - Hamid Safi
+    - Amar Naeem
+    - Baseer Khan
+    - Umair Tariq
+    - SFS Cheema
+    - Waqar Zalmai
+  registry:
+    people:
+      AN Lascu: e2c882d1
+      Ali Hussain: b8fe81be
+      Amar Naeem: f9dc404a
+      Aqib Iqbal: 14157abf
+      Avishka Iroshan: 2964821b
+      Baseer Khan: 75ebfe19
+      Bilal Zalmai: 33b67317
+      Hamid Safi: ec4ae12d
+      Karanbir Singh: 6a97c7a4
+      Luca Petre: b31d458f
+      M Koli: eb0f2802
+      Mansoor Safi: 86d7a2d2
+      Md Ariyan: ff4805ee
+      Muhammad Moiz: 906b7d48
+      R Pisal: e072b9d5
+      S Vashisht: 20ac8219
+      SFS Cheema: 507fc658
+      Taranjeet Singh: ec483176
+      Umair Tariq: 67ec2b09
+      V Saini: 0fa81719
+      Waqar Zalmai: 74571ec4
+      Zeshan Arif: 6829b373
+  teams:
+  - Romania
+  - Austria
+  toss:
+    winner: Romania
+    decision: bat
+  venue: GB Oval, Szodliget
+innings:
+- 1st innings:
+    team: Romania
+    deliveries:
+    - 0.1:
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AN Lascu
+        batsman: Taranjeet Singh
+    - 0.2:
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AN Lascu
+        batsman: Taranjeet Singh
+    - 0.3:
+        non_striker: Taranjeet Singh
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Lascu
+    - 0.4:
+        non_striker: AN Lascu
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taranjeet Singh
+    - 0.5:
+        non_striker: AN Lascu
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taranjeet Singh
+        wicket:
+          player_out: Taranjeet Singh
+          kind: caught and bowled
+    - 0.6:
+        non_striker: AN Lascu
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avishka Iroshan
+    - 1.1:
+        non_striker: Avishka Iroshan
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Lascu
+        wicket:
+          player_out: AN Lascu
+          fielders:
+          - Karanbir Singh
+          kind: caught
+    - 1.2:
+        non_striker: Avishka Iroshan
+        bowler: Umair Tariq
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: V Saini
+    - 1.3:
+        non_striker: Avishka Iroshan
+        bowler: Umair Tariq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Saini
+    - 1.4:
+        non_striker: Avishka Iroshan
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Saini
+    - 1.5:
+        non_striker: Avishka Iroshan
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Saini
+        wicket:
+          player_out: V Saini
+          kind: lbw
+    - 1.6:
+        non_striker: Avishka Iroshan
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Md Ariyan
+    - 1.7:
+        non_striker: Avishka Iroshan
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Md Ariyan
+    - 1.8:
+        non_striker: Avishka Iroshan
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Md Ariyan
+    - 2.1:
+        non_striker: Md Ariyan
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avishka Iroshan
+    - 2.2:
+        non_striker: Md Ariyan
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avishka Iroshan
+    - 2.3:
+        non_striker: Md Ariyan
+        bowler: Aqib Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Avishka Iroshan
+    - 2.4:
+        non_striker: Md Ariyan
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Avishka Iroshan
+    - 2.5:
+        non_striker: Md Ariyan
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avishka Iroshan
+    - 2.6:
+        non_striker: Md Ariyan
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avishka Iroshan
+    - 2.7:
+        non_striker: Md Ariyan
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avishka Iroshan
+    - 3.1:
+        non_striker: Avishka Iroshan
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Md Ariyan
+    - 3.2:
+        non_striker: Avishka Iroshan
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Md Ariyan
+    - 3.3:
+        non_striker: Avishka Iroshan
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Md Ariyan
+    - 3.4:
+        non_striker: Avishka Iroshan
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Md Ariyan
+    - 3.5:
+        non_striker: Avishka Iroshan
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Md Ariyan
+    - 3.6:
+        non_striker: Avishka Iroshan
+        bowler: Umair Tariq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Md Ariyan
+    - 4.1:
+        non_striker: Md Ariyan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avishka Iroshan
+    - 4.2:
+        non_striker: Md Ariyan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avishka Iroshan
+    - 4.3:
+        non_striker: Md Ariyan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Avishka Iroshan
+    - 4.4:
+        non_striker: Avishka Iroshan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Md Ariyan
+    - 4.5:
+        non_striker: Avishka Iroshan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Md Ariyan
+    - 4.6:
+        non_striker: Md Ariyan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avishka Iroshan
+    - 5.1:
+        non_striker: Avishka Iroshan
+        bowler: SFS Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Md Ariyan
+        wicket:
+          player_out: Md Ariyan
+          fielders:
+          - Bilal Zalmai
+          kind: caught
+    - 5.2:
+        non_striker: Avishka Iroshan
+        bowler: SFS Cheema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vashisht
+    - 5.3:
+        non_striker: S Vashisht
+        bowler: SFS Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avishka Iroshan
+    - 5.4:
+        non_striker: S Vashisht
+        bowler: SFS Cheema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Avishka Iroshan
+    - 5.5:
+        non_striker: Avishka Iroshan
+        bowler: SFS Cheema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vashisht
+    - 5.6:
+        non_striker: S Vashisht
+        bowler: SFS Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avishka Iroshan
+    - 6.1:
+        non_striker: Avishka Iroshan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Vashisht
+    - 6.2:
+        non_striker: Avishka Iroshan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vashisht
+    - 6.3:
+        non_striker: S Vashisht
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Avishka Iroshan
+    - 6.4:
+        non_striker: Avishka Iroshan
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vashisht
+    - 6.5:
+        non_striker: S Vashisht
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Avishka Iroshan
+    - 6.6:
+        non_striker: S Vashisht
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Avishka Iroshan
+    - 7.1:
+        non_striker: S Vashisht
+        bowler: SFS Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Avishka Iroshan
+    - 7.2:
+        non_striker: S Vashisht
+        bowler: SFS Cheema
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Avishka Iroshan
+    - 7.3:
+        non_striker: S Vashisht
+        bowler: SFS Cheema
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Avishka Iroshan
+    - 7.4:
+        non_striker: S Vashisht
+        bowler: SFS Cheema
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Avishka Iroshan
+    - 7.5:
+        non_striker: Avishka Iroshan
+        bowler: SFS Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vashisht
+    - 7.6:
+        non_striker: Avishka Iroshan
+        bowler: SFS Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vashisht
+        wicket:
+          player_out: Avishka Iroshan
+          fielders:
+          - Aqib Iqbal
+          kind: run out
+    - 8.1:
+        non_striker: S Vashisht
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Moiz
+    - 8.2:
+        non_striker: S Vashisht
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Moiz
+    - 8.3:
+        non_striker: S Vashisht
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Moiz
+    - 8.4:
+        non_striker: Muhammad Moiz
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vashisht
+    - 8.5:
+        non_striker: Muhammad Moiz
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vashisht
+    - 8.6:
+        non_striker: Muhammad Moiz
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vashisht
+    - 9.1:
+        non_striker: S Vashisht
+        bowler: SFS Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Moiz
+    - 9.2:
+        non_striker: S Vashisht
+        bowler: SFS Cheema
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Moiz
+    - 9.3:
+        non_striker: S Vashisht
+        bowler: SFS Cheema
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muhammad Moiz
+    - 9.4:
+        non_striker: S Vashisht
+        bowler: SFS Cheema
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Muhammad Moiz
+    - 9.5:
+        non_striker: Muhammad Moiz
+        bowler: SFS Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vashisht
+    - 9.6:
+        non_striker: Muhammad Moiz
+        bowler: SFS Cheema
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vashisht
+    - 10.1:
+        non_striker: S Vashisht
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Moiz
+    - 10.2:
+        non_striker: S Vashisht
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Moiz
+    - 10.3:
+        non_striker: Muhammad Moiz
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vashisht
+    - 10.4:
+        non_striker: S Vashisht
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Moiz
+        wicket:
+          player_out: Muhammad Moiz
+          fielders:
+          - Zeshan Arif
+          kind: caught
+    - 10.5:
+        non_striker: S Vashisht
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pisal
+    - 10.6:
+        non_striker: R Pisal
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vashisht
+    - 11.1:
+        non_striker: S Vashisht
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pisal
+    - 11.2:
+        non_striker: S Vashisht
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Pisal
+    - 11.3:
+        non_striker: S Vashisht
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pisal
+    - 11.4:
+        non_striker: S Vashisht
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pisal
+    - 11.5:
+        non_striker: S Vashisht
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Pisal
+    - 11.6:
+        non_striker: S Vashisht
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pisal
+    - 12.1:
+        non_striker: S Vashisht
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pisal
+    - 12.2:
+        non_striker: R Pisal
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vashisht
+    - 12.3:
+        non_striker: S Vashisht
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pisal
+    - 12.4:
+        non_striker: R Pisal
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vashisht
+    - 12.5:
+        non_striker: R Pisal
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vashisht
+    - 12.6:
+        non_striker: S Vashisht
+        bowler: Bilal Zalmai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: R Pisal
+    - 13.1:
+        non_striker: S Vashisht
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pisal
+    - 13.2:
+        non_striker: S Vashisht
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pisal
+        wicket:
+          player_out: R Pisal
+          kind: caught and bowled
+    - 13.3:
+        non_striker: S Vashisht
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Hussain
+    - 13.4:
+        non_striker: Ali Hussain
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vashisht
+    - 13.5:
+        non_striker: Ali Hussain
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vashisht
+    - 13.6:
+        non_striker: Ali Hussain
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Vashisht
+    - 14.1:
+        non_striker: S Vashisht
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Hussain
+    - 14.2:
+        non_striker: Ali Hussain
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vashisht
+    - 14.3:
+        non_striker: Ali Hussain
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vashisht
+    - 14.4:
+        non_striker: S Vashisht
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Hussain
+    - 14.5:
+        non_striker: Ali Hussain
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vashisht
+    - 14.6:
+        non_striker: S Vashisht
+        bowler: Bilal Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Hussain
+    - 15.1:
+        non_striker: S Vashisht
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ali Hussain
+    - 15.2:
+        non_striker: Ali Hussain
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Vashisht
+    - 15.3:
+        non_striker: Ali Hussain
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vashisht
+    - 15.4:
+        non_striker: S Vashisht
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ali Hussain
+    - 15.5:
+        non_striker: S Vashisht
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Hussain
+        wicket:
+          player_out: Ali Hussain
+          fielders:
+          - Zeshan Arif
+          kind: caught
+    - 15.6:
+        non_striker: S Vashisht
+        bowler: Karanbir Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Koli
+    - 16.1:
+        non_striker: S Vashisht
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Koli
+    - 16.2:
+        non_striker: S Vashisht
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Koli
+    - 16.3:
+        non_striker: S Vashisht
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Koli
+    - 16.4:
+        non_striker: M Koli
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vashisht
+    - 16.5:
+        non_striker: S Vashisht
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Koli
+    - 16.6:
+        non_striker: M Koli
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vashisht
+    - 17.1:
+        non_striker: M Koli
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vashisht
+    - 17.2:
+        non_striker: M Koli
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vashisht
+    - 17.3:
+        non_striker: S Vashisht
+        bowler: Aqib Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: M Koli
+    - 17.4:
+        non_striker: M Koli
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Vashisht
+    - 17.5:
+        non_striker: M Koli
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vashisht
+    - 17.6:
+        non_striker: M Koli
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vashisht
+    - 18.1:
+        non_striker: M Koli
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Vashisht
+    - 18.2:
+        non_striker: M Koli
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vashisht
+    - 18.3:
+        non_striker: M Koli
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vashisht
+    - 18.4:
+        non_striker: S Vashisht
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Koli
+    - 18.5:
+        non_striker: S Vashisht
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Koli
+    - 18.6:
+        non_striker: M Koli
+        bowler: Waqar Zalmai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Vashisht
+    - 19.1:
+        non_striker: M Koli
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Vashisht
+        wicket:
+          player_out: S Vashisht
+          fielders:
+          - Hamid Safi
+          kind: caught
+    - 19.2:
+        non_striker: M Koli
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Luca Petre
+    - 19.3:
+        non_striker: Luca Petre
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Koli
+    - 19.4:
+        non_striker: Luca Petre
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Koli
+    - 19.5:
+        non_striker: M Koli
+        bowler: Aqib Iqbal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Luca Petre
+    - 19.6:
+        non_striker: M Koli
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Luca Petre
+    - 19.7:
+        non_striker: M Koli
+        bowler: Aqib Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Luca Petre
+- 2nd innings:
+    team: Austria
+    deliveries:
+    - 0.1:
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Bilal Zalmai
+        batsman: Karanbir Singh
+    - 0.2:
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Bilal Zalmai
+        batsman: Karanbir Singh
+    - 0.3:
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Bilal Zalmai
+        batsman: Karanbir Singh
+    - 0.4:
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Bilal Zalmai
+        batsman: Karanbir Singh
+    - 0.5:
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Bilal Zalmai
+        batsman: Karanbir Singh
+    - 0.6:
+        non_striker: Karanbir Singh
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 0.7:
+        non_striker: Karanbir Singh
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bilal Zalmai
+    - 1.1:
+        non_striker: Bilal Zalmai
+        bowler: Muhammad Moiz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Karanbir Singh
+    - 1.2:
+        non_striker: Bilal Zalmai
+        bowler: Muhammad Moiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karanbir Singh
+    - 1.3:
+        non_striker: Karanbir Singh
+        bowler: Muhammad Moiz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bilal Zalmai
+    - 1.4:
+        non_striker: Karanbir Singh
+        bowler: Muhammad Moiz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bilal Zalmai
+    - 1.5:
+        non_striker: Karanbir Singh
+        bowler: Muhammad Moiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 1.6:
+        non_striker: Bilal Zalmai
+        bowler: Muhammad Moiz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karanbir Singh
+    - 1.7:
+        non_striker: Bilal Zalmai
+        bowler: Muhammad Moiz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karanbir Singh
+    - 2.1:
+        non_striker: Bilal Zalmai
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Karanbir Singh
+    - 2.2:
+        non_striker: Bilal Zalmai
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karanbir Singh
+    - 2.3:
+        non_striker: Karanbir Singh
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 2.4:
+        non_striker: Karanbir Singh
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bilal Zalmai
+    - 2.5:
+        non_striker: Karanbir Singh
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 2.6:
+        non_striker: Karanbir Singh
+        bowler: M Koli
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bilal Zalmai
+    - 2.7:
+        non_striker: Karanbir Singh
+        bowler: M Koli
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bilal Zalmai
+    - 3.1:
+        non_striker: Bilal Zalmai
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Karanbir Singh
+    - 3.2:
+        non_striker: Karanbir Singh
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 3.3:
+        non_striker: Bilal Zalmai
+        bowler: Luca Petre
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Karanbir Singh
+    - 3.4:
+        non_striker: Bilal Zalmai
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Karanbir Singh
+    - 3.5:
+        non_striker: Bilal Zalmai
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Karanbir Singh
+        wicket:
+          player_out: Karanbir Singh
+          fielders:
+          - Taranjeet Singh
+          kind: caught
+    - 3.6:
+        non_striker: Bilal Zalmai
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeshan Arif
+    - 3.7:
+        non_striker: Zeshan Arif
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 4.1:
+        non_striker: Bilal Zalmai
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeshan Arif
+    - 4.2:
+        non_striker: Bilal Zalmai
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeshan Arif
+    - 4.3:
+        non_striker: Zeshan Arif
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 4.4:
+        non_striker: Zeshan Arif
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 4.5:
+        non_striker: Zeshan Arif
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bilal Zalmai
+    - 4.6:
+        non_striker: Zeshan Arif
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 5.1:
+        non_striker: Zeshan Arif
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 5.2:
+        non_striker: Bilal Zalmai
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeshan Arif
+    - 5.3:
+        non_striker: Bilal Zalmai
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeshan Arif
+    - 5.4:
+        non_striker: Bilal Zalmai
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeshan Arif
+    - 5.5:
+        non_striker: Bilal Zalmai
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeshan Arif
+    - 5.6:
+        non_striker: Bilal Zalmai
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeshan Arif
+    - 6.1:
+        non_striker: Zeshan Arif
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 6.2:
+        non_striker: Bilal Zalmai
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeshan Arif
+    - 6.3:
+        non_striker: Bilal Zalmai
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeshan Arif
+    - 6.4:
+        non_striker: Zeshan Arif
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bilal Zalmai
+    - 6.5:
+        non_striker: Zeshan Arif
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bilal Zalmai
+    - 6.6:
+        non_striker: Zeshan Arif
+        bowler: AN Lascu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 7.1:
+        non_striker: Zeshan Arif
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 7.2:
+        non_striker: Bilal Zalmai
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Zeshan Arif
+    - 7.3:
+        non_striker: Bilal Zalmai
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeshan Arif
+    - 7.4:
+        non_striker: Bilal Zalmai
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeshan Arif
+    - 7.5:
+        non_striker: Zeshan Arif
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Bilal Zalmai
+    - 7.6:
+        non_striker: Zeshan Arif
+        bowler: Ali Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 8.1:
+        non_striker: Zeshan Arif
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 8.2:
+        non_striker: Zeshan Arif
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Bilal Zalmai
+    - 8.3:
+        non_striker: Zeshan Arif
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 8.4:
+        non_striker: Bilal Zalmai
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeshan Arif
+    - 8.5:
+        non_striker: Zeshan Arif
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 8.6:
+        non_striker: Bilal Zalmai
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeshan Arif
+    - 9.1:
+        non_striker: Bilal Zalmai
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeshan Arif
+    - 9.2:
+        non_striker: Zeshan Arif
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 9.3:
+        non_striker: Bilal Zalmai
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeshan Arif
+    - 9.4:
+        non_striker: Zeshan Arif
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 9.5:
+        non_striker: Bilal Zalmai
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeshan Arif
+        wicket:
+          player_out: Zeshan Arif
+          fielders:
+          - Muhammad Moiz
+          kind: caught
+    - 9.6:
+        non_striker: Bilal Zalmai
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mansoor Safi
+    - 10.1:
+        non_striker: Mansoor Safi
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 10.2:
+        non_striker: Mansoor Safi
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 10.3:
+        non_striker: Mansoor Safi
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 10.4:
+        non_striker: Bilal Zalmai
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mansoor Safi
+    - 10.5:
+        non_striker: Bilal Zalmai
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mansoor Safi
+        wicket:
+          player_out: Mansoor Safi
+          fielders:
+          - Md Ariyan
+          kind: caught
+    - 10.6:
+        non_striker: Bilal Zalmai
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 11.1:
+        non_striker: Aqib Iqbal
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bilal Zalmai
+    - 11.2:
+        non_striker: Aqib Iqbal
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Bilal Zalmai
+    - 11.3:
+        non_striker: Aqib Iqbal
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 11.4:
+        non_striker: Bilal Zalmai
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 11.5:
+        non_striker: Aqib Iqbal
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 11.6:
+        non_striker: Bilal Zalmai
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 12.1:
+        non_striker: Aqib Iqbal
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 12.2:
+        non_striker: Aqib Iqbal
+        bowler: Taranjeet Singh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: Bilal Zalmai
+    - 12.3:
+        non_striker: Bilal Zalmai
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 12.4:
+        non_striker: Aqib Iqbal
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 12.5:
+        non_striker: Bilal Zalmai
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aqib Iqbal
+    - 12.6:
+        non_striker: Aqib Iqbal
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Bilal Zalmai
+    - 12.7:
+        non_striker: Aqib Iqbal
+        bowler: Taranjeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 13.1:
+        non_striker: Aqib Iqbal
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bilal Zalmai
+    - 13.2:
+        non_striker: Aqib Iqbal
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bilal Zalmai
+    - 13.3:
+        non_striker: Aqib Iqbal
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bilal Zalmai
+    - 13.4:
+        non_striker: Aqib Iqbal
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bilal Zalmai
+    - 13.5:
+        non_striker: Bilal Zalmai
+        bowler: Luca Petre
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aqib Iqbal
+    - 13.6:
+        non_striker: Bilal Zalmai
+        bowler: Luca Petre
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aqib Iqbal

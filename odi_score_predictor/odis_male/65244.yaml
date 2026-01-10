@@ -1,0 +1,3349 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Centurion
+  dates:
+  - '2003-02-15'
+  gender: male
+  match_type: ODI
+  match_type_number: 1951
+  outcome:
+    winner: Australia
+    by:
+      wickets: 9
+  overs: 50
+  player_of_match:
+  - JN Gillespie
+  players:
+    India:
+    - SC Ganguly
+    - SR Tendulkar
+    - V Sehwag
+    - R Dravid
+    - Yuvraj Singh
+    - M Kaif
+    - D Mongia
+    - A Kumble
+    - Harbhajan Singh
+    - Z Khan
+    - J Srinath
+    Australia:
+    - AC Gilchrist
+    - ML Hayden
+    - RT Ponting
+    - DR Martyn
+    - DS Lehmann
+    - MG Bevan
+    - A Symonds
+    - GB Hogg
+    - B Lee
+    - GD McGrath
+    - JN Gillespie
+  registry:
+    people:
+      A Kumble: 0c2730df
+      A Symonds: bd77eb62
+      AC Gilchrist: 2b6e6dec
+      B Lee: dd09ff8e
+      BG Jerling: 26457e41
+      CH Lloyd: 5b445db0
+      D Mongia: 99663fa5
+      DR Martyn: '69762509'
+      DR Shepherd: 8a578048
+      DS Lehmann: 53fe6ee4
+      EAR de Silva: dc63f509
+      GB Hogg: f708a0bc
+      GD McGrath: ee7d0c82
+      Harbhajan Singh: 8b5b6769
+      J Srinath: bad31fac
+      JN Gillespie: 74234d66
+      M Kaif: d84378a4
+      MG Bevan: c500ec39
+      ML Hayden: d8699ab7
+      R Dravid: '0184dc35'
+      RT Ponting: 7d415ea5
+      SC Ganguly: 725529bc
+      SR Tendulkar: d2c2b2d5
+      V Sehwag: 8ba8195d
+      Yuvraj Singh: 1c914163
+      Z Khan: 91a4a398
+  teams:
+  - India
+  - Australia
+  toss:
+    winner: India
+    decision: bat
+  umpires:
+  - EAR de Silva
+  - DR Shepherd
+  venue: SuperSport Park, Centurion
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: SR Tendulkar
+        batsman: SC Ganguly
+    - 0.2:
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SR Tendulkar
+        batsman: SC Ganguly
+    - 0.3:
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SR Tendulkar
+        batsman: SC Ganguly
+    - 0.4:
+        bowler: GD McGrath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: SR Tendulkar
+        batsman: SC Ganguly
+    - 0.5:
+        non_striker: SC Ganguly
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 0.6:
+        non_striker: SC Ganguly
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 1.1:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 1.2:
+        non_striker: SC Ganguly
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 1.3:
+        non_striker: SC Ganguly
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 1.4:
+        non_striker: SC Ganguly
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 1.5:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: SC Ganguly
+    - 1.6:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 2.1:
+        non_striker: SC Ganguly
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 2.2:
+        non_striker: SC Ganguly
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 2.3:
+        non_striker: SR Tendulkar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 2.4:
+        non_striker: SR Tendulkar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 2.5:
+        non_striker: SR Tendulkar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 2.6:
+        non_striker: SR Tendulkar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 3.1:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 3.2:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 3.3:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SC Ganguly
+    - 3.4:
+        non_striker: SC Ganguly
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 3.5:
+        non_striker: SC Ganguly
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 3.6:
+        non_striker: SC Ganguly
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 4.1:
+        non_striker: SR Tendulkar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 4.2:
+        non_striker: SR Tendulkar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Ganguly
+    - 4.3:
+        non_striker: SR Tendulkar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 4.4:
+        non_striker: SR Tendulkar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 4.5:
+        non_striker: SR Tendulkar
+        bowler: GD McGrath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SC Ganguly
+    - 4.6:
+        non_striker: SC Ganguly
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 5.1:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 5.2:
+        non_striker: SC Ganguly
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Tendulkar
+    - 5.3:
+        non_striker: SC Ganguly
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 5.4:
+        non_striker: SC Ganguly
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 5.5:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+        wicket:
+          player_out: SC Ganguly
+          fielders:
+          - AC Gilchrist
+          kind: caught
+    - 5.6:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 5.7:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Sehwag
+    - 6.1:
+        non_striker: V Sehwag
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Tendulkar
+    - 6.2:
+        non_striker: V Sehwag
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 6.3:
+        non_striker: V Sehwag
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 6.4:
+        non_striker: V Sehwag
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Tendulkar
+    - 6.5:
+        non_striker: V Sehwag
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Tendulkar
+    - 6.6:
+        non_striker: V Sehwag
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 7.1:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 7.2:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Sehwag
+    - 7.3:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+        wicket:
+          player_out: V Sehwag
+          fielders:
+          - AC Gilchrist
+          kind: caught
+    - 7.4:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 7.5:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 7.6:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 7.7:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 8.1:
+        non_striker: SR Tendulkar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 8.2:
+        non_striker: SR Tendulkar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 8.3:
+        non_striker: SR Tendulkar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 8.4:
+        non_striker: SR Tendulkar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 8.5:
+        non_striker: SR Tendulkar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 8.6:
+        non_striker: SR Tendulkar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 9.1:
+        non_striker: R Dravid
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 9.2:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 9.3:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 9.4:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 9.5:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 9.6:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 10.1:
+        non_striker: R Dravid
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 10.2:
+        non_striker: R Dravid
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 10.3:
+        non_striker: R Dravid
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 10.4:
+        non_striker: R Dravid
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 10.5:
+        non_striker: R Dravid
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 10.6:
+        non_striker: R Dravid
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 11.1:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 11.2:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: R Dravid
+    - 11.3:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 11.4:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 11.5:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 11.6:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 11.7:
+        non_striker: SR Tendulkar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 12.1:
+        non_striker: R Dravid
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 12.2:
+        non_striker: R Dravid
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 12.3:
+        non_striker: R Dravid
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 12.4:
+        non_striker: R Dravid
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 12.5:
+        non_striker: R Dravid
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 12.6:
+        non_striker: R Dravid
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 13.1:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+        wicket:
+          player_out: R Dravid
+          kind: bowled
+    - 13.2:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 13.3:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 13.4:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 13.5:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 13.6:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 14.1:
+        non_striker: Yuvraj Singh
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 14.2:
+        non_striker: Yuvraj Singh
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 14.3:
+        non_striker: Yuvraj Singh
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 14.4:
+        non_striker: SR Tendulkar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 14.5:
+        non_striker: SR Tendulkar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 14.6:
+        non_striker: SR Tendulkar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+        wicket:
+          player_out: Yuvraj Singh
+          kind: lbw
+    - 15.1:
+        non_striker: M Kaif
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 15.2:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 15.3:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kaif
+    - 15.4:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 15.5:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 15.6:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 15.7:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 16.1:
+        non_striker: M Kaif
+        bowler: A Symonds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Tendulkar
+    - 16.2:
+        non_striker: M Kaif
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 16.3:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 16.4:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 16.5:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 16.6:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 16.7:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 17.1:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 17.2:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 17.3:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 17.4:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 17.5:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 17.6:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+        wicket:
+          player_out: M Kaif
+          fielders:
+          - A Symonds
+          kind: caught
+    - 18.1:
+        non_striker: D Mongia
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 18.2:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 18.3:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 18.4:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 18.5:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Mongia
+    - 18.6:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 19.1:
+        non_striker: D Mongia
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 19.2:
+        non_striker: D Mongia
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 19.3:
+        non_striker: D Mongia
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 19.4:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 19.5:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 19.6:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 20.1:
+        non_striker: D Mongia
+        bowler: A Symonds
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: SR Tendulkar
+    - 20.2:
+        non_striker: D Mongia
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 20.3:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Mongia
+    - 20.4:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 20.5:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 20.6:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Mongia
+    - 20.7:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 21.1:
+        non_striker: D Mongia
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 21.2:
+        non_striker: D Mongia
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 21.3:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 21.4:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 21.5:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 21.6:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Mongia
+    - 22.1:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 22.2:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 22.3:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 22.4:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Mongia
+    - 22.5:
+        non_striker: D Mongia
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 22.6:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 23.1:
+        non_striker: D Mongia
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 23.2:
+        non_striker: D Mongia
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 23.3:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 23.4:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 23.5:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 23.6:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 24.1:
+        non_striker: D Mongia
+        bowler: A Symonds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Tendulkar
+    - 24.2:
+        non_striker: D Mongia
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 24.3:
+        non_striker: D Mongia
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 24.4:
+        non_striker: D Mongia
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 24.5:
+        non_striker: D Mongia
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Tendulkar
+    - 24.6:
+        non_striker: D Mongia
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 24.7:
+        non_striker: D Mongia
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 25.1:
+        non_striker: D Mongia
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 25.2:
+        non_striker: D Mongia
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 25.3:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 25.4:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 25.5:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 25.6:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 26.1:
+        non_striker: D Mongia
+        bowler: A Symonds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Tendulkar
+    - 26.2:
+        non_striker: D Mongia
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 26.3:
+        non_striker: D Mongia
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 26.4:
+        non_striker: D Mongia
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 26.5:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 26.6:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 26.7:
+        non_striker: SR Tendulkar
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Mongia
+    - 27.1:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 27.2:
+        non_striker: SR Tendulkar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Mongia
+    - 27.3:
+        non_striker: D Mongia
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+        wicket:
+          player_out: SR Tendulkar
+          kind: lbw
+    - 27.4:
+        non_striker: D Mongia
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kumble
+    - 27.5:
+        non_striker: A Kumble
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Mongia
+    - 27.6:
+        non_striker: D Mongia
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 28.1:
+        non_striker: A Kumble
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 28.2:
+        non_striker: A Kumble
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+    - 28.3:
+        non_striker: A Kumble
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mongia
+        wicket:
+          player_out: D Mongia
+          fielders:
+          - A Symonds
+          kind: caught
+    - 28.4:
+        non_striker: A Kumble
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 28.5:
+        non_striker: A Kumble
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 28.6:
+        non_striker: A Kumble
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Harbhajan Singh
+    - 29.1:
+        non_striker: Harbhajan Singh
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 29.2:
+        non_striker: Harbhajan Singh
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 29.3:
+        non_striker: Harbhajan Singh
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kumble
+    - 29.4:
+        non_striker: A Kumble
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 29.5:
+        non_striker: A Kumble
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 29.6:
+        non_striker: A Kumble
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harbhajan Singh
+    - 30.1:
+        non_striker: A Kumble
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 30.2:
+        non_striker: A Kumble
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Harbhajan Singh
+    - 30.3:
+        non_striker: A Kumble
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Harbhajan Singh
+    - 30.4:
+        non_striker: A Kumble
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 30.5:
+        non_striker: A Kumble
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 30.6:
+        non_striker: A Kumble
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 31.1:
+        non_striker: Harbhajan Singh
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 31.2:
+        non_striker: Harbhajan Singh
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 31.3:
+        non_striker: Harbhajan Singh
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 31.4:
+        non_striker: Harbhajan Singh
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 31.5:
+        non_striker: Harbhajan Singh
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kumble
+    - 31.6:
+        non_striker: A Kumble
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 32.1:
+        non_striker: Harbhajan Singh
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 32.2:
+        non_striker: Harbhajan Singh
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kumble
+    - 32.3:
+        non_striker: Harbhajan Singh
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 32.4:
+        non_striker: Harbhajan Singh
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 32.5:
+        non_striker: Harbhajan Singh
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kumble
+    - 32.6:
+        non_striker: Harbhajan Singh
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 32.7:
+        non_striker: Harbhajan Singh
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 33.1:
+        non_striker: A Kumble
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 33.2:
+        non_striker: A Kumble
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 33.3:
+        non_striker: A Kumble
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harbhajan Singh
+    - 33.4:
+        non_striker: Harbhajan Singh
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kumble
+    - 33.5:
+        non_striker: A Kumble
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 33.6:
+        non_striker: A Kumble
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 34.1:
+        non_striker: Harbhajan Singh
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kumble
+    - 34.2:
+        non_striker: A Kumble
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 34.3:
+        non_striker: A Kumble
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 34.4:
+        non_striker: A Kumble
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 34.5:
+        non_striker: A Kumble
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harbhajan Singh
+    - 34.6:
+        non_striker: Harbhajan Singh
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 35.1:
+        non_striker: A Kumble
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Harbhajan Singh
+    - 35.2:
+        non_striker: A Kumble
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Harbhajan Singh
+    - 35.3:
+        non_striker: A Kumble
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 35.4:
+        non_striker: A Kumble
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Harbhajan Singh
+    - 35.5:
+        non_striker: A Kumble
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 35.6:
+        non_striker: A Kumble
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 36.1:
+        non_striker: Harbhajan Singh
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kumble
+    - 36.2:
+        non_striker: A Kumble
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 36.3:
+        non_striker: A Kumble
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+    - 36.4:
+        non_striker: A Kumble
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harbhajan Singh
+    - 36.5:
+        non_striker: Harbhajan Singh
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 36.6:
+        non_striker: Harbhajan Singh
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kumble
+    - 37.1:
+        non_striker: Harbhajan Singh
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kumble
+    - 37.2:
+        non_striker: A Kumble
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harbhajan Singh
+        wicket:
+          player_out: Harbhajan Singh
+          kind: lbw
+    - 37.3:
+        non_striker: A Kumble
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Khan
+    - 37.4:
+        non_striker: A Kumble
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Khan
+    - 37.5:
+        non_striker: A Kumble
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Khan
+    - 37.6:
+        non_striker: A Kumble
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Khan
+    - 38.1:
+        non_striker: Z Khan
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 38.2:
+        non_striker: Z Khan
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 38.3:
+        non_striker: Z Khan
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 38.4:
+        non_striker: Z Khan
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 38.5:
+        non_striker: Z Khan
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kumble
+    - 38.6:
+        non_striker: A Kumble
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Khan
+    - 39.1:
+        non_striker: Z Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 39.2:
+        non_striker: Z Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kumble
+    - 39.3:
+        non_striker: A Kumble
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Khan
+    - 39.4:
+        non_striker: A Kumble
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z Khan
+    - 39.5:
+        non_striker: Z Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 39.6:
+        non_striker: Z Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kumble
+    - 40.1:
+        non_striker: Z Khan
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 40.2:
+        non_striker: Z Khan
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kumble
+    - 40.3:
+        non_striker: A Kumble
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Khan
+    - 40.4:
+        non_striker: A Kumble
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z Khan
+        wicket:
+          player_out: Z Khan
+          kind: lbw
+    - 40.5:
+        non_striker: A Kumble
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Srinath
+    - 40.6:
+        non_striker: A Kumble
+        bowler: DS Lehmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Srinath
+    - 41.1:
+        non_striker: J Srinath
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 41.2:
+        non_striker: J Srinath
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 41.3:
+        non_striker: J Srinath
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+    - 41.4:
+        non_striker: J Srinath
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kumble
+        wicket:
+          player_out: J Srinath
+          fielders:
+          - DS Lehmann
+          kind: run out
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: ML Hayden
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 0.2:
+        non_striker: AC Gilchrist
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ML Hayden
+    - 0.3:
+        non_striker: ML Hayden
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 0.4:
+        non_striker: ML Hayden
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 0.5:
+        non_striker: ML Hayden
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 0.6:
+        non_striker: ML Hayden
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 1.1:
+        non_striker: ML Hayden
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 1.2:
+        non_striker: ML Hayden
+        bowler: Z Khan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: AC Gilchrist
+    - 1.3:
+        non_striker: ML Hayden
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Gilchrist
+    - 1.4:
+        non_striker: ML Hayden
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 1.5:
+        non_striker: ML Hayden
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 1.6:
+        non_striker: ML Hayden
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 2.1:
+        non_striker: AC Gilchrist
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 2.2:
+        non_striker: AC Gilchrist
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 2.3:
+        non_striker: ML Hayden
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 2.4:
+        non_striker: ML Hayden
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 2.5:
+        non_striker: ML Hayden
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 2.6:
+        non_striker: ML Hayden
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Gilchrist
+    - 3.1:
+        non_striker: AC Gilchrist
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Hayden
+    - 3.2:
+        non_striker: AC Gilchrist
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 3.3:
+        non_striker: AC Gilchrist
+        bowler: Z Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Hayden
+    - 3.4:
+        non_striker: AC Gilchrist
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 3.5:
+        non_striker: AC Gilchrist
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 3.6:
+        non_striker: AC Gilchrist
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 3.7:
+        non_striker: AC Gilchrist
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 4.1:
+        non_striker: ML Hayden
+        bowler: J Srinath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Gilchrist
+    - 4.2:
+        non_striker: ML Hayden
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 4.3:
+        non_striker: ML Hayden
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 4.4:
+        non_striker: ML Hayden
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 4.5:
+        non_striker: AC Gilchrist
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 4.6:
+        non_striker: AC Gilchrist
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ML Hayden
+    - 4.7:
+        non_striker: ML Hayden
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 5.1:
+        non_striker: ML Hayden
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 5.2:
+        non_striker: ML Hayden
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 5.3:
+        non_striker: AC Gilchrist
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 5.4:
+        non_striker: ML Hayden
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 5.5:
+        non_striker: ML Hayden
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 5.6:
+        non_striker: ML Hayden
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 6.1:
+        non_striker: AC Gilchrist
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ML Hayden
+    - 6.2:
+        non_striker: AC Gilchrist
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 6.3:
+        non_striker: AC Gilchrist
+        bowler: J Srinath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ML Hayden
+    - 6.4:
+        non_striker: ML Hayden
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Gilchrist
+    - 6.5:
+        non_striker: ML Hayden
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 6.6:
+        non_striker: ML Hayden
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 7.1:
+        non_striker: AC Gilchrist
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 7.2:
+        non_striker: ML Hayden
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Gilchrist
+    - 7.3:
+        non_striker: ML Hayden
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 7.4:
+        non_striker: ML Hayden
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 7.5:
+        non_striker: ML Hayden
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 7.6:
+        non_striker: AC Gilchrist
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ML Hayden
+    - 8.1:
+        non_striker: AC Gilchrist
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 8.2:
+        non_striker: AC Gilchrist
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 8.3:
+        non_striker: AC Gilchrist
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 8.4:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 8.5:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 8.6:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 9.1:
+        non_striker: AC Gilchrist
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 9.2:
+        non_striker: AC Gilchrist
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 9.3:
+        non_striker: AC Gilchrist
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 9.4:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 9.5:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 9.6:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 10.1:
+        non_striker: AC Gilchrist
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 10.2:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 10.3:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 10.4:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: AC Gilchrist
+    - 10.5:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 10.6:
+        non_striker: AC Gilchrist
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 10.7:
+        non_striker: AC Gilchrist
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 11.1:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 11.2:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 11.3:
+        non_striker: AC Gilchrist
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 11.4:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 11.5:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 11.6:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 12.1:
+        non_striker: AC Gilchrist
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ML Hayden
+    - 12.2:
+        non_striker: AC Gilchrist
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 12.3:
+        non_striker: AC Gilchrist
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 12.4:
+        non_striker: AC Gilchrist
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 12.5:
+        non_striker: AC Gilchrist
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 12.6:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 13.1:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 13.2:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 13.3:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 13.4:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 13.5:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 13.6:
+        non_striker: AC Gilchrist
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 14.1:
+        non_striker: AC Gilchrist
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 14.2:
+        non_striker: AC Gilchrist
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 14.3:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 14.4:
+        non_striker: AC Gilchrist
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 14.5:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 14.6:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 15.1:
+        non_striker: AC Gilchrist
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 15.2:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 15.3:
+        non_striker: AC Gilchrist
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 15.4:
+        non_striker: AC Gilchrist
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 15.5:
+        non_striker: AC Gilchrist
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 15.6:
+        non_striker: AC Gilchrist
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 16.1:
+        non_striker: AC Gilchrist
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 16.2:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 16.3:
+        non_striker: AC Gilchrist
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 16.4:
+        non_striker: AC Gilchrist
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 16.5:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 16.6:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AC Gilchrist
+    - 17.1:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 17.2:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 17.3:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+        wicket:
+          player_out: AC Gilchrist
+          fielders:
+          - R Dravid
+          kind: stumped
+    - 17.4:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 17.5:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 17.6:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Ponting
+    - 18.1:
+        non_striker: RT Ponting
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 18.2:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 18.3:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 18.4:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 18.5:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 18.6:
+        non_striker: RT Ponting
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 19.1:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 19.2:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 19.3:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 19.4:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Ponting
+    - 19.5:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 19.6:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RT Ponting
+    - 19.7:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 20.1:
+        non_striker: RT Ponting
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 20.2:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 20.3:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 20.4:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 20.5:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 20.6:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 21.1:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 21.2:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 21.3:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 21.4:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 21.5:
+        non_striker: RT Ponting
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 21.6:
+        non_striker: ML Hayden
+        bowler: A Kumble
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 22.1:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 22.2:
+        non_striker: ML Hayden
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting

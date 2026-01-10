@@ -1,0 +1,832 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-11-09'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bali
+  dates:
+  - '2025-11-09'
+  gender: male
+  match_type: T20
+  match_type_number: 3567
+  outcome:
+    winner: Myanmar
+    by:
+      wickets: 8
+  overs: 20
+  players:
+    Timor-Leste:
+    - Rahat Kazi
+    - Yahya Suhail
+    - Raihan Hossain
+    - D Mendonca
+    - Suhail Sattar
+    - GF Cardos
+    - Elias Tilman
+    - Arif Hosen
+    - EDS Pimheiro
+    - Nazmul Huda
+    - RDS Morein
+    Myanmar:
+    - KK Lin Thu
+    - Pyae Phyo Wai
+    - Thuya Aung
+    - Khin Aye
+    - Nay Lin Htun
+    - Nyeing Cham Soe
+    - Myat Thu Aung
+    - Sai Hla Htwe
+    - Y Naing Tun
+    - Htun Myat Hei
+    - PPS Win
+  registry:
+    people:
+      Arif Hosen: a21dfb66
+      Aye Min Than: 37f3bba0
+      D Mendonca: 8c2ce459
+      EDS Pimheiro: 88d574fd
+      Elias Tilman: 53c35b3a
+      Faheem Butt: 6707aa3f
+      GF Cardos: '09e5baeb'
+      Htun Myat Hei: f20c17eb
+      KK Lin Thu: 6cf75582
+      Khin Aye: ad2efd29
+      Myat Thu Aung: cebbf3c9
+      Nay Lin Htun: 5319f95b
+      Nazmul Huda: 837be376
+      Nyeing Cham Soe: 45b5ce8d
+      PPS Win: 177a648d
+      Pyae Phyo Wai: '09e86895'
+      RDS Morein: 3e90fbfd
+      Rahat Kazi: d4bebd88
+      Raihan Hossain: 3f05c34d
+      S Hawoe: e773dfe5
+      Sai Hla Htwe: 740d29d5
+      Suhail Sattar: 5ffb535d
+      Thuya Aung: 2e092d2c
+      Y Naing Tun: 97b109d2
+      Yahya Suhail: d1f14716
+  teams:
+  - Timor-Leste
+  - Myanmar
+  toss:
+    winner: Timor-Leste
+    decision: bat
+  umpires:
+  - Aye Min Than
+  - Faheem Butt
+  venue: Udayana Cricket Ground
+innings:
+- 1st innings:
+    team: Timor-Leste
+    deliveries:
+    - 0.1:
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: Yahya Suhail
+        batsman: Rahat Kazi
+    - 0.2:
+        bowler: KK Lin Thu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Yahya Suhail
+        batsman: Rahat Kazi
+    - 0.3:
+        non_striker: Rahat Kazi
+        bowler: KK Lin Thu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yahya Suhail
+    - 0.4:
+        non_striker: Rahat Kazi
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yahya Suhail
+    - 0.5:
+        non_striker: Yahya Suhail
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahat Kazi
+    - 0.6:
+        non_striker: Yahya Suhail
+        bowler: KK Lin Thu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rahat Kazi
+    - 0.7:
+        non_striker: Yahya Suhail
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahat Kazi
+    - 0.8:
+        non_striker: Rahat Kazi
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yahya Suhail
+    - 1.1:
+        non_striker: Yahya Suhail
+        bowler: Sai Hla Htwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahat Kazi
+    - 1.2:
+        non_striker: Rahat Kazi
+        bowler: Sai Hla Htwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yahya Suhail
+    - 1.3:
+        non_striker: Yahya Suhail
+        bowler: Sai Hla Htwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rahat Kazi
+    - 1.4:
+        non_striker: Yahya Suhail
+        bowler: Sai Hla Htwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahat Kazi
+    - 1.5:
+        non_striker: Yahya Suhail
+        bowler: Sai Hla Htwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rahat Kazi
+    - 1.6:
+        non_striker: Yahya Suhail
+        bowler: Sai Hla Htwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rahat Kazi
+    - 1.7:
+        non_striker: Rahat Kazi
+        bowler: Sai Hla Htwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yahya Suhail
+    - 2.1:
+        non_striker: Rahat Kazi
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yahya Suhail
+    - 2.2:
+        non_striker: Rahat Kazi
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yahya Suhail
+    - 2.3:
+        non_striker: Rahat Kazi
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yahya Suhail
+    - 2.4:
+        non_striker: Rahat Kazi
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yahya Suhail
+        wicket:
+          player_out: Yahya Suhail
+          fielders:
+          - Nay Lin Htun
+          kind: caught
+    - 2.5:
+        non_striker: Rahat Kazi
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raihan Hossain
+    - 2.6:
+        non_striker: Raihan Hossain
+        bowler: KK Lin Thu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rahat Kazi
+    - 2.7:
+        non_striker: Raihan Hossain
+        bowler: KK Lin Thu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahat Kazi
+        wicket:
+          player_out: Rahat Kazi
+          fielders:
+          - Pyae Phyo Wai
+          kind: caught
+    - 3.1:
+        bowler: Sai Hla Htwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Mendonca
+        batsman: Raihan Hossain
+    - 3.2:
+        bowler: Sai Hla Htwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: D Mendonca
+        batsman: Raihan Hossain
+    - 3.3:
+        bowler: Sai Hla Htwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: D Mendonca
+        batsman: Raihan Hossain
+    - 3.4:
+        bowler: Sai Hla Htwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Mendonca
+        batsman: Raihan Hossain
+    - 3.5:
+        non_striker: Raihan Hossain
+        bowler: Sai Hla Htwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mendonca
+        wicket:
+          player_out: D Mendonca
+          kind: lbw
+    - 3.6:
+        non_striker: Raihan Hossain
+        bowler: Sai Hla Htwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suhail Sattar
+        wicket:
+          player_out: Suhail Sattar
+          fielders:
+          - KK Lin Thu
+          kind: caught
+    - 4.1:
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GF Cardos
+        batsman: Raihan Hossain
+    - 4.2:
+        non_striker: Raihan Hossain
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GF Cardos
+    - 4.3:
+        non_striker: Raihan Hossain
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Cardos
+    - 4.4:
+        non_striker: Raihan Hossain
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Cardos
+    - 4.5:
+        non_striker: Raihan Hossain
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Cardos
+    - 4.6:
+        non_striker: GF Cardos
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Raihan Hossain
+    - 4.7:
+        non_striker: GF Cardos
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raihan Hossain
+    - 5.1:
+        non_striker: Raihan Hossain
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Cardos
+        wicket:
+          player_out: GF Cardos
+          kind: caught and bowled
+    - 5.2:
+        non_striker: Raihan Hossain
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Elias Tilman
+    - 5.3:
+        non_striker: Raihan Hossain
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Elias Tilman
+    - 5.4:
+        non_striker: Elias Tilman
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Raihan Hossain
+    - 5.5:
+        non_striker: Elias Tilman
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raihan Hossain
+    - 5.6:
+        non_striker: Elias Tilman
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raihan Hossain
+    - 5.7:
+        non_striker: Elias Tilman
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Raihan Hossain
+    - 5.8:
+        non_striker: Elias Tilman
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raihan Hossain
+    - 5.9:
+        non_striker: Raihan Hossain
+        bowler: Nyeing Cham Soe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Elias Tilman
+    - 6.1:
+        non_striker: Elias Tilman
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raihan Hossain
+    - 6.2:
+        non_striker: Elias Tilman
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Raihan Hossain
+    - 6.3:
+        non_striker: Elias Tilman
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raihan Hossain
+    - 6.4:
+        non_striker: Elias Tilman
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raihan Hossain
+    - 6.5:
+        non_striker: Raihan Hossain
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Elias Tilman
+    - 6.6:
+        non_striker: Elias Tilman
+        bowler: Pyae Phyo Wai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raihan Hossain
+    - 7.1:
+        non_striker: Raihan Hossain
+        bowler: Myat Thu Aung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Elias Tilman
+    - 7.2:
+        non_striker: Raihan Hossain
+        bowler: Myat Thu Aung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Elias Tilman
+    - 7.3:
+        non_striker: Elias Tilman
+        bowler: Myat Thu Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raihan Hossain
+        wicket:
+          player_out: Raihan Hossain
+          fielders:
+          - KK Lin Thu
+          kind: caught
+    - 7.4:
+        non_striker: Elias Tilman
+        bowler: Myat Thu Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arif Hosen
+    - 7.5:
+        non_striker: Arif Hosen
+        bowler: Myat Thu Aung
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Elias Tilman
+    - 7.6:
+        non_striker: Elias Tilman
+        bowler: Myat Thu Aung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Arif Hosen
+    - 7.7:
+        non_striker: Elias Tilman
+        bowler: Myat Thu Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arif Hosen
+    - 7.8:
+        non_striker: Elias Tilman
+        bowler: Myat Thu Aung
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Arif Hosen
+    - 7.9:
+        non_striker: Elias Tilman
+        bowler: Myat Thu Aung
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arif Hosen
+        wicket:
+          player_out: Arif Hosen
+          fielders:
+          - Htun Myat Hei
+          kind: stumped
+- 2nd innings:
+    team: Myanmar
+    deliveries:
+    - 0.1:
+        bowler: Elias Tilman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Pyae Phyo Wai
+        batsman: KK Lin Thu
+    - 0.2:
+        non_striker: KK Lin Thu
+        bowler: Elias Tilman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pyae Phyo Wai
+    - 0.3:
+        non_striker: Pyae Phyo Wai
+        bowler: Elias Tilman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KK Lin Thu
+    - 0.4:
+        non_striker: Pyae Phyo Wai
+        bowler: Elias Tilman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Lin Thu
+    - 0.5:
+        non_striker: Pyae Phyo Wai
+        bowler: Elias Tilman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KK Lin Thu
+    - 0.6:
+        non_striker: Pyae Phyo Wai
+        bowler: Elias Tilman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Lin Thu
+    - 0.7:
+        non_striker: Pyae Phyo Wai
+        bowler: Elias Tilman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Lin Thu
+    - 0.8:
+        non_striker: KK Lin Thu
+        bowler: Elias Tilman
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Pyae Phyo Wai
+    - 0.9:
+        non_striker: Pyae Phyo Wai
+        bowler: Elias Tilman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KK Lin Thu
+    - 1.1:
+        non_striker: KK Lin Thu
+        bowler: Suhail Sattar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Pyae Phyo Wai
+    - 1.2:
+        non_striker: KK Lin Thu
+        bowler: Suhail Sattar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pyae Phyo Wai
+        wicket:
+          player_out: Pyae Phyo Wai
+          fielders:
+          - EDS Pimheiro
+          kind: caught
+    - 1.3:
+        non_striker: KK Lin Thu
+        bowler: Suhail Sattar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Thuya Aung
+    - 1.4:
+        non_striker: Thuya Aung
+        bowler: Suhail Sattar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KK Lin Thu
+    - 1.5:
+        non_striker: KK Lin Thu
+        bowler: Suhail Sattar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Thuya Aung
+    - 1.6:
+        non_striker: KK Lin Thu
+        bowler: Suhail Sattar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Thuya Aung
+    - 2.1:
+        non_striker: Thuya Aung
+        bowler: Rahat Kazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Lin Thu
+    - 2.2:
+        non_striker: Thuya Aung
+        bowler: Rahat Kazi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KK Lin Thu
+    - 2.3:
+        non_striker: Thuya Aung
+        bowler: Rahat Kazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KK Lin Thu
+    - 2.4:
+        non_striker: Thuya Aung
+        bowler: Rahat Kazi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KK Lin Thu
+    - 2.5:
+        non_striker: KK Lin Thu
+        bowler: Rahat Kazi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Thuya Aung
+        wicket:
+          player_out: Thuya Aung
+          fielders:
+          - EDS Pimheiro
+          kind: caught
+    - 2.6:
+        non_striker: KK Lin Thu
+        bowler: Rahat Kazi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khin Aye
+    - 2.7:
+        non_striker: Khin Aye
+        bowler: Rahat Kazi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KK Lin Thu
+    - 2.8:
+        non_striker: Khin Aye
+        bowler: Rahat Kazi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KK Lin Thu
+    - 3.1:
+        non_striker: KK Lin Thu
+        bowler: Suhail Sattar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khin Aye

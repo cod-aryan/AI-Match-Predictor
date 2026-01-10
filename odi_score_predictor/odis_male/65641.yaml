@@ -1,0 +1,2793 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sydney
+  dates:
+  - '2003-01-23'
+  gender: male
+  match_type: ODI
+  match_type_number: 1940
+  outcome:
+    winner: Australia
+    by:
+      wickets: 10
+  overs: 50
+  player_of_match:
+  - B Lee
+  players:
+    England:
+    - ME Trescothick
+    - NV Knight
+    - MP Vaughan
+    - N Hussain
+    - AJ Stewart
+    - PD Collingwood
+    - ID Blackwell
+    - RC Irani
+    - AR Caddick
+    - JM Anderson
+    - MJ Hoggard
+    Australia:
+    - AC Gilchrist
+    - ML Hayden
+    - RT Ponting
+    - DR Martyn
+    - MG Bevan
+    - A Symonds
+    - B Lee
+    - GB Hogg
+    - AJ Bichel
+    - BA Williams
+    - SK Warne
+  registry:
+    people:
+      A Symonds: bd77eb62
+      AC Gilchrist: 2b6e6dec
+      AJ Bichel: 3cf83487
+      AJ Stewart: a8ce3491
+      AR Caddick: 25020f9d
+      B Lee: dd09ff8e
+      BA Williams: 953e3931
+      CH Lloyd: 5b445db0
+      DB Hair: 492e1a8e
+      DL Orchard: a7df1d20
+      DR Martyn: '69762509'
+      GB Hogg: f708a0bc
+      ID Blackwell: 818e8bf2
+      JM Anderson: d12143bf
+      ME Trescothick: ea42ddb9
+      MG Bevan: c500ec39
+      MJ Hoggard: dc0f5506
+      ML Hayden: d8699ab7
+      MP Vaughan: 6e1b1ec0
+      N Hussain: f76ffa81
+      NV Knight: d2f3829d
+      PD Collingwood: a386e91b
+      RC Irani: f011dfa3
+      RT Ponting: 7d415ea5
+      SJA Taufel: 4b43d5ac
+      SK Warne: bb18be76
+  teams:
+  - England
+  - Australia
+  toss:
+    winner: England
+    decision: bat
+  umpires:
+  - DL Orchard
+  - SJA Taufel
+  venue: Sydney Cricket Ground
+innings:
+- 1st innings:
+    team: England
+    deliveries:
+    - 0.1:
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NV Knight
+        batsman: ME Trescothick
+    - 0.2:
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NV Knight
+        batsman: ME Trescothick
+    - 0.3:
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NV Knight
+        batsman: ME Trescothick
+    - 0.4:
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NV Knight
+        batsman: ME Trescothick
+    - 0.5:
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NV Knight
+        batsman: ME Trescothick
+    - 0.6:
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NV Knight
+        batsman: ME Trescothick
+    - 1.1:
+        non_striker: ME Trescothick
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NV Knight
+    - 1.2:
+        non_striker: NV Knight
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 1.3:
+        non_striker: NV Knight
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 1.4:
+        non_striker: NV Knight
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 1.5:
+        non_striker: NV Knight
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 1.6:
+        non_striker: NV Knight
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+        wicket:
+          player_out: ME Trescothick
+          fielders:
+          - AC Gilchrist
+          kind: caught
+    - 2.1:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NV Knight
+    - 2.2:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NV Knight
+    - 2.3:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NV Knight
+    - 2.4:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NV Knight
+    - 2.5:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NV Knight
+    - 2.6:
+        non_striker: NV Knight
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 3.1:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NV Knight
+    - 3.2:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NV Knight
+    - 3.3:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NV Knight
+    - 3.4:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NV Knight
+    - 3.5:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NV Knight
+    - 3.6:
+        non_striker: NV Knight
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 4.1:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NV Knight
+    - 4.2:
+        non_striker: NV Knight
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 4.3:
+        non_striker: NV Knight
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 4.4:
+        non_striker: NV Knight
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Vaughan
+    - 4.5:
+        non_striker: NV Knight
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 4.6:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NV Knight
+    - 4.7:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NV Knight
+    - 5.1:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NV Knight
+    - 5.2:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NV Knight
+    - 5.3:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NV Knight
+        wicket:
+          player_out: NV Knight
+          fielders:
+          - AC Gilchrist
+          kind: caught
+    - 5.4:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Hussain
+    - 5.5:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Hussain
+    - 5.6:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Hussain
+    - 6.1:
+        non_striker: N Hussain
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 6.2:
+        non_striker: N Hussain
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 6.3:
+        non_striker: N Hussain
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 6.4:
+        non_striker: N Hussain
+        bowler: BA Williams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MP Vaughan
+    - 6.5:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Hussain
+    - 6.6:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Hussain
+    - 7.1:
+        non_striker: N Hussain
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 7.2:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Hussain
+    - 7.3:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Hussain
+    - 7.4:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Hussain
+    - 7.5:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: N Hussain
+    - 7.6:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Hussain
+    - 7.7:
+        non_striker: N Hussain
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Vaughan
+    - 8.1:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Hussain
+    - 8.2:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Hussain
+        wicket:
+          player_out: N Hussain
+          kind: bowled
+    - 8.3:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Stewart
+    - 8.4:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Stewart
+    - 8.5:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Stewart
+    - 8.6:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Stewart
+    - 9.1:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Stewart
+    - 9.2:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Stewart
+    - 9.3:
+        non_striker: AJ Stewart
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 9.4:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Stewart
+    - 9.5:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Stewart
+    - 9.6:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Stewart
+    - 10.1:
+        non_striker: AJ Stewart
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 10.2:
+        non_striker: AJ Stewart
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 10.3:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Stewart
+    - 10.4:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Stewart
+    - 10.5:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Stewart
+    - 10.6:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Stewart
+        wicket:
+          player_out: AJ Stewart
+          fielders:
+          - AC Gilchrist
+          kind: caught
+    - 11.1:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 11.2:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 11.3:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 11.4:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 11.5:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 11.6:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 12.1:
+        non_striker: PD Collingwood
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 12.2:
+        non_striker: PD Collingwood
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 12.3:
+        non_striker: PD Collingwood
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 12.4:
+        non_striker: PD Collingwood
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 12.5:
+        non_striker: PD Collingwood
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 12.6:
+        non_striker: PD Collingwood
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 13.1:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 13.2:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 13.3:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 13.4:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 13.5:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 13.6:
+        non_striker: MP Vaughan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 14.1:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 14.2:
+        non_striker: MP Vaughan
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 14.3:
+        non_striker: PD Collingwood
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 14.4:
+        non_striker: PD Collingwood
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 14.5:
+        non_striker: PD Collingwood
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 14.6:
+        non_striker: PD Collingwood
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 15.1:
+        non_striker: MP Vaughan
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 15.2:
+        non_striker: MP Vaughan
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 15.3:
+        non_striker: MP Vaughan
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 15.4:
+        non_striker: MP Vaughan
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 15.5:
+        non_striker: MP Vaughan
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 15.6:
+        non_striker: MP Vaughan
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 16.1:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 16.2:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 16.3:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Vaughan
+    - 16.4:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 16.5:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 16.6:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 17.1:
+        non_striker: PD Collingwood
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 17.2:
+        non_striker: PD Collingwood
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 17.3:
+        non_striker: PD Collingwood
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 17.4:
+        non_striker: PD Collingwood
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 17.5:
+        non_striker: PD Collingwood
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 17.6:
+        non_striker: MP Vaughan
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 18.1:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 18.2:
+        non_striker: MP Vaughan
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 18.3:
+        non_striker: MP Vaughan
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 18.4:
+        non_striker: MP Vaughan
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 18.5:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 18.6:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 19.1:
+        non_striker: PD Collingwood
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+        wicket:
+          player_out: MP Vaughan
+          kind: lbw
+    - 19.2:
+        non_striker: PD Collingwood
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ID Blackwell
+    - 19.3:
+        non_striker: PD Collingwood
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ID Blackwell
+        wicket:
+          player_out: ID Blackwell
+          fielders:
+          - RT Ponting
+          kind: caught
+    - 19.4:
+        non_striker: PD Collingwood
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 19.5:
+        non_striker: PD Collingwood
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 19.6:
+        non_striker: PD Collingwood
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 20.1:
+        non_striker: RC Irani
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Collingwood
+    - 20.2:
+        non_striker: RC Irani
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 20.3:
+        non_striker: RC Irani
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 20.4:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 20.5:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 20.6:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 21.1:
+        non_striker: RC Irani
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 21.2:
+        non_striker: PD Collingwood
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 21.3:
+        non_striker: PD Collingwood
+        bowler: AJ Bichel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RC Irani
+    - 21.4:
+        non_striker: RC Irani
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Collingwood
+    - 21.5:
+        non_striker: RC Irani
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Collingwood
+    - 21.6:
+        non_striker: RC Irani
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Collingwood
+    - 22.1:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 22.2:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 22.3:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RC Irani
+    - 22.4:
+        non_striker: RC Irani
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 22.5:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 22.6:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 23.1:
+        non_striker: RC Irani
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 23.2:
+        non_striker: RC Irani
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 23.3:
+        non_striker: RC Irani
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 23.4:
+        non_striker: RC Irani
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 23.5:
+        non_striker: RC Irani
+        bowler: AJ Bichel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PD Collingwood
+    - 23.6:
+        non_striker: RC Irani
+        bowler: AJ Bichel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PD Collingwood
+    - 23.7:
+        non_striker: PD Collingwood
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RC Irani
+    - 24.1:
+        non_striker: RC Irani
+        bowler: SK Warne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PD Collingwood
+    - 24.2:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 24.3:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 24.4:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RC Irani
+    - 24.5:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 24.6:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 24.7:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 25.1:
+        non_striker: RC Irani
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 25.2:
+        non_striker: RC Irani
+        bowler: AJ Bichel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PD Collingwood
+    - 25.3:
+        non_striker: PD Collingwood
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RC Irani
+    - 25.4:
+        non_striker: RC Irani
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 25.5:
+        non_striker: PD Collingwood
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 25.6:
+        non_striker: PD Collingwood
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 26.1:
+        non_striker: RC Irani
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 26.2:
+        non_striker: RC Irani
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 26.3:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 26.4:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RC Irani
+    - 26.5:
+        non_striker: RC Irani
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 26.6:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RC Irani
+    - 27.1:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RC Irani
+    - 27.2:
+        non_striker: RC Irani
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 27.3:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 27.4:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 27.5:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 27.6:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 28.1:
+        non_striker: RC Irani
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 28.2:
+        non_striker: RC Irani
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 28.3:
+        non_striker: RC Irani
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 28.4:
+        non_striker: RC Irani
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 28.5:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 28.6:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RC Irani
+    - 29.1:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+    - 29.2:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RC Irani
+        wicket:
+          player_out: RC Irani
+          fielders:
+          - AJ Bichel
+          kind: caught
+    - 29.3:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 29.4:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 29.5:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 29.6:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Caddick
+    - 30.1:
+        non_striker: PD Collingwood
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Caddick
+    - 30.2:
+        non_striker: AR Caddick
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 30.3:
+        non_striker: AR Caddick
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Collingwood
+    - 30.4:
+        non_striker: AR Caddick
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 30.5:
+        non_striker: PD Collingwood
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 30.6:
+        non_striker: PD Collingwood
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 31.1:
+        non_striker: AR Caddick
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 31.2:
+        non_striker: AR Caddick
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 31.3:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Caddick
+    - 31.4:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Caddick
+    - 31.5:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Caddick
+    - 31.6:
+        non_striker: AR Caddick
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 31.7:
+        non_striker: PD Collingwood
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 32.1:
+        non_striker: AR Caddick
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 32.2:
+        non_striker: PD Collingwood
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 32.3:
+        non_striker: PD Collingwood
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 32.4:
+        non_striker: PD Collingwood
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 32.5:
+        non_striker: PD Collingwood
+        bowler: BA Williams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 32.6:
+        non_striker: PD Collingwood
+        bowler: BA Williams
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: AR Caddick
+    - 33.1:
+        non_striker: AR Caddick
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 33.2:
+        non_striker: AR Caddick
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 33.3:
+        non_striker: PD Collingwood
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Caddick
+    - 33.4:
+        non_striker: AR Caddick
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 33.5:
+        non_striker: AR Caddick
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Collingwood
+    - 33.6:
+        non_striker: AR Caddick
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 34.1:
+        non_striker: AR Caddick
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PD Collingwood
+    - 34.2:
+        non_striker: AR Caddick
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 34.3:
+        non_striker: AR Caddick
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 34.4:
+        non_striker: AR Caddick
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 34.5:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 34.6:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Caddick
+    - 35.1:
+        non_striker: PD Collingwood
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Caddick
+    - 35.2:
+        non_striker: AR Caddick
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 35.3:
+        non_striker: AR Caddick
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PD Collingwood
+    - 35.4:
+        non_striker: AR Caddick
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 35.5:
+        non_striker: PD Collingwood
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 35.6:
+        non_striker: PD Collingwood
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 36.1:
+        non_striker: AR Caddick
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 36.2:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 36.3:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 36.4:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Caddick
+    - 36.5:
+        non_striker: AR Caddick
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 36.6:
+        non_striker: PD Collingwood
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 37.1:
+        non_striker: AR Caddick
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 37.2:
+        non_striker: AR Caddick
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 37.3:
+        non_striker: PD Collingwood
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Caddick
+    - 37.4:
+        non_striker: AR Caddick
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PD Collingwood
+    - 37.5:
+        non_striker: PD Collingwood
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 37.6:
+        non_striker: PD Collingwood
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 38.1:
+        non_striker: AR Caddick
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 38.2:
+        non_striker: AR Caddick
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 38.3:
+        non_striker: AR Caddick
+        bowler: SK Warne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PD Collingwood
+    - 38.4:
+        non_striker: AR Caddick
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 38.5:
+        non_striker: AR Caddick
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 38.6:
+        non_striker: AR Caddick
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+    - 38.7:
+        non_striker: AR Caddick
+        bowler: SK Warne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PD Collingwood
+        wicket:
+          player_out: PD Collingwood
+          fielders:
+          - AC Gilchrist
+          kind: stumped
+    - 39.1:
+        non_striker: JM Anderson
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 39.2:
+        non_striker: JM Anderson
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 39.3:
+        non_striker: JM Anderson
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 39.4:
+        non_striker: JM Anderson
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Caddick
+    - 39.5:
+        non_striker: AR Caddick
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Anderson
+    - 39.6:
+        non_striker: AR Caddick
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Anderson
+    - 40.1:
+        non_striker: JM Anderson
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Caddick
+    - 40.2:
+        non_striker: JM Anderson
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Caddick
+    - 40.3:
+        non_striker: AR Caddick
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Anderson
+    - 40.4:
+        non_striker: AR Caddick
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Anderson
+        wicket:
+          player_out: JM Anderson
+          fielders:
+          - AC Gilchrist
+          kind: caught
+    - 40.5:
+        non_striker: AR Caddick
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Hoggard
+    - 40.6:
+        non_striker: AR Caddick
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MJ Hoggard
+        wicket:
+          player_out: MJ Hoggard
+          fielders:
+          - AC Gilchrist
+          kind: caught
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: ML Hayden
+        bowler: AR Caddick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 0.2:
+        non_striker: ML Hayden
+        bowler: AR Caddick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 0.3:
+        non_striker: AC Gilchrist
+        bowler: AR Caddick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 0.4:
+        non_striker: AC Gilchrist
+        bowler: AR Caddick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 0.5:
+        non_striker: AC Gilchrist
+        bowler: AR Caddick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 0.6:
+        non_striker: ML Hayden
+        bowler: AR Caddick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 1.1:
+        non_striker: AC Gilchrist
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 1.2:
+        non_striker: AC Gilchrist
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 1.3:
+        non_striker: AC Gilchrist
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 1.4:
+        non_striker: AC Gilchrist
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 1.5:
+        non_striker: AC Gilchrist
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 1.6:
+        non_striker: AC Gilchrist
+        bowler: JM Anderson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Hayden
+    - 1.7:
+        non_striker: AC Gilchrist
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Hayden
+    - 2.1:
+        non_striker: ML Hayden
+        bowler: AR Caddick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 2.2:
+        non_striker: ML Hayden
+        bowler: AR Caddick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 2.3:
+        non_striker: ML Hayden
+        bowler: AR Caddick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 2.4:
+        non_striker: ML Hayden
+        bowler: AR Caddick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 2.5:
+        non_striker: ML Hayden
+        bowler: AR Caddick
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 2.6:
+        non_striker: ML Hayden
+        bowler: AR Caddick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 3.1:
+        non_striker: AC Gilchrist
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 3.2:
+        non_striker: AC Gilchrist
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 3.3:
+        non_striker: AC Gilchrist
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 3.4:
+        non_striker: AC Gilchrist
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 3.5:
+        non_striker: AC Gilchrist
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 3.6:
+        non_striker: AC Gilchrist
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Hayden
+    - 4.1:
+        non_striker: ML Hayden
+        bowler: AR Caddick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 4.2:
+        non_striker: ML Hayden
+        bowler: AR Caddick
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 4.3:
+        non_striker: ML Hayden
+        bowler: AR Caddick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 4.4:
+        non_striker: ML Hayden
+        bowler: AR Caddick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 4.5:
+        non_striker: ML Hayden
+        bowler: AR Caddick
+        runs:
+          extras: 0
+          non_boundary: 1
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 4.6:
+        non_striker: ML Hayden
+        bowler: AR Caddick
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 5.1:
+        non_striker: AC Gilchrist
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 5.2:
+        non_striker: ML Hayden
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 5.3:
+        non_striker: ML Hayden
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 5.4:
+        non_striker: ML Hayden
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 5.5:
+        non_striker: ML Hayden
+        bowler: JM Anderson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Gilchrist
+    - 5.6:
+        non_striker: ML Hayden
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 5.7:
+        non_striker: ML Hayden
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 6.1:
+        non_striker: ML Hayden
+        bowler: MJ Hoggard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 6.2:
+        non_striker: ML Hayden
+        bowler: MJ Hoggard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 6.3:
+        non_striker: ML Hayden
+        bowler: MJ Hoggard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 6.4:
+        non_striker: ML Hayden
+        bowler: MJ Hoggard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AC Gilchrist
+    - 6.5:
+        non_striker: AC Gilchrist
+        bowler: MJ Hoggard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 6.6:
+        non_striker: AC Gilchrist
+        bowler: MJ Hoggard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 7.1:
+        non_striker: ML Hayden
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 7.2:
+        non_striker: ML Hayden
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 7.3:
+        non_striker: ML Hayden
+        bowler: JM Anderson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AC Gilchrist
+    - 7.4:
+        non_striker: AC Gilchrist
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 7.5:
+        non_striker: AC Gilchrist
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ML Hayden
+    - 7.6:
+        non_striker: ML Hayden
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 8.1:
+        non_striker: AC Gilchrist
+        bowler: MJ Hoggard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 8.2:
+        non_striker: AC Gilchrist
+        bowler: MJ Hoggard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 8.3:
+        non_striker: AC Gilchrist
+        bowler: MJ Hoggard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 8.4:
+        non_striker: AC Gilchrist
+        bowler: MJ Hoggard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 8.5:
+        non_striker: ML Hayden
+        bowler: MJ Hoggard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 8.6:
+        non_striker: ML Hayden
+        bowler: MJ Hoggard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Gilchrist
+    - 9.1:
+        non_striker: AC Gilchrist
+        bowler: RC Irani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 9.2:
+        non_striker: ML Hayden
+        bowler: RC Irani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 9.3:
+        non_striker: AC Gilchrist
+        bowler: RC Irani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 9.4:
+        non_striker: AC Gilchrist
+        bowler: RC Irani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 9.5:
+        non_striker: ML Hayden
+        bowler: RC Irani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 9.6:
+        non_striker: ML Hayden
+        bowler: RC Irani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 10.1:
+        non_striker: ML Hayden
+        bowler: MJ Hoggard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 10.2:
+        non_striker: ML Hayden
+        bowler: MJ Hoggard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 10.3:
+        non_striker: AC Gilchrist
+        bowler: MJ Hoggard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 10.4:
+        non_striker: AC Gilchrist
+        bowler: MJ Hoggard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 10.5:
+        non_striker: AC Gilchrist
+        bowler: MJ Hoggard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 10.6:
+        non_striker: ML Hayden
+        bowler: MJ Hoggard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 11.1:
+        non_striker: AC Gilchrist
+        bowler: RC Irani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 11.2:
+        non_striker: AC Gilchrist
+        bowler: RC Irani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ML Hayden
+    - 11.3:
+        non_striker: AC Gilchrist
+        bowler: RC Irani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 11.4:
+        non_striker: AC Gilchrist
+        bowler: RC Irani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 11.5:
+        non_striker: AC Gilchrist
+        bowler: RC Irani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 11.6:
+        non_striker: AC Gilchrist
+        bowler: RC Irani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 12.1:
+        non_striker: ML Hayden
+        bowler: MJ Hoggard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 12.2:
+        non_striker: AC Gilchrist
+        bowler: MJ Hoggard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Hayden

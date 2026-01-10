@@ -1,0 +1,3310 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dallas
+  dates:
+  - '2024-10-25'
+  gender: male
+  match_type: ODI
+  match_type_number: 4785
+  outcome:
+    winner: Scotland
+    by:
+      wickets: 10
+  overs: 50
+  player_of_match:
+  - ARI Umeed
+  players:
+    United States of America:
+    - SJ Modani
+    - AGS Gous
+    - MD Patel
+    - SR Mukkamalla
+    - Milind Kumar
+    - Shayan Jahangir
+    - Harmeet Singh
+    - SC van Schalkwyk
+    - Jasdeep Singh
+    - NP Kenjige
+    - SN Netravalkar
+    Scotland:
+    - C Tear
+    - ARI Umeed
+    - BJ McMullen
+    - RD Berrington
+    - MA Jones
+    - MH Cross
+    - MA Leask
+    - MRJ Watt
+    - CB Sole
+    - BTJ Wheal
+    - BJ Currie
+  registry:
+    people:
+      AGS Gous: d1305df0
+      ARI Umeed: 7a32c1c1
+      BJ Currie: 2ecd844a
+      BJ McMullen: 436c763a
+      BTJ Wheal: 3f61a062
+      C Tear: 7ffe4817
+      CB Sole: 469ccead
+      DA Cosker: aac9f784
+      Harmeet Singh: 0bf15e52
+      Jasdeep Singh: 5ec41cd7
+      Jermaine Lindo: 1154bf4f
+      MA Jones: 05f96194
+      MA Leask: '28131839'
+      MD Patel: 25d7f1ac
+      MH Cross: 8b261d84
+      MRJ Watt: 1252f71a
+      Milind Kumar: b4296080
+      NP Kenjige: f7d267f7
+      RD Berrington: e21bc7f3
+      RJ Warren: 9d1c62d7
+      SC van Schalkwyk: 97b0e4ff
+      SJ Modani: 290cba17
+      SN Netravalkar: c8a3f688
+      SR Mukkamalla: 156d0ea2
+      Shayan Jahangir: 571e1d2a
+      Vijaya Mallela: 85b6244a
+  teams:
+  - United States of America
+  - Scotland
+  toss:
+    winner: Scotland
+    decision: field
+  umpires:
+  - RJ Warren
+  - Vijaya Mallela
+  venue: Grand Prairie Stadium, Dallas
+innings:
+- 1st innings:
+    team: United States of America
+    deliveries:
+    - 0.1:
+        non_striker: AGS Gous
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Modani
+    - 0.2:
+        non_striker: SJ Modani
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGS Gous
+    - 0.3:
+        non_striker: AGS Gous
+        bowler: BJ Currie
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: SJ Modani
+    - 0.4:
+        non_striker: AGS Gous
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 0.5:
+        non_striker: AGS Gous
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 0.6:
+        non_striker: AGS Gous
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Modani
+    - 1.1:
+        non_striker: AGS Gous
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 1.2:
+        non_striker: AGS Gous
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 1.3:
+        non_striker: AGS Gous
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SJ Modani
+    - 1.4:
+        non_striker: SJ Modani
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 1.5:
+        non_striker: SJ Modani
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 1.6:
+        non_striker: SJ Modani
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 2.1:
+        non_striker: AGS Gous
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 2.2:
+        non_striker: AGS Gous
+        bowler: BJ Currie
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: SJ Modani
+    - 2.3:
+        non_striker: AGS Gous
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 2.4:
+        non_striker: AGS Gous
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 2.5:
+        non_striker: AGS Gous
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SJ Modani
+    - 2.6:
+        non_striker: SJ Modani
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 3.1:
+        non_striker: AGS Gous
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 3.2:
+        non_striker: AGS Gous
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 3.3:
+        non_striker: AGS Gous
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+        wicket:
+          player_out: SJ Modani
+          fielders:
+          - MRJ Watt
+          kind: caught
+    - 3.4:
+        non_striker: AGS Gous
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 3.5:
+        non_striker: AGS Gous
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 3.6:
+        non_striker: AGS Gous
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 4.1:
+        non_striker: MD Patel
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 4.2:
+        non_striker: MD Patel
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AGS Gous
+    - 4.3:
+        non_striker: MD Patel
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 4.4:
+        non_striker: MD Patel
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+    - 4.5:
+        non_striker: MD Patel
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGS Gous
+        wicket:
+          player_out: AGS Gous
+          kind: lbw
+    - 4.6:
+        non_striker: MD Patel
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 5.1:
+        non_striker: SR Mukkamalla
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 5.2:
+        non_striker: SR Mukkamalla
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 5.3:
+        non_striker: SR Mukkamalla
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+        wicket:
+          player_out: MD Patel
+          kind: bowled
+    - 5.4:
+        non_striker: SR Mukkamalla
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 5.5:
+        non_striker: SR Mukkamalla
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 5.6:
+        non_striker: SR Mukkamalla
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 6.1:
+        non_striker: Milind Kumar
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 6.2:
+        non_striker: Milind Kumar
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 6.3:
+        non_striker: Milind Kumar
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+    - 6.4:
+        non_striker: Milind Kumar
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Mukkamalla
+        wicket:
+          player_out: SR Mukkamalla
+          kind: bowled
+    - 6.5:
+        non_striker: Milind Kumar
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+        wicket:
+          player_out: Shayan Jahangir
+          kind: lbw
+    - 6.6:
+        non_striker: Milind Kumar
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 7.1:
+        non_striker: Harmeet Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 7.2:
+        non_striker: Harmeet Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 7.3:
+        non_striker: Harmeet Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 7.4:
+        non_striker: Harmeet Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 7.5:
+        non_striker: Milind Kumar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harmeet Singh
+    - 7.6:
+        non_striker: Harmeet Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 8.1:
+        non_striker: Milind Kumar
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 8.2:
+        non_striker: Milind Kumar
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Harmeet Singh
+    - 8.3:
+        non_striker: Milind Kumar
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Harmeet Singh
+    - 8.4:
+        non_striker: Milind Kumar
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 8.5:
+        non_striker: Milind Kumar
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Harmeet Singh
+    - 8.6:
+        non_striker: Milind Kumar
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 9.1:
+        non_striker: Harmeet Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 9.2:
+        non_striker: Harmeet Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 9.3:
+        non_striker: Harmeet Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 9.4:
+        non_striker: Milind Kumar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harmeet Singh
+    - 9.5:
+        non_striker: Harmeet Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 9.6:
+        non_striker: Harmeet Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Milind Kumar
+    - 10.1:
+        non_striker: Harmeet Singh
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 10.2:
+        non_striker: Harmeet Singh
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 10.3:
+        non_striker: Harmeet Singh
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 10.4:
+        non_striker: Harmeet Singh
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Milind Kumar
+    - 10.5:
+        non_striker: Harmeet Singh
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 10.6:
+        non_striker: Harmeet Singh
+        bowler: BJ Currie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Milind Kumar
+    - 11.1:
+        non_striker: Harmeet Singh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 11.2:
+        non_striker: Harmeet Singh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 11.3:
+        non_striker: Harmeet Singh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+    - 11.4:
+        non_striker: Harmeet Singh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Milind Kumar
+        wicket:
+          player_out: Milind Kumar
+          fielders:
+          - MH Cross
+          kind: caught
+    - 11.5:
+        non_striker: Harmeet Singh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 11.6:
+        non_striker: Harmeet Singh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 12.1:
+        non_striker: SC van Schalkwyk
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 12.2:
+        non_striker: SC van Schalkwyk
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Harmeet Singh
+    - 12.3:
+        non_striker: SC van Schalkwyk
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Harmeet Singh
+    - 12.4:
+        non_striker: SC van Schalkwyk
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 12.5:
+        non_striker: SC van Schalkwyk
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harmeet Singh
+    - 12.6:
+        non_striker: Harmeet Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 13.1:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 13.2:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 13.3:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 13.4:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 13.5:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 13.6:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Harmeet Singh
+    - 13.7:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 14.1:
+        non_striker: Harmeet Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 14.2:
+        non_striker: Harmeet Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 14.3:
+        non_striker: Harmeet Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC van Schalkwyk
+    - 14.4:
+        non_striker: Harmeet Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 14.5:
+        non_striker: Harmeet Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 14.6:
+        non_striker: Harmeet Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC van Schalkwyk
+    - 14.7:
+        non_striker: Harmeet Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SC van Schalkwyk
+    - 14.8:
+        non_striker: Harmeet Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 15.1:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harmeet Singh
+    - 15.2:
+        non_striker: Harmeet Singh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 15.3:
+        non_striker: Harmeet Singh
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 15.4:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 15.5:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Harmeet Singh
+    - 15.6:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 16.1:
+        non_striker: Harmeet Singh
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 16.2:
+        non_striker: Harmeet Singh
+        bowler: BJ Currie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC van Schalkwyk
+    - 16.3:
+        non_striker: Harmeet Singh
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 16.4:
+        non_striker: Harmeet Singh
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 16.5:
+        non_striker: Harmeet Singh
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 16.6:
+        non_striker: Harmeet Singh
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 16.7:
+        non_striker: Harmeet Singh
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 17.1:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 17.2:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+    - 17.3:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Harmeet Singh
+        wicket:
+          player_out: Harmeet Singh
+          fielders:
+          - ARI Umeed
+          kind: caught
+    - 17.4:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 17.5:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 17.6:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 18.1:
+        non_striker: Jasdeep Singh
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 18.2:
+        non_striker: Jasdeep Singh
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 18.3:
+        non_striker: Jasdeep Singh
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 18.4:
+        non_striker: SC van Schalkwyk
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+        wicket:
+          player_out: Jasdeep Singh
+          kind: bowled
+    - 18.5:
+        non_striker: SC van Schalkwyk
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 18.6:
+        non_striker: SC van Schalkwyk
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 19.1:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 19.2:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 19.3:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 19.4:
+        non_striker: NP Kenjige
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 19.5:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 19.6:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 20.1:
+        non_striker: NP Kenjige
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 20.2:
+        non_striker: SC van Schalkwyk
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 20.3:
+        non_striker: SC van Schalkwyk
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 20.4:
+        non_striker: NP Kenjige
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 20.5:
+        non_striker: SC van Schalkwyk
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 20.6:
+        non_striker: NP Kenjige
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 21.1:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC van Schalkwyk
+    - 21.2:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC van Schalkwyk
+    - 21.3:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SC van Schalkwyk
+    - 21.4:
+        non_striker: SC van Schalkwyk
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 21.5:
+        non_striker: SC van Schalkwyk
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 21.6:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SC van Schalkwyk
+    - 22.1:
+        non_striker: NP Kenjige
+        bowler: BJ Currie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SC van Schalkwyk
+    - 22.2:
+        non_striker: SC van Schalkwyk
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 22.3:
+        non_striker: SC van Schalkwyk
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 22.4:
+        non_striker: SC van Schalkwyk
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 22.5:
+        non_striker: SC van Schalkwyk
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 22.6:
+        non_striker: NP Kenjige
+        bowler: BJ Currie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC van Schalkwyk
+    - 22.7:
+        non_striker: NP Kenjige
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 23.1:
+        non_striker: SC van Schalkwyk
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 23.2:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 23.3:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 23.4:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 23.5:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 23.6:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SC van Schalkwyk
+    - 24.1:
+        non_striker: NP Kenjige
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 24.2:
+        non_striker: NP Kenjige
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 24.3:
+        non_striker: NP Kenjige
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 24.4:
+        non_striker: NP Kenjige
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 24.5:
+        non_striker: NP Kenjige
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 24.6:
+        non_striker: SC van Schalkwyk
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 25.1:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 25.2:
+        non_striker: SC van Schalkwyk
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NP Kenjige
+    - 25.3:
+        non_striker: SC van Schalkwyk
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 25.4:
+        non_striker: SC van Schalkwyk
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 25.5:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC van Schalkwyk
+    - 25.6:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 25.7:
+        non_striker: SC van Schalkwyk
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 26.1:
+        non_striker: SC van Schalkwyk
+        bowler: MRJ Watt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NP Kenjige
+    - 26.2:
+        non_striker: SC van Schalkwyk
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 26.3:
+        non_striker: SC van Schalkwyk
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 26.4:
+        non_striker: SC van Schalkwyk
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 26.5:
+        non_striker: NP Kenjige
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 26.6:
+        non_striker: SC van Schalkwyk
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 26.7:
+        non_striker: SC van Schalkwyk
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 27.1:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC van Schalkwyk
+    - 27.2:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 27.3:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC van Schalkwyk
+    - 27.4:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC van Schalkwyk
+    - 27.5:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 27.6:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC van Schalkwyk
+    - 27.7:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC van Schalkwyk
+    - 27.8:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC van Schalkwyk
+    - 27.9:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC van Schalkwyk
+    - 27.10:
+        non_striker: NP Kenjige
+        bowler: CB Sole
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 28.1:
+        non_striker: SC van Schalkwyk
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 28.2:
+        non_striker: SC van Schalkwyk
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 28.3:
+        non_striker: NP Kenjige
+        bowler: MRJ Watt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC van Schalkwyk
+    - 28.4:
+        non_striker: NP Kenjige
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC van Schalkwyk
+    - 28.5:
+        non_striker: NP Kenjige
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 28.6:
+        non_striker: NP Kenjige
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 28.7:
+        non_striker: NP Kenjige
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 29.1:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 29.2:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 29.3:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 29.4:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 29.5:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 29.6:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 30.1:
+        non_striker: NP Kenjige
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 30.2:
+        non_striker: SC van Schalkwyk
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 30.3:
+        non_striker: SC van Schalkwyk
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 30.4:
+        non_striker: SC van Schalkwyk
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 30.5:
+        non_striker: NP Kenjige
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC van Schalkwyk
+    - 30.6:
+        non_striker: NP Kenjige
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 31.1:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NP Kenjige
+    - 31.2:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 31.3:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 31.4:
+        non_striker: SC van Schalkwyk
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 31.5:
+        non_striker: NP Kenjige
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 31.6:
+        non_striker: NP Kenjige
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 32.1:
+        non_striker: NP Kenjige
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 32.2:
+        non_striker: NP Kenjige
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 32.3:
+        non_striker: SC van Schalkwyk
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 32.4:
+        non_striker: NP Kenjige
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 32.5:
+        non_striker: NP Kenjige
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 32.6:
+        non_striker: NP Kenjige
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 33.1:
+        non_striker: NP Kenjige
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 33.2:
+        non_striker: NP Kenjige
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 33.3:
+        non_striker: NP Kenjige
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 33.4:
+        non_striker: NP Kenjige
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 33.5:
+        non_striker: NP Kenjige
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 33.6:
+        non_striker: NP Kenjige
+        bowler: BTJ Wheal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 34.1:
+        non_striker: SC van Schalkwyk
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 34.2:
+        non_striker: SC van Schalkwyk
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 34.3:
+        non_striker: NP Kenjige
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 34.4:
+        non_striker: NP Kenjige
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 34.5:
+        non_striker: NP Kenjige
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 34.6:
+        non_striker: NP Kenjige
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 35.1:
+        non_striker: SC van Schalkwyk
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 35.2:
+        non_striker: SC van Schalkwyk
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 35.3:
+        non_striker: SC van Schalkwyk
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 35.4:
+        non_striker: SC van Schalkwyk
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+        wicket:
+          player_out: NP Kenjige
+          kind: bowled
+    - 35.5:
+        non_striker: SC van Schalkwyk
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Netravalkar
+    - 35.6:
+        non_striker: SC van Schalkwyk
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Netravalkar
+    - 36.1:
+        non_striker: SN Netravalkar
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 36.2:
+        non_striker: SN Netravalkar
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 36.3:
+        non_striker: SN Netravalkar
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 36.4:
+        non_striker: SN Netravalkar
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC van Schalkwyk
+    - 36.5:
+        non_striker: SN Netravalkar
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC van Schalkwyk
+    - 36.6:
+        non_striker: SN Netravalkar
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 37.1:
+        non_striker: SN Netravalkar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 37.2:
+        non_striker: SN Netravalkar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 37.3:
+        non_striker: SN Netravalkar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC van Schalkwyk
+    - 37.4:
+        non_striker: SC van Schalkwyk
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Netravalkar
+    - 37.5:
+        non_striker: SC van Schalkwyk
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Netravalkar
+    - 37.6:
+        non_striker: SC van Schalkwyk
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Netravalkar
+    - 38.1:
+        non_striker: SN Netravalkar
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC van Schalkwyk
+    - 38.2:
+        non_striker: SN Netravalkar
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 38.3:
+        non_striker: SN Netravalkar
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+    - 38.4:
+        non_striker: SN Netravalkar
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC van Schalkwyk
+        wicket:
+          player_out: SC van Schalkwyk
+          kind: lbw
+- 2nd innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 0.2:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 0.3:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 0.4:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 0.5:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 0.6:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 1.1:
+        non_striker: ARI Umeed
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 1.2:
+        non_striker: ARI Umeed
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Tear
+    - 1.3:
+        non_striker: ARI Umeed
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 1.4:
+        non_striker: ARI Umeed
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 1.5:
+        non_striker: ARI Umeed
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 1.6:
+        non_striker: C Tear
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARI Umeed
+    - 2.1:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 2.2:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 2.3:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 2.4:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 2.5:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 2.6:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Tear
+    - 3.1:
+        non_striker: C Tear
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 3.2:
+        non_striker: C Tear
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 3.3:
+        non_striker: C Tear
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 3.4:
+        non_striker: C Tear
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 3.5:
+        non_striker: C Tear
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 3.6:
+        non_striker: C Tear
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 4.1:
+        non_striker: C Tear
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 4.2:
+        non_striker: C Tear
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 4.3:
+        non_striker: C Tear
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARI Umeed
+    - 4.4:
+        non_striker: C Tear
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ARI Umeed
+    - 4.5:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 4.6:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 5.1:
+        non_striker: C Tear
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARI Umeed
+    - 5.2:
+        non_striker: C Tear
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 5.3:
+        non_striker: ARI Umeed
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 5.4:
+        non_striker: ARI Umeed
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 5.5:
+        non_striker: ARI Umeed
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Tear
+    - 5.6:
+        non_striker: ARI Umeed
+        bowler: SC van Schalkwyk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 6.1:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 6.2:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 6.3:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 6.4:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 6.5:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 6.6:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 7.1:
+        non_striker: ARI Umeed
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 7.2:
+        non_striker: ARI Umeed
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 7.3:
+        non_striker: C Tear
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARI Umeed
+    - 7.4:
+        non_striker: C Tear
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 7.5:
+        non_striker: C Tear
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 7.6:
+        non_striker: C Tear
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 8.1:
+        non_striker: C Tear
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 8.2:
+        non_striker: C Tear
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 8.3:
+        non_striker: C Tear
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 8.4:
+        non_striker: C Tear
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARI Umeed
+    - 8.5:
+        non_striker: C Tear
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 8.6:
+        non_striker: C Tear
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 9.1:
+        non_striker: ARI Umeed
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 9.2:
+        non_striker: ARI Umeed
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 9.3:
+        non_striker: C Tear
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARI Umeed
+    - 9.4:
+        non_striker: C Tear
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARI Umeed
+    - 9.5:
+        non_striker: C Tear
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 9.6:
+        non_striker: ARI Umeed
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 10.1:
+        non_striker: C Tear
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARI Umeed
+    - 10.2:
+        non_striker: C Tear
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARI Umeed
+    - 10.3:
+        non_striker: C Tear
+        bowler: SN Netravalkar
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: ARI Umeed
+    - 10.4:
+        non_striker: C Tear
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 10.5:
+        non_striker: ARI Umeed
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 10.6:
+        non_striker: C Tear
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 11.1:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 11.2:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARI Umeed
+    - 11.3:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 11.4:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 11.5:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 11.6:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Tear
+    - 12.1:
+        non_striker: C Tear
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 12.2:
+        non_striker: C Tear
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 12.3:
+        non_striker: C Tear
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ARI Umeed
+    - 12.4:
+        non_striker: C Tear
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 12.5:
+        non_striker: ARI Umeed
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Tear
+    - 12.6:
+        non_striker: ARI Umeed
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 13.1:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 13.2:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 13.3:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 13.4:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 13.5:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 13.6:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 14.1:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ARI Umeed
+    - 14.2:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 14.3:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ARI Umeed
+    - 14.4:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 14.5:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 14.6:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 15.1:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 15.2:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 15.3:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 15.4:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 15.5:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 15.6:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 16.1:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 16.2:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 16.3:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 16.4:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARI Umeed
+    - 16.5:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 16.6:
+        non_striker: ARI Umeed
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 17.1:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 17.2:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 17.3:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 17.4:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 17.5:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 17.6:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 18.1:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 18.2:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 18.3:
+        non_striker: ARI Umeed
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 18.4:
+        non_striker: ARI Umeed
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 18.5:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 18.6:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 19.1:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 19.2:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 19.3:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 19.4:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 19.5:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 19.6:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 20.1:
+        non_striker: ARI Umeed
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 20.2:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ARI Umeed
+    - 20.3:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 20.4:
+        non_striker: ARI Umeed
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 20.5:
+        non_striker: ARI Umeed
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 20.6:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 21.1:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Tear
+    - 21.2:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 21.3:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 21.4:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 21.5:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 21.6:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 22.1:
+        non_striker: ARI Umeed
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 22.2:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ARI Umeed
+    - 22.3:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 22.4:
+        non_striker: ARI Umeed
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 22.5:
+        non_striker: ARI Umeed
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 22.6:
+        non_striker: ARI Umeed
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 23.1:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 23.2:
+        non_striker: ARI Umeed
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 23.3:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 23.4:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARI Umeed
+    - 23.5:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 23.6:
+        non_striker: C Tear
+        bowler: Harmeet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 24.1:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ARI Umeed
+    - 24.2:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ARI Umeed
+    - 24.3:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ARI Umeed
+    - 24.4:
+        non_striker: ARI Umeed
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Tear
+    - 24.5:
+        non_striker: C Tear
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ARI Umeed

@@ -1,0 +1,4646 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-09-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dhaka
+  dates:
+  - '2023-09-23'
+  gender: male
+  match_type: ODI
+  match_type_number: 4652
+  outcome:
+    winner: New Zealand
+    by:
+      runs: 86
+  overs: 50
+  player_of_match:
+  - IS Sodhi
+  players:
+    New Zealand:
+    - FH Allen
+    - WA Young
+    - CJ Bowes
+    - HM Nicholls
+    - TA Blundell
+    - R Ravindra
+    - CE McConchie
+    - IS Sodhi
+    - KA Jamieson
+    - LH Ferguson
+    - TA Boult
+    Bangladesh:
+    - Tamim Iqbal
+    - Liton Das
+    - Tanzid Hasan
+    - Soumya Sarkar
+    - Towhid Hridoy
+    - Mahmudullah
+    - Mahedi Hasan
+    - Nasum Ahmed
+    - Hasan Mahmud
+    - Mustafizur Rahman
+    - Khaled Ahmed
+  registry:
+    people:
+      CE McConchie: d285acaf
+      CJ Bowes: 45df0e72
+      FH Allen: bf74b130
+      HM Nicholls: 03521fd3
+      Hasan Mahmud: 80ad39ac
+      IS Sodhi: 641ac5ff
+      KA Jamieson: 68c56d09
+      Khaled Ahmed: 5dbdecf1
+      LH Ferguson: 2f9d0389
+      Liton Das: 0404d43c
+      M Erasmus: 15d3c895
+      Mahedi Hasan: 9dad0f2e
+      Mahmudullah: bf1d7d3e
+      Mustafizur Rahman: 0a8fce53
+      Nasum Ahmed: 37654b75
+      Nitin Menon: e1d41d9e
+      R Ravindra: ba5e1069
+      RS Madugalle: 766b5798
+      Sharfuddoula: 63896abb
+      Soumya Sarkar: 4d9f9686
+      TA Blundell: 21e5f325
+      TA Boult: a818c1be
+      Tamim Iqbal: 3b041a12
+      Tanvir Ahmed: ea2df1f1
+      Tanzid Hasan: 80fe764d
+      Towhid Hridoy: 9e52a414
+      WA Young: 8afe73e2
+  teams:
+  - New Zealand
+  - Bangladesh
+  toss:
+    winner: New Zealand
+    decision: bat
+  umpires:
+  - M Erasmus
+  - Sharfuddoula
+  venue: Shere Bangla National Stadium, Mirpur
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: WA Young
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 0.2:
+        non_striker: WA Young
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 0.3:
+        non_striker: WA Young
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 0.4:
+        non_striker: FH Allen
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 0.5:
+        non_striker: FH Allen
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 0.6:
+        non_striker: FH Allen
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 1.1:
+        non_striker: WA Young
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 1.2:
+        non_striker: WA Young
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 1.3:
+        non_striker: FH Allen
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 1.4:
+        non_striker: FH Allen
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 1.5:
+        non_striker: FH Allen
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 1.6:
+        non_striker: FH Allen
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+    - 2.1:
+        non_striker: WA Young
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: FH Allen
+    - 2.2:
+        non_striker: WA Young
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 2.3:
+        non_striker: FH Allen
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WA Young
+        wicket:
+          player_out: WA Young
+          fielders:
+          - Liton Das
+          kind: caught
+    - 2.4:
+        non_striker: FH Allen
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 2.5:
+        non_striker: FH Allen
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 2.6:
+        non_striker: FH Allen
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CJ Bowes
+    - 3.1:
+        non_striker: CJ Bowes
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 3.2:
+        non_striker: CJ Bowes
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 3.3:
+        non_striker: CJ Bowes
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 3.4:
+        non_striker: CJ Bowes
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 3.5:
+        non_striker: CJ Bowes
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 3.6:
+        non_striker: CJ Bowes
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 4.1:
+        non_striker: FH Allen
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 4.2:
+        non_striker: FH Allen
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 4.3:
+        non_striker: FH Allen
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 4.4:
+        non_striker: FH Allen
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 4.5:
+        non_striker: FH Allen
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 4.6:
+        non_striker: FH Allen
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 5.1:
+        non_striker: CJ Bowes
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 5.2:
+        non_striker: FH Allen
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 5.3:
+        non_striker: FH Allen
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 5.4:
+        non_striker: FH Allen
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 5.5:
+        non_striker: FH Allen
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 5.6:
+        non_striker: FH Allen
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 6.1:
+        non_striker: CJ Bowes
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          fielders:
+          - Soumya Sarkar
+          kind: caught
+    - 6.2:
+        non_striker: CJ Bowes
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Nicholls
+    - 6.3:
+        non_striker: CJ Bowes
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 6.4:
+        non_striker: CJ Bowes
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 6.5:
+        non_striker: CJ Bowes
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Nicholls
+    - 6.6:
+        non_striker: CJ Bowes
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 7.1:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Bowes
+    - 7.2:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 7.3:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 7.4:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+    - 7.5:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Bowes
+        wicket:
+          player_out: CJ Bowes
+          fielders:
+          - Towhid Hridoy
+          kind: caught
+    - 7.6:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 8.1:
+        non_striker: TA Blundell
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 8.2:
+        non_striker: TA Blundell
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 8.3:
+        non_striker: TA Blundell
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Nicholls
+    - 8.4:
+        non_striker: TA Blundell
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 8.5:
+        non_striker: TA Blundell
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 8.6:
+        non_striker: HM Nicholls
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 9.1:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 9.2:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 9.3:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 9.4:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 9.5:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 9.6:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 10.1:
+        non_striker: HM Nicholls
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 10.2:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Nicholls
+    - 10.3:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 10.4:
+        non_striker: HM Nicholls
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 10.5:
+        non_striker: HM Nicholls
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 10.6:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 11.1:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 11.2:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 11.3:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 11.4:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 11.5:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HM Nicholls
+    - 11.6:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Blundell
+    - 12.1:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 12.2:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 12.3:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 12.4:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Nicholls
+    - 12.5:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HM Nicholls
+    - 12.6:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 12.7:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Nicholls
+    - 13.1:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 13.2:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 13.3:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Blundell
+    - 13.4:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 13.5:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TA Blundell
+    - 13.6:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 14.1:
+        non_striker: HM Nicholls
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 14.2:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 14.3:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 14.4:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 14.5:
+        non_striker: HM Nicholls
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 14.6:
+        non_striker: HM Nicholls
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 15.1:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 15.2:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 15.3:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TA Blundell
+    - 15.4:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 15.5:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 15.6:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 16.1:
+        non_striker: HM Nicholls
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 16.2:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 16.3:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Nicholls
+    - 16.4:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 16.5:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 16.6:
+        non_striker: HM Nicholls
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 17.1:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 17.2:
+        non_striker: TA Blundell
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 17.3:
+        non_striker: TA Blundell
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 17.4:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 17.5:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Blundell
+    - 17.6:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 18.1:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 18.2:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 18.3:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 18.4:
+        non_striker: HM Nicholls
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TA Blundell
+    - 18.5:
+        non_striker: HM Nicholls
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 18.6:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 19.1:
+        non_striker: TA Blundell
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 19.2:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 19.3:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 19.4:
+        non_striker: TA Blundell
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 19.5:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 19.6:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 20.1:
+        non_striker: HM Nicholls
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Blundell
+    - 20.2:
+        non_striker: HM Nicholls
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 20.3:
+        non_striker: HM Nicholls
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 20.4:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 20.5:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 20.6:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 21.1:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 21.2:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 21.3:
+        non_striker: TA Blundell
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 21.4:
+        non_striker: TA Blundell
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 21.5:
+        non_striker: TA Blundell
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 21.6:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 22.1:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 22.2:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 22.3:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 22.4:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TA Blundell
+    - 22.5:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 22.6:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Blundell
+    - 23.1:
+        non_striker: TA Blundell
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 23.2:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 23.3:
+        non_striker: TA Blundell
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 23.4:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 23.5:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 23.6:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 24.1:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 24.2:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HM Nicholls
+    - 24.3:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+    - 24.4:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 24.5:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 24.6:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HM Nicholls
+    - 25.1:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 25.2:
+        non_striker: TA Blundell
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 25.3:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 25.4:
+        non_striker: TA Blundell
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HM Nicholls
+    - 25.5:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TA Blundell
+    - 25.6:
+        non_striker: HM Nicholls
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 26.1:
+        non_striker: HM Nicholls
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 26.2:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HM Nicholls
+        wicket:
+          player_out: HM Nicholls
+          fielders:
+          - Liton Das
+          kind: caught
+    - 26.3:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 26.4:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 26.5:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 26.6:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 27.1:
+        non_striker: R Ravindra
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 27.2:
+        non_striker: TA Blundell
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ravindra
+    - 27.3:
+        non_striker: TA Blundell
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 27.4:
+        non_striker: TA Blundell
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 27.5:
+        non_striker: TA Blundell
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Ravindra
+    - 27.6:
+        non_striker: TA Blundell
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 28.1:
+        non_striker: R Ravindra
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 28.2:
+        non_striker: R Ravindra
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TA Blundell
+    - 28.3:
+        non_striker: R Ravindra
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 28.4:
+        non_striker: TA Blundell
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 28.5:
+        non_striker: R Ravindra
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TA Blundell
+    - 28.6:
+        non_striker: R Ravindra
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 29.1:
+        non_striker: R Ravindra
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TA Blundell
+    - 29.2:
+        non_striker: R Ravindra
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 29.3:
+        non_striker: TA Blundell
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 29.4:
+        non_striker: TA Blundell
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+    - 29.5:
+        non_striker: TA Blundell
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Ravindra
+    - 29.6:
+        non_striker: R Ravindra
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+    - 30.1:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Ravindra
+        wicket:
+          player_out: R Ravindra
+          kind: lbw
+    - 30.2:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 30.3:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 30.4:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 30.5:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 30.6:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 31.1:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 31.2:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 31.3:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 31.4:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CE McConchie
+    - 31.5:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 31.6:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 31.7:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CE McConchie
+    - 32.1:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 32.2:
+        non_striker: CE McConchie
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Blundell
+    - 32.3:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 32.4:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 32.5:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 32.6:
+        non_striker: TA Blundell
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 33.1:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 33.2:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 33.3:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 33.4:
+        non_striker: TA Blundell
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 33.5:
+        non_striker: CE McConchie
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Blundell
+        wicket:
+          player_out: TA Blundell
+          kind: bowled
+    - 33.6:
+        non_striker: CE McConchie
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 34.1:
+        non_striker: CE McConchie
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 34.2:
+        non_striker: IS Sodhi
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 34.3:
+        non_striker: IS Sodhi
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 34.4:
+        non_striker: IS Sodhi
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE McConchie
+    - 34.5:
+        non_striker: IS Sodhi
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 34.6:
+        non_striker: IS Sodhi
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 35.1:
+        non_striker: IS Sodhi
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 35.2:
+        non_striker: IS Sodhi
+        bowler: Hasan Mahmud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CE McConchie
+    - 35.3:
+        non_striker: IS Sodhi
+        bowler: Hasan Mahmud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CE McConchie
+    - 35.4:
+        non_striker: IS Sodhi
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 35.5:
+        non_striker: CE McConchie
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 35.6:
+        non_striker: CE McConchie
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 35.7:
+        non_striker: CE McConchie
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 35.8:
+        non_striker: CE McConchie
+        bowler: Hasan Mahmud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IS Sodhi
+    - 35.9:
+        non_striker: CE McConchie
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 36.1:
+        non_striker: IS Sodhi
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 36.2:
+        non_striker: CE McConchie
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 36.3:
+        non_striker: CE McConchie
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 36.4:
+        non_striker: CE McConchie
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 36.5:
+        non_striker: CE McConchie
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 36.6:
+        non_striker: IS Sodhi
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+    - 37.1:
+        non_striker: CE McConchie
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 37.2:
+        non_striker: CE McConchie
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 37.3:
+        non_striker: IS Sodhi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 37.4:
+        non_striker: CE McConchie
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 37.5:
+        non_striker: IS Sodhi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE McConchie
+    - 37.6:
+        non_striker: IS Sodhi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE McConchie
+    - 38.1:
+        non_striker: IS Sodhi
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE McConchie
+        wicket:
+          player_out: CE McConchie
+          kind: lbw
+    - 38.2:
+        non_striker: IS Sodhi
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 38.3:
+        non_striker: IS Sodhi
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 38.4:
+        non_striker: IS Sodhi
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 38.5:
+        non_striker: KA Jamieson
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 38.6:
+        non_striker: KA Jamieson
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 39.1:
+        non_striker: IS Sodhi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 39.2:
+        non_striker: IS Sodhi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 39.3:
+        non_striker: IS Sodhi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 39.4:
+        non_striker: IS Sodhi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 39.5:
+        non_striker: IS Sodhi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 39.6:
+        non_striker: IS Sodhi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 40.1:
+        non_striker: IS Sodhi
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 40.2:
+        non_striker: KA Jamieson
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 40.3:
+        non_striker: KA Jamieson
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 40.4:
+        non_striker: IS Sodhi
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 40.5:
+        non_striker: IS Sodhi
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 40.6:
+        non_striker: KA Jamieson
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IS Sodhi
+    - 41.1:
+        non_striker: IS Sodhi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 41.2:
+        non_striker: IS Sodhi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Jamieson
+    - 41.3:
+        non_striker: IS Sodhi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 41.4:
+        non_striker: KA Jamieson
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 41.5:
+        non_striker: KA Jamieson
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 41.6:
+        non_striker: IS Sodhi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Jamieson
+    - 42.1:
+        non_striker: KA Jamieson
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 42.2:
+        non_striker: IS Sodhi
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 42.3:
+        non_striker: IS Sodhi
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 42.4:
+        non_striker: IS Sodhi
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Jamieson
+    - 42.5:
+        non_striker: IS Sodhi
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 42.6:
+        non_striker: IS Sodhi
+        bowler: Nasum Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 43.1:
+        non_striker: IS Sodhi
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 43.2:
+        non_striker: IS Sodhi
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 43.3:
+        non_striker: IS Sodhi
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 43.4:
+        non_striker: KA Jamieson
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 43.5:
+        non_striker: KA Jamieson
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 43.6:
+        non_striker: IS Sodhi
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 44.1:
+        non_striker: KA Jamieson
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 44.2:
+        non_striker: IS Sodhi
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 44.3:
+        non_striker: KA Jamieson
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 44.4:
+        non_striker: IS Sodhi
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 44.5:
+        non_striker: IS Sodhi
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+        wicket:
+          player_out: KA Jamieson
+          kind: caught and bowled
+    - 44.6:
+        non_striker: IS Sodhi
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 45.1:
+        non_striker: LH Ferguson
+        bowler: Hasan Mahmud
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: IS Sodhi
+    - 45.2:
+        non_striker: IS Sodhi
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LH Ferguson
+    - 45.3:
+        non_striker: IS Sodhi
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 45.4:
+        non_striker: IS Sodhi
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 45.5:
+        non_striker: IS Sodhi
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 45.6:
+        non_striker: IS Sodhi
+        bowler: Hasan Mahmud
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 1
+          noballs: 1
+        batsman: LH Ferguson
+    - 45.7:
+        non_striker: LH Ferguson
+        bowler: Hasan Mahmud
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 46.1:
+        non_striker: IS Sodhi
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 46.2:
+        non_striker: IS Sodhi
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 46.3:
+        non_striker: LH Ferguson
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 46.4:
+        non_striker: LH Ferguson
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 46.5:
+        non_striker: LH Ferguson
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IS Sodhi
+    - 46.6:
+        non_striker: LH Ferguson
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 46.7:
+        non_striker: IS Sodhi
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+    - 47.1:
+        non_striker: LH Ferguson
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 47.2:
+        non_striker: IS Sodhi
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LH Ferguson
+    - 47.3:
+        non_striker: IS Sodhi
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 47.4:
+        non_striker: LH Ferguson
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 47.5:
+        non_striker: IS Sodhi
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LH Ferguson
+    - 47.6:
+        non_striker: LH Ferguson
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 48.1:
+        non_striker: IS Sodhi
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LH Ferguson
+        wicket:
+          player_out: LH Ferguson
+          fielders:
+          - Liton Das
+          kind: stumped
+    - 48.2:
+        non_striker: IS Sodhi
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TA Boult
+    - 48.3:
+        non_striker: IS Sodhi
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Boult
+    - 48.4:
+        non_striker: TA Boult
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IS Sodhi
+    - 48.5:
+        non_striker: TA Boult
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+    - 48.6:
+        non_striker: TA Boult
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IS Sodhi
+    - 49.1:
+        non_striker: TA Boult
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IS Sodhi
+    - 49.2:
+        non_striker: TA Boult
+        bowler: Khaled Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IS Sodhi
+        wicket:
+          player_out: IS Sodhi
+          fielders:
+          - Liton Das
+          kind: caught
+- 2nd innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Liton Das
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 0.2:
+        non_striker: Liton Das
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 0.3:
+        non_striker: Liton Das
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 0.4:
+        non_striker: Liton Das
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 0.5:
+        non_striker: Tamim Iqbal
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 0.6:
+        non_striker: Tamim Iqbal
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 1.1:
+        non_striker: Liton Das
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 1.2:
+        non_striker: Liton Das
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 1.3:
+        non_striker: Liton Das
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 1.4:
+        non_striker: Liton Das
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 1.5:
+        non_striker: Tamim Iqbal
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 1.6:
+        non_striker: Tamim Iqbal
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 2.1:
+        non_striker: Liton Das
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 2.2:
+        non_striker: Tamim Iqbal
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 2.3:
+        non_striker: Tamim Iqbal
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 2.4:
+        non_striker: Liton Das
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 2.5:
+        non_striker: Liton Das
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 2.6:
+        non_striker: Liton Das
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 3.1:
+        non_striker: Tamim Iqbal
+        bowler: KA Jamieson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Liton Das
+    - 3.2:
+        non_striker: Tamim Iqbal
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Liton Das
+    - 3.3:
+        non_striker: Tamim Iqbal
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 3.4:
+        non_striker: Tamim Iqbal
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 3.5:
+        non_striker: Liton Das
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tamim Iqbal
+    - 3.6:
+        non_striker: Liton Das
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 3.7:
+        non_striker: Liton Das
+        bowler: KA Jamieson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tamim Iqbal
+    - 3.8:
+        non_striker: Liton Das
+        bowler: KA Jamieson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Tamim Iqbal
+    - 3.9:
+        non_striker: Liton Das
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 4.1:
+        non_striker: Tamim Iqbal
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 4.2:
+        non_striker: Tamim Iqbal
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 4.3:
+        non_striker: Liton Das
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 4.4:
+        non_striker: Liton Das
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 4.5:
+        non_striker: Liton Das
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 4.6:
+        non_striker: Liton Das
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tamim Iqbal
+    - 5.1:
+        non_striker: Tamim Iqbal
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 5.2:
+        non_striker: Tamim Iqbal
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 5.3:
+        non_striker: Tamim Iqbal
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 5.4:
+        non_striker: Tamim Iqbal
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 5.5:
+        non_striker: Liton Das
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 5.6:
+        non_striker: Tamim Iqbal
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+        wicket:
+          player_out: Liton Das
+          fielders:
+          - R Ravindra
+          kind: caught
+    - 6.1:
+        non_striker: Tanzid Hasan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 6.2:
+        non_striker: Tanzid Hasan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tamim Iqbal
+    - 6.3:
+        non_striker: Tanzid Hasan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 6.4:
+        non_striker: Tanzid Hasan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 6.5:
+        non_striker: Tanzid Hasan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 6.6:
+        non_striker: Tamim Iqbal
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tanzid Hasan
+    - 7.1:
+        non_striker: Tanzid Hasan
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tamim Iqbal
+    - 7.2:
+        non_striker: Tanzid Hasan
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 7.3:
+        non_striker: Tanzid Hasan
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tamim Iqbal
+    - 7.4:
+        non_striker: Tanzid Hasan
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tamim Iqbal
+    - 7.5:
+        non_striker: Tanzid Hasan
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tamim Iqbal
+    - 7.6:
+        non_striker: Tanzid Hasan
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 8.1:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 8.2:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tanzid Hasan
+    - 8.3:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tanzid Hasan
+    - 8.4:
+        non_striker: Tanzid Hasan
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 8.5:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 8.6:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 9.1:
+        non_striker: Tanzid Hasan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 9.2:
+        non_striker: Tamim Iqbal
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 9.3:
+        non_striker: Tamim Iqbal
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tanzid Hasan
+    - 9.4:
+        non_striker: Tanzid Hasan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 9.5:
+        non_striker: Tanzid Hasan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 9.6:
+        non_striker: Tanzid Hasan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tamim Iqbal
+    - 10.1:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 10.2:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tanzid Hasan
+    - 10.3:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tanzid Hasan
+    - 10.4:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+        wicket:
+          player_out: Tanzid Hasan
+          fielders:
+          - LH Ferguson
+          kind: caught
+    - 10.5:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+    - 10.6:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Soumya Sarkar
+        wicket:
+          player_out: Soumya Sarkar
+          kind: caught and bowled
+    - 11.1:
+        non_striker: Towhid Hridoy
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 11.2:
+        non_striker: Towhid Hridoy
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 11.3:
+        non_striker: Towhid Hridoy
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 11.4:
+        non_striker: Towhid Hridoy
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 11.5:
+        non_striker: Towhid Hridoy
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Tamim Iqbal
+    - 11.6:
+        non_striker: Tamim Iqbal
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 12.1:
+        non_striker: Towhid Hridoy
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 12.2:
+        non_striker: Towhid Hridoy
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 12.3:
+        non_striker: Towhid Hridoy
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 12.4:
+        non_striker: Towhid Hridoy
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 12.5:
+        non_striker: Towhid Hridoy
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tamim Iqbal
+    - 12.6:
+        non_striker: Towhid Hridoy
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 13.1:
+        non_striker: Tamim Iqbal
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 13.2:
+        non_striker: Tamim Iqbal
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Towhid Hridoy
+    - 13.3:
+        non_striker: Tamim Iqbal
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 13.4:
+        non_striker: Towhid Hridoy
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Tamim Iqbal
+    - 13.5:
+        non_striker: Tamim Iqbal
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+    - 13.6:
+        non_striker: Tamim Iqbal
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Towhid Hridoy
+    - 14.1:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Towhid Hridoy
+        wicket:
+          player_out: Towhid Hridoy
+          kind: bowled
+    - 14.2:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 14.3:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 14.4:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 14.5:
+        non_striker: Mahmudullah
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 14.6:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 15.1:
+        non_striker: Mahmudullah
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 15.2:
+        non_striker: Tamim Iqbal
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 15.3:
+        non_striker: Tamim Iqbal
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 15.4:
+        non_striker: Mahmudullah
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 15.5:
+        non_striker: Mahmudullah
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 15.6:
+        non_striker: Mahmudullah
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+    - 16.1:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 16.2:
+        non_striker: Mahmudullah
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 16.3:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 16.4:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 16.5:
+        non_striker: Mahmudullah
+        bowler: IS Sodhi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Tamim Iqbal
+    - 16.6:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 17.1:
+        non_striker: Tamim Iqbal
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 17.2:
+        non_striker: Tamim Iqbal
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 17.3:
+        non_striker: Tamim Iqbal
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 17.4:
+        non_striker: Mahmudullah
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 17.5:
+        non_striker: Tamim Iqbal
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mahmudullah
+    - 17.6:
+        non_striker: Tamim Iqbal
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 17.7:
+        non_striker: Tamim Iqbal
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 18.1:
+        non_striker: Mahmudullah
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tamim Iqbal
+    - 18.2:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 18.3:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 18.4:
+        non_striker: Tamim Iqbal
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 18.5:
+        non_striker: Mahmudullah
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tamim Iqbal
+        wicket:
+          player_out: Tamim Iqbal
+          fielders:
+          - TA Blundell
+          kind: caught
+    - 18.6:
+        non_striker: Mahmudullah
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 19.1:
+        non_striker: Mahmudullah
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 19.2:
+        non_striker: Mahmudullah
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 19.3:
+        non_striker: Mahedi Hasan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 19.4:
+        non_striker: Mahedi Hasan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 19.5:
+        non_striker: Mahedi Hasan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 19.6:
+        non_striker: Mahedi Hasan
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 20.1:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 20.2:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 20.3:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 20.4:
+        non_striker: Mahedi Hasan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 20.5:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 20.6:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 21.1:
+        non_striker: Mahedi Hasan
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 21.2:
+        non_striker: Mahedi Hasan
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmudullah
+    - 21.3:
+        non_striker: Mahedi Hasan
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 21.4:
+        non_striker: Mahedi Hasan
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 21.5:
+        non_striker: Mahedi Hasan
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 21.6:
+        non_striker: Mahedi Hasan
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 22.1:
+        non_striker: Mahedi Hasan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 22.2:
+        non_striker: Mahedi Hasan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 22.3:
+        non_striker: Mahedi Hasan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 22.4:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 22.5:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 22.6:
+        non_striker: Mahedi Hasan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 23.1:
+        non_striker: Mahmudullah
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 23.2:
+        non_striker: Mahmudullah
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 23.3:
+        non_striker: Mahmudullah
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 23.4:
+        non_striker: Mahmudullah
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 23.5:
+        non_striker: Mahmudullah
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 23.6:
+        non_striker: Mahmudullah
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 24.1:
+        non_striker: Mahedi Hasan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 24.2:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 24.3:
+        non_striker: Mahedi Hasan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 24.4:
+        non_striker: Mahedi Hasan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 24.5:
+        non_striker: Mahedi Hasan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 24.6:
+        non_striker: Mahedi Hasan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 25.1:
+        non_striker: Mahedi Hasan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 25.2:
+        non_striker: Mahmudullah
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 25.3:
+        non_striker: Mahmudullah
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 25.4:
+        non_striker: Mahmudullah
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 25.5:
+        non_striker: Mahmudullah
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 25.6:
+        non_striker: Mahmudullah
+        bowler: LH Ferguson
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Mahedi Hasan
+    - 25.7:
+        non_striker: Mahmudullah
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 26.1:
+        non_striker: Mahedi Hasan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 26.2:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 26.3:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahedi Hasan
+    - 26.4:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahedi Hasan
+    - 26.5:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 26.6:
+        non_striker: Mahedi Hasan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 27.1:
+        non_striker: Mahedi Hasan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mahmudullah
+    - 27.2:
+        non_striker: Mahedi Hasan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 27.3:
+        non_striker: Mahedi Hasan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 27.4:
+        non_striker: Mahedi Hasan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 27.5:
+        non_striker: Mahedi Hasan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 27.6:
+        non_striker: Mahedi Hasan
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 28.1:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 28.2:
+        non_striker: Mahedi Hasan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 28.3:
+        non_striker: Mahedi Hasan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 28.4:
+        non_striker: Mahedi Hasan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 28.5:
+        non_striker: Mahedi Hasan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 28.6:
+        non_striker: Mahedi Hasan
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 29.1:
+        non_striker: Mahmudullah
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+        wicket:
+          player_out: Mahedi Hasan
+          kind: bowled
+    - 29.2:
+        non_striker: Mahmudullah
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 29.3:
+        non_striker: Mahmudullah
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 29.4:
+        non_striker: Mahmudullah
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 29.5:
+        non_striker: Mahmudullah
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasum Ahmed
+    - 29.6:
+        non_striker: Nasum Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 30.1:
+        non_striker: Nasum Ahmed
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 30.2:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasum Ahmed
+    - 30.3:
+        non_striker: Nasum Ahmed
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmudullah
+    - 30.4:
+        non_striker: Nasum Ahmed
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 30.5:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 30.6:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 31.1:
+        non_striker: Nasum Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 31.2:
+        non_striker: Nasum Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 31.3:
+        non_striker: Nasum Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 31.4:
+        non_striker: Nasum Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 31.5:
+        non_striker: Nasum Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 31.6:
+        non_striker: Nasum Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 32.1:
+        non_striker: Nasum Ahmed
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 32.2:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasum Ahmed
+    - 32.3:
+        non_striker: Nasum Ahmed
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 32.4:
+        non_striker: Nasum Ahmed
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 32.5:
+        non_striker: Nasum Ahmed
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 32.6:
+        non_striker: Nasum Ahmed
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 33.1:
+        non_striker: Mahmudullah
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 33.2:
+        non_striker: Mahmudullah
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasum Ahmed
+    - 33.3:
+        non_striker: Nasum Ahmed
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 33.4:
+        non_striker: Nasum Ahmed
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 33.5:
+        non_striker: Nasum Ahmed
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahmudullah
+    - 33.6:
+        non_striker: Nasum Ahmed
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 34.1:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 34.2:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nasum Ahmed
+    - 34.3:
+        non_striker: Nasum Ahmed
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 34.4:
+        non_striker: Nasum Ahmed
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 34.5:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 34.6:
+        non_striker: Mahmudullah
+        bowler: R Ravindra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 35.1:
+        non_striker: Nasum Ahmed
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 35.2:
+        non_striker: Nasum Ahmed
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 35.3:
+        non_striker: Nasum Ahmed
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+        wicket:
+          player_out: Mahmudullah
+          fielders:
+          - FH Allen
+          kind: caught
+    - 35.4:
+        non_striker: Nasum Ahmed
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hasan Mahmud
+    - 35.5:
+        non_striker: Nasum Ahmed
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hasan Mahmud
+    - 35.6:
+        non_striker: Nasum Ahmed
+        bowler: CE McConchie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hasan Mahmud
+    - 36.1:
+        non_striker: Hasan Mahmud
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 36.2:
+        non_striker: Hasan Mahmud
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 36.3:
+        non_striker: Hasan Mahmud
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 36.4:
+        non_striker: Hasan Mahmud
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 36.5:
+        non_striker: Hasan Mahmud
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nasum Ahmed
+    - 36.6:
+        non_striker: Hasan Mahmud
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 37.1:
+        non_striker: Nasum Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hasan Mahmud
+    - 37.2:
+        non_striker: Nasum Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hasan Mahmud
+    - 37.3:
+        non_striker: Nasum Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hasan Mahmud
+    - 37.4:
+        non_striker: Nasum Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hasan Mahmud
+    - 37.5:
+        non_striker: Nasum Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hasan Mahmud
+    - 37.6:
+        non_striker: Nasum Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hasan Mahmud
+        wicket:
+          player_out: Hasan Mahmud
+          kind: bowled
+    - 38.1:
+        non_striker: Mustafizur Rahman
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 38.2:
+        non_striker: Mustafizur Rahman
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 38.3:
+        non_striker: Mustafizur Rahman
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 38.4:
+        non_striker: Mustafizur Rahman
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 38.5:
+        non_striker: Mustafizur Rahman
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nasum Ahmed
+    - 38.6:
+        non_striker: Mustafizur Rahman
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 39.1:
+        non_striker: Nasum Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 39.2:
+        non_striker: Nasum Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 39.3:
+        non_striker: Nasum Ahmed
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mustafizur Rahman
+    - 39.4:
+        non_striker: Mustafizur Rahman
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 39.5:
+        non_striker: Mustafizur Rahman
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nasum Ahmed
+    - 39.6:
+        non_striker: Mustafizur Rahman
+        bowler: IS Sodhi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+    - 40.1:
+        non_striker: Nasum Ahmed
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mustafizur Rahman
+    - 40.2:
+        non_striker: Mustafizur Rahman
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nasum Ahmed
+        wicket:
+          player_out: Nasum Ahmed
+          fielders:
+          - TA Boult
+          kind: caught
+    - 40.3:
+        non_striker: Mustafizur Rahman
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khaled Ahmed
+    - 40.4:
+        non_striker: Khaled Ahmed
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 40.5:
+        non_striker: Khaled Ahmed
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 40.6:
+        non_striker: Khaled Ahmed
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 41.1:
+        non_striker: Mustafizur Rahman
+        bowler: LH Ferguson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khaled Ahmed
+        wicket:
+          player_out: Khaled Ahmed
+          kind: bowled

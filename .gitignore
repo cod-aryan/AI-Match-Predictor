@@ -1,2 +1,22 @@
 .DS_Store
 .venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# ML models
+*.pkl
+
+# Catboost
+catboost_info/
+
+# Images (optional)
+*.png
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints

@@ -1,0 +1,2120 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-17'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  dates:
+  - '2025-09-17'
+  gender: male
+  match_type: T20
+  match_type_number: 3462
+  outcome:
+    winner: Pakistan
+    by:
+      runs: 41
+  overs: 20
+  player_of_match:
+  - Shaheen Shah Afridi
+  players:
+    Pakistan:
+    - Sahibzada Farhan
+    - Saim Ayub
+    - Fakhar Zaman
+    - Agha Salman
+    - Hassan Nawaz
+    - Khushdil Shah
+    - Mohammad Haris
+    - Mohammad Nawaz
+    - Shaheen Shah Afridi
+    - Haris Rauf
+    - Abrar Ahmed
+    United Arab Emirates:
+    - A Sharafu
+    - Waseem Muhammad
+    - Muhammad Zohaib
+    - R Chopra
+    - D Parashar
+    - Asif Khan
+    - H Kaushik
+    - Haider Ali
+    - SS Kang
+    - Junaid Siddique
+    - Muhammad Rohid
+  registry:
+    people:
+      A Sharafu: 06cad4f0
+      AJ Pycroft: 685d3f80
+      Abrar Ahmed: abb7c76c
+      Agha Salman: 89c16049
+      Ahmed Shah Pakteen: '43602937'
+      Asif Khan: 074acfb4
+      D Parashar: 395179e8
+      Fakhar Zaman: 1777c020
+      Gazi Sohel: f0df3ed7
+      H Kaushik: 2bfec670
+      Haider Ali: dd572696
+      Haris Rauf: 24bb1c2f
+      Hassan Nawaz: 26a8b2fe
+      Izatullah Safi: '0429e73e'
+      Junaid Siddique: 84dc72db
+      Khushdil Shah: fce581b5
+      Mohammad Haris: ff3f6fc1
+      Mohammad Nawaz: 3086f7a4
+      Muhammad Rohid: 9103ecdb
+      Muhammad Zohaib: 8f75193e
+      R Chopra: a71d0f89
+      RSA Palliyaguruge: 4339c19d
+      SS Kang: 797ee165
+      Sahibzada Farhan: 1aba45cd
+      Saim Ayub: 33609a8c
+      Shaheen Shah Afridi: 45a7e761
+      Waseem Muhammad: 6f02fe2a
+  teams:
+  - Pakistan
+  - United Arab Emirates
+  toss:
+    winner: United Arab Emirates
+    decision: field
+  umpires:
+  - Ahmed Shah Pakteen
+  - RSA Palliyaguruge
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Saim Ayub
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sahibzada Farhan
+    - 0.2:
+        non_striker: Saim Ayub
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 0.3:
+        non_striker: Saim Ayub
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sahibzada Farhan
+    - 0.4:
+        non_striker: Sahibzada Farhan
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+    - 0.5:
+        non_striker: Sahibzada Farhan
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saim Ayub
+        wicket:
+          player_out: Saim Ayub
+          fielders:
+          - Muhammad Rohid
+          kind: caught
+    - 0.6:
+        non_striker: Sahibzada Farhan
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 1.1:
+        non_striker: Fakhar Zaman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 1.2:
+        non_striker: Fakhar Zaman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Sahibzada Farhan
+    - 1.3:
+        non_striker: Fakhar Zaman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 1.4:
+        non_striker: Fakhar Zaman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 1.5:
+        non_striker: Fakhar Zaman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sahibzada Farhan
+    - 1.6:
+        non_striker: Fakhar Zaman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Sahibzada Farhan
+    - 1.7:
+        non_striker: Sahibzada Farhan
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 2.1:
+        non_striker: Fakhar Zaman
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 2.2:
+        non_striker: Fakhar Zaman
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 2.3:
+        non_striker: Fakhar Zaman
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+    - 2.4:
+        non_striker: Fakhar Zaman
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sahibzada Farhan
+        wicket:
+          player_out: Sahibzada Farhan
+          fielders:
+          - Muhammad Zohaib
+          kind: caught
+    - 2.5:
+        non_striker: Fakhar Zaman
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Agha Salman
+    - 2.6:
+        non_striker: Agha Salman
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fakhar Zaman
+    - 2.7:
+        non_striker: Agha Salman
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 3.1:
+        non_striker: Fakhar Zaman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 3.2:
+        non_striker: Fakhar Zaman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 3.3:
+        non_striker: Fakhar Zaman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 3.4:
+        non_striker: Fakhar Zaman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Agha Salman
+    - 3.5:
+        non_striker: Fakhar Zaman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 3.6:
+        non_striker: Fakhar Zaman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 4.1:
+        non_striker: Agha Salman
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 4.2:
+        non_striker: Fakhar Zaman
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 4.3:
+        non_striker: Agha Salman
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fakhar Zaman
+    - 4.4:
+        non_striker: Agha Salman
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fakhar Zaman
+    - 4.5:
+        non_striker: Agha Salman
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 4.6:
+        non_striker: Agha Salman
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 5.1:
+        non_striker: Fakhar Zaman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 5.2:
+        non_striker: Fakhar Zaman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 5.3:
+        non_striker: Agha Salman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fakhar Zaman
+    - 5.4:
+        non_striker: Agha Salman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 5.5:
+        non_striker: Fakhar Zaman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 5.6:
+        non_striker: Fakhar Zaman
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Agha Salman
+    - 6.1:
+        non_striker: Agha Salman
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 6.2:
+        non_striker: Fakhar Zaman
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 6.3:
+        non_striker: Agha Salman
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 6.4:
+        non_striker: Fakhar Zaman
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 6.5:
+        non_striker: Agha Salman
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 6.6:
+        non_striker: Fakhar Zaman
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 7.1:
+        non_striker: Agha Salman
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 7.2:
+        non_striker: Fakhar Zaman
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 7.3:
+        non_striker: Fakhar Zaman
+        bowler: SS Kang
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Agha Salman
+    - 7.4:
+        non_striker: Fakhar Zaman
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 7.5:
+        non_striker: Agha Salman
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 7.6:
+        non_striker: Fakhar Zaman
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 7.7:
+        non_striker: Agha Salman
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 8.1:
+        non_striker: Agha Salman
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fakhar Zaman
+    - 8.2:
+        non_striker: Agha Salman
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fakhar Zaman
+    - 8.3:
+        non_striker: Agha Salman
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 8.4:
+        non_striker: Fakhar Zaman
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 8.5:
+        non_striker: Fakhar Zaman
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 8.6:
+        non_striker: Agha Salman
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 9.1:
+        non_striker: Agha Salman
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 9.2:
+        non_striker: Fakhar Zaman
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 9.3:
+        non_striker: Fakhar Zaman
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 9.4:
+        non_striker: Fakhar Zaman
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 9.5:
+        non_striker: Agha Salman
+        bowler: SS Kang
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Fakhar Zaman
+    - 9.6:
+        non_striker: Fakhar Zaman
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 9.7:
+        non_striker: Agha Salman
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 10.1:
+        non_striker: Agha Salman
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 10.2:
+        non_striker: Agha Salman
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 10.3:
+        non_striker: Fakhar Zaman
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Agha Salman
+    - 10.4:
+        non_striker: Agha Salman
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 10.5:
+        non_striker: Fakhar Zaman
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+    - 10.6:
+        non_striker: Fakhar Zaman
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Agha Salman
+        wicket:
+          player_out: Agha Salman
+          fielders:
+          - Haider Ali
+          kind: caught
+    - 11.1:
+        non_striker: Hassan Nawaz
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 11.2:
+        non_striker: Fakhar Zaman
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Nawaz
+    - 11.3:
+        non_striker: Hassan Nawaz
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 11.4:
+        non_striker: Hassan Nawaz
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fakhar Zaman
+    - 11.5:
+        non_striker: Hassan Nawaz
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+    - 11.6:
+        non_striker: Hassan Nawaz
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 12.1:
+        non_striker: Hassan Nawaz
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 12.2:
+        non_striker: Fakhar Zaman
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Nawaz
+    - 12.3:
+        non_striker: Hassan Nawaz
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Fakhar Zaman
+    - 12.4:
+        non_striker: Hassan Nawaz
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 12.5:
+        non_striker: Fakhar Zaman
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hassan Nawaz
+    - 12.6:
+        non_striker: Hassan Nawaz
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fakhar Zaman
+    - 13.1:
+        non_striker: Hassan Nawaz
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fakhar Zaman
+        wicket:
+          player_out: Fakhar Zaman
+          fielders:
+          - H Kaushik
+          kind: caught
+    - 13.2:
+        non_striker: Hassan Nawaz
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+    - 13.3:
+        non_striker: Hassan Nawaz
+        bowler: SS Kang
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Khushdil Shah
+    - 13.4:
+        non_striker: Hassan Nawaz
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khushdil Shah
+    - 13.5:
+        non_striker: Khushdil Shah
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hassan Nawaz
+        wicket:
+          player_out: Hassan Nawaz
+          kind: lbw
+    - 13.6:
+        non_striker: Khushdil Shah
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+    - 13.7:
+        non_striker: Khushdil Shah
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+    - 14.1:
+        non_striker: Mohammad Haris
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khushdil Shah
+    - 14.2:
+        non_striker: Khushdil Shah
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Haris
+    - 14.3:
+        non_striker: Mohammad Haris
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khushdil Shah
+    - 14.4:
+        non_striker: Khushdil Shah
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Haris
+    - 14.5:
+        non_striker: Mohammad Haris
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Khushdil Shah
+    - 14.6:
+        non_striker: Khushdil Shah
+        bowler: D Parashar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+    - 15.1:
+        non_striker: Mohammad Haris
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Khushdil Shah
+        wicket:
+          player_out: Khushdil Shah
+          fielders:
+          - Waseem Muhammad
+          kind: caught
+    - 15.2:
+        non_striker: Mohammad Haris
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nawaz
+    - 15.3:
+        non_striker: Mohammad Nawaz
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Haris
+    - 15.4:
+        non_striker: Mohammad Nawaz
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Haris
+    - 15.5:
+        non_striker: Mohammad Nawaz
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Haris
+    - 15.6:
+        non_striker: Mohammad Haris
+        bowler: SS Kang
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Nawaz
+    - 15.7:
+        non_striker: Mohammad Haris
+        bowler: SS Kang
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nawaz
+    - 16.1:
+        non_striker: Mohammad Haris
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mohammad Nawaz
+    - 16.2:
+        non_striker: Mohammad Haris
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nawaz
+    - 16.3:
+        non_striker: Mohammad Nawaz
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Haris
+    - 16.4:
+        non_striker: Mohammad Haris
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Nawaz
+    - 16.5:
+        non_striker: Mohammad Nawaz
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Haris
+    - 16.6:
+        non_striker: Mohammad Haris
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Nawaz
+        wicket:
+          player_out: Mohammad Nawaz
+          fielders:
+          - Waseem Muhammad
+          kind: caught
+    - 16.7:
+        non_striker: Mohammad Haris
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 17.1:
+        non_striker: Shaheen Shah Afridi
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+    - 17.2:
+        non_striker: Shaheen Shah Afridi
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohammad Haris
+    - 17.3:
+        non_striker: Mohammad Haris
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shaheen Shah Afridi
+    - 17.4:
+        non_striker: Mohammad Haris
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 17.5:
+        non_striker: Mohammad Haris
+        bowler: Haider Ali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shaheen Shah Afridi
+    - 17.6:
+        non_striker: Shaheen Shah Afridi
+        bowler: Haider Ali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohammad Haris
+    - 18.1:
+        non_striker: Mohammad Haris
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shaheen Shah Afridi
+    - 18.2:
+        non_striker: Mohammad Haris
+        bowler: Junaid Siddique
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shaheen Shah Afridi
+    - 18.3:
+        non_striker: Mohammad Haris
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 18.4:
+        non_striker: Mohammad Haris
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shaheen Shah Afridi
+    - 18.5:
+        non_striker: Mohammad Haris
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shaheen Shah Afridi
+    - 18.6:
+        non_striker: Shaheen Shah Afridi
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Haris
+        wicket:
+          player_out: Mohammad Haris
+          kind: bowled
+    - 18.7:
+        non_striker: Shaheen Shah Afridi
+        bowler: Junaid Siddique
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haris Rauf
+    - 19.1:
+        non_striker: Haris Rauf
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shaheen Shah Afridi
+    - 19.2:
+        non_striker: Haris Rauf
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shaheen Shah Afridi
+    - 19.3:
+        non_striker: Haris Rauf
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shaheen Shah Afridi
+    - 19.4:
+        non_striker: Haris Rauf
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 19.5:
+        non_striker: Haris Rauf
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shaheen Shah Afridi
+    - 19.6:
+        non_striker: Haris Rauf
+        bowler: Muhammad Rohid
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shaheen Shah Afridi
+        wicket:
+          player_out: Haris Rauf
+          fielders:
+          - R Chopra
+          - SS Kang
+          kind: run out
+- 2nd innings:
+    team: United Arab Emirates
+    deliveries:
+    - 0.1:
+        non_striker: Waseem Muhammad
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sharafu
+    - 0.2:
+        non_striker: Waseem Muhammad
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 0.3:
+        non_striker: Waseem Muhammad
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 0.4:
+        non_striker: Waseem Muhammad
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 0.5:
+        non_striker: A Sharafu
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 0.6:
+        non_striker: A Sharafu
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 1.1:
+        non_striker: A Sharafu
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 1.2:
+        non_striker: A Sharafu
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 1.3:
+        non_striker: Waseem Muhammad
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sharafu
+    - 1.4:
+        non_striker: A Sharafu
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 1.5:
+        non_striker: Waseem Muhammad
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sharafu
+    - 1.6:
+        non_striker: Waseem Muhammad
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+    - 2.1:
+        non_striker: A Sharafu
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 2.2:
+        non_striker: A Sharafu
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waseem Muhammad
+    - 2.3:
+        non_striker: A Sharafu
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 2.4:
+        non_striker: Waseem Muhammad
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sharafu
+        wicket:
+          player_out: A Sharafu
+          kind: bowled
+    - 2.5:
+        non_striker: Waseem Muhammad
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Zohaib
+    - 2.6:
+        non_striker: Waseem Muhammad
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Zohaib
+    - 2.7:
+        non_striker: Waseem Muhammad
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Zohaib
+    - 3.1:
+        non_striker: Muhammad Zohaib
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 3.2:
+        non_striker: Waseem Muhammad
+        bowler: Haris Rauf
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Muhammad Zohaib
+    - 3.3:
+        non_striker: Waseem Muhammad
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Zohaib
+    - 3.4:
+        non_striker: Muhammad Zohaib
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 3.5:
+        non_striker: Muhammad Zohaib
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 3.6:
+        non_striker: Muhammad Zohaib
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waseem Muhammad
+    - 3.7:
+        non_striker: Muhammad Zohaib
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waseem Muhammad
+    - 4.1:
+        non_striker: Muhammad Zohaib
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 4.2:
+        non_striker: Muhammad Zohaib
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+    - 4.3:
+        non_striker: Muhammad Zohaib
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waseem Muhammad
+        wicket:
+          player_out: Waseem Muhammad
+          fielders:
+          - Mohammad Nawaz
+          kind: caught
+    - 4.4:
+        non_striker: Muhammad Zohaib
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 4.5:
+        non_striker: R Chopra
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Zohaib
+    - 4.6:
+        non_striker: R Chopra
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Zohaib
+    - 5.1:
+        non_striker: R Chopra
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Zohaib
+    - 5.2:
+        non_striker: R Chopra
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Zohaib
+    - 5.3:
+        non_striker: R Chopra
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Zohaib
+        wicket:
+          player_out: Muhammad Zohaib
+          kind: bowled
+    - 5.4:
+        non_striker: R Chopra
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Parashar
+    - 5.5:
+        non_striker: R Chopra
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Parashar
+    - 5.6:
+        non_striker: R Chopra
+        bowler: Saim Ayub
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Parashar
+    - 5.7:
+        non_striker: R Chopra
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Parashar
+    - 6.1:
+        non_striker: D Parashar
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 6.2:
+        non_striker: R Chopra
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 6.3:
+        non_striker: D Parashar
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 6.4:
+        non_striker: D Parashar
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 6.5:
+        non_striker: D Parashar
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 6.6:
+        non_striker: D Parashar
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Chopra
+    - 7.1:
+        non_striker: R Chopra
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Parashar
+    - 7.2:
+        non_striker: R Chopra
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 7.3:
+        non_striker: D Parashar
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 7.4:
+        non_striker: D Parashar
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 7.5:
+        non_striker: D Parashar
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 7.6:
+        non_striker: D Parashar
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 8.1:
+        non_striker: D Parashar
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Chopra
+    - 8.2:
+        non_striker: D Parashar
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 8.3:
+        non_striker: R Chopra
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Parashar
+    - 8.4:
+        non_striker: R Chopra
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 8.5:
+        non_striker: D Parashar
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 8.6:
+        non_striker: R Chopra
+        bowler: Mohammad Nawaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 9.1:
+        non_striker: R Chopra
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Parashar
+    - 9.2:
+        non_striker: R Chopra
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 9.3:
+        non_striker: D Parashar
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 9.4:
+        non_striker: R Chopra
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 9.5:
+        non_striker: D Parashar
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 9.6:
+        non_striker: R Chopra
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 10.1:
+        non_striker: R Chopra
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 10.2:
+        non_striker: D Parashar
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 10.3:
+        non_striker: R Chopra
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 10.4:
+        non_striker: D Parashar
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 10.5:
+        non_striker: D Parashar
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 10.6:
+        non_striker: R Chopra
+        bowler: Abrar Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Parashar
+    - 11.1:
+        non_striker: R Chopra
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Parashar
+    - 11.2:
+        non_striker: R Chopra
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 11.3:
+        non_striker: D Parashar
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Chopra
+    - 11.4:
+        non_striker: D Parashar
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 11.5:
+        non_striker: D Parashar
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Chopra
+    - 11.6:
+        non_striker: D Parashar
+        bowler: Saim Ayub
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 12.1:
+        non_striker: D Parashar
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 12.2:
+        non_striker: R Chopra
+        bowler: Abrar Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Parashar
+    - 12.3:
+        non_striker: D Parashar
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 12.4:
+        non_striker: D Parashar
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 12.5:
+        non_striker: R Chopra
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Parashar
+    - 12.6:
+        non_striker: R Chopra
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 13.1:
+        non_striker: R Chopra
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Parashar
+    - 13.2:
+        non_striker: D Parashar
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 13.3:
+        non_striker: D Parashar
+        bowler: Haris Rauf
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Chopra
+    - 13.4:
+        non_striker: D Parashar
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Chopra
+    - 13.5:
+        non_striker: D Parashar
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 13.6:
+        non_striker: D Parashar
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 13.7:
+        non_striker: R Chopra
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Parashar
+        wicket:
+          player_out: D Parashar
+          fielders:
+          - Khushdil Shah
+          kind: caught
+    - 14.1:
+        non_striker: Asif Khan
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 14.2:
+        non_striker: R Chopra
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Khan
+    - 14.3:
+        non_striker: R Chopra
+        bowler: Abrar Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Asif Khan
+    - 14.4:
+        non_striker: Asif Khan
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Chopra
+    - 14.5:
+        non_striker: R Chopra
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Khan
+    - 14.6:
+        non_striker: R Chopra
+        bowler: Abrar Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Asif Khan
+        wicket:
+          player_out: Asif Khan
+          kind: bowled
+    - 15.1:
+        non_striker: H Kaushik
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+    - 15.2:
+        non_striker: H Kaushik
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Chopra
+    - 15.3:
+        non_striker: H Kaushik
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Chopra
+    - 15.4:
+        non_striker: H Kaushik
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Chopra
+        wicket:
+          player_out: R Chopra
+          fielders:
+          - Hassan Nawaz
+          kind: caught
+    - 15.5:
+        non_striker: H Kaushik
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 15.6:
+        non_striker: H Kaushik
+        bowler: Agha Salman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Ali
+    - 16.1:
+        non_striker: H Kaushik
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Haider Ali
+    - 16.2:
+        non_striker: Haider Ali
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaushik
+        wicket:
+          player_out: H Kaushik
+          fielders:
+          - Mohammad Haris
+          kind: caught
+    - 16.3:
+        non_striker: Haider Ali
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Kang
+    - 16.4:
+        non_striker: Haider Ali
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Kang
+    - 16.5:
+        non_striker: Haider Ali
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Kang
+    - 16.6:
+        non_striker: SS Kang
+        bowler: Shaheen Shah Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Haider Ali
+    - 17.1:
+        non_striker: Haider Ali
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Kang
+        wicket:
+          player_out: SS Kang
+          fielders:
+          - Sahibzada Farhan
+          kind: run out
+    - 17.2:
+        non_striker: Junaid Siddique
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+    - 17.3:
+        non_striker: Junaid Siddique
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Haider Ali
+        wicket:
+          player_out: Haider Ali
+          fielders:
+          - Sahibzada Farhan
+          kind: caught
+    - 17.4:
+        non_striker: Junaid Siddique
+        bowler: Haris Rauf
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Rohid
+        wicket:
+          player_out: Muhammad Rohid
+          fielders:
+          - Mohammad Haris
+          - Haris Rauf
+          kind: run out

@@ -1,0 +1,5250 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Sydney
+  dates:
+  - '2003-01-09'
+  gender: male
+  match_type: ODI
+  match_type_number: 1931
+  outcome:
+    winner: Sri Lanka
+    by:
+      runs: 79
+  overs: 50
+  player_of_match:
+  - ST Jayasuriya
+  players:
+    Sri Lanka:
+    - MS Atapattu
+    - ST Jayasuriya
+    - PA de Silva
+    - DPMD Jayawardene
+    - RP Arnold
+    - KC Sangakkara
+    - WPUJC Vaas
+    - HP Tillakaratne
+    - CRD Fernando
+    - M Muralitharan
+    - PW Gunaratne
+    Australia:
+    - AC Gilchrist
+    - ML Hayden
+    - RT Ponting
+    - DR Martyn
+    - MG Bevan
+    - A Symonds
+    - B Lee
+    - JP Maher
+    - SR Watson
+    - GB Hogg
+    - AJ Bichel
+  registry:
+    people:
+      A Symonds: bd77eb62
+      AC Gilchrist: 2b6e6dec
+      AJ Bichel: 3cf83487
+      B Lee: dd09ff8e
+      CH Lloyd: 5b445db0
+      CRD Fernando: 342d8ade
+      DB Hair: 492e1a8e
+      DPMD Jayawardene: d18f9182
+      DR Martyn: '69762509'
+      GB Hogg: f708a0bc
+      HP Tillakaratne: 00ea9791
+      JP Maher: ec526fca
+      KC Sangakkara: 6b71e6cf
+      M Muralitharan: 4ba44e19
+      MG Bevan: c500ec39
+      ML Hayden: d8699ab7
+      MS Atapattu: 8a686d30
+      PA de Silva: 34ff9e07
+      PW Gunaratne: 27410b17
+      RB Tiffin: 89087a0d
+      RP Arnold: cccdde80
+      RT Ponting: 7d415ea5
+      SJA Taufel: 4b43d5ac
+      SR Watson: 4329fbb5
+      ST Jayasuriya: f233bbb4
+      WPUJC Vaas: bcce309e
+  teams:
+  - Sri Lanka
+  - Australia
+  toss:
+    winner: Australia
+    decision: field
+  umpires:
+  - RB Tiffin
+  - SJA Taufel
+  venue: Sydney Cricket Ground
+innings:
+- 1st innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MS Atapattu
+    - 0.2:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ST Jayasuriya
+    - 0.3:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 0.4:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 0.5:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Jayasuriya
+    - 0.6:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 0.7:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 1.1:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 1.2:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: MS Atapattu
+    - 1.3:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 1.4:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 1.5:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MS Atapattu
+    - 1.6:
+        non_striker: MS Atapattu
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 1.7:
+        non_striker: MS Atapattu
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 2.1:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 2.2:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: ST Jayasuriya
+    - 2.3:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 2.4:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 2.5:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 2.6:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 2.7:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 3.1:
+        non_striker: MS Atapattu
+        bowler: AJ Bichel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ST Jayasuriya
+    - 3.2:
+        non_striker: MS Atapattu
+        bowler: AJ Bichel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ST Jayasuriya
+    - 3.3:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 3.4:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 3.5:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 3.6:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 3.7:
+        non_striker: MS Atapattu
+        bowler: AJ Bichel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ST Jayasuriya
+    - 3.8:
+        non_striker: MS Atapattu
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 4.1:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 4.2:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 4.3:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: ST Jayasuriya
+    - 4.4:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 4.5:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 4.6:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 4.7:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 5.1:
+        non_striker: MS Atapattu
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Jayasuriya
+    - 5.2:
+        non_striker: MS Atapattu
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 5.3:
+        non_striker: MS Atapattu
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 5.4:
+        non_striker: MS Atapattu
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 5.5:
+        non_striker: MS Atapattu
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 5.6:
+        non_striker: MS Atapattu
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 6.1:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 6.2:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 6.3:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 6.4:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 6.5:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 6.6:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 7.1:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 7.2:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MS Atapattu
+    - 7.3:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 7.4:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 7.5:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 7.6:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 7.7:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 8.1:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 8.2:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Jayasuriya
+    - 8.3:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 8.4:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ST Jayasuriya
+    - 8.5:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Jayasuriya
+    - 8.6:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Jayasuriya
+    - 8.7:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 9.1:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Atapattu
+    - 9.2:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 9.3:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 9.4:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 9.5:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Atapattu
+    - 9.6:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 9.7:
+        non_striker: MS Atapattu
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 10.1:
+        non_striker: ST Jayasuriya
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 10.2:
+        non_striker: ST Jayasuriya
+        bowler: SR Watson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MS Atapattu
+    - 10.3:
+        non_striker: ST Jayasuriya
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 10.4:
+        non_striker: ST Jayasuriya
+        bowler: SR Watson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MS Atapattu
+    - 10.5:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 10.6:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 10.7:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 11.1:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 11.2:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 11.3:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Atapattu
+    - 11.4:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Atapattu
+    - 11.5:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 11.6:
+        non_striker: MS Atapattu
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Jayasuriya
+    - 12.1:
+        non_striker: ST Jayasuriya
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 12.2:
+        non_striker: ST Jayasuriya
+        bowler: SR Watson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MS Atapattu
+    - 12.3:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 12.4:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ST Jayasuriya
+    - 12.5:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Jayasuriya
+    - 12.6:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 13.1:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Atapattu
+    - 13.2:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 13.3:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 13.4:
+        non_striker: ST Jayasuriya
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 13.5:
+        non_striker: MS Atapattu
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 13.6:
+        non_striker: MS Atapattu
+        bowler: AJ Bichel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ST Jayasuriya
+    - 13.7:
+        non_striker: MS Atapattu
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 14.1:
+        non_striker: ST Jayasuriya
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 14.2:
+        non_striker: ST Jayasuriya
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 14.3:
+        non_striker: ST Jayasuriya
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Atapattu
+    - 14.4:
+        non_striker: ST Jayasuriya
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 14.5:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Jayasuriya
+    - 14.6:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 15.1:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 15.2:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 15.3:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 15.4:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Atapattu
+    - 15.5:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 15.6:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 15.7:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Atapattu
+    - 16.1:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 16.2:
+        non_striker: ST Jayasuriya
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 16.3:
+        non_striker: ST Jayasuriya
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 16.4:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ST Jayasuriya
+    - 16.5:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Jayasuriya
+    - 16.6:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Jayasuriya
+    - 17.1:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 17.2:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 17.3:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 17.4:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: ST Jayasuriya
+    - 17.5:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 17.6:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ST Jayasuriya
+    - 18.1:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 18.2:
+        non_striker: ST Jayasuriya
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 18.3:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 18.4:
+        non_striker: ST Jayasuriya
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 18.5:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 18.6:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 19.1:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 19.2:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 19.3:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Jayasuriya
+    - 19.4:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 19.5:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          legbyes: 3
+        batsman: ST Jayasuriya
+    - 19.6:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 20.1:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 20.2:
+        non_striker: ST Jayasuriya
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 20.3:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Jayasuriya
+    - 20.4:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 20.5:
+        non_striker: ST Jayasuriya
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Atapattu
+    - 20.6:
+        non_striker: ST Jayasuriya
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 21.1:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MS Atapattu
+    - 21.2:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 21.3:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 21.4:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Atapattu
+    - 21.5:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 21.6:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 22.1:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 22.2:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: MS Atapattu
+    - 22.3:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Atapattu
+    - 22.4:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 22.5:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 22.6:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 23.1:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 23.2:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 23.3:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 23.4:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 23.5:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 23.6:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 24.1:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: MS Atapattu
+    - 24.2:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 24.3:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 24.4:
+        non_striker: MS Atapattu
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 24.5:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 24.6:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 24.7:
+        non_striker: ST Jayasuriya
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 25.1:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ST Jayasuriya
+    - 25.2:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 25.3:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 25.4:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 25.5:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 25.6:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: ST Jayasuriya
+    - 25.7:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 26.1:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Jayasuriya
+    - 26.2:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 26.3:
+        non_striker: ST Jayasuriya
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 26.4:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 26.5:
+        non_striker: ST Jayasuriya
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 26.6:
+        non_striker: ST Jayasuriya
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 27.1:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Atapattu
+    - 27.2:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 27.3:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Jayasuriya
+    - 27.4:
+        non_striker: MS Atapattu
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 27.5:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Atapattu
+    - 27.6:
+        non_striker: ST Jayasuriya
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 28.1:
+        non_striker: ST Jayasuriya
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 28.2:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Jayasuriya
+    - 28.3:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ST Jayasuriya
+    - 28.4:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Jayasuriya
+    - 28.5:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 28.6:
+        non_striker: ST Jayasuriya
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 29.1:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ST Jayasuriya
+    - 29.2:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 29.3:
+        non_striker: ST Jayasuriya
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 29.4:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 29.5:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 29.6:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ST Jayasuriya
+    - 30.1:
+        non_striker: ST Jayasuriya
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 30.2:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Jayasuriya
+    - 30.3:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Jayasuriya
+    - 30.4:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 30.5:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: ST Jayasuriya
+    - 30.6:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 30.7:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 31.1:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 31.2:
+        non_striker: ST Jayasuriya
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 31.3:
+        non_striker: ST Jayasuriya
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 31.4:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 31.5:
+        non_striker: ST Jayasuriya
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 31.6:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 32.1:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 32.2:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ST Jayasuriya
+    - 32.3:
+        non_striker: ST Jayasuriya
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Atapattu
+    - 32.4:
+        non_striker: ST Jayasuriya
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 32.5:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ST Jayasuriya
+    - 32.6:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+    - 33.1:
+        non_striker: ST Jayasuriya
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 33.2:
+        non_striker: ST Jayasuriya
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Atapattu
+    - 33.3:
+        non_striker: ST Jayasuriya
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 33.4:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ST Jayasuriya
+        wicket:
+          player_out: ST Jayasuriya
+          kind: bowled
+    - 33.5:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA de Silva
+    - 33.6:
+        non_striker: PA de Silva
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 34.1:
+        non_striker: PA de Silva
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 34.2:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA de Silva
+    - 34.3:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA de Silva
+    - 34.4:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA de Silva
+    - 34.5:
+        non_striker: PA de Silva
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 34.6:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: PA de Silva
+    - 34.7:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA de Silva
+    - 35.1:
+        non_striker: PA de Silva
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 35.2:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA de Silva
+    - 35.3:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PA de Silva
+    - 35.4:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA de Silva
+    - 35.5:
+        non_striker: PA de Silva
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 35.6:
+        non_striker: PA de Silva
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Atapattu
+    - 35.7:
+        non_striker: PA de Silva
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 36.1:
+        non_striker: PA de Silva
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MS Atapattu
+    - 36.2:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PA de Silva
+    - 36.3:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA de Silva
+    - 36.4:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA de Silva
+    - 36.5:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA de Silva
+    - 36.6:
+        non_striker: PA de Silva
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 37.1:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA de Silva
+    - 37.2:
+        non_striker: PA de Silva
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Atapattu
+    - 37.3:
+        non_striker: PA de Silva
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Atapattu
+    - 37.4:
+        non_striker: PA de Silva
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 37.5:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA de Silva
+    - 37.6:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA de Silva
+        wicket:
+          player_out: PA de Silva
+          kind: bowled
+    - 38.1:
+        non_striker: DPMD Jayawardene
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 38.2:
+        non_striker: DPMD Jayawardene
+        bowler: GB Hogg
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: MS Atapattu
+    - 38.3:
+        non_striker: DPMD Jayawardene
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 38.4:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 38.5:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 38.6:
+        non_striker: DPMD Jayawardene
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 38.7:
+        non_striker: MS Atapattu
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 39.1:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 39.2:
+        non_striker: DPMD Jayawardene
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 39.3:
+        non_striker: DPMD Jayawardene
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 39.4:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 39.5:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DPMD Jayawardene
+    - 39.6:
+        non_striker: MS Atapattu
+        bowler: SR Watson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 40.1:
+        non_striker: DPMD Jayawardene
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 40.2:
+        non_striker: MS Atapattu
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 40.3:
+        non_striker: DPMD Jayawardene
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 40.4:
+        non_striker: MS Atapattu
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 40.5:
+        non_striker: MS Atapattu
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 40.6:
+        non_striker: MS Atapattu
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 41.1:
+        non_striker: DPMD Jayawardene
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 41.2:
+        non_striker: DPMD Jayawardene
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+        wicket:
+          player_out: MS Atapattu
+          fielders:
+          - RT Ponting
+          kind: run out
+    - 41.3:
+        non_striker: RP Arnold
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 41.4:
+        non_striker: DPMD Jayawardene
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Arnold
+        wicket:
+          player_out: RP Arnold
+          fielders:
+          - AC Gilchrist
+          kind: stumped
+    - 41.5:
+        non_striker: DPMD Jayawardene
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 41.6:
+        non_striker: DPMD Jayawardene
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 42.1:
+        non_striker: KC Sangakkara
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 42.2:
+        non_striker: KC Sangakkara
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DPMD Jayawardene
+    - 42.3:
+        non_striker: KC Sangakkara
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 42.4:
+        non_striker: DPMD Jayawardene
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KC Sangakkara
+    - 42.5:
+        non_striker: DPMD Jayawardene
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 42.6:
+        non_striker: DPMD Jayawardene
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Sangakkara
+    - 43.1:
+        non_striker: DPMD Jayawardene
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Sangakkara
+    - 43.2:
+        non_striker: KC Sangakkara
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 43.3:
+        non_striker: DPMD Jayawardene
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Sangakkara
+    - 43.4:
+        non_striker: KC Sangakkara
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DPMD Jayawardene
+    - 43.5:
+        non_striker: KC Sangakkara
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 43.6:
+        non_striker: DPMD Jayawardene
+        bowler: A Symonds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Sangakkara
+    - 44.1:
+        non_striker: DPMD Jayawardene
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Sangakkara
+    - 44.2:
+        non_striker: KC Sangakkara
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 44.3:
+        non_striker: DPMD Jayawardene
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 44.4:
+        non_striker: DPMD Jayawardene
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Sangakkara
+    - 44.5:
+        non_striker: KC Sangakkara
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 44.6:
+        non_striker: KC Sangakkara
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 45.1:
+        non_striker: KC Sangakkara
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 45.2:
+        non_striker: DPMD Jayawardene
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: KC Sangakkara
+    - 45.3:
+        non_striker: KC Sangakkara
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 45.4:
+        non_striker: KC Sangakkara
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DPMD Jayawardene
+    - 45.5:
+        non_striker: KC Sangakkara
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 45.6:
+        non_striker: KC Sangakkara
+        bowler: AJ Bichel
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: DPMD Jayawardene
+    - 45.7:
+        non_striker: DPMD Jayawardene
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KC Sangakkara
+    - 46.1:
+        non_striker: KC Sangakkara
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 46.2:
+        non_striker: DPMD Jayawardene
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Sangakkara
+    - 46.3:
+        non_striker: KC Sangakkara
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 46.4:
+        non_striker: DPMD Jayawardene
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Sangakkara
+    - 46.5:
+        non_striker: KC Sangakkara
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 46.6:
+        non_striker: KC Sangakkara
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 47.1:
+        non_striker: KC Sangakkara
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DPMD Jayawardene
+    - 47.2:
+        non_striker: DPMD Jayawardene
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KC Sangakkara
+    - 47.3:
+        non_striker: DPMD Jayawardene
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KC Sangakkara
+    - 47.4:
+        non_striker: DPMD Jayawardene
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 47.5:
+        non_striker: DPMD Jayawardene
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KC Sangakkara
+    - 47.6:
+        non_striker: DPMD Jayawardene
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+        wicket:
+          player_out: KC Sangakkara
+          fielders:
+          - JP Maher
+          kind: caught
+    - 48.1:
+        non_striker: DPMD Jayawardene
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WPUJC Vaas
+    - 48.2:
+        non_striker: WPUJC Vaas
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 48.3:
+        non_striker: WPUJC Vaas
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 48.4:
+        non_striker: DPMD Jayawardene
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WPUJC Vaas
+    - 48.5:
+        non_striker: WPUJC Vaas
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 48.6:
+        non_striker: DPMD Jayawardene
+        bowler: DR Martyn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WPUJC Vaas
+    - 49.1:
+        non_striker: DPMD Jayawardene
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WPUJC Vaas
+    - 49.2:
+        non_striker: WPUJC Vaas
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 49.3:
+        non_striker: WPUJC Vaas
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 49.4:
+        non_striker: DPMD Jayawardene
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WPUJC Vaas
+    - 49.5:
+        non_striker: WPUJC Vaas
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DPMD Jayawardene
+    - 49.6:
+        non_striker: WPUJC Vaas
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DPMD Jayawardene
+- 2nd innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: ML Hayden
+        batsman: AC Gilchrist
+    - 0.2:
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: ML Hayden
+        batsman: AC Gilchrist
+    - 0.3:
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Hayden
+        batsman: AC Gilchrist
+        wicket:
+          player_out: AC Gilchrist
+          kind: bowled
+    - 0.4:
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Hayden
+        batsman: RT Ponting
+    - 0.5:
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Hayden
+        batsman: RT Ponting
+    - 0.6:
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ML Hayden
+        batsman: RT Ponting
+    - 1.1:
+        non_striker: RT Ponting
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 1.2:
+        non_striker: RT Ponting
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 1.3:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 1.4:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 1.5:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 1.6:
+        non_striker: RT Ponting
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 2.1:
+        non_striker: ML Hayden
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RT Ponting
+    - 2.2:
+        non_striker: RT Ponting
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 2.3:
+        non_striker: RT Ponting
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 2.4:
+        non_striker: RT Ponting
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 2.5:
+        non_striker: RT Ponting
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 2.6:
+        non_striker: RT Ponting
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 3.1:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 3.2:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 3.3:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 3.4:
+        non_striker: RT Ponting
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 3.5:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 3.6:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 4.1:
+        non_striker: RT Ponting
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 4.2:
+        non_striker: RT Ponting
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 4.3:
+        non_striker: RT Ponting
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 4.4:
+        non_striker: RT Ponting
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 4.5:
+        non_striker: RT Ponting
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ML Hayden
+    - 4.6:
+        non_striker: ML Hayden
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 5.1:
+        non_striker: RT Ponting
+        bowler: PW Gunaratne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ML Hayden
+    - 5.2:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 5.3:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Ponting
+    - 5.4:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+        wicket:
+          player_out: RT Ponting
+          fielders:
+          - HP Tillakaratne
+          kind: caught
+    - 5.5:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 5.6:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 6.1:
+        non_striker: ML Hayden
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 6.2:
+        non_striker: DR Martyn
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 6.3:
+        non_striker: DR Martyn
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 6.4:
+        non_striker: DR Martyn
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 6.5:
+        non_striker: DR Martyn
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 6.6:
+        non_striker: DR Martyn
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 7.1:
+        non_striker: DR Martyn
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 7.2:
+        non_striker: DR Martyn
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 7.3:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 7.4:
+        non_striker: DR Martyn
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 7.5:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 7.6:
+        non_striker: DR Martyn
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Hayden
+    - 8.1:
+        non_striker: ML Hayden
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 8.2:
+        non_striker: ML Hayden
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 8.3:
+        non_striker: ML Hayden
+        bowler: WPUJC Vaas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DR Martyn
+    - 8.4:
+        non_striker: ML Hayden
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 8.5:
+        non_striker: ML Hayden
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 8.6:
+        non_striker: ML Hayden
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 8.7:
+        non_striker: ML Hayden
+        bowler: WPUJC Vaas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DR Martyn
+    - 8.8:
+        non_striker: ML Hayden
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 9.1:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 9.2:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 9.3:
+        non_striker: DR Martyn
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 9.4:
+        non_striker: DR Martyn
+        bowler: PW Gunaratne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Hayden
+    - 9.5:
+        non_striker: DR Martyn
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 9.6:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 9.7:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 10.1:
+        non_striker: DR Martyn
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ML Hayden
+    - 10.2:
+        non_striker: ML Hayden
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 10.3:
+        non_striker: DR Martyn
+        bowler: WPUJC Vaas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ML Hayden
+    - 10.4:
+        non_striker: ML Hayden
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 10.5:
+        non_striker: ML Hayden
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 10.6:
+        non_striker: ML Hayden
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Martyn
+    - 11.1:
+        non_striker: DR Martyn
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 11.2:
+        non_striker: DR Martyn
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 11.3:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 11.4:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 11.5:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 11.6:
+        non_striker: DR Martyn
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 12.1:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Hayden
+    - 12.2:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Hayden
+    - 12.3:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 12.4:
+        non_striker: ML Hayden
+        bowler: CRD Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DR Martyn
+    - 12.5:
+        non_striker: ML Hayden
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 12.6:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Hayden
+    - 12.7:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 12.8:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 13.1:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 13.2:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 13.3:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 13.4:
+        non_striker: ML Hayden
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 13.5:
+        non_striker: DR Martyn
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Hayden
+    - 13.6:
+        non_striker: DR Martyn
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 14.1:
+        non_striker: ML Hayden
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 14.2:
+        non_striker: ML Hayden
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 14.3:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+        wicket:
+          player_out: ML Hayden
+          fielders:
+          - DPMD Jayawardene
+          kind: caught
+    - 14.4:
+        non_striker: MG Bevan
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 14.5:
+        non_striker: MG Bevan
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 14.6:
+        non_striker: MG Bevan
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Martyn
+    - 15.1:
+        non_striker: DR Martyn
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 15.2:
+        non_striker: DR Martyn
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 15.3:
+        non_striker: MG Bevan
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 15.4:
+        non_striker: MG Bevan
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 15.5:
+        non_striker: DR Martyn
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 15.6:
+        non_striker: DR Martyn
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 16.1:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bevan
+    - 16.2:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 16.3:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bevan
+    - 16.4:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 16.5:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 16.6:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 17.1:
+        non_striker: MG Bevan
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 17.2:
+        non_striker: DR Martyn
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 17.3:
+        non_striker: MG Bevan
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 17.4:
+        non_striker: DR Martyn
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bevan
+    - 17.5:
+        non_striker: DR Martyn
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 17.6:
+        non_striker: DR Martyn
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 18.1:
+        non_striker: MG Bevan
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 18.2:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 18.3:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 18.4:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 18.5:
+        non_striker: MG Bevan
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 18.6:
+        non_striker: MG Bevan
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 19.1:
+        non_striker: MG Bevan
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 19.2:
+        non_striker: MG Bevan
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Martyn
+    - 19.3:
+        non_striker: MG Bevan
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 19.4:
+        non_striker: MG Bevan
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 19.5:
+        non_striker: DR Martyn
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 19.6:
+        non_striker: DR Martyn
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 20.1:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 20.2:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 20.3:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bevan
+    - 20.4:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 20.5:
+        non_striker: DR Martyn
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 20.6:
+        non_striker: MG Bevan
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 21.1:
+        non_striker: DR Martyn
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 21.2:
+        non_striker: DR Martyn
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 21.3:
+        non_striker: DR Martyn
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 21.4:
+        non_striker: MG Bevan
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 21.5:
+        non_striker: DR Martyn
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 21.6:
+        non_striker: DR Martyn
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bevan
+    - 22.1:
+        non_striker: MG Bevan
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Martyn
+    - 22.2:
+        non_striker: MG Bevan
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 22.3:
+        non_striker: MG Bevan
+        bowler: CRD Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DR Martyn
+    - 22.4:
+        non_striker: MG Bevan
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 22.5:
+        non_striker: MG Bevan
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 22.6:
+        non_striker: MG Bevan
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 22.7:
+        non_striker: MG Bevan
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 23.1:
+        non_striker: DR Martyn
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 23.2:
+        non_striker: DR Martyn
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 23.3:
+        non_striker: DR Martyn
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 23.4:
+        non_striker: DR Martyn
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 23.5:
+        non_striker: MG Bevan
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 23.6:
+        non_striker: DR Martyn
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 24.1:
+        non_striker: MG Bevan
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 24.2:
+        non_striker: MG Bevan
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 24.3:
+        non_striker: MG Bevan
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 24.4:
+        non_striker: DR Martyn
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 24.5:
+        non_striker: MG Bevan
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 24.6:
+        non_striker: DR Martyn
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 25.1:
+        non_striker: DR Martyn
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 25.2:
+        non_striker: MG Bevan
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 25.3:
+        non_striker: DR Martyn
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 25.4:
+        non_striker: DR Martyn
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 25.5:
+        non_striker: MG Bevan
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 25.6:
+        non_striker: MG Bevan
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 26.1:
+        non_striker: DR Martyn
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bevan
+    - 26.2:
+        non_striker: DR Martyn
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bevan
+    - 26.3:
+        non_striker: DR Martyn
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 26.4:
+        non_striker: MG Bevan
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 26.5:
+        non_striker: MG Bevan
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 26.6:
+        non_striker: MG Bevan
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 27.1:
+        non_striker: DR Martyn
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 27.2:
+        non_striker: DR Martyn
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bevan
+    - 27.3:
+        non_striker: DR Martyn
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 27.4:
+        non_striker: MG Bevan
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Martyn
+    - 27.5:
+        non_striker: MG Bevan
+        bowler: M Muralitharan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DR Martyn
+    - 27.6:
+        non_striker: DR Martyn
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bevan
+    - 28.1:
+        non_striker: MG Bevan
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 28.2:
+        non_striker: MG Bevan
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 28.3:
+        non_striker: MG Bevan
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+        wicket:
+          player_out: DR Martyn
+          kind: bowled
+    - 28.4:
+        non_striker: MG Bevan
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 28.5:
+        non_striker: MG Bevan
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 28.6:
+        non_striker: MG Bevan
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 29.1:
+        non_striker: A Symonds
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 29.2:
+        non_striker: MG Bevan
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 29.3:
+        non_striker: A Symonds
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 29.4:
+        non_striker: A Symonds
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 29.5:
+        non_striker: MG Bevan
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 29.6:
+        non_striker: MG Bevan
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 30.1:
+        non_striker: A Symonds
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 30.2:
+        non_striker: MG Bevan
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 30.3:
+        non_striker: A Symonds
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+        wicket:
+          player_out: MG Bevan
+          fielders:
+          - HP Tillakaratne
+          kind: caught
+    - 30.4:
+        non_striker: A Symonds
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lee
+    - 30.5:
+        non_striker: A Symonds
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lee
+    - 30.6:
+        non_striker: A Symonds
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Lee
+    - 31.1:
+        non_striker: A Symonds
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Lee
+    - 31.2:
+        non_striker: B Lee
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 31.3:
+        non_striker: B Lee
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+        wicket:
+          player_out: A Symonds
+          fielders:
+          - HP Tillakaratne
+          kind: caught
+    - 31.4:
+        non_striker: JP Maher
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lee
+    - 31.5:
+        non_striker: JP Maher
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Lee
+    - 31.6:
+        non_striker: B Lee
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 32.1:
+        non_striker: JP Maher
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Lee
+    - 32.2:
+        non_striker: B Lee
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 32.3:
+        non_striker: B Lee
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 32.4:
+        non_striker: B Lee
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Maher
+    - 32.5:
+        non_striker: JP Maher
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lee
+    - 32.6:
+        non_striker: JP Maher
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lee
+    - 33.1:
+        non_striker: B Lee
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 33.2:
+        non_striker: B Lee
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 33.3:
+        non_striker: B Lee
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 33.4:
+        non_striker: B Lee
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 33.5:
+        non_striker: B Lee
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 33.6:
+        non_striker: B Lee
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 34.1:
+        non_striker: JP Maher
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Lee
+    - 34.2:
+        non_striker: B Lee
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Maher
+    - 34.3:
+        non_striker: JP Maher
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lee
+    - 34.4:
+        non_striker: JP Maher
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Lee
+    - 34.5:
+        non_striker: B Lee
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 34.6:
+        non_striker: B Lee
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Maher
+    - 35.1:
+        non_striker: JP Maher
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Lee
+    - 35.2:
+        non_striker: B Lee
+        bowler: M Muralitharan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JP Maher
+    - 35.3:
+        non_striker: JP Maher
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: B Lee
+    - 35.4:
+        non_striker: B Lee
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Maher
+    - 35.5:
+        non_striker: JP Maher
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lee
+    - 35.6:
+        non_striker: JP Maher
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Lee
+    - 36.1:
+        non_striker: B Lee
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Maher
+    - 36.2:
+        non_striker: B Lee
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 36.3:
+        non_striker: B Lee
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 36.4:
+        non_striker: B Lee
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Maher
+    - 36.5:
+        non_striker: JP Maher
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Lee
+    - 36.6:
+        non_striker: B Lee
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Maher
+    - 37.1:
+        non_striker: B Lee
+        bowler: PA de Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JP Maher
+    - 37.2:
+        non_striker: JP Maher
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: B Lee
+    - 37.3:
+        non_striker: B Lee
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Maher
+    - 37.4:
+        non_striker: JP Maher
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Lee
+    - 37.5:
+        non_striker: B Lee
+        bowler: PA de Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JP Maher
+    - 37.6:
+        non_striker: JP Maher
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Lee
+    - 38.1:
+        non_striker: B Lee
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 38.2:
+        non_striker: B Lee
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JP Maher
+    - 38.3:
+        non_striker: JP Maher
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Lee
+    - 38.4:
+        non_striker: B Lee
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 38.5:
+        non_striker: B Lee
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+        wicket:
+          player_out: JP Maher
+          fielders:
+          - DPMD Jayawardene
+          kind: caught
+    - 38.6:
+        non_striker: SR Watson
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lee
+        wicket:
+          player_out: B Lee
+          kind: bowled
+    - 39.1:
+        non_striker: GB Hogg
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 39.2:
+        non_striker: GB Hogg
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 39.3:
+        non_striker: GB Hogg
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 39.4:
+        non_striker: SR Watson
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 39.5:
+        non_striker: GB Hogg
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Watson
+    - 39.6:
+        non_striker: GB Hogg
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Watson
+    - 40.1:
+        non_striker: SR Watson
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GB Hogg
+    - 40.2:
+        non_striker: SR Watson
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 40.3:
+        non_striker: GB Hogg
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 40.4:
+        non_striker: GB Hogg
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 40.5:
+        non_striker: SR Watson
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Hogg
+    - 40.6:
+        non_striker: SR Watson
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Hogg
+    - 41.1:
+        non_striker: GB Hogg
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 41.2:
+        non_striker: SR Watson
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Hogg
+    - 41.3:
+        non_striker: SR Watson
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Hogg
+        wicket:
+          player_out: GB Hogg
+          fielders:
+          - KC Sangakkara
+          kind: stumped
+    - 41.4:
+        non_striker: SR Watson
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Bichel
+    - 41.5:
+        non_striker: SR Watson
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AJ Bichel
+    - 41.6:
+        non_striker: AJ Bichel
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 42.1:
+        non_striker: SR Watson
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Bichel
+    - 42.2:
+        non_striker: SR Watson
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Bichel
+    - 42.3:
+        non_striker: AJ Bichel
+        bowler: ST Jayasuriya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SR Watson
+    - 42.4:
+        non_striker: SR Watson
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Bichel
+    - 42.5:
+        non_striker: SR Watson
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Bichel
+    - 42.6:
+        non_striker: AJ Bichel
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 43.1:
+        non_striker: AJ Bichel
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Watson
+    - 43.2:
+        non_striker: AJ Bichel
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 43.3:
+        non_striker: AJ Bichel
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 43.4:
+        non_striker: SR Watson
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Bichel
+    - 43.5:
+        non_striker: SR Watson
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Bichel
+    - 43.6:
+        non_striker: SR Watson
+        bowler: PA de Silva
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AJ Bichel
+    - 44.1:
+        non_striker: SR Watson
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Bichel
+    - 44.2:
+        non_striker: AJ Bichel
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 44.3:
+        non_striker: SR Watson
+        bowler: CRD Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AJ Bichel
+    - 44.4:
+        non_striker: AJ Bichel
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 44.5:
+        non_striker: SR Watson
+        bowler: CRD Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AJ Bichel
+    - 44.6:
+        non_striker: AJ Bichel
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 45.1:
+        non_striker: SR Watson
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Bichel
+    - 45.2:
+        non_striker: SR Watson
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Bichel
+    - 45.3:
+        non_striker: AJ Bichel
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SR Watson
+    - 45.4:
+        non_striker: SR Watson
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Bichel
+    - 45.5:
+        non_striker: AJ Bichel
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 45.6:
+        non_striker: SR Watson
+        bowler: PA de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Bichel
+    - 46.1:
+        non_striker: AJ Bichel
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 46.2:
+        non_striker: SR Watson
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Bichel
+    - 46.3:
+        non_striker: AJ Bichel
+        bowler: CRD Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SR Watson
+    - 46.4:
+        non_striker: AJ Bichel
+        bowler: CRD Fernando
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: SR Watson
+    - 46.5:
+        non_striker: SR Watson
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Bichel
+    - 46.6:
+        non_striker: SR Watson
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Bichel
+    - 46.7:
+        non_striker: AJ Bichel
+        bowler: CRD Fernando
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: SR Watson
+    - 46.8:
+        non_striker: AJ Bichel
+        bowler: CRD Fernando
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SR Watson
+    - 46.9:
+        non_striker: AJ Bichel
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 47.1:
+        non_striker: AJ Bichel
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Watson
+    - 47.2:
+        non_striker: AJ Bichel
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 47.3:
+        non_striker: SR Watson
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Bichel
+    - 47.4:
+        non_striker: AJ Bichel
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 47.5:
+        non_striker: SR Watson
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Bichel
+    - 47.6:
+        non_striker: SR Watson
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Bichel
+    - 48.1:
+        non_striker: AJ Bichel
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 48.2:
+        non_striker: AJ Bichel
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 48.3:
+        non_striker: AJ Bichel
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 48.4:
+        non_striker: SR Watson
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Bichel
+    - 48.5:
+        non_striker: AJ Bichel
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Watson
+    - 48.6:
+        non_striker: AJ Bichel
+        bowler: CRD Fernando
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 49.1:
+        non_striker: AJ Bichel
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          non_boundary: 1
+          total: 4
+          batsman: 4
+        batsman: SR Watson
+    - 49.2:
+        non_striker: AJ Bichel
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Watson
+    - 49.3:
+        non_striker: SR Watson
+        bowler: PW Gunaratne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Bichel
+        wicket:
+          player_out: AJ Bichel
+          fielders:
+          - KC Sangakkara
+          kind: caught

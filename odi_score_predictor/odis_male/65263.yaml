@@ -1,0 +1,3413 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Potchefstroom
+  dates:
+  - '2003-02-27'
+  gender: male
+  match_type: ODI
+  match_type_number: 1970
+  outcome:
+    winner: Australia
+    by:
+      runs: 256
+  overs: 50
+  player_of_match:
+  - GD McGrath
+  players:
+    Australia:
+    - AC Gilchrist
+    - ML Hayden
+    - MG Bevan
+    - A Symonds
+    - RT Ponting
+    - DR Martyn
+    - DS Lehmann
+    - GB Hogg
+    - B Lee
+    - AJ Bichel
+    - GD McGrath
+    Namibia:
+    - AJ Burger
+    - SJ Swanepoel
+    - M Karg
+    - D Keulder
+    - GB Murgatroyd
+    - DB Kotze
+    - LJ Burger
+    - M van Schoor
+    - BL Kotze
+    - BO van Rooi
+    - RJ van Vuuren
+  registry:
+    people:
+      A Symonds: bd77eb62
+      AC Gilchrist: 2b6e6dec
+      AJ Bichel: 3cf83487
+      AJ Burger: 4347a4ae
+      B Lee: dd09ff8e
+      BF Bowden: efc0a862
+      BL Kotze: 540ffb25
+      BO van Rooi: '047945ae'
+      D Keulder: 34c823b0
+      DB Kotze: 5ee47383
+      DR Martyn: '69762509'
+      DS Lehmann: 53fe6ee4
+      GB Hogg: f708a0bc
+      GB Murgatroyd: 18356eb3
+      GD McGrath: ee7d0c82
+      GR Viswanath: 9333bc07
+      LJ Burger: 6f4d314b
+      M Karg: 856a5e81
+      M van Schoor: 74bd2653
+      MG Bevan: c500ec39
+      ML Hayden: d8699ab7
+      NA Mallender: 3b5dfcd4
+      RB Tiffin: 89087a0d
+      RJ van Vuuren: '0882b3f1'
+      RT Ponting: 7d415ea5
+      SJ Swanepoel: 31e31116
+  teams:
+  - Australia
+  - Namibia
+  toss:
+    winner: Australia
+    decision: bat
+  umpires:
+  - BF Bowden
+  - RB Tiffin
+  venue: North West Cricket Stadium, Potchefstroom
+innings:
+- 1st innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: ML Hayden
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 0.2:
+        non_striker: ML Hayden
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Gilchrist
+    - 0.3:
+        non_striker: ML Hayden
+        bowler: RJ van Vuuren
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: AC Gilchrist
+    - 0.4:
+        non_striker: AC Gilchrist
+        bowler: RJ van Vuuren
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Hayden
+    - 0.5:
+        non_striker: AC Gilchrist
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 0.6:
+        non_striker: AC Gilchrist
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 0.7:
+        non_striker: ML Hayden
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 0.8:
+        non_striker: ML Hayden
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 1.1:
+        non_striker: AC Gilchrist
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 1.2:
+        non_striker: AC Gilchrist
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 1.3:
+        non_striker: AC Gilchrist
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 1.4:
+        non_striker: ML Hayden
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 1.5:
+        non_striker: ML Hayden
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 1.6:
+        non_striker: ML Hayden
+        bowler: BO van Rooi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Gilchrist
+    - 1.7:
+        non_striker: ML Hayden
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 2.1:
+        non_striker: AC Gilchrist
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 2.2:
+        non_striker: ML Hayden
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 2.3:
+        non_striker: ML Hayden
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 2.4:
+        non_striker: ML Hayden
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 2.5:
+        non_striker: ML Hayden
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Gilchrist
+    - 2.6:
+        non_striker: ML Hayden
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 3.1:
+        non_striker: AC Gilchrist
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 3.2:
+        non_striker: AC Gilchrist
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 3.3:
+        non_striker: AC Gilchrist
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 3.4:
+        non_striker: ML Hayden
+        bowler: BO van Rooi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Gilchrist
+    - 3.5:
+        non_striker: ML Hayden
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 3.6:
+        non_striker: ML Hayden
+        bowler: BO van Rooi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AC Gilchrist
+    - 3.7:
+        non_striker: AC Gilchrist
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 4.1:
+        non_striker: ML Hayden
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 4.2:
+        non_striker: ML Hayden
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 4.3:
+        non_striker: ML Hayden
+        bowler: RJ van Vuuren
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: AC Gilchrist
+    - 4.4:
+        non_striker: AC Gilchrist
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 4.5:
+        non_striker: AC Gilchrist
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 4.6:
+        non_striker: ML Hayden
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 4.7:
+        non_striker: ML Hayden
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 5.1:
+        non_striker: AC Gilchrist
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 5.2:
+        non_striker: AC Gilchrist
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 5.3:
+        non_striker: ML Hayden
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 5.4:
+        non_striker: AC Gilchrist
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 5.5:
+        non_striker: AC Gilchrist
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 5.6:
+        non_striker: ML Hayden
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+        wicket:
+          player_out: AC Gilchrist
+          kind: bowled
+    - 6.1:
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: MG Bevan
+        batsman: ML Hayden
+    - 6.2:
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: MG Bevan
+        batsman: ML Hayden
+    - 6.3:
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: MG Bevan
+        batsman: ML Hayden
+    - 6.4:
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MG Bevan
+        batsman: ML Hayden
+    - 6.5:
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: MG Bevan
+        batsman: ML Hayden
+    - 6.6:
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MG Bevan
+        batsman: ML Hayden
+    - 7.1:
+        non_striker: ML Hayden
+        bowler: BO van Rooi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MG Bevan
+    - 7.2:
+        non_striker: ML Hayden
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bevan
+    - 7.3:
+        non_striker: ML Hayden
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 7.4:
+        non_striker: ML Hayden
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 7.5:
+        non_striker: ML Hayden
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Bevan
+    - 7.6:
+        non_striker: ML Hayden
+        bowler: BO van Rooi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MG Bevan
+    - 7.7:
+        non_striker: ML Hayden
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 7.8:
+        non_striker: ML Hayden
+        bowler: BO van Rooi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: MG Bevan
+    - 8.1:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 8.2:
+        non_striker: ML Hayden
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 8.3:
+        non_striker: ML Hayden
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 8.4:
+        non_striker: ML Hayden
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 8.5:
+        non_striker: ML Hayden
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 8.6:
+        non_striker: ML Hayden
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 9.1:
+        non_striker: MG Bevan
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 9.2:
+        non_striker: ML Hayden
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 9.3:
+        non_striker: ML Hayden
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 9.4:
+        non_striker: MG Bevan
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 9.5:
+        non_striker: MG Bevan
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 9.6:
+        non_striker: MG Bevan
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 10.1:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 10.2:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 10.3:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 10.4:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 10.5:
+        non_striker: ML Hayden
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 10.6:
+        non_striker: ML Hayden
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 11.1:
+        non_striker: MG Bevan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 11.2:
+        non_striker: MG Bevan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 11.3:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 11.4:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 11.5:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 11.6:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 12.1:
+        non_striker: ML Hayden
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 12.2:
+        non_striker: ML Hayden
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 12.3:
+        non_striker: ML Hayden
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 12.4:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 12.5:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 12.6:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 13.1:
+        non_striker: MG Bevan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 13.2:
+        non_striker: MG Bevan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 13.3:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 13.4:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 13.5:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 13.6:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 14.1:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 14.2:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 14.3:
+        non_striker: ML Hayden
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 14.4:
+        non_striker: ML Hayden
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 14.5:
+        non_striker: ML Hayden
+        bowler: BL Kotze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MG Bevan
+    - 14.6:
+        non_striker: ML Hayden
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 14.7:
+        non_striker: ML Hayden
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 15.1:
+        non_striker: MG Bevan
+        bowler: LJ Burger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ML Hayden
+    - 15.2:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 15.3:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 15.4:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 15.5:
+        non_striker: MG Bevan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 15.6:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 16.1:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ML Hayden
+    - 16.2:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 16.3:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: ML Hayden
+    - 16.4:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 16.5:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Hayden
+    - 16.6:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 16.7:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 17.1:
+        non_striker: MG Bevan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 17.2:
+        non_striker: MG Bevan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 17.3:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 17.4:
+        non_striker: MG Bevan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 17.5:
+        non_striker: MG Bevan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 17.6:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bevan
+    - 18.1:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 18.2:
+        non_striker: ML Hayden
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 18.3:
+        non_striker: ML Hayden
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 18.4:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 18.5:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 18.6:
+        non_striker: MG Bevan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Hayden
+    - 19.1:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Bevan
+    - 19.2:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Bevan
+    - 19.3:
+        non_striker: MG Bevan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 19.4:
+        non_striker: MG Bevan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 19.5:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+    - 19.6:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Bevan
+        wicket:
+          player_out: MG Bevan
+          kind: caught and bowled
+    - 20.1:
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Symonds
+        batsman: ML Hayden
+    - 20.2:
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: A Symonds
+        batsman: ML Hayden
+    - 20.3:
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A Symonds
+        batsman: ML Hayden
+    - 20.4:
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: A Symonds
+        batsman: ML Hayden
+    - 20.5:
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Symonds
+        batsman: ML Hayden
+    - 20.6:
+        non_striker: ML Hayden
+        bowler: BL Kotze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Symonds
+    - 20.7:
+        non_striker: ML Hayden
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 21.1:
+        non_striker: A Symonds
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ML Hayden
+    - 21.2:
+        non_striker: A Symonds
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 21.3:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 21.4:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 21.5:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 21.6:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 22.1:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 22.2:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ML Hayden
+    - 22.3:
+        non_striker: ML Hayden
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 22.4:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: ML Hayden
+    - 22.5:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 22.6:
+        non_striker: ML Hayden
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 23.1:
+        non_striker: A Symonds
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 23.2:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 23.3:
+        non_striker: ML Hayden
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 23.4:
+        non_striker: A Symonds
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 23.5:
+        non_striker: A Symonds
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+        wicket:
+          player_out: ML Hayden
+          kind: bowled
+    - 23.6:
+        non_striker: A Symonds
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 24.1:
+        non_striker: RT Ponting
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 24.2:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 24.3:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 24.4:
+        non_striker: RT Ponting
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 24.5:
+        non_striker: RT Ponting
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 24.6:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 25.1:
+        non_striker: A Symonds
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 25.2:
+        non_striker: A Symonds
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 25.3:
+        non_striker: A Symonds
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 25.4:
+        non_striker: A Symonds
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 25.5:
+        non_striker: A Symonds
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+        wicket:
+          player_out: RT Ponting
+          fielders:
+          - DB Kotze
+          kind: caught
+    - 25.6:
+        non_striker: A Symonds
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 26.1:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 26.2:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 26.3:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 26.4:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 26.5:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Martyn
+    - 26.6:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 27.1:
+        non_striker: DR Martyn
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 27.2:
+        non_striker: DR Martyn
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 27.3:
+        non_striker: DR Martyn
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 27.4:
+        non_striker: DR Martyn
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 27.5:
+        non_striker: A Symonds
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 27.6:
+        non_striker: DR Martyn
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 28.1:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 28.2:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 28.3:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 28.4:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 28.5:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 28.6:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 29.1:
+        non_striker: A Symonds
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 29.2:
+        non_striker: A Symonds
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 29.3:
+        non_striker: DR Martyn
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 29.4:
+        non_striker: DR Martyn
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 29.5:
+        non_striker: DR Martyn
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 29.6:
+        non_striker: DR Martyn
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 30.1:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 30.2:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 30.3:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 30.4:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 30.5:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 30.6:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 31.1:
+        non_striker: A Symonds
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 31.2:
+        non_striker: DR Martyn
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 31.3:
+        non_striker: DR Martyn
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 31.4:
+        non_striker: DR Martyn
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 31.5:
+        non_striker: DR Martyn
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 31.6:
+        non_striker: DR Martyn
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 32.1:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 32.2:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 32.3:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Martyn
+    - 32.4:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Martyn
+    - 32.5:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 32.6:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 33.1:
+        non_striker: A Symonds
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 33.2:
+        non_striker: A Symonds
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 33.3:
+        non_striker: A Symonds
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 33.4:
+        non_striker: A Symonds
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 33.5:
+        non_striker: DR Martyn
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Symonds
+    - 33.6:
+        non_striker: DR Martyn
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 34.1:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Martyn
+    - 34.2:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 34.3:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 34.4:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 34.5:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 34.6:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 35.1:
+        non_striker: A Symonds
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 35.2:
+        non_striker: A Symonds
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 35.3:
+        non_striker: DR Martyn
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 35.4:
+        non_striker: A Symonds
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 35.5:
+        non_striker: A Symonds
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 35.6:
+        non_striker: A Symonds
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Martyn
+    - 36.1:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 36.2:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 36.3:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 36.4:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 36.5:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 36.6:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 37.1:
+        non_striker: A Symonds
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 37.2:
+        non_striker: DR Martyn
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 37.3:
+        non_striker: A Symonds
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 37.4:
+        non_striker: DR Martyn
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 37.5:
+        non_striker: A Symonds
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 37.6:
+        non_striker: A Symonds
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 38.1:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 38.2:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 38.3:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 38.4:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 38.5:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 38.6:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Symonds
+    - 39.1:
+        non_striker: A Symonds
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 39.2:
+        non_striker: DR Martyn
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 39.3:
+        non_striker: A Symonds
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 39.4:
+        non_striker: DR Martyn
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 39.5:
+        non_striker: DR Martyn
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 39.6:
+        non_striker: A Symonds
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 40.1:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 40.2:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 40.3:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 40.4:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+    - 40.5:
+        non_striker: A Symonds
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 40.6:
+        non_striker: DR Martyn
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 41.1:
+        non_striker: DR Martyn
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 41.2:
+        non_striker: DR Martyn
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 41.3:
+        non_striker: A Symonds
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+    - 41.4:
+        non_striker: DR Martyn
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 41.5:
+        non_striker: DR Martyn
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 41.6:
+        non_striker: DR Martyn
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 42.1:
+        non_striker: A Symonds
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DR Martyn
+    - 42.2:
+        non_striker: A Symonds
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Martyn
+        wicket:
+          player_out: A Symonds
+          fielders:
+          - SJ Swanepoel
+          - M van Schoor
+          kind: run out
+    - 42.3:
+        non_striker: DR Martyn
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Lehmann
+    - 42.4:
+        non_striker: DR Martyn
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Lehmann
+    - 42.5:
+        non_striker: DS Lehmann
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+        wicket:
+          player_out: DR Martyn
+          kind: bowled
+    - 42.6:
+        non_striker: DS Lehmann
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Hogg
+    - 43.1:
+        non_striker: GB Hogg
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Lehmann
+    - 43.2:
+        non_striker: GB Hogg
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Lehmann
+    - 43.3:
+        non_striker: GB Hogg
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Lehmann
+    - 43.4:
+        non_striker: GB Hogg
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Lehmann
+    - 43.5:
+        non_striker: GB Hogg
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Lehmann
+    - 43.6:
+        non_striker: GB Hogg
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Lehmann
+    - 44.1:
+        non_striker: DS Lehmann
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 44.2:
+        non_striker: GB Hogg
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Lehmann
+    - 44.3:
+        non_striker: GB Hogg
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Lehmann
+    - 44.4:
+        non_striker: DS Lehmann
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Hogg
+    - 44.5:
+        non_striker: DS Lehmann
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GB Hogg
+    - 44.6:
+        non_striker: DS Lehmann
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 45.1:
+        non_striker: DS Lehmann
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 45.2:
+        non_striker: GB Hogg
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Lehmann
+    - 45.3:
+        non_striker: GB Hogg
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Lehmann
+    - 45.4:
+        non_striker: DS Lehmann
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 45.5:
+        non_striker: GB Hogg
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Lehmann
+    - 45.6:
+        non_striker: DS Lehmann
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GB Hogg
+    - 46.1:
+        non_striker: GB Hogg
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Lehmann
+    - 46.2:
+        non_striker: GB Hogg
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Lehmann
+    - 46.3:
+        non_striker: DS Lehmann
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 46.4:
+        non_striker: GB Hogg
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Lehmann
+    - 46.5:
+        non_striker: GB Hogg
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Lehmann
+    - 46.6:
+        non_striker: GB Hogg
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Lehmann
+    - 47.1:
+        non_striker: GB Hogg
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Lehmann
+    - 47.2:
+        non_striker: GB Hogg
+        bowler: RJ van Vuuren
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: DS Lehmann
+    - 47.3:
+        non_striker: GB Hogg
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DS Lehmann
+    - 47.4:
+        non_striker: GB Hogg
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Lehmann
+    - 47.5:
+        non_striker: GB Hogg
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Lehmann
+    - 47.6:
+        non_striker: DS Lehmann
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 48.1:
+        non_striker: DS Lehmann
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 48.2:
+        non_striker: GB Hogg
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Lehmann
+    - 48.3:
+        non_striker: GB Hogg
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Lehmann
+    - 48.4:
+        non_striker: DS Lehmann
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Hogg
+    - 48.5:
+        non_striker: DS Lehmann
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Hogg
+    - 48.6:
+        non_striker: DS Lehmann
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GB Hogg
+    - 49.1:
+        non_striker: GB Hogg
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Lehmann
+    - 49.2:
+        non_striker: GB Hogg
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Lehmann
+    - 49.3:
+        non_striker: GB Hogg
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Lehmann
+    - 49.4:
+        non_striker: GB Hogg
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DS Lehmann
+    - 49.5:
+        non_striker: GB Hogg
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DS Lehmann
+    - 49.6:
+        non_striker: GB Hogg
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DS Lehmann
+- 2nd innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SJ Swanepoel
+        batsman: AJ Burger
+    - 0.2:
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SJ Swanepoel
+        batsman: AJ Burger
+    - 0.3:
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SJ Swanepoel
+        batsman: AJ Burger
+    - 0.4:
+        bowler: GD McGrath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SJ Swanepoel
+        batsman: AJ Burger
+    - 0.5:
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SJ Swanepoel
+        batsman: AJ Burger
+        wicket:
+          player_out: AJ Burger
+          fielders:
+          - RT Ponting
+          kind: caught
+    - 0.6:
+        bowler: GD McGrath
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: SJ Swanepoel
+        batsman: M Karg
+    - 0.7:
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SJ Swanepoel
+        batsman: M Karg
+    - 0.8:
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: SJ Swanepoel
+        batsman: M Karg
+    - 1.1:
+        non_striker: M Karg
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Swanepoel
+    - 1.2:
+        non_striker: M Karg
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Swanepoel
+    - 1.3:
+        non_striker: M Karg
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Swanepoel
+    - 1.4:
+        non_striker: M Karg
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Swanepoel
+    - 1.5:
+        non_striker: M Karg
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Swanepoel
+    - 1.6:
+        non_striker: M Karg
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Swanepoel
+    - 2.1:
+        non_striker: SJ Swanepoel
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Karg
+    - 2.2:
+        non_striker: SJ Swanepoel
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Karg
+    - 2.3:
+        non_striker: SJ Swanepoel
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Karg
+    - 2.4:
+        non_striker: SJ Swanepoel
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Karg
+    - 2.5:
+        non_striker: SJ Swanepoel
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Karg
+    - 2.6:
+        non_striker: SJ Swanepoel
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Karg
+    - 3.1:
+        non_striker: M Karg
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Swanepoel
+    - 3.2:
+        non_striker: M Karg
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Swanepoel
+        wicket:
+          player_out: SJ Swanepoel
+          fielders:
+          - RT Ponting
+          kind: caught
+    - 3.3:
+        non_striker: M Karg
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 3.4:
+        non_striker: M Karg
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 3.5:
+        non_striker: M Karg
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 3.6:
+        non_striker: M Karg
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 4.1:
+        non_striker: D Keulder
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Karg
+    - 4.2:
+        non_striker: D Keulder
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Karg
+    - 4.3:
+        non_striker: D Keulder
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Karg
+    - 4.4:
+        non_striker: D Keulder
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Karg
+    - 4.5:
+        non_striker: D Keulder
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Karg
+    - 4.6:
+        non_striker: D Keulder
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Karg
+        wicket:
+          player_out: M Karg
+          fielders:
+          - AC Gilchrist
+          kind: caught
+    - 5.1:
+        non_striker: GB Murgatroyd
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 5.2:
+        non_striker: GB Murgatroyd
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 5.3:
+        non_striker: GB Murgatroyd
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: D Keulder
+    - 5.4:
+        non_striker: GB Murgatroyd
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 5.5:
+        non_striker: GB Murgatroyd
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 5.6:
+        non_striker: GB Murgatroyd
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 5.7:
+        non_striker: GB Murgatroyd
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 6.1:
+        non_striker: D Keulder
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Murgatroyd
+    - 6.2:
+        non_striker: D Keulder
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Murgatroyd
+    - 6.3:
+        non_striker: D Keulder
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Murgatroyd
+        wicket:
+          player_out: GB Murgatroyd
+          kind: lbw
+    - 6.4:
+        non_striker: D Keulder
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 6.5:
+        non_striker: D Keulder
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 6.6:
+        non_striker: D Keulder
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 7.1:
+        non_striker: DB Kotze
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 7.2:
+        non_striker: DB Kotze
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 7.3:
+        non_striker: DB Kotze
+        bowler: B Lee
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: D Keulder
+    - 7.4:
+        non_striker: DB Kotze
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 7.5:
+        non_striker: DB Kotze
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: D Keulder
+    - 7.6:
+        non_striker: D Keulder
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Kotze
+    - 8.1:
+        non_striker: DB Kotze
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 8.2:
+        non_striker: DB Kotze
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 8.3:
+        non_striker: DB Kotze
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 8.4:
+        non_striker: DB Kotze
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+        wicket:
+          player_out: D Keulder
+          fielders:
+          - AC Gilchrist
+          kind: caught
+    - 8.5:
+        non_striker: DB Kotze
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+    - 8.6:
+        non_striker: DB Kotze
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+    - 9.1:
+        non_striker: LJ Burger
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: DB Kotze
+    - 9.2:
+        non_striker: DB Kotze
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+    - 9.3:
+        non_striker: DB Kotze
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: LJ Burger
+    - 9.4:
+        non_striker: DB Kotze
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+    - 9.5:
+        non_striker: DB Kotze
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LJ Burger
+    - 9.6:
+        non_striker: LJ Burger
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 9.7:
+        non_striker: LJ Burger
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Kotze
+    - 9.8:
+        non_striker: DB Kotze
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+    - 10.1:
+        non_striker: LJ Burger
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Kotze
+    - 10.2:
+        non_striker: DB Kotze
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+    - 10.3:
+        non_striker: DB Kotze
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+    - 10.4:
+        non_striker: DB Kotze
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+    - 10.5:
+        non_striker: DB Kotze
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+        wicket:
+          player_out: LJ Burger
+          fielders:
+          - AC Gilchrist
+          kind: caught
+    - 10.6:
+        non_striker: DB Kotze
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 11.1:
+        non_striker: M van Schoor
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DB Kotze
+    - 11.2:
+        non_striker: M van Schoor
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 11.3:
+        non_striker: M van Schoor
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 11.4:
+        non_striker: M van Schoor
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DB Kotze
+    - 11.5:
+        non_striker: DB Kotze
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M van Schoor
+    - 11.6:
+        non_striker: DB Kotze
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Schoor
+    - 11.7:
+        non_striker: DB Kotze
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M van Schoor
+    - 11.8:
+        non_striker: DB Kotze
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 12.1:
+        non_striker: M van Schoor
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 12.2:
+        non_striker: M van Schoor
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+        wicket:
+          player_out: DB Kotze
+          fielders:
+          - AC Gilchrist
+          kind: caught
+    - 12.3:
+        non_striker: M van Schoor
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 12.4:
+        non_striker: M van Schoor
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 12.5:
+        non_striker: M van Schoor
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+        wicket:
+          player_out: BL Kotze
+          kind: bowled
+    - 12.6:
+        non_striker: M van Schoor
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 13.1:
+        non_striker: BO van Rooi
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 13.2:
+        non_striker: BO van Rooi
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 13.3:
+        non_striker: BO van Rooi
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 13.4:
+        non_striker: BO van Rooi
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 13.5:
+        non_striker: BO van Rooi
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+        wicket:
+          player_out: M van Schoor
+          fielders:
+          - AC Gilchrist
+          kind: caught
+    - 13.6:
+        non_striker: BO van Rooi
+        bowler: AJ Bichel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ van Vuuren
+        wicket:
+          player_out: RJ van Vuuren
+          fielders:
+          - AC Gilchrist
+          kind: caught

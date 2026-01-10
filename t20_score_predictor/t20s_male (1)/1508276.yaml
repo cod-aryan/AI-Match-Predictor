@@ -1,0 +1,771 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-11-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bali
+  dates:
+  - '2025-11-11'
+  gender: male
+  match_type: T20
+  match_type_number: 3570
+  outcome:
+    winner: Indonesia
+    by:
+      wickets: 10
+    method: D/L
+  overs: 20
+  player_of_match:
+  - J Dzulfikar
+  players:
+    Timor-Leste:
+    - D Mendonca
+    - Yahya Suhail
+    - Rahat Kazi
+    - GF Cardos
+    - Raihan Hossain
+    - Elias Tilman
+    - Nazmul Huda
+    - Suhail Sattar
+    - Arif Hosen
+    - EDS Pimheiro
+    - RDS Morein
+    Indonesia:
+    - J Dzulfikar
+    - D Nanda
+    - Anjar Tadarus
+    - GA Priandana
+    - GD Arta
+    - A Alexander
+    - IK Gamantika
+    - F Banunaek
+    - KD Kesuma
+    - AA Rahayu
+    - DGAPD Wiswi
+  registry:
+    people:
+      A Alexander: ef6d6883
+      AA Rahayu: 2327fdc7
+      Anjar Tadarus: '72275237'
+      Arif Hosen: a21dfb66
+      D Mendonca: 8c2ce459
+      D Nanda: '22651574'
+      DGAPD Wiswi: d3d096f5
+      EDS Pimheiro: 88d574fd
+      Elias Tilman: 53c35b3a
+      F Banunaek: 3c8faed4
+      Febri Irwanto: 762ac6fc
+      GA Priandana: 2af0e3b1
+      GD Arta: e969e580
+      GF Cardos: '09e5baeb'
+      IK Gamantika: 4d7c5b56
+      J Dzulfikar: 05ea0342
+      KD Kesuma: 4b349dc0
+      Nazmul Huda: 837be376
+      RDS Morein: 3e90fbfd
+      Rahat Kazi: d4bebd88
+      Raihan Hossain: 3f05c34d
+      S Hawoe: e773dfe5
+      Suhail Sattar: 5ffb535d
+      Wellingson: 107b0b88
+      Yahya Suhail: d1f14716
+  teams:
+  - Timor-Leste
+  - Indonesia
+  toss:
+    winner: Timor-Leste
+    decision: bat
+  umpires:
+  - Febri Irwanto
+  - Wellingson
+  venue: Udayana Cricket Ground
+innings:
+- 1st innings:
+    team: Timor-Leste
+    deliveries:
+    - 0.1:
+        bowler: J Dzulfikar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Yahya Suhail
+        batsman: D Mendonca
+    - 0.2:
+        non_striker: Yahya Suhail
+        bowler: J Dzulfikar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Mendonca
+        wicket:
+          player_out: D Mendonca
+          fielders:
+          - DGAPD Wiswi
+          kind: caught
+    - 0.3:
+        non_striker: Yahya Suhail
+        bowler: J Dzulfikar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahat Kazi
+    - 0.4:
+        non_striker: Yahya Suhail
+        bowler: J Dzulfikar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahat Kazi
+    - 0.5:
+        non_striker: Yahya Suhail
+        bowler: J Dzulfikar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rahat Kazi
+        wicket:
+          player_out: Rahat Kazi
+          fielders:
+          - KD Kesuma
+          kind: stumped
+    - 0.6:
+        non_striker: Yahya Suhail
+        bowler: J Dzulfikar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Cardos
+    - 1.1:
+        non_striker: Yahya Suhail
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Cardos
+    - 1.2:
+        non_striker: Yahya Suhail
+        bowler: IK Gamantika
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GF Cardos
+    - 1.3:
+        non_striker: Yahya Suhail
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Cardos
+    - 1.4:
+        non_striker: Yahya Suhail
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Cardos
+    - 1.5:
+        non_striker: GF Cardos
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yahya Suhail
+    - 1.6:
+        non_striker: GF Cardos
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yahya Suhail
+    - 1.7:
+        non_striker: GF Cardos
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yahya Suhail
+    - 2.1:
+        non_striker: Yahya Suhail
+        bowler: J Dzulfikar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GF Cardos
+    - 2.2:
+        non_striker: Yahya Suhail
+        bowler: J Dzulfikar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Cardos
+    - 2.3:
+        non_striker: Yahya Suhail
+        bowler: J Dzulfikar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Cardos
+    - 2.4:
+        non_striker: Yahya Suhail
+        bowler: J Dzulfikar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Cardos
+    - 2.5:
+        non_striker: Yahya Suhail
+        bowler: J Dzulfikar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Cardos
+    - 2.6:
+        non_striker: Yahya Suhail
+        bowler: J Dzulfikar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Cardos
+    - 3.1:
+        non_striker: GF Cardos
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yahya Suhail
+    - 3.2:
+        non_striker: GF Cardos
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yahya Suhail
+    - 3.3:
+        non_striker: GF Cardos
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yahya Suhail
+    - 3.4:
+        non_striker: GF Cardos
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yahya Suhail
+    - 3.5:
+        non_striker: GF Cardos
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yahya Suhail
+    - 3.6:
+        non_striker: Yahya Suhail
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GF Cardos
+    - 4.1:
+        non_striker: Yahya Suhail
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GF Cardos
+        wicket:
+          player_out: GF Cardos
+          fielders:
+          - A Alexander
+          kind: caught
+    - 4.2:
+        non_striker: Yahya Suhail
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raihan Hossain
+    - 4.3:
+        non_striker: Yahya Suhail
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raihan Hossain
+    - 4.4:
+        non_striker: Yahya Suhail
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Raihan Hossain
+    - 4.5:
+        non_striker: Raihan Hossain
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yahya Suhail
+    - 4.6:
+        non_striker: Raihan Hossain
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yahya Suhail
+    - 5.1:
+        non_striker: Yahya Suhail
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Raihan Hossain
+        wicket:
+          player_out: Raihan Hossain
+          fielders:
+          - F Banunaek
+          kind: caught
+    - 5.2:
+        non_striker: Yahya Suhail
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Elias Tilman
+    - 5.3:
+        non_striker: Yahya Suhail
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Elias Tilman
+    - 5.4:
+        non_striker: Yahya Suhail
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Elias Tilman
+        wicket:
+          player_out: Elias Tilman
+          kind: lbw
+    - 5.5:
+        non_striker: Yahya Suhail
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Huda
+    - 5.6:
+        non_striker: Yahya Suhail
+        bowler: IK Gamantika
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Huda
+    - 6.1:
+        non_striker: Nazmul Huda
+        bowler: J Dzulfikar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yahya Suhail
+    - 6.2:
+        non_striker: Nazmul Huda
+        bowler: J Dzulfikar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yahya Suhail
+    - 6.3:
+        non_striker: Nazmul Huda
+        bowler: J Dzulfikar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yahya Suhail
+    - 6.4:
+        non_striker: Nazmul Huda
+        bowler: J Dzulfikar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yahya Suhail
+    - 6.5:
+        non_striker: Nazmul Huda
+        bowler: J Dzulfikar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yahya Suhail
+        wicket:
+          player_out: Yahya Suhail
+          fielders:
+          - IK Gamantika
+          kind: caught
+    - 6.6:
+        non_striker: Nazmul Huda
+        bowler: J Dzulfikar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suhail Sattar
+    - 7.1:
+        non_striker: Suhail Sattar
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Huda
+    - 7.2:
+        non_striker: Suhail Sattar
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Huda
+    - 7.3:
+        non_striker: Suhail Sattar
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Huda
+    - 7.4:
+        non_striker: Suhail Sattar
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Huda
+    - 7.5:
+        non_striker: Suhail Sattar
+        bowler: GD Arta
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Nazmul Huda
+    - 7.6:
+        non_striker: Nazmul Huda
+        bowler: GD Arta
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suhail Sattar
+    - 8.1:
+        non_striker: Suhail Sattar
+        bowler: D Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Huda
+        wicket:
+          player_out: Nazmul Huda
+          fielders:
+          - IK Gamantika
+          kind: caught
+    - 8.2:
+        non_striker: Suhail Sattar
+        bowler: D Nanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Arif Hosen
+    - 8.3:
+        non_striker: Suhail Sattar
+        bowler: D Nanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Arif Hosen
+    - 8.4:
+        non_striker: Arif Hosen
+        bowler: D Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suhail Sattar
+    - 8.5:
+        non_striker: Arif Hosen
+        bowler: D Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suhail Sattar
+    - 8.6:
+        non_striker: Arif Hosen
+        bowler: D Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suhail Sattar
+        wicket:
+          player_out: Suhail Sattar
+          fielders:
+          - GD Arta
+          kind: caught
+    - 8.7:
+        non_striker: Arif Hosen
+        bowler: D Nanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EDS Pimheiro
+    - 9.1:
+        non_striker: EDS Pimheiro
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arif Hosen
+    - 9.2:
+        non_striker: EDS Pimheiro
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Arif Hosen
+    - 9.3:
+        non_striker: EDS Pimheiro
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arif Hosen
+    - 9.4:
+        non_striker: EDS Pimheiro
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Arif Hosen
+    - 9.5:
+        non_striker: EDS Pimheiro
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arif Hosen
+        wicket:
+          player_out: Arif Hosen
+          fielders:
+          - D Nanda
+          kind: caught
+    - 9.6:
+        non_striker: EDS Pimheiro
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RDS Morein
+    - 9.7:
+        non_striker: EDS Pimheiro
+        bowler: DGAPD Wiswi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RDS Morein
+- 2nd innings:
+    team: Indonesia
+    deliveries:
+    - 0.1:
+        bowler: Elias Tilman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: D Nanda
+        batsman: J Dzulfikar
+    - 0.2:
+        bowler: Elias Tilman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Nanda
+        batsman: J Dzulfikar
+    - 0.3:
+        non_striker: J Dzulfikar
+        bowler: Elias Tilman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanda
+    - 0.4:
+        non_striker: D Nanda
+        bowler: Elias Tilman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dzulfikar
+    - 0.5:
+        non_striker: J Dzulfikar
+        bowler: Elias Tilman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Nanda
+    - 0.6:
+        non_striker: J Dzulfikar
+        bowler: Elias Tilman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Nanda
+    - 0.7:
+        non_striker: D Nanda
+        bowler: Elias Tilman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Dzulfikar
+    - 0.8:
+        non_striker: J Dzulfikar
+        bowler: Elias Tilman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Nanda
+    - 1.1:
+        non_striker: D Nanda
+        bowler: Nazmul Huda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Dzulfikar
+    - 1.2:
+        non_striker: D Nanda
+        bowler: Nazmul Huda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Dzulfikar
+    - 1.3:
+        non_striker: D Nanda
+        bowler: Nazmul Huda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Dzulfikar
+    - 1.4:
+        non_striker: D Nanda
+        bowler: Nazmul Huda
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: J Dzulfikar
+    - 1.5:
+        non_striker: J Dzulfikar
+        bowler: Nazmul Huda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Nanda
+    - 1.6:
+        non_striker: J Dzulfikar
+        bowler: Nazmul Huda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Nanda

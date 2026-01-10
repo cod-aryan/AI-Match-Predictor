@@ -1,0 +1,4893 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-07-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dundee
+  dates:
+  - '2024-07-20'
+  gender: male
+  match_type: ODI
+  match_type_number: 4748
+  outcome:
+    winner: Scotland
+    by:
+      runs: 47
+    method: D/L
+  overs: 50
+  players:
+    Scotland:
+    - HG Munsey
+    - C Tear
+    - BJ McMullen
+    - RD Berrington
+    - MH Cross
+    - MA Leask
+    - CN Greaves
+    - MRJ Watt
+    - J Jarvis
+    - SM Sharif
+    - JJ Davidson
+    Namibia:
+    - M van Lingen
+    - L Louwrens
+    - JN Frylinck
+    - MG Erasmus
+    - MB Kruger
+    - JJ Smit
+    - JP Kotze
+    - BM Scholtz
+    - JT Brassell
+    - T Lungameni
+    - B Shikongo
+  registry:
+    people:
+      B Shikongo: c26cd57a
+      BJ McMullen: 436c763a
+      BM Scholtz: e85d03d6
+      C Tear: 7ffe4817
+      CN Greaves: f42064d5
+      DH Mclean: 281d4749
+      HG Munsey: ff014c34
+      I McDonald: 37b55799
+      J Jarvis: ab54f9e7
+      JJ Davidson: '068c47d2'
+      JJ Smit: bb134e5c
+      JN Frylinck: 3c87f0c3
+      JP Kotze: 9f308dfc
+      JT Brassell: 537021f5
+      L Louwrens: b018e1eb
+      M van Lingen: 7eb36269
+      MA Leask: '28131839'
+      MB Kruger: c51add25
+      MG Erasmus: 95a5e066
+      MH Cross: 8b261d84
+      MJ Saggers: 402d5937
+      MRJ Watt: 1252f71a
+      RD Berrington: e21bc7f3
+      Reon King: 20fbf68c
+      SM Sharif: f43dd8c2
+      T Lungameni: 1688f2dc
+  teams:
+  - Scotland
+  - Namibia
+  toss:
+    winner: Namibia
+    decision: field
+  umpires:
+  - DH Mclean
+  - MJ Saggers
+  venue: Forthill, Dundee
+innings:
+- 1st innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Tear
+        batsman: HG Munsey
+    - 0.2:
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Tear
+        batsman: HG Munsey
+    - 0.3:
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: C Tear
+        batsman: HG Munsey
+    - 0.4:
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Tear
+        batsman: HG Munsey
+    - 0.5:
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: C Tear
+        batsman: HG Munsey
+    - 0.6:
+        non_striker: C Tear
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 1.1:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 1.2:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 1.3:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 1.4:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 1.5:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 1.6:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 2.1:
+        non_striker: C Tear
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 2.2:
+        non_striker: HG Munsey
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 2.3:
+        non_striker: HG Munsey
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 2.4:
+        non_striker: HG Munsey
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Tear
+    - 2.5:
+        non_striker: HG Munsey
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 2.6:
+        non_striker: HG Munsey
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 3.1:
+        non_striker: C Tear
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Munsey
+    - 3.2:
+        non_striker: C Tear
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 3.3:
+        non_striker: C Tear
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 3.4:
+        non_striker: C Tear
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 3.5:
+        non_striker: C Tear
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 3.6:
+        non_striker: C Tear
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 4.1:
+        non_striker: HG Munsey
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 4.2:
+        non_striker: HG Munsey
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 4.3:
+        non_striker: C Tear
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 4.4:
+        non_striker: C Tear
+        bowler: T Lungameni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 4.5:
+        non_striker: C Tear
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 4.6:
+        non_striker: C Tear
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 4.7:
+        non_striker: C Tear
+        bowler: T Lungameni
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: HG Munsey
+    - 5.1:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Tear
+    - 5.2:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 5.3:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 5.4:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 5.5:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 5.6:
+        non_striker: C Tear
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 6.1:
+        non_striker: HG Munsey
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Tear
+    - 6.2:
+        non_striker: HG Munsey
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+        wicket:
+          player_out: C Tear
+          kind: bowled
+    - 6.3:
+        non_striker: HG Munsey
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 6.4:
+        non_striker: HG Munsey
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 6.5:
+        non_striker: HG Munsey
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 6.6:
+        non_striker: HG Munsey
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 7.1:
+        non_striker: BJ McMullen
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 7.2:
+        non_striker: BJ McMullen
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 7.3:
+        non_striker: BJ McMullen
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 7.4:
+        non_striker: HG Munsey
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 7.5:
+        non_striker: BJ McMullen
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 7.6:
+        non_striker: BJ McMullen
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 8.1:
+        non_striker: HG Munsey
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 8.2:
+        non_striker: HG Munsey
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 8.3:
+        non_striker: BJ McMullen
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 8.4:
+        non_striker: BJ McMullen
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 8.5:
+        non_striker: BJ McMullen
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Munsey
+    - 8.6:
+        non_striker: BJ McMullen
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Munsey
+    - 9.1:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 9.2:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 9.3:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 9.4:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 9.5:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ McMullen
+    - 9.6:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 10.1:
+        non_striker: BJ McMullen
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 10.2:
+        non_striker: HG Munsey
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 10.3:
+        non_striker: HG Munsey
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 10.4:
+        non_striker: HG Munsey
+        bowler: JN Frylinck
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BJ McMullen
+    - 10.5:
+        non_striker: BJ McMullen
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 10.6:
+        non_striker: BJ McMullen
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 11.1:
+        non_striker: HG Munsey
+        bowler: T Lungameni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ McMullen
+    - 11.2:
+        non_striker: HG Munsey
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 11.3:
+        non_striker: HG Munsey
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 11.4:
+        non_striker: HG Munsey
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 11.5:
+        non_striker: HG Munsey
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 11.6:
+        non_striker: BJ McMullen
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 11.7:
+        non_striker: HG Munsey
+        bowler: T Lungameni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ McMullen
+    - 11.8:
+        non_striker: HG Munsey
+        bowler: T Lungameni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BJ McMullen
+    - 12.1:
+        non_striker: HG Munsey
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BJ McMullen
+    - 12.2:
+        non_striker: HG Munsey
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 12.3:
+        non_striker: HG Munsey
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 12.4:
+        non_striker: HG Munsey
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 12.5:
+        non_striker: BJ McMullen
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 12.6:
+        non_striker: BJ McMullen
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 13.1:
+        non_striker: BJ McMullen
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 13.2:
+        non_striker: HG Munsey
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ McMullen
+    - 13.3:
+        non_striker: HG Munsey
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 13.4:
+        non_striker: HG Munsey
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 13.5:
+        non_striker: BJ McMullen
+        bowler: T Lungameni
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: HG Munsey
+    - 13.6:
+        non_striker: BJ McMullen
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 14.1:
+        non_striker: HG Munsey
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ McMullen
+    - 14.2:
+        non_striker: HG Munsey
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 14.3:
+        non_striker: HG Munsey
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ McMullen
+    - 14.4:
+        non_striker: HG Munsey
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 14.5:
+        non_striker: HG Munsey
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 14.6:
+        non_striker: HG Munsey
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 15.1:
+        non_striker: BJ McMullen
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Munsey
+    - 15.2:
+        non_striker: BJ McMullen
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 15.3:
+        non_striker: BJ McMullen
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 15.4:
+        non_striker: BJ McMullen
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 15.5:
+        non_striker: BJ McMullen
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 15.6:
+        non_striker: HG Munsey
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 16.1:
+        non_striker: HG Munsey
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 16.2:
+        non_striker: BJ McMullen
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 16.3:
+        non_striker: BJ McMullen
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 16.4:
+        non_striker: BJ McMullen
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 16.5:
+        non_striker: BJ McMullen
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 16.6:
+        non_striker: BJ McMullen
+        bowler: JN Frylinck
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 16.7:
+        non_striker: BJ McMullen
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 17.1:
+        non_striker: HG Munsey
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 17.2:
+        non_striker: HG Munsey
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 17.3:
+        non_striker: HG Munsey
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 17.4:
+        non_striker: HG Munsey
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 17.5:
+        non_striker: HG Munsey
+        bowler: JT Brassell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ McMullen
+    - 17.6:
+        non_striker: HG Munsey
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 17.7:
+        non_striker: HG Munsey
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 18.1:
+        non_striker: BJ McMullen
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 18.2:
+        non_striker: BJ McMullen
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 18.3:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ McMullen
+    - 18.4:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BJ McMullen
+    - 18.5:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 18.6:
+        non_striker: BJ McMullen
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Munsey
+    - 18.7:
+        non_striker: BJ McMullen
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 19.1:
+        non_striker: HG Munsey
+        bowler: JT Brassell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ McMullen
+    - 19.2:
+        non_striker: HG Munsey
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 19.3:
+        non_striker: HG Munsey
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 19.4:
+        non_striker: BJ McMullen
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 19.5:
+        non_striker: BJ McMullen
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 19.6:
+        non_striker: HG Munsey
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 19.7:
+        non_striker: HG Munsey
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 20.1:
+        non_striker: BJ McMullen
+        bowler: B Shikongo
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: HG Munsey
+    - 20.2:
+        non_striker: BJ McMullen
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 20.3:
+        non_striker: BJ McMullen
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 20.4:
+        non_striker: BJ McMullen
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 20.5:
+        non_striker: HG Munsey
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 20.6:
+        non_striker: BJ McMullen
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 21.1:
+        non_striker: HG Munsey
+        bowler: JT Brassell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BJ McMullen
+    - 21.2:
+        non_striker: HG Munsey
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BJ McMullen
+    - 21.3:
+        non_striker: HG Munsey
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 21.4:
+        non_striker: BJ McMullen
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Munsey
+    - 21.5:
+        non_striker: BJ McMullen
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 21.6:
+        non_striker: BJ McMullen
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 21.7:
+        non_striker: HG Munsey
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 22.1:
+        non_striker: BJ McMullen
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 22.2:
+        non_striker: BJ McMullen
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+        wicket:
+          player_out: HG Munsey
+          kind: bowled
+    - 22.3:
+        non_striker: BJ McMullen
+        bowler: T Lungameni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RD Berrington
+    - 22.4:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+        wicket:
+          player_out: BJ McMullen
+          fielders:
+          - B Shikongo
+          kind: caught
+    - 22.5:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 22.6:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 23.1:
+        non_striker: MH Cross
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 23.2:
+        non_striker: MH Cross
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 23.3:
+        non_striker: MH Cross
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 23.4:
+        non_striker: MH Cross
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 23.5:
+        non_striker: MH Cross
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 23.6:
+        non_striker: MH Cross
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 24.1:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 24.2:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 24.3:
+        non_striker: MH Cross
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 24.4:
+        non_striker: MH Cross
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 24.5:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 24.6:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 25.1:
+        non_striker: MH Cross
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 25.2:
+        non_striker: MH Cross
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 25.3:
+        non_striker: MH Cross
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 25.4:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 25.5:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 25.6:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 26.1:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 26.2:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 26.3:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 26.4:
+        non_striker: MH Cross
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 26.5:
+        non_striker: MH Cross
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 26.6:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 27.1:
+        non_striker: MH Cross
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 27.2:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 27.3:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 27.4:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+        wicket:
+          player_out: MH Cross
+          kind: bowled
+    - 27.5:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 27.6:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 28.1:
+        non_striker: MA Leask
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 28.2:
+        non_striker: MA Leask
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 28.3:
+        non_striker: RD Berrington
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 28.4:
+        non_striker: MA Leask
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 28.5:
+        non_striker: MA Leask
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 28.6:
+        non_striker: MA Leask
+        bowler: JN Frylinck
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 29.1:
+        non_striker: MA Leask
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 29.2:
+        non_striker: MA Leask
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 29.3:
+        non_striker: MA Leask
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 29.4:
+        non_striker: MA Leask
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 29.5:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 29.6:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 30.1:
+        non_striker: MA Leask
+        bowler: JT Brassell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RD Berrington
+    - 30.2:
+        non_striker: MA Leask
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 30.3:
+        non_striker: RD Berrington
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Leask
+    - 30.4:
+        non_striker: RD Berrington
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 30.5:
+        non_striker: MA Leask
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 30.6:
+        non_striker: MA Leask
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 30.7:
+        non_striker: MA Leask
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 31.1:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 31.2:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 31.3:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+        wicket:
+          player_out: MA Leask
+          kind: bowled
+    - 31.4:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 31.5:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 31.6:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 32.1:
+        non_striker: CN Greaves
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 32.2:
+        non_striker: CN Greaves
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 32.3:
+        non_striker: RD Berrington
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 32.4:
+        non_striker: RD Berrington
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 32.5:
+        non_striker: CN Greaves
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 32.6:
+        non_striker: RD Berrington
+        bowler: JT Brassell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Greaves
+    - 33.1:
+        non_striker: CN Greaves
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 33.2:
+        non_striker: CN Greaves
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 33.3:
+        non_striker: CN Greaves
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 33.4:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 33.5:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 33.6:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+    - 34.1:
+        non_striker: CN Greaves
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 34.2:
+        non_striker: RD Berrington
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 34.3:
+        non_striker: CN Greaves
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 34.4:
+        non_striker: CN Greaves
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 34.5:
+        non_striker: RD Berrington
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 34.6:
+        non_striker: CN Greaves
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 35.1:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 35.2:
+        non_striker: CN Greaves
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 35.3:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 35.4:
+        non_striker: CN Greaves
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 35.5:
+        non_striker: CN Greaves
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 35.6:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 36.1:
+        non_striker: RD Berrington
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Greaves
+    - 36.2:
+        non_striker: CN Greaves
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 36.3:
+        non_striker: RD Berrington
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Greaves
+        wicket:
+          player_out: CN Greaves
+          fielders:
+          - L Louwrens
+          kind: caught
+    - 36.4:
+        non_striker: RD Berrington
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 36.5:
+        non_striker: RD Berrington
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 36.6:
+        non_striker: RD Berrington
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 37.1:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 37.2:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 37.3:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+        wicket:
+          player_out: MRJ Watt
+          kind: bowled
+    - 37.4:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jarvis
+    - 37.5:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Jarvis
+        wicket:
+          player_out: J Jarvis
+          kind: bowled
+    - 37.6:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 38.1:
+        non_striker: SM Sharif
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 38.2:
+        non_striker: SM Sharif
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 38.3:
+        non_striker: SM Sharif
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 38.4:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 38.5:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 38.6:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 39.1:
+        non_striker: SM Sharif
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 39.2:
+        non_striker: SM Sharif
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 39.3:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SM Sharif
+    - 39.4:
+        non_striker: SM Sharif
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 39.5:
+        non_striker: SM Sharif
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 39.6:
+        non_striker: SM Sharif
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 40.1:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 40.2:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 40.3:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 40.4:
+        non_striker: SM Sharif
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 40.5:
+        non_striker: SM Sharif
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 40.6:
+        non_striker: RD Berrington
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 41.1:
+        non_striker: SM Sharif
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 41.2:
+        non_striker: SM Sharif
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 41.3:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 41.4:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 41.5:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 41.6:
+        non_striker: SM Sharif
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 42.1:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 42.2:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 42.3:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 42.4:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 42.5:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 42.6:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 43.1:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 43.2:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: SM Sharif
+    - 43.3:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 43.4:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 43.5:
+        non_striker: SM Sharif
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 43.6:
+        non_striker: SM Sharif
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 44.1:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 44.2:
+        non_striker: SM Sharif
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 44.3:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 44.4:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+    - 44.5:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SM Sharif
+    - 44.6:
+        non_striker: RD Berrington
+        bowler: T Lungameni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 45.1:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 45.2:
+        non_striker: SM Sharif
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 45.3:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 45.4:
+        non_striker: SM Sharif
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 45.5:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Sharif
+    - 45.6:
+        non_striker: RD Berrington
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 45.7:
+        non_striker: SM Sharif
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 46.1:
+        non_striker: SM Sharif
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 46.2:
+        non_striker: RD Berrington
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Sharif
+    - 46.3:
+        non_striker: RD Berrington
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Sharif
+    - 46.4:
+        non_striker: SM Sharif
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 46.5:
+        non_striker: RD Berrington
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Sharif
+        wicket:
+          player_out: SM Sharif
+          fielders:
+          - JJ Smit
+          kind: caught
+    - 46.6:
+        non_striker: RD Berrington
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Davidson
+    - 47.1:
+        non_striker: JJ Davidson
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 47.2:
+        non_striker: JJ Davidson
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 47.3:
+        non_striker: JJ Davidson
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 47.4:
+        non_striker: JJ Davidson
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 47.5:
+        non_striker: JJ Davidson
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 47.6:
+        non_striker: JJ Davidson
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 48.1:
+        non_striker: JJ Davidson
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Berrington
+    - 48.2:
+        non_striker: JJ Davidson
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 48.3:
+        non_striker: JJ Davidson
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Berrington
+    - 48.4:
+        non_striker: JJ Davidson
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 48.5:
+        non_striker: RD Berrington
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Davidson
+    - 48.6:
+        non_striker: JJ Davidson
+        bowler: B Shikongo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RD Berrington
+    - 49.1:
+        non_striker: JJ Davidson
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Berrington
+    - 49.2:
+        non_striker: JJ Davidson
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 49.3:
+        non_striker: JJ Davidson
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 49.4:
+        non_striker: JJ Davidson
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Berrington
+    - 49.5:
+        non_striker: JJ Davidson
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 49.6:
+        non_striker: JJ Davidson
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+- 2nd innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        bowler: BJ McMullen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: L Louwrens
+        batsman: M van Lingen
+    - 0.2:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 0.3:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 0.4:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 0.5:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 0.6:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 1.1:
+        non_striker: L Louwrens
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 1.2:
+        non_striker: L Louwrens
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 1.3:
+        non_striker: L Louwrens
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 1.4:
+        non_striker: M van Lingen
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 1.5:
+        non_striker: M van Lingen
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 1.6:
+        non_striker: M van Lingen
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 2.1:
+        non_striker: L Louwrens
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 2.2:
+        non_striker: L Louwrens
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M van Lingen
+    - 2.3:
+        non_striker: L Louwrens
+        bowler: BJ McMullen
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: M van Lingen
+    - 2.4:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 2.5:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 2.6:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 2.7:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 3.1:
+        non_striker: L Louwrens
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 3.2:
+        non_striker: L Louwrens
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 3.3:
+        non_striker: L Louwrens
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 3.4:
+        non_striker: L Louwrens
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 3.5:
+        non_striker: L Louwrens
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 3.6:
+        non_striker: L Louwrens
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 4.1:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 4.2:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 4.3:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 4.4:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 4.5:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 4.6:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 5.1:
+        non_striker: L Louwrens
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 5.2:
+        non_striker: L Louwrens
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 5.3:
+        non_striker: L Louwrens
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 5.4:
+        non_striker: L Louwrens
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 5.5:
+        non_striker: L Louwrens
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 5.6:
+        non_striker: L Louwrens
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 6.1:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 6.2:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 6.3:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 6.4:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: L Louwrens
+    - 6.5:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+    - 6.6:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Louwrens
+        wicket:
+          player_out: L Louwrens
+          fielders:
+          - SM Sharif
+          kind: caught
+    - 6.7:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 7.1:
+        non_striker: JN Frylinck
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 7.2:
+        non_striker: JN Frylinck
+        bowler: MA Leask
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M van Lingen
+    - 7.3:
+        non_striker: JN Frylinck
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 7.4:
+        non_striker: JN Frylinck
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 7.5:
+        non_striker: JN Frylinck
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 7.6:
+        non_striker: JN Frylinck
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 7.7:
+        non_striker: JN Frylinck
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 8.1:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 8.2:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: JN Frylinck
+    - 8.3:
+        non_striker: JN Frylinck
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 8.4:
+        non_striker: JN Frylinck
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 8.5:
+        non_striker: JN Frylinck
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 8.6:
+        non_striker: JN Frylinck
+        bowler: BJ McMullen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M van Lingen
+    - 8.7:
+        non_striker: JN Frylinck
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 8.8:
+        non_striker: JN Frylinck
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 9.1:
+        non_striker: M van Lingen
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 9.2:
+        non_striker: M van Lingen
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 9.3:
+        non_striker: M van Lingen
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 9.4:
+        non_striker: M van Lingen
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Frylinck
+    - 9.5:
+        non_striker: M van Lingen
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 9.6:
+        non_striker: JN Frylinck
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 10.1:
+        non_striker: M van Lingen
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Frylinck
+    - 10.2:
+        non_striker: M van Lingen
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 10.3:
+        non_striker: JN Frylinck
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 10.4:
+        non_striker: JN Frylinck
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 10.5:
+        non_striker: JN Frylinck
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 10.6:
+        non_striker: M van Lingen
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 11.1:
+        non_striker: M van Lingen
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 11.2:
+        non_striker: M van Lingen
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 11.3:
+        non_striker: M van Lingen
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Frylinck
+    - 11.4:
+        non_striker: M van Lingen
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 11.5:
+        non_striker: M van Lingen
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 11.6:
+        non_striker: M van Lingen
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 12.1:
+        non_striker: M van Lingen
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 12.2:
+        non_striker: JN Frylinck
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 12.3:
+        non_striker: JN Frylinck
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 12.4:
+        non_striker: JN Frylinck
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 12.5:
+        non_striker: JN Frylinck
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 12.6:
+        non_striker: M van Lingen
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Frylinck
+    - 13.1:
+        non_striker: JN Frylinck
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 13.2:
+        non_striker: JN Frylinck
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 13.3:
+        non_striker: M van Lingen
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 13.4:
+        non_striker: M van Lingen
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 13.5:
+        non_striker: JN Frylinck
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 13.6:
+        non_striker: JN Frylinck
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 14.1:
+        non_striker: M van Lingen
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 14.2:
+        non_striker: M van Lingen
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 14.3:
+        non_striker: M van Lingen
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Frylinck
+    - 14.4:
+        non_striker: M van Lingen
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 14.5:
+        non_striker: M van Lingen
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 14.6:
+        non_striker: JN Frylinck
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 15.1:
+        non_striker: JN Frylinck
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 15.2:
+        non_striker: JN Frylinck
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 15.3:
+        non_striker: JN Frylinck
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 15.4:
+        non_striker: JN Frylinck
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 15.5:
+        non_striker: JN Frylinck
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 15.6:
+        non_striker: JN Frylinck
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 16.1:
+        non_striker: JN Frylinck
+        bowler: BJ McMullen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M van Lingen
+    - 16.2:
+        non_striker: JN Frylinck
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 16.3:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 16.4:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 16.5:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 16.6:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 16.7:
+        non_striker: JN Frylinck
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 17.1:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 17.2:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 17.3:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 17.4:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 17.5:
+        non_striker: JN Frylinck
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 17.6:
+        non_striker: JN Frylinck
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 18.1:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Frylinck
+    - 18.2:
+        non_striker: JN Frylinck
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 18.3:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 18.4:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+    - 18.5:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Frylinck
+    - 18.6:
+        non_striker: M van Lingen
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Frylinck
+    - 19.1:
+        non_striker: JN Frylinck
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 19.2:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+        wicket:
+          player_out: JN Frylinck
+          fielders:
+          - BJ McMullen
+          kind: caught
+    - 19.3:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 19.4:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 19.5:
+        non_striker: MG Erasmus
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 19.6:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 20.1:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 20.2:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M van Lingen
+    - 20.3:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 20.4:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 20.5:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 20.6:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 20.7:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M van Lingen
+    - 21.1:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 21.2:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 21.3:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MG Erasmus
+    - 21.4:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 21.5:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 21.6:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 22.1:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 22.2:
+        non_striker: M van Lingen
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 22.3:
+        non_striker: M van Lingen
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 22.4:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 22.5:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 22.6:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 23.1:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 23.2:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 23.3:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MG Erasmus
+    - 23.4:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 23.5:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 23.6:
+        non_striker: MG Erasmus
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 24.1:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 24.2:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 24.3:
+        non_striker: M van Lingen
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 24.4:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 24.5:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 24.6:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 25.1:
+        non_striker: M van Lingen
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 25.2:
+        non_striker: MG Erasmus
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Lingen
+    - 25.3:
+        non_striker: MG Erasmus
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 25.4:
+        non_striker: MG Erasmus
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M van Lingen
+    - 25.5:
+        non_striker: MG Erasmus
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 25.6:
+        non_striker: MG Erasmus
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 26.1:
+        non_striker: M van Lingen
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 26.2:
+        non_striker: M van Lingen
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 26.3:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 26.4:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 26.5:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 26.6:
+        non_striker: M van Lingen
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 27.1:
+        non_striker: MG Erasmus
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 27.2:
+        non_striker: M van Lingen
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 27.3:
+        non_striker: MG Erasmus
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Lingen
+    - 27.4:
+        non_striker: M van Lingen
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 27.5:
+        non_striker: M van Lingen
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 27.6:
+        non_striker: M van Lingen
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 28.1:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M van Lingen
+    - 28.2:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 28.3:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M van Lingen
+    - 28.4:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+    - 28.5:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+        wicket:
+          player_out: M van Lingen
+          fielders:
+          - MA Leask
+          kind: caught
+    - 28.6:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 28.7:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Kruger
+    - 29.1:
+        non_striker: MG Erasmus
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 29.2:
+        non_striker: MG Erasmus
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Kruger
+    - 29.3:
+        non_striker: MB Kruger
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 29.4:
+        non_striker: MB Kruger
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 29.5:
+        non_striker: MB Kruger
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 29.6:
+        non_striker: MB Kruger
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 30.1:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Kruger
+    - 30.2:
+        non_striker: MB Kruger
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 30.3:
+        non_striker: MB Kruger
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 30.4:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Kruger
+    - 30.5:
+        non_striker: MB Kruger
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 30.6:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Kruger
+    - 31.1:
+        non_striker: MG Erasmus
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 31.2:
+        non_striker: MG Erasmus
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 31.3:
+        non_striker: MG Erasmus
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 31.4:
+        non_striker: MG Erasmus
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MB Kruger
+    - 31.5:
+        non_striker: MG Erasmus
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 31.6:
+        non_striker: MG Erasmus
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 32.1:
+        non_striker: MB Kruger
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 32.2:
+        non_striker: MB Kruger
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 32.3:
+        non_striker: MG Erasmus
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Kruger
+    - 32.4:
+        non_striker: MB Kruger
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 32.5:
+        non_striker: MB Kruger
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 32.6:
+        non_striker: MB Kruger
+        bowler: J Jarvis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 33.1:
+        non_striker: MB Kruger
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 33.2:
+        non_striker: MB Kruger
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 33.3:
+        non_striker: MG Erasmus
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Kruger
+    - 33.4:
+        non_striker: MB Kruger
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 33.5:
+        non_striker: MB Kruger
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 33.6:
+        non_striker: MG Erasmus
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 34.1:
+        non_striker: MB Kruger
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 34.2:
+        non_striker: MG Erasmus
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Kruger
+    - 34.3:
+        non_striker: MB Kruger
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 34.4:
+        non_striker: MB Kruger
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 34.5:
+        non_striker: MB Kruger
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 34.6:
+        non_striker: MG Erasmus
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Kruger
+    - 35.1:
+        non_striker: MG Erasmus
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+        wicket:
+          player_out: MB Kruger
+          kind: bowled
+    - 35.2:
+        non_striker: MG Erasmus
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 35.3:
+        non_striker: MG Erasmus
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 35.4:
+        non_striker: JJ Smit
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 35.5:
+        non_striker: MG Erasmus
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Smit
+    - 35.6:
+        non_striker: MG Erasmus
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 36.1:
+        non_striker: JJ Smit
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 36.2:
+        non_striker: JJ Smit
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 36.3:
+        non_striker: JJ Smit
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 36.4:
+        non_striker: MG Erasmus
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 36.5:
+        non_striker: JJ Smit
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 36.6:
+        non_striker: JJ Smit
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          fielders:
+          - MRJ Watt
+          kind: caught
+    - 37.1:
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JP Kotze
+        batsman: JJ Smit
+    - 37.2:
+        non_striker: JJ Smit
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+    - 37.3:
+        non_striker: JJ Smit
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kotze
+    - 37.4:
+        non_striker: JP Kotze
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 37.5:
+        non_striker: JJ Smit
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Kotze
+    - 37.6:
+        non_striker: JJ Smit
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Kotze
+    - 38.1:
+        non_striker: JP Kotze
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 38.2:
+        non_striker: JP Kotze
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 38.3:
+        non_striker: JP Kotze
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Smit
+    - 38.4:
+        non_striker: JP Kotze
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 38.5:
+        non_striker: JP Kotze
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 38.6:
+        non_striker: JJ Smit
+        bowler: JJ Davidson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+    - 39.1:
+        non_striker: JP Kotze
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 39.2:
+        non_striker: JJ Smit
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kotze
+    - 39.3:
+        non_striker: JP Kotze
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+        wicket:
+          player_out: JJ Smit
+          fielders:
+          - RD Berrington
+          kind: caught
+    - 39.4:
+        non_striker: JP Kotze
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Scholtz
+    - 39.5:
+        non_striker: BM Scholtz
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kotze
+    - 39.6:
+        non_striker: JP Kotze
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Scholtz
+    - 40.1:
+        non_striker: BM Scholtz
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+    - 40.2:
+        non_striker: BM Scholtz
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+    - 40.3:
+        non_striker: BM Scholtz
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Kotze
+    - 40.4:
+        non_striker: JP Kotze
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Scholtz
+    - 40.5:
+        non_striker: JP Kotze
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Scholtz
+    - 40.6:
+        non_striker: JP Kotze
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Scholtz
+    - 41.1:
+        non_striker: JP Kotze
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Scholtz
+    - 41.2:
+        non_striker: BM Scholtz
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+    - 41.3:
+        non_striker: BM Scholtz
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Kotze
+        wicket:
+          player_out: JP Kotze
+          fielders:
+          - BJ McMullen
+          kind: caught
+    - 41.4:
+        non_striker: BM Scholtz
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Brassell
+    - 41.5:
+        non_striker: BM Scholtz
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Brassell
+    - 41.6:
+        non_striker: BM Scholtz
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JT Brassell
+        wicket:
+          player_out: JT Brassell
+          kind: bowled
+    - 42.1:
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: T Lungameni
+        batsman: BM Scholtz
+    - 42.2:
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: T Lungameni
+        batsman: BM Scholtz
+    - 42.3:
+        non_striker: BM Scholtz
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Lungameni
+    - 42.4:
+        non_striker: BM Scholtz
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Lungameni
+    - 42.5:
+        non_striker: BM Scholtz
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Lungameni
+    - 42.6:
+        non_striker: BM Scholtz
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Lungameni
+    - 43.1:
+        non_striker: T Lungameni
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Scholtz
+    - 43.2:
+        non_striker: T Lungameni
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Scholtz
+        wicket:
+          player_out: BM Scholtz
+          fielders:
+          - BJ McMullen
+          kind: caught
+    - 43.3:
+        non_striker: T Lungameni
+        bowler: MA Leask
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: B Shikongo
+    - 43.4:
+        non_striker: T Lungameni
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Shikongo
+    - 43.5:
+        non_striker: B Shikongo
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Lungameni
+    - 43.6:
+        non_striker: T Lungameni
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shikongo
+    - 43.7:
+        non_striker: T Lungameni
+        bowler: MA Leask
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Shikongo
+    - 43.8:
+        non_striker: T Lungameni
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shikongo

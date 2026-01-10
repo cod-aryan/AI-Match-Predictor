@@ -1,0 +1,2130 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-10-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Harare
+  dates:
+  - '2025-10-02'
+  gender: male
+  match_type: T20
+  match_type_number: 3493
+  outcome:
+    winner: Namibia
+    by:
+      runs: 63
+  overs: 20
+  player_of_match:
+  - JJ Smit
+  players:
+    Namibia:
+    - MB Kruger
+    - JN Frylinck
+    - JN Loftie-Eaton
+    - L Steenkamp
+    - MG Erasmus
+    - JJ Smit
+    - R Trumpelmann
+    - ZE Green
+    - JI de Villiers
+    - BM Scholtz
+    - B Shikongo
+    Tanzania:
+    - Arun Yadav
+    - AR Patwa
+    - DA Mehta
+    - A Augastin
+    - MS Maker
+    - AP Rajeevan
+    - SA Jumbe
+    - AM Kimote
+    - K Juma
+    - S Selvaraj
+    - LS Barkania
+    - K Nassoro
+  registry:
+    people:
+      A Augastin: 056e3558
+      A Louw: 5eecae5d
+      AM Kimote: 34e36b65
+      AP Rajeevan: 63d6f031
+      AR Patwa: b43f7a6a
+      Arun Yadav: 53ace082
+      B Shikongo: c26cd57a
+      BM Scholtz: e85d03d6
+      BP Jele: 7bb1331e
+      DA Mehta: 61a7d6e9
+      GH Pienaar: 3516e46b
+      JI de Villiers: 3847ec84
+      JJ Smit: bb134e5c
+      JN Frylinck: 3c87f0c3
+      JN Loftie-Eaton: f468293b
+      K Juma: '089ebf89'
+      K Nassoro: 29ee9bf9
+      L Rusere: 6a4734ae
+      L Steenkamp: 8bd9fd13
+      LS Barkania: 073126d6
+      MB Kruger: c51add25
+      MG Erasmus: 95a5e066
+      MS Maker: 14318ae4
+      R Trumpelmann: ff6a7ab5
+      S Selvaraj: f70f8dbb
+      SA Jumbe: '91056862'
+      ZE Green: 8716233e
+  teams:
+  - Namibia
+  - Tanzania
+  toss:
+    winner: Tanzania
+    decision: field
+  umpires:
+  - BP Jele
+  - L Rusere
+  venue: Harare Sports Club
+innings:
+- 1st innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JN Frylinck
+        batsman: MB Kruger
+    - 0.2:
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: JN Frylinck
+        batsman: MB Kruger
+    - 0.3:
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JN Frylinck
+        batsman: MB Kruger
+    - 0.4:
+        non_striker: MB Kruger
+        bowler: K Juma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JN Frylinck
+    - 0.5:
+        non_striker: JN Frylinck
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 0.6:
+        non_striker: JN Frylinck
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MB Kruger
+    - 1.1:
+        non_striker: MB Kruger
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Frylinck
+        wicket:
+          player_out: JN Frylinck
+          kind: bowled
+    - 1.2:
+        non_striker: MB Kruger
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 1.3:
+        non_striker: JN Loftie-Eaton
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MB Kruger
+    - 1.4:
+        non_striker: JN Loftie-Eaton
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MB Kruger
+    - 1.5:
+        non_striker: MB Kruger
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 1.6:
+        non_striker: MB Kruger
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JN Loftie-Eaton
+    - 2.1:
+        non_striker: JN Loftie-Eaton
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 2.2:
+        non_striker: JN Loftie-Eaton
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MB Kruger
+    - 2.3:
+        non_striker: JN Loftie-Eaton
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 2.4:
+        non_striker: JN Loftie-Eaton
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MB Kruger
+    - 2.5:
+        non_striker: JN Loftie-Eaton
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MB Kruger
+    - 2.6:
+        non_striker: JN Loftie-Eaton
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+    - 3.1:
+        non_striker: MB Kruger
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 3.2:
+        non_striker: MB Kruger
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JN Loftie-Eaton
+    - 3.3:
+        non_striker: JN Loftie-Eaton
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MB Kruger
+    - 3.4:
+        non_striker: JN Loftie-Eaton
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MB Kruger
+        wicket:
+          player_out: MB Kruger
+          fielders:
+          - AR Patwa
+          kind: caught
+    - 3.5:
+        non_striker: JN Loftie-Eaton
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+    - 3.6:
+        non_striker: JN Loftie-Eaton
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Steenkamp
+    - 4.1:
+        non_striker: JN Loftie-Eaton
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Steenkamp
+        wicket:
+          player_out: L Steenkamp
+          kind: caught and bowled
+    - 4.2:
+        non_striker: JN Loftie-Eaton
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 4.3:
+        non_striker: MG Erasmus
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 4.4:
+        non_striker: MG Erasmus
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+        wicket:
+          player_out: JN Loftie-Eaton
+          fielders:
+          - AP Rajeevan
+          kind: caught
+    - 4.5:
+        non_striker: MG Erasmus
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 4.6:
+        non_striker: JJ Smit
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 5.1:
+        non_striker: MG Erasmus
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 5.2:
+        non_striker: MG Erasmus
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 5.3:
+        non_striker: MG Erasmus
+        bowler: SA Jumbe
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: JJ Smit
+    - 5.4:
+        non_striker: MG Erasmus
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 5.5:
+        non_striker: MG Erasmus
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 5.6:
+        non_striker: MG Erasmus
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 6.1:
+        non_striker: JJ Smit
+        bowler: S Selvaraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 6.2:
+        non_striker: MG Erasmus
+        bowler: S Selvaraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 6.3:
+        non_striker: MG Erasmus
+        bowler: S Selvaraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 6.4:
+        non_striker: JJ Smit
+        bowler: S Selvaraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 6.5:
+        non_striker: JJ Smit
+        bowler: S Selvaraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 6.6:
+        non_striker: JJ Smit
+        bowler: S Selvaraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 7.1:
+        non_striker: MG Erasmus
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 7.2:
+        non_striker: MG Erasmus
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 7.3:
+        non_striker: JJ Smit
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 7.4:
+        non_striker: JJ Smit
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 7.5:
+        non_striker: MG Erasmus
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 7.6:
+        non_striker: MG Erasmus
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 8.1:
+        non_striker: MG Erasmus
+        bowler: S Selvaraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 8.2:
+        non_striker: MG Erasmus
+        bowler: S Selvaraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 8.3:
+        non_striker: JJ Smit
+        bowler: S Selvaraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 8.4:
+        non_striker: JJ Smit
+        bowler: S Selvaraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 8.5:
+        non_striker: JJ Smit
+        bowler: S Selvaraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 8.6:
+        non_striker: MG Erasmus
+        bowler: S Selvaraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 9.1:
+        non_striker: JJ Smit
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 9.2:
+        non_striker: JJ Smit
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 9.3:
+        non_striker: JJ Smit
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 9.4:
+        non_striker: MG Erasmus
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 9.5:
+        non_striker: MG Erasmus
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 9.6:
+        non_striker: JJ Smit
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 10.1:
+        non_striker: MG Erasmus
+        bowler: S Selvaraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 10.2:
+        non_striker: JJ Smit
+        bowler: S Selvaraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 10.3:
+        non_striker: JJ Smit
+        bowler: S Selvaraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 10.4:
+        non_striker: MG Erasmus
+        bowler: S Selvaraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 10.5:
+        non_striker: JJ Smit
+        bowler: S Selvaraj
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: MG Erasmus
+    - 10.6:
+        non_striker: MG Erasmus
+        bowler: S Selvaraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 10.7:
+        non_striker: JJ Smit
+        bowler: S Selvaraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 11.1:
+        non_striker: MG Erasmus
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 11.2:
+        non_striker: JJ Smit
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 11.3:
+        non_striker: JJ Smit
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 11.4:
+        non_striker: JJ Smit
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 11.5:
+        non_striker: JJ Smit
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 11.6:
+        non_striker: JJ Smit
+        bowler: A Augastin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 12.1:
+        non_striker: MG Erasmus
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 12.2:
+        non_striker: JJ Smit
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 12.3:
+        non_striker: JJ Smit
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 12.4:
+        non_striker: JJ Smit
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 12.5:
+        non_striker: JJ Smit
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 12.6:
+        non_striker: MG Erasmus
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 13.1:
+        non_striker: MG Erasmus
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 13.2:
+        non_striker: MG Erasmus
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 13.3:
+        non_striker: MG Erasmus
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 13.4:
+        non_striker: JJ Smit
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 13.5:
+        non_striker: JJ Smit
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 13.6:
+        non_striker: JJ Smit
+        bowler: LS Barkania
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 14.1:
+        non_striker: JJ Smit
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 14.2:
+        non_striker: JJ Smit
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 14.3:
+        non_striker: JJ Smit
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MG Erasmus
+    - 14.4:
+        non_striker: MG Erasmus
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 14.5:
+        non_striker: JJ Smit
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 14.6:
+        non_striker: JJ Smit
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 15.1:
+        non_striker: JJ Smit
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 15.2:
+        non_striker: JJ Smit
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 15.3:
+        non_striker: MG Erasmus
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 15.4:
+        non_striker: MG Erasmus
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 15.5:
+        non_striker: JJ Smit
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 15.6:
+        non_striker: MG Erasmus
+        bowler: SA Jumbe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Smit
+    - 16.1:
+        non_striker: JJ Smit
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 16.2:
+        non_striker: JJ Smit
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          fielders:
+          - MS Maker
+          kind: caught
+    - 16.3:
+        non_striker: JJ Smit
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+        wicket:
+          player_out: R Trumpelmann
+          kind: lbw
+    - 16.4:
+        non_striker: JJ Smit
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 16.5:
+        non_striker: JJ Smit
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 16.6:
+        non_striker: ZE Green
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 17.1:
+        non_striker: ZE Green
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Smit
+    - 17.2:
+        non_striker: ZE Green
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Smit
+    - 17.3:
+        non_striker: ZE Green
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 17.4:
+        non_striker: ZE Green
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 17.5:
+        non_striker: ZE Green
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Smit
+    - 17.6:
+        non_striker: JJ Smit
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 18.1:
+        non_striker: JJ Smit
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZE Green
+    - 18.2:
+        non_striker: JJ Smit
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 18.3:
+        non_striker: JJ Smit
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 18.4:
+        non_striker: JJ Smit
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 18.5:
+        non_striker: JJ Smit
+        bowler: K Juma
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: ZE Green
+    - 18.6:
+        non_striker: JJ Smit
+        bowler: K Juma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZE Green
+    - 19.1:
+        non_striker: ZE Green
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Smit
+    - 19.2:
+        non_striker: ZE Green
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 19.3:
+        non_striker: ZE Green
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Smit
+    - 19.4:
+        non_striker: ZE Green
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JJ Smit
+    - 19.5:
+        non_striker: ZE Green
+        bowler: AM Kimote
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Smit
+    - 19.6:
+        non_striker: ZE Green
+        bowler: AM Kimote
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: JJ Smit
+- 2nd innings:
+    team: Tanzania
+    deliveries:
+    - 0.1:
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR Patwa
+        batsman: Arun Yadav
+    - 0.2:
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR Patwa
+        batsman: Arun Yadav
+    - 0.3:
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AR Patwa
+        batsman: Arun Yadav
+    - 0.4:
+        non_striker: Arun Yadav
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 0.5:
+        non_striker: AR Patwa
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 0.6:
+        non_striker: Arun Yadav
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Patwa
+    - 1.1:
+        non_striker: AR Patwa
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+    - 1.2:
+        non_striker: AR Patwa
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Arun Yadav
+    - 1.3:
+        non_striker: AR Patwa
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: DA Mehta
+            out: K Nassoro
+            team: Tanzania
+            reason: concussion_substitute
+        batsman: Arun Yadav
+    - 1.4:
+        non_striker: AR Patwa
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+    - 1.5:
+        non_striker: AR Patwa
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+    - 1.6:
+        non_striker: AR Patwa
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 2.1:
+        non_striker: AR Patwa
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+    - 2.2:
+        non_striker: AR Patwa
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Arun Yadav
+    - 2.3:
+        non_striker: AR Patwa
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+    - 2.4:
+        non_striker: AR Patwa
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 2.5:
+        non_striker: Arun Yadav
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 2.6:
+        non_striker: Arun Yadav
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 3.1:
+        non_striker: AR Patwa
+        bowler: B Shikongo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Arun Yadav
+    - 3.2:
+        non_striker: Arun Yadav
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 3.3:
+        non_striker: Arun Yadav
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 3.4:
+        non_striker: Arun Yadav
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 3.5:
+        non_striker: Arun Yadav
+        bowler: B Shikongo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AR Patwa
+    - 3.6:
+        non_striker: AR Patwa
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Arun Yadav
+    - 4.1:
+        non_striker: Arun Yadav
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patwa
+    - 4.2:
+        non_striker: Arun Yadav
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 4.3:
+        non_striker: Arun Yadav
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 4.4:
+        non_striker: AR Patwa
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+    - 4.5:
+        non_striker: AR Patwa
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Arun Yadav
+    - 4.6:
+        non_striker: Arun Yadav
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 5.1:
+        non_striker: Arun Yadav
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 5.2:
+        non_striker: Arun Yadav
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 5.3:
+        non_striker: AR Patwa
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arun Yadav
+        wicket:
+          player_out: Arun Yadav
+          fielders:
+          - JN Loftie-Eaton
+          kind: caught
+    - 5.4:
+        non_striker: AR Patwa
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+    - 5.5:
+        non_striker: AR Patwa
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Mehta
+        wicket:
+          player_out: DA Mehta
+          fielders:
+          - BM Scholtz
+          kind: caught
+    - 5.6:
+        non_striker: AR Patwa
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 6.1:
+        non_striker: A Augastin
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 6.2:
+        non_striker: A Augastin
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 6.3:
+        non_striker: AR Patwa
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 6.4:
+        non_striker: AR Patwa
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 6.5:
+        non_striker: A Augastin
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 6.6:
+        non_striker: AR Patwa
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 7.1:
+        non_striker: AR Patwa
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 7.2:
+        non_striker: A Augastin
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 7.3:
+        non_striker: AR Patwa
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+    - 7.4:
+        non_striker: AR Patwa
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Augastin
+    - 7.5:
+        non_striker: AR Patwa
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 7.6:
+        non_striker: A Augastin
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 8.1:
+        non_striker: A Augastin
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 8.2:
+        non_striker: A Augastin
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 8.3:
+        non_striker: AR Patwa
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 8.4:
+        non_striker: A Augastin
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 8.5:
+        non_striker: A Augastin
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Patwa
+    - 8.6:
+        non_striker: A Augastin
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 9.1:
+        non_striker: AR Patwa
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 9.2:
+        non_striker: A Augastin
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 9.3:
+        non_striker: A Augastin
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 9.4:
+        non_striker: AR Patwa
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 9.5:
+        non_striker: A Augastin
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patwa
+    - 9.6:
+        non_striker: A Augastin
+        bowler: MG Erasmus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patwa
+    - 10.1:
+        non_striker: A Augastin
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patwa
+    - 10.2:
+        non_striker: A Augastin
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+    - 10.3:
+        non_striker: A Augastin
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patwa
+        wicket:
+          player_out: AR Patwa
+          fielders:
+          - L Steenkamp
+          kind: caught
+    - 10.4:
+        non_striker: A Augastin
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 10.5:
+        non_striker: A Augastin
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 10.6:
+        non_striker: A Augastin
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 11.1:
+        non_striker: A Augastin
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 11.2:
+        non_striker: A Augastin
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 11.3:
+        non_striker: MS Maker
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 11.4:
+        non_striker: A Augastin
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MS Maker
+    - 11.5:
+        non_striker: A Augastin
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 11.6:
+        non_striker: MS Maker
+        bowler: JI de Villiers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Augastin
+    - 12.1:
+        non_striker: MS Maker
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Augastin
+        wicket:
+          player_out: A Augastin
+          kind: bowled
+    - 12.2:
+        non_striker: MS Maker
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 12.3:
+        non_striker: AP Rajeevan
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Maker
+    - 12.4:
+        non_striker: AP Rajeevan
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Maker
+    - 12.5:
+        non_striker: AP Rajeevan
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 12.6:
+        non_striker: MS Maker
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 13.1:
+        non_striker: AP Rajeevan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 13.2:
+        non_striker: AP Rajeevan
+        bowler: BM Scholtz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Maker
+    - 13.3:
+        non_striker: AP Rajeevan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 13.4:
+        non_striker: MS Maker
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Rajeevan
+    - 13.5:
+        non_striker: MS Maker
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 13.6:
+        non_striker: AP Rajeevan
+        bowler: BM Scholtz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MS Maker
+    - 13.7:
+        non_striker: AP Rajeevan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 13.8:
+        non_striker: AP Rajeevan
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 14.1:
+        non_striker: AP Rajeevan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 14.2:
+        non_striker: MS Maker
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 14.3:
+        non_striker: AP Rajeevan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 14.4:
+        non_striker: AP Rajeevan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Maker
+    - 14.5:
+        non_striker: MS Maker
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 14.6:
+        non_striker: AP Rajeevan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+    - 15.1:
+        non_striker: MS Maker
+        bowler: JJ Smit
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AP Rajeevan
+    - 15.2:
+        non_striker: MS Maker
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 15.3:
+        non_striker: MS Maker
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 15.4:
+        non_striker: AP Rajeevan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Maker
+    - 15.5:
+        non_striker: AP Rajeevan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Maker
+        wicket:
+          player_out: MS Maker
+          fielders:
+          - JN Loftie-Eaton
+          kind: caught
+    - 15.6:
+        non_striker: AP Rajeevan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Jumbe
+    - 15.7:
+        non_striker: AP Rajeevan
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Jumbe
+    - 16.1:
+        non_striker: SA Jumbe
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 16.2:
+        non_striker: AP Rajeevan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Jumbe
+        wicket:
+          player_out: SA Jumbe
+          fielders:
+          - JI de Villiers
+          kind: caught
+    - 16.3:
+        non_striker: AP Rajeevan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Kimote
+    - 16.4:
+        non_striker: AM Kimote
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 16.5:
+        non_striker: AP Rajeevan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kimote
+    - 16.6:
+        non_striker: AP Rajeevan
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kimote
+    - 17.1:
+        non_striker: AM Kimote
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 17.2:
+        non_striker: AM Kimote
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 17.3:
+        non_striker: AM Kimote
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Rajeevan
+    - 17.4:
+        non_striker: AM Kimote
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 17.5:
+        non_striker: AM Kimote
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AP Rajeevan
+    - 17.6:
+        non_striker: AM Kimote
+        bowler: JJ Smit
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 18.1:
+        non_striker: AP Rajeevan
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Kimote
+    - 18.2:
+        non_striker: AP Rajeevan
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Kimote
+    - 18.3:
+        non_striker: AM Kimote
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 18.4:
+        non_striker: AM Kimote
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 18.5:
+        non_striker: AM Kimote
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan
+    - 18.6:
+        non_striker: AP Rajeevan
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Kimote
+        wicket:
+          player_out: AM Kimote
+          fielders:
+          - ZE Green
+          kind: caught
+    - 19.1:
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: K Juma
+        batsman: AP Rajeevan
+    - 19.2:
+        non_striker: AP Rajeevan
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Juma
+        wicket:
+          player_out: K Juma
+          kind: bowled
+    - 19.3:
+        non_striker: AP Rajeevan
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Selvaraj
+    - 19.4:
+        non_striker: AP Rajeevan
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Selvaraj
+    - 19.5:
+        non_striker: S Selvaraj
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AP Rajeevan
+    - 19.6:
+        non_striker: S Selvaraj
+        bowler: JN Loftie-Eaton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AP Rajeevan

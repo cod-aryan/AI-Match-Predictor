@@ -1,0 +1,2144 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: The Hague
+  dates:
+  - '2025-07-11'
+  gender: male
+  match_type: T20
+  match_type_number: 3301
+  outcome:
+    winner: Jersey
+    by:
+      wickets: 1
+  overs: 20
+  player_of_match:
+  - NA Greenwood
+  players:
+    Scotland:
+    - HG Munsey
+    - OJ Hairs
+    - BJ McMullen
+    - RD Berrington
+    - C Tear
+    - MA Leask
+    - MH Cross
+    - MRJ Watt
+    - CN Greaves
+    - SM Sharif
+    - BJ Currie
+    Jersey:
+    - H Carlyon
+    - NA Greenwood
+    - ZM Tribe
+    - JW Jenner
+    - J Sumerauer
+    - C Brennan
+    - B Ward
+    - PB Gouge
+    - DG Blampied
+    - CW Perchard
+    - JE Dunford
+  registry:
+    people:
+      Aidan Seaver: 862c0b16
+      B Ward: 9e0bd203
+      BJ Currie: 2ecd844a
+      BJ McMullen: 436c763a
+      C Brennan: 80f9fd4f
+      C Tear: 7ffe4817
+      CN Greaves: f42064d5
+      CW Perchard: 9f998ed8
+      DG Blampied: d8976cb7
+      Denavon Hayles: 5cbeeb02
+      H Carlyon: 42bf1b7d
+      HG Munsey: ff014c34
+      J Sumerauer: 0b581ed6
+      JE Dunford: 89a7dd4a
+      JW Jenner: 32a8161e
+      MA Leask: '28131839'
+      MH Cross: 8b261d84
+      MRJ Watt: 1252f71a
+      NA Greenwood: 7ca68967
+      OJ Hairs: c8a7b014
+      PB Gouge: fe2432c4
+      R Black: 156c8fb1
+      RD Berrington: e21bc7f3
+      RJ Warren: 9d1c62d7
+      SM Sharif: f43dd8c2
+      ZM Tribe: 96fe3e9f
+  teams:
+  - Scotland
+  - Jersey
+  toss:
+    winner: Jersey
+    decision: field
+  umpires:
+  - Aidan Seaver
+  - R Black
+  venue: Sportpark Westvliet, Voorburg
+innings:
+- 1st innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: OJ Hairs
+        batsman: HG Munsey
+    - 0.2:
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: OJ Hairs
+        batsman: HG Munsey
+    - 0.3:
+        non_striker: HG Munsey
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OJ Hairs
+        wicket:
+          player_out: OJ Hairs
+          fielders:
+          - JW Jenner
+          kind: caught
+    - 0.4:
+        non_striker: HG Munsey
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 0.5:
+        non_striker: HG Munsey
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BJ McMullen
+    - 0.6:
+        non_striker: BJ McMullen
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 1.1:
+        non_striker: BJ McMullen
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 1.2:
+        non_striker: BJ McMullen
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 1.3:
+        non_striker: BJ McMullen
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 1.4:
+        non_striker: HG Munsey
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+        wicket:
+          player_out: BJ McMullen
+          kind: bowled
+    - 1.5:
+        non_striker: HG Munsey
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 1.6:
+        non_striker: HG Munsey
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 2.1:
+        non_striker: RD Berrington
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: HG Munsey
+    - 2.2:
+        non_striker: HG Munsey
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 2.3:
+        non_striker: RD Berrington
+        bowler: H Carlyon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 2.4:
+        non_striker: RD Berrington
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+        wicket:
+          player_out: HG Munsey
+          kind: bowled
+    - 2.5:
+        non_striker: RD Berrington
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 2.6:
+        non_striker: C Tear
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 2.7:
+        non_striker: C Tear
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 3.1:
+        non_striker: RD Berrington
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 3.2:
+        non_striker: RD Berrington
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 3.3:
+        non_striker: C Tear
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 3.4:
+        non_striker: RD Berrington
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 3.5:
+        non_striker: C Tear
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 3.6:
+        non_striker: RD Berrington
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 4.1:
+        non_striker: C Tear
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 4.2:
+        non_striker: C Tear
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Berrington
+    - 4.3:
+        non_striker: C Tear
+        bowler: H Carlyon
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: RD Berrington
+    - 4.4:
+        non_striker: RD Berrington
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+        wicket:
+          player_out: C Tear
+          fielders:
+          - J Sumerauer
+          kind: caught
+    - 4.5:
+        non_striker: RD Berrington
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 4.6:
+        non_striker: RD Berrington
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Leask
+    - 4.7:
+        non_striker: RD Berrington
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 5.1:
+        non_striker: RD Berrington
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 5.2:
+        non_striker: MA Leask
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Berrington
+    - 5.3:
+        non_striker: MA Leask
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 5.4:
+        non_striker: RD Berrington
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 5.5:
+        non_striker: MA Leask
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 5.6:
+        non_striker: MA Leask
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 6.1:
+        non_striker: MA Leask
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 6.2:
+        non_striker: MA Leask
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 6.3:
+        non_striker: MA Leask
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 6.4:
+        non_striker: MA Leask
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 6.5:
+        non_striker: RD Berrington
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 6.6:
+        non_striker: MA Leask
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+        wicket:
+          player_out: RD Berrington
+          fielders:
+          - ZM Tribe
+          kind: caught
+    - 7.1:
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MH Cross
+        batsman: MA Leask
+    - 7.2:
+        non_striker: MA Leask
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 7.3:
+        non_striker: MH Cross
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 7.4:
+        non_striker: MA Leask
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Cross
+    - 7.5:
+        non_striker: MA Leask
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 7.6:
+        non_striker: MH Cross
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 8.1:
+        non_striker: MA Leask
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Cross
+    - 8.2:
+        non_striker: MA Leask
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 8.3:
+        non_striker: MH Cross
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 8.4:
+        non_striker: MA Leask
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 8.5:
+        non_striker: MH Cross
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 8.6:
+        non_striker: MA Leask
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 9.1:
+        non_striker: MH Cross
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 9.2:
+        non_striker: MA Leask
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 9.3:
+        non_striker: MH Cross
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+    - 9.4:
+        non_striker: MH Cross
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 9.5:
+        non_striker: MA Leask
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 9.6:
+        non_striker: MH Cross
+        bowler: DG Blampied
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 10.1:
+        non_striker: MH Cross
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 10.2:
+        non_striker: MA Leask
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 10.3:
+        non_striker: MH Cross
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Leask
+    - 10.4:
+        non_striker: MA Leask
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 10.5:
+        non_striker: MH Cross
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Leask
+        wicket:
+          player_out: MA Leask
+          fielders:
+          - JW Jenner
+          kind: caught
+    - 10.6:
+        non_striker: MH Cross
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 11.1:
+        non_striker: MRJ Watt
+        bowler: J Sumerauer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MH Cross
+    - 11.2:
+        non_striker: MH Cross
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 11.3:
+        non_striker: MRJ Watt
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 11.4:
+        non_striker: MRJ Watt
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 11.5:
+        non_striker: MH Cross
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 11.6:
+        non_striker: MH Cross
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 12.1:
+        non_striker: MH Cross
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 12.2:
+        non_striker: MRJ Watt
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 12.3:
+        non_striker: MH Cross
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 12.4:
+        non_striker: MRJ Watt
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 12.5:
+        non_striker: MH Cross
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 12.6:
+        non_striker: MRJ Watt
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 13.1:
+        non_striker: MRJ Watt
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 13.2:
+        non_striker: MRJ Watt
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 13.3:
+        non_striker: MRJ Watt
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Cross
+    - 13.4:
+        non_striker: MRJ Watt
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 13.5:
+        non_striker: MRJ Watt
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Cross
+    - 13.6:
+        non_striker: MRJ Watt
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 14.1:
+        non_striker: MH Cross
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 14.2:
+        non_striker: MH Cross
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 14.3:
+        non_striker: MRJ Watt
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 14.4:
+        non_striker: MH Cross
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 14.5:
+        non_striker: MH Cross
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 14.6:
+        non_striker: MH Cross
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 15.1:
+        non_striker: MRJ Watt
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 15.2:
+        non_striker: MRJ Watt
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 15.3:
+        non_striker: MRJ Watt
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Cross
+    - 15.4:
+        non_striker: MRJ Watt
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 15.5:
+        non_striker: MH Cross
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 15.6:
+        non_striker: MH Cross
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 16.1:
+        non_striker: MH Cross
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 16.2:
+        non_striker: MH Cross
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 16.3:
+        non_striker: MRJ Watt
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Cross
+    - 16.4:
+        non_striker: MRJ Watt
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MH Cross
+    - 16.5:
+        non_striker: MRJ Watt
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 16.6:
+        non_striker: MRJ Watt
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 17.1:
+        non_striker: MRJ Watt
+        bowler: CW Perchard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MH Cross
+    - 17.2:
+        non_striker: MH Cross
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MRJ Watt
+    - 17.3:
+        non_striker: MH Cross
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MRJ Watt
+    - 17.4:
+        non_striker: MH Cross
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MRJ Watt
+    - 17.5:
+        non_striker: MH Cross
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 17.6:
+        non_striker: MRJ Watt
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 18.1:
+        non_striker: MRJ Watt
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MH Cross
+    - 18.2:
+        non_striker: MRJ Watt
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 18.3:
+        non_striker: MH Cross
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+    - 18.4:
+        non_striker: MH Cross
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MRJ Watt
+    - 18.5:
+        non_striker: MRJ Watt
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 18.6:
+        non_striker: MH Cross
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MRJ Watt
+    - 19.1:
+        non_striker: MRJ Watt
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Cross
+    - 19.2:
+        non_striker: MRJ Watt
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MH Cross
+    - 19.3:
+        non_striker: MRJ Watt
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MH Cross
+    - 19.4:
+        non_striker: MH Cross
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MRJ Watt
+        wicket:
+          player_out: MRJ Watt
+          kind: bowled
+    - 19.5:
+        non_striker: MH Cross
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CN Greaves
+    - 19.6:
+        non_striker: MH Cross
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Greaves
+- 2nd innings:
+    team: Jersey
+    deliveries:
+    - 0.1:
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: NA Greenwood
+        batsman: H Carlyon
+    - 0.2:
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NA Greenwood
+        batsman: H Carlyon
+    - 0.3:
+        non_striker: H Carlyon
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 0.4:
+        non_striker: H Carlyon
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 0.5:
+        non_striker: H Carlyon
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 0.6:
+        non_striker: H Carlyon
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 1.1:
+        non_striker: NA Greenwood
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 1.2:
+        non_striker: H Carlyon
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 1.3:
+        non_striker: NA Greenwood
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Carlyon
+    - 1.4:
+        non_striker: NA Greenwood
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Carlyon
+    - 1.5:
+        non_striker: H Carlyon
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 1.6:
+        non_striker: H Carlyon
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 2.1:
+        non_striker: NA Greenwood
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 2.2:
+        non_striker: NA Greenwood
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 2.3:
+        non_striker: NA Greenwood
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 2.4:
+        non_striker: NA Greenwood
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Carlyon
+    - 2.5:
+        non_striker: NA Greenwood
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+        wicket:
+          player_out: H Carlyon
+          kind: lbw
+    - 2.6:
+        non_striker: NA Greenwood
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 3.1:
+        non_striker: ZM Tribe
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 3.2:
+        non_striker: NA Greenwood
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 3.3:
+        non_striker: NA Greenwood
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 3.4:
+        non_striker: NA Greenwood
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 3.5:
+        non_striker: ZM Tribe
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 3.6:
+        non_striker: NA Greenwood
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 4.1:
+        non_striker: ZM Tribe
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 4.2:
+        non_striker: ZM Tribe
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 4.3:
+        non_striker: ZM Tribe
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 4.4:
+        non_striker: ZM Tribe
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 4.5:
+        non_striker: ZM Tribe
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 4.6:
+        non_striker: NA Greenwood
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 5.1:
+        non_striker: NA Greenwood
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 5.2:
+        non_striker: ZM Tribe
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 5.3:
+        non_striker: NA Greenwood
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 5.4:
+        non_striker: ZM Tribe
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 5.5:
+        non_striker: NA Greenwood
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 5.6:
+        non_striker: ZM Tribe
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 6.1:
+        non_striker: NA Greenwood
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 6.2:
+        non_striker: NA Greenwood
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 6.3:
+        non_striker: ZM Tribe
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 6.4:
+        non_striker: NA Greenwood
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 6.5:
+        non_striker: ZM Tribe
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 6.6:
+        non_striker: NA Greenwood
+        bowler: BJ McMullen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ZM Tribe
+    - 7.1:
+        non_striker: NA Greenwood
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 7.2:
+        non_striker: ZM Tribe
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 7.3:
+        non_striker: ZM Tribe
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 7.4:
+        non_striker: NA Greenwood
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 7.5:
+        non_striker: ZM Tribe
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Greenwood
+    - 7.6:
+        non_striker: ZM Tribe
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 8.1:
+        non_striker: ZM Tribe
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 8.2:
+        non_striker: NA Greenwood
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 8.3:
+        non_striker: ZM Tribe
+        bowler: SM Sharif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: NA Greenwood
+    - 8.4:
+        non_striker: NA Greenwood
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 8.5:
+        non_striker: ZM Tribe
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NA Greenwood
+    - 8.6:
+        non_striker: ZM Tribe
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 9.1:
+        non_striker: ZM Tribe
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 9.2:
+        non_striker: NA Greenwood
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 9.3:
+        non_striker: ZM Tribe
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 9.4:
+        non_striker: NA Greenwood
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 9.5:
+        non_striker: ZM Tribe
+        bowler: MA Leask
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NA Greenwood
+    - 9.6:
+        non_striker: ZM Tribe
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Greenwood
+    - 9.7:
+        non_striker: ZM Tribe
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 10.1:
+        non_striker: NA Greenwood
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 10.2:
+        non_striker: NA Greenwood
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 10.3:
+        non_striker: ZM Tribe
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 10.4:
+        non_striker: ZM Tribe
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Greenwood
+    - 10.5:
+        non_striker: ZM Tribe
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 10.6:
+        non_striker: ZM Tribe
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 11.1:
+        non_striker: ZM Tribe
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+        wicket:
+          player_out: NA Greenwood
+          kind: lbw
+    - 11.2:
+        non_striker: ZM Tribe
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 11.3:
+        non_striker: JW Jenner
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 11.4:
+        non_striker: JW Jenner
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 11.5:
+        non_striker: JW Jenner
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+        wicket:
+          player_out: ZM Tribe
+          kind: lbw
+    - 11.6:
+        non_striker: JW Jenner
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+    - 12.1:
+        non_striker: J Sumerauer
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 12.2:
+        non_striker: JW Jenner
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Sumerauer
+    - 12.3:
+        non_striker: JW Jenner
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Sumerauer
+    - 12.4:
+        non_striker: JW Jenner
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+    - 12.5:
+        non_striker: JW Jenner
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sumerauer
+    - 12.6:
+        non_striker: J Sumerauer
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 13.1:
+        non_striker: JW Jenner
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sumerauer
+    - 13.2:
+        non_striker: J Sumerauer
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 13.3:
+        non_striker: J Sumerauer
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 13.4:
+        non_striker: JW Jenner
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Sumerauer
+    - 13.5:
+        non_striker: JW Jenner
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sumerauer
+    - 13.6:
+        non_striker: J Sumerauer
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 14.1:
+        non_striker: J Sumerauer
+        bowler: SM Sharif
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JW Jenner
+    - 14.2:
+        non_striker: J Sumerauer
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Jenner
+    - 14.3:
+        non_striker: J Sumerauer
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Jenner
+    - 14.4:
+        non_striker: J Sumerauer
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 14.5:
+        non_striker: JW Jenner
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+        wicket:
+          player_out: J Sumerauer
+          fielders:
+          - C Tear
+          kind: caught
+    - 14.6:
+        non_striker: JW Jenner
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 14.7:
+        non_striker: C Brennan
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 15.1:
+        non_striker: C Brennan
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+        wicket:
+          player_out: JW Jenner
+          kind: bowled
+    - 15.2:
+        non_striker: C Brennan
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 15.3:
+        non_striker: C Brennan
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 15.4:
+        non_striker: B Ward
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 15.5:
+        non_striker: B Ward
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 15.6:
+        non_striker: C Brennan
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 16.1:
+        non_striker: B Ward
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 16.2:
+        non_striker: B Ward
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 16.3:
+        non_striker: C Brennan
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 16.4:
+        non_striker: B Ward
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+        wicket:
+          player_out: C Brennan
+          kind: bowled
+    - 16.5:
+        non_striker: B Ward
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PB Gouge
+    - 16.6:
+        non_striker: B Ward
+        bowler: MRJ Watt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PB Gouge
+    - 16.7:
+        non_striker: B Ward
+        bowler: MRJ Watt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PB Gouge
+    - 16.8:
+        non_striker: B Ward
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PB Gouge
+    - 17.1:
+        non_striker: PB Gouge
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 17.2:
+        non_striker: PB Gouge
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ward
+    - 17.3:
+        non_striker: PB Gouge
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 17.4:
+        non_striker: PB Gouge
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Ward
+    - 17.5:
+        non_striker: PB Gouge
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 17.6:
+        non_striker: PB Gouge
+        bowler: CN Greaves
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 18.1:
+        non_striker: PB Gouge
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ward
+    - 18.2:
+        non_striker: PB Gouge
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 18.3:
+        non_striker: PB Gouge
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+        wicket:
+          player_out: PB Gouge
+          fielders:
+          - RD Berrington
+          - BJ Currie
+          kind: run out
+    - 18.4:
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DG Blampied
+        batsman: B Ward
+    - 18.5:
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: DG Blampied
+        batsman: B Ward
+    - 18.6:
+        non_striker: DG Blampied
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+        wicket:
+          player_out: DG Blampied
+          fielders:
+          - RD Berrington
+          - MH Cross
+          kind: run out
+    - 19.1:
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CW Perchard
+        batsman: B Ward
+    - 19.2:
+        non_striker: CW Perchard
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+        wicket:
+          player_out: B Ward
+          fielders:
+          - BJ McMullen
+          kind: caught
+    - 19.3:
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: CW Perchard
+        batsman: JE Dunford
+    - 19.4:
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CW Perchard
+        batsman: JE Dunford
+    - 19.5:
+        non_striker: JE Dunford
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CW Perchard
+    - 19.6:
+        non_striker: CW Perchard
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JE Dunford

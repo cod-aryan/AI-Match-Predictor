@@ -1,0 +1,3624 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-15'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Kimberley
+  dates:
+  - '2003-02-16'
+  gender: male
+  match_type: ODI
+  match_type_number: 1954
+  outcome:
+    winner: Pakistan
+    by:
+      runs: 171
+  overs: 50
+  player_of_match:
+  - Wasim Akram
+  players:
+    Pakistan:
+    - Saeed Anwar
+    - Saleem Elahi
+    - Younis Khan
+    - Inzamam-ul-Haq
+    - Yousuf Youhana
+    - Rashid Latif
+    - Wasim Akram
+    - Abdul Razzaq
+    - Waqar Younis
+    - Saqlain Mushtaq
+    - Shoaib Akhtar
+    Namibia:
+    - R Walters
+    - SJ Swanepoel
+    - AJ Burger
+    - D Keulder
+    - GB Murgatroyd
+    - LJ Burger
+    - DB Kotze
+    - G Snyman
+    - M van Schoor
+    - BL Kotze
+    - RJ van Vuuren
+  registry:
+    people:
+      AJ Burger: 4347a4ae
+      Abdul Razzaq: 390ff45b
+      BL Kotze: 540ffb25
+      D Keulder: 34c823b0
+      DB Kotze: 5ee47383
+      DL Orchard: a7df1d20
+      DT Lindsay: a6a32a61
+      G Snyman: 5af592d2
+      GB Murgatroyd: 18356eb3
+      Inzamam-ul-Haq: b9a3d8c6
+      LJ Burger: 6f4d314b
+      M van Schoor: 74bd2653
+      NA Mallender: 3b5dfcd4
+      R Walters: d32a4a41
+      RJ van Vuuren: '0882b3f1'
+      Rashid Latif: d32782ae
+      SJ Swanepoel: 31e31116
+      SJA Taufel: 4b43d5ac
+      Saeed Anwar: 0aa14354
+      Saleem Elahi: 1e7b1aa7
+      Saqlain Mushtaq: 047c67ba
+      Shoaib Akhtar: 10a91f35
+      Waqar Younis: d8906a73
+      Wasim Akram: 126e56a1
+      Younis Khan: 33cb3411
+      Yousuf Youhana: e237b28c
+  teams:
+  - Pakistan
+  - Namibia
+  toss:
+    winner: Pakistan
+    decision: bat
+  umpires:
+  - DL Orchard
+  - NA Mallender
+  venue: De Beers Diamond Oval, Kimberley
+innings:
+- 1st innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Saleem Elahi
+        batsman: Saeed Anwar
+    - 0.2:
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Saleem Elahi
+        batsman: Saeed Anwar
+    - 0.3:
+        non_striker: Saeed Anwar
+        bowler: G Snyman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Saleem Elahi
+    - 0.4:
+        non_striker: Saeed Anwar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 0.5:
+        non_striker: Saeed Anwar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 0.6:
+        non_striker: Saeed Anwar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 0.7:
+        non_striker: Saeed Anwar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 1.1:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 1.2:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Anwar
+    - 1.3:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 1.4:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 1.5:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 1.6:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 2.1:
+        non_striker: Saeed Anwar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 2.2:
+        non_striker: Saeed Anwar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 2.3:
+        non_striker: Saeed Anwar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 2.4:
+        non_striker: Saeed Anwar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 2.5:
+        non_striker: Saeed Anwar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saleem Elahi
+    - 2.6:
+        non_striker: Saeed Anwar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 3.1:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Anwar
+    - 3.2:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 3.3:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 3.4:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 3.5:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 3.6:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Anwar
+    - 4.1:
+        non_striker: Saleem Elahi
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saeed Anwar
+    - 4.2:
+        non_striker: Saleem Elahi
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 4.3:
+        non_striker: Saleem Elahi
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saeed Anwar
+    - 4.4:
+        non_striker: Saleem Elahi
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 4.5:
+        non_striker: Saleem Elahi
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 4.6:
+        non_striker: Saleem Elahi
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 5.1:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Saleem Elahi
+    - 5.2:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 5.3:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 5.4:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 5.5:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 5.6:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 6.1:
+        non_striker: Saleem Elahi
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 6.2:
+        non_striker: Saleem Elahi
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Saeed Anwar
+    - 6.3:
+        non_striker: Saeed Anwar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 6.4:
+        non_striker: Saeed Anwar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 6.5:
+        non_striker: Saeed Anwar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 6.6:
+        non_striker: Saleem Elahi
+        bowler: G Snyman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Saeed Anwar
+    - 7.1:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 7.2:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 7.3:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 7.4:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 7.5:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saeed Anwar
+    - 7.6:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Anwar
+    - 8.1:
+        non_striker: Saleem Elahi
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 8.2:
+        non_striker: Saleem Elahi
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 8.3:
+        non_striker: Saleem Elahi
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 8.4:
+        non_striker: Saleem Elahi
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 8.5:
+        non_striker: Saleem Elahi
+        bowler: G Snyman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saeed Anwar
+    - 8.6:
+        non_striker: Saleem Elahi
+        bowler: G Snyman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saeed Anwar
+    - 8.7:
+        non_striker: Saleem Elahi
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Anwar
+    - 8.8:
+        non_striker: Saeed Anwar
+        bowler: G Snyman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saleem Elahi
+    - 8.9:
+        non_striker: Saeed Anwar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 9.1:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 9.2:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 9.3:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 9.4:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saleem Elahi
+    - 9.5:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saleem Elahi
+    - 9.6:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saleem Elahi
+    - 9.7:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 10.1:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Anwar
+    - 10.2:
+        non_striker: Saeed Anwar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 10.3:
+        non_striker: Saeed Anwar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 10.4:
+        non_striker: Saeed Anwar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 10.5:
+        non_striker: Saeed Anwar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 10.6:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 11.1:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 11.2:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 11.3:
+        non_striker: Saeed Anwar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 11.4:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 11.5:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 11.6:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saeed Anwar
+    - 12.1:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+    - 12.2:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saeed Anwar
+        wicket:
+          player_out: Saeed Anwar
+          fielders:
+          - LJ Burger
+          kind: caught
+    - 12.3:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Younis Khan
+    - 12.4:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 12.5:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 12.6:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 13.1:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saleem Elahi
+    - 13.2:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 13.3:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 13.4:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 13.5:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 13.6:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 14.1:
+        non_striker: Younis Khan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 14.2:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Younis Khan
+    - 14.3:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 14.4:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 14.5:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 14.6:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Younis Khan
+    - 14.7:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 15.1:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 15.2:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 15.3:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 15.4:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Younis Khan
+    - 15.5:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 15.6:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 16.1:
+        non_striker: Younis Khan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 16.2:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 16.3:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Younis Khan
+    - 16.4:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 16.5:
+        non_striker: Younis Khan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 16.6:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Younis Khan
+    - 17.1:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 17.2:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 17.3:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 17.4:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 17.5:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Younis Khan
+    - 17.6:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 18.1:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 18.2:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Younis Khan
+    - 18.3:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 18.4:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 18.5:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Younis Khan
+    - 18.6:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 18.7:
+        non_striker: Younis Khan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 19.1:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saleem Elahi
+    - 19.2:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saleem Elahi
+    - 19.3:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 19.4:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 19.5:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Younis Khan
+    - 19.6:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 19.7:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 20.1:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Younis Khan
+    - 20.2:
+        non_striker: Younis Khan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 20.3:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 20.4:
+        non_striker: Younis Khan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 20.5:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 20.6:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 21.1:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 21.2:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 21.3:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 21.4:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 21.5:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 21.6:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saleem Elahi
+    - 22.1:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Younis Khan
+    - 22.2:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 22.3:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 22.4:
+        non_striker: Younis Khan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 22.5:
+        non_striker: Younis Khan
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 22.6:
+        non_striker: Saleem Elahi
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 23.1:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 23.2:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 23.3:
+        non_striker: Younis Khan
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 23.4:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+        wicket:
+          player_out: Younis Khan
+          fielders:
+          - M van Schoor
+          kind: caught
+    - 23.5:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inzamam-ul-Haq
+    - 23.6:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inzamam-ul-Haq
+    - 24.1:
+        non_striker: Inzamam-ul-Haq
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 24.2:
+        non_striker: Inzamam-ul-Haq
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 24.3:
+        non_striker: Inzamam-ul-Haq
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saleem Elahi
+    - 24.4:
+        non_striker: Inzamam-ul-Haq
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 24.5:
+        non_striker: Inzamam-ul-Haq
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 24.6:
+        non_striker: Inzamam-ul-Haq
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 25.1:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inzamam-ul-Haq
+    - 25.2:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inzamam-ul-Haq
+    - 25.3:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inzamam-ul-Haq
+    - 25.4:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inzamam-ul-Haq
+    - 25.5:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Inzamam-ul-Haq
+    - 25.6:
+        non_striker: Inzamam-ul-Haq
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 26.1:
+        non_striker: Inzamam-ul-Haq
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 26.2:
+        non_striker: Inzamam-ul-Haq
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 26.3:
+        non_striker: Inzamam-ul-Haq
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 26.4:
+        non_striker: Inzamam-ul-Haq
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 26.5:
+        non_striker: Inzamam-ul-Haq
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 26.6:
+        non_striker: Saleem Elahi
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Inzamam-ul-Haq
+    - 27.1:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Inzamam-ul-Haq
+    - 27.2:
+        non_striker: Inzamam-ul-Haq
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 27.3:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inzamam-ul-Haq
+    - 27.4:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inzamam-ul-Haq
+    - 27.5:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inzamam-ul-Haq
+    - 27.6:
+        non_striker: Saleem Elahi
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inzamam-ul-Haq
+    - 28.1:
+        non_striker: Inzamam-ul-Haq
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 28.2:
+        non_striker: Saleem Elahi
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Inzamam-ul-Haq
+    - 28.3:
+        non_striker: Inzamam-ul-Haq
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 28.4:
+        non_striker: Saleem Elahi
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inzamam-ul-Haq
+        wicket:
+          player_out: Inzamam-ul-Haq
+          kind: bowled
+    - 28.5:
+        non_striker: Saleem Elahi
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 28.6:
+        non_striker: Yousuf Youhana
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 29.1:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 29.2:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 29.3:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 29.4:
+        non_striker: Yousuf Youhana
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 29.5:
+        non_striker: Yousuf Youhana
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 29.6:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yousuf Youhana
+    - 30.1:
+        non_striker: Yousuf Youhana
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 30.2:
+        non_striker: Saleem Elahi
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 30.3:
+        non_striker: Yousuf Youhana
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 30.4:
+        non_striker: Yousuf Youhana
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 30.5:
+        non_striker: Yousuf Youhana
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 30.6:
+        non_striker: Saleem Elahi
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 31.1:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yousuf Youhana
+    - 31.2:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 31.3:
+        non_striker: Yousuf Youhana
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 31.4:
+        non_striker: Yousuf Youhana
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 31.5:
+        non_striker: Saleem Elahi
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 31.6:
+        non_striker: Yousuf Youhana
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saleem Elahi
+    - 32.1:
+        non_striker: Saleem Elahi
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 32.2:
+        non_striker: Yousuf Youhana
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 32.3:
+        non_striker: Saleem Elahi
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 32.4:
+        non_striker: Saleem Elahi
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 32.5:
+        non_striker: Saleem Elahi
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 32.6:
+        non_striker: Yousuf Youhana
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saleem Elahi
+    - 33.1:
+        non_striker: Saleem Elahi
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 33.2:
+        non_striker: Saleem Elahi
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 33.3:
+        non_striker: Yousuf Youhana
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Saleem Elahi
+    - 33.4:
+        non_striker: Saleem Elahi
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 33.5:
+        non_striker: Yousuf Youhana
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 33.6:
+        non_striker: Saleem Elahi
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 34.1:
+        non_striker: Yousuf Youhana
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 34.2:
+        non_striker: Saleem Elahi
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 34.3:
+        non_striker: Saleem Elahi
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 34.4:
+        non_striker: Saleem Elahi
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 34.5:
+        non_striker: Saleem Elahi
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 34.6:
+        non_striker: Saleem Elahi
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 35.1:
+        non_striker: Yousuf Youhana
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+        wicket:
+          player_out: Saleem Elahi
+          fielders:
+          - DB Kotze
+          kind: caught
+    - 35.2:
+        non_striker: Yousuf Youhana
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 35.3:
+        non_striker: Yousuf Youhana
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 35.4:
+        non_striker: Yousuf Youhana
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 35.5:
+        non_striker: Yousuf Youhana
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 35.6:
+        non_striker: Rashid Latif
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 36.1:
+        non_striker: Yousuf Youhana
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 36.2:
+        non_striker: Rashid Latif
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 36.3:
+        non_striker: Rashid Latif
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 36.4:
+        non_striker: Rashid Latif
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 36.5:
+        non_striker: Rashid Latif
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 36.6:
+        non_striker: Yousuf Youhana
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 37.1:
+        non_striker: Rashid Latif
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 37.2:
+        non_striker: Yousuf Youhana
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 37.3:
+        non_striker: Rashid Latif
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 37.4:
+        non_striker: Rashid Latif
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 37.5:
+        non_striker: Rashid Latif
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yousuf Youhana
+    - 37.6:
+        non_striker: Rashid Latif
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 38.1:
+        non_striker: Rashid Latif
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 38.2:
+        non_striker: Rashid Latif
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 38.3:
+        non_striker: Yousuf Youhana
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rashid Latif
+    - 38.4:
+        non_striker: Yousuf Youhana
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rashid Latif
+    - 38.5:
+        non_striker: Yousuf Youhana
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 38.6:
+        non_striker: Rashid Latif
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 39.1:
+        non_striker: Rashid Latif
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 39.2:
+        non_striker: Rashid Latif
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 39.3:
+        non_striker: Yousuf Youhana
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 39.4:
+        non_striker: Yousuf Youhana
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 39.5:
+        non_striker: Yousuf Youhana
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 39.6:
+        non_striker: Yousuf Youhana
+        bowler: AJ Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rashid Latif
+    - 40.1:
+        non_striker: Rashid Latif
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 40.2:
+        non_striker: Yousuf Youhana
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 40.3:
+        non_striker: Rashid Latif
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 40.4:
+        non_striker: Yousuf Youhana
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 40.5:
+        non_striker: Rashid Latif
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 40.6:
+        non_striker: Rashid Latif
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 41.1:
+        non_striker: Rashid Latif
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yousuf Youhana
+    - 41.2:
+        non_striker: Rashid Latif
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yousuf Youhana
+    - 41.3:
+        non_striker: Rashid Latif
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 41.4:
+        non_striker: Rashid Latif
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 41.5:
+        non_striker: Yousuf Youhana
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 41.6:
+        non_striker: Rashid Latif
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 42.1:
+        non_striker: Rashid Latif
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 42.2:
+        non_striker: Yousuf Youhana
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rashid Latif
+    - 42.3:
+        non_striker: Yousuf Youhana
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rashid Latif
+    - 42.4:
+        non_striker: Yousuf Youhana
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 42.5:
+        non_striker: Rashid Latif
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 42.6:
+        non_striker: Yousuf Youhana
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rashid Latif
+    - 43.1:
+        non_striker: Rashid Latif
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 43.2:
+        non_striker: Rashid Latif
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 43.3:
+        non_striker: Rashid Latif
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yousuf Youhana
+    - 43.4:
+        non_striker: Rashid Latif
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 43.5:
+        non_striker: Rashid Latif
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 43.6:
+        non_striker: Yousuf Youhana
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rashid Latif
+    - 44.1:
+        non_striker: Rashid Latif
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+        wicket:
+          player_out: Yousuf Youhana
+          fielders:
+          - LJ Burger
+          kind: caught
+    - 44.2:
+        non_striker: Wasim Akram
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 44.3:
+        non_striker: Rashid Latif
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Akram
+    - 44.4:
+        non_striker: Wasim Akram
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 44.5:
+        non_striker: Rashid Latif
+        bowler: BL Kotze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Wasim Akram
+    - 44.6:
+        non_striker: Rashid Latif
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Akram
+    - 44.7:
+        non_striker: Wasim Akram
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 45.1:
+        non_striker: Rashid Latif
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Akram
+    - 45.2:
+        non_striker: Wasim Akram
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 45.3:
+        non_striker: Wasim Akram
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 45.4:
+        non_striker: Wasim Akram
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 45.5:
+        non_striker: Rashid Latif
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wasim Akram
+    - 45.6:
+        non_striker: Rashid Latif
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Akram
+    - 46.1:
+        non_striker: Rashid Latif
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Akram
+    - 46.2:
+        non_striker: Wasim Akram
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rashid Latif
+    - 46.3:
+        non_striker: Wasim Akram
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+        wicket:
+          player_out: Rashid Latif
+          kind: bowled
+    - 46.4:
+        non_striker: Wasim Akram
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdul Razzaq
+    - 46.5:
+        non_striker: Wasim Akram
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+        wicket:
+          player_out: Abdul Razzaq
+          fielders:
+          - M van Schoor
+          kind: caught
+    - 46.6:
+        non_striker: Wasim Akram
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Younis
+    - 47.1:
+        non_striker: Wasim Akram
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Younis
+    - 47.2:
+        non_striker: Wasim Akram
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Younis
+    - 47.3:
+        non_striker: Waqar Younis
+        bowler: LJ Burger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Wasim Akram
+    - 47.4:
+        non_striker: Waqar Younis
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wasim Akram
+    - 47.5:
+        non_striker: Waqar Younis
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Akram
+    - 47.6:
+        non_striker: Waqar Younis
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wasim Akram
+    - 47.7:
+        non_striker: Waqar Younis
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Akram
+    - 48.1:
+        non_striker: Wasim Akram
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waqar Younis
+    - 48.2:
+        non_striker: Wasim Akram
+        bowler: G Snyman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Waqar Younis
+    - 48.3:
+        non_striker: Waqar Younis
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Akram
+    - 48.4:
+        non_striker: Wasim Akram
+        bowler: G Snyman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waqar Younis
+    - 48.5:
+        non_striker: Wasim Akram
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Waqar Younis
+    - 48.6:
+        non_striker: Wasim Akram
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Younis
+        wicket:
+          player_out: Waqar Younis
+          fielders:
+          - G Snyman
+          kind: run out
+    - 48.7:
+        non_striker: Wasim Akram
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saqlain Mushtaq
+        wicket:
+          player_out: Saqlain Mushtaq
+          fielders:
+          - M van Schoor
+          - BL Kotze
+          kind: run out
+    - 49.1:
+        non_striker: Shoaib Akhtar
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Akram
+    - 49.2:
+        non_striker: Wasim Akram
+        bowler: LJ Burger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shoaib Akhtar
+    - 49.3:
+        non_striker: Shoaib Akhtar
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Akram
+    - 49.4:
+        non_striker: Wasim Akram
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shoaib Akhtar
+    - 49.5:
+        non_striker: Wasim Akram
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shoaib Akhtar
+    - 49.6:
+        non_striker: Shoaib Akhtar
+        bowler: LJ Burger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Wasim Akram
+- 2nd innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SJ Swanepoel
+        batsman: R Walters
+    - 0.2:
+        bowler: Wasim Akram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SJ Swanepoel
+        batsman: R Walters
+    - 0.3:
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SJ Swanepoel
+        batsman: R Walters
+    - 0.4:
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SJ Swanepoel
+        batsman: R Walters
+    - 0.5:
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SJ Swanepoel
+        batsman: R Walters
+        wicket:
+          player_out: R Walters
+          fielders:
+          - Rashid Latif
+          kind: caught
+    - 0.6:
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SJ Swanepoel
+        batsman: AJ Burger
+    - 0.7:
+        non_striker: AJ Burger
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Swanepoel
+    - 1.1:
+        non_striker: AJ Burger
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Swanepoel
+        wicket:
+          player_out: SJ Swanepoel
+          fielders:
+          - Inzamam-ul-Haq
+          kind: caught
+    - 1.2:
+        non_striker: AJ Burger
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 1.3:
+        non_striker: AJ Burger
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+        wicket:
+          player_out: D Keulder
+          kind: bowled
+    - 1.4:
+        non_striker: AJ Burger
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GB Murgatroyd
+    - 1.5:
+        non_striker: AJ Burger
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GB Murgatroyd
+    - 1.6:
+        non_striker: AJ Burger
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: GB Murgatroyd
+    - 1.7:
+        non_striker: AJ Burger
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Murgatroyd
+    - 2.1:
+        non_striker: GB Murgatroyd
+        bowler: Wasim Akram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Burger
+    - 2.2:
+        non_striker: GB Murgatroyd
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Burger
+    - 2.3:
+        non_striker: GB Murgatroyd
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 2.4:
+        non_striker: GB Murgatroyd
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 2.5:
+        non_striker: GB Murgatroyd
+        bowler: Wasim Akram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AJ Burger
+    - 2.6:
+        non_striker: GB Murgatroyd
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Burger
+    - 2.7:
+        non_striker: AJ Burger
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Murgatroyd
+        wicket:
+          player_out: GB Murgatroyd
+          kind: lbw
+    - 2.8:
+        non_striker: AJ Burger
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+        wicket:
+          player_out: LJ Burger
+          kind: lbw
+    - 3.1:
+        non_striker: DB Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AJ Burger
+    - 3.2:
+        non_striker: AJ Burger
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DB Kotze
+    - 3.3:
+        non_striker: DB Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Burger
+    - 3.4:
+        non_striker: DB Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Burger
+    - 3.5:
+        non_striker: DB Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 3.6:
+        non_striker: DB Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 4.1:
+        non_striker: AJ Burger
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 4.2:
+        non_striker: AJ Burger
+        bowler: Wasim Akram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DB Kotze
+    - 4.3:
+        non_striker: AJ Burger
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Kotze
+    - 4.4:
+        non_striker: DB Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 4.5:
+        non_striker: DB Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 4.6:
+        non_striker: DB Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: AJ Burger
+    - 5.1:
+        non_striker: AJ Burger
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 5.2:
+        non_striker: AJ Burger
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 5.3:
+        non_striker: AJ Burger
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 5.4:
+        non_striker: AJ Burger
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 5.5:
+        non_striker: AJ Burger
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 5.6:
+        non_striker: AJ Burger
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 6.1:
+        non_striker: DB Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 6.2:
+        non_striker: DB Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Burger
+    - 6.3:
+        non_striker: AJ Burger
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 6.4:
+        non_striker: AJ Burger
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 6.5:
+        non_striker: AJ Burger
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 6.6:
+        non_striker: AJ Burger
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 7.1:
+        non_striker: DB Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 7.2:
+        non_striker: DB Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+        wicket:
+          player_out: AJ Burger
+          fielders:
+          - Younis Khan
+          kind: caught
+    - 7.3:
+        non_striker: DB Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Snyman
+        wicket:
+          player_out: G Snyman
+          kind: lbw
+    - 7.4:
+        non_striker: DB Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M van Schoor
+    - 7.5:
+        non_striker: DB Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 7.6:
+        non_striker: DB Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 8.1:
+        non_striker: M van Schoor
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Kotze
+    - 8.2:
+        non_striker: DB Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+        wicket:
+          player_out: M van Schoor
+          kind: lbw
+    - 8.3:
+        non_striker: DB Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 8.4:
+        non_striker: DB Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 8.5:
+        non_striker: DB Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 8.6:
+        non_striker: DB Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 9.1:
+        non_striker: BL Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DB Kotze
+    - 9.2:
+        non_striker: BL Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 9.3:
+        non_striker: BL Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 9.4:
+        non_striker: BL Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 9.5:
+        non_striker: BL Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 9.6:
+        non_striker: BL Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DB Kotze
+    - 10.1:
+        non_striker: DB Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 10.2:
+        non_striker: DB Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BL Kotze
+    - 10.3:
+        non_striker: BL Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 10.4:
+        non_striker: BL Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DB Kotze
+    - 10.5:
+        non_striker: BL Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 10.6:
+        non_striker: BL Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+        wicket:
+          player_out: DB Kotze
+          kind: lbw
+    - 11.1:
+        non_striker: RJ van Vuuren
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Kotze
+    - 11.2:
+        non_striker: BL Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ van Vuuren
+    - 11.3:
+        non_striker: BL Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ van Vuuren
+    - 11.4:
+        non_striker: BL Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ van Vuuren
+    - 11.5:
+        non_striker: RJ van Vuuren
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 11.6:
+        non_striker: RJ van Vuuren
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 12.1:
+        non_striker: BL Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ van Vuuren
+    - 12.2:
+        non_striker: BL Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ van Vuuren
+    - 12.3:
+        non_striker: BL Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ van Vuuren
+    - 12.4:
+        non_striker: BL Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ van Vuuren
+    - 12.5:
+        non_striker: BL Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ van Vuuren
+    - 12.6:
+        non_striker: BL Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ van Vuuren
+    - 13.1:
+        non_striker: RJ van Vuuren
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Kotze
+    - 13.2:
+        non_striker: BL Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ van Vuuren
+    - 13.3:
+        non_striker: BL Kotze
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RJ van Vuuren
+    - 13.4:
+        non_striker: RJ van Vuuren
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 13.5:
+        non_striker: RJ van Vuuren
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BL Kotze
+    - 13.6:
+        non_striker: RJ van Vuuren
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: BL Kotze
+    - 13.7:
+        non_striker: RJ van Vuuren
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BL Kotze
+    - 14.1:
+        non_striker: BL Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ van Vuuren
+    - 14.2:
+        non_striker: BL Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ van Vuuren
+    - 14.3:
+        non_striker: RJ van Vuuren
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 14.4:
+        non_striker: RJ van Vuuren
+        bowler: Wasim Akram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BL Kotze
+    - 14.5:
+        non_striker: BL Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RJ van Vuuren
+    - 14.6:
+        non_striker: RJ van Vuuren
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Kotze
+    - 15.1:
+        non_striker: RJ van Vuuren
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BL Kotze
+    - 15.2:
+        non_striker: RJ van Vuuren
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 15.3:
+        non_striker: RJ van Vuuren
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Kotze
+    - 15.4:
+        non_striker: RJ van Vuuren
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: BL Kotze
+    - 15.5:
+        non_striker: RJ van Vuuren
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 15.6:
+        non_striker: RJ van Vuuren
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Kotze
+    - 15.7:
+        non_striker: RJ van Vuuren
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 15.8:
+        non_striker: RJ van Vuuren
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Kotze
+    - 16.1:
+        non_striker: RJ van Vuuren
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 16.2:
+        non_striker: RJ van Vuuren
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 16.3:
+        non_striker: RJ van Vuuren
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Kotze
+    - 16.4:
+        non_striker: RJ van Vuuren
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Kotze
+    - 16.5:
+        non_striker: BL Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RJ van Vuuren
+    - 16.6:
+        non_striker: BL Kotze
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ van Vuuren
+    - 17.1:
+        non_striker: RJ van Vuuren
+        bowler: Saqlain Mushtaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Kotze
+    - 17.2:
+        non_striker: BL Kotze
+        bowler: Saqlain Mushtaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ van Vuuren
+    - 17.3:
+        non_striker: BL Kotze
+        bowler: Saqlain Mushtaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ van Vuuren
+    - 17.4:
+        non_striker: BL Kotze
+        bowler: Saqlain Mushtaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ van Vuuren
+        wicket:
+          player_out: RJ van Vuuren
+          fielders:
+          - Waqar Younis
+          kind: caught

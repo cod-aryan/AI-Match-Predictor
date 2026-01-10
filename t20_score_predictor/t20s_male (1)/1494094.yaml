@@ -1,0 +1,2187 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2025-07-20'
+  gender: male
+  match_type: T20
+  match_type_number: 3333
+  outcome:
+    winner: Hong Kong
+    by:
+      runs: 52
+  overs: 20
+  player_of_match:
+  - Anshuman Rath
+  players:
+    Hong Kong:
+    - Zeeshan Ali
+    - Anshuman Rath
+    - Babar Hayat
+    - Nizakat Khan
+    - Kalhan Challu
+    - Yasim Murtaza
+    - Ehsan Khan
+    - Waqas Barkat
+    - Ateeq Iqbal
+    - Nasrulla Rana
+    - A Shukla
+    Singapore:
+    - Aman Desai
+    - Arnav Manoj
+    - M Bhatia
+    - Manpreet Singh
+    - K Sathish
+    - SH Venugopal
+    - H Venkataram
+    - C Shivakumar
+    - Kabir Berlia
+    - AR Puri
+    - PSRK Sudarshan
+  registry:
+    people:
+      A Natarajan: a2b73ae0
+      A Shukla: a1e80d06
+      AR Puri: 1f490b28
+      Aman Desai: c10fd8f9
+      Anshuman Rath: 552b228c
+      Arnav Manoj: 788dbfcd
+      Ateeq Iqbal: 29b322c7
+      Babar Hayat: fbb657bb
+      C Shivakumar: a02a0e07
+      Ehsan Khan: d3851cd8
+      H Venkataram: e61cee7b
+      Hardeep Jadeja: 552cf5a2
+      K Sathish: 1cad1601
+      Kabir Berlia: 5e5a45bd
+      Kalhan Challu: cc6b0cda
+      M Bhatia: 22bdbba3
+      Manpreet Singh: e9d6a2ce
+      Nasrulla Rana: 9ffb7550
+      Nizakat Khan: e3eb9e46
+      PSRK Sudarshan: 3a44a4e4
+      SH Venugopal: 9f542219
+      Sarika Prasad: 8ff397fa
+      Sathish Balasubramaniam: b4794f2a
+      Waqas Barkat: a2eac9df
+      Yasim Murtaza: c9d05f1a
+      Zeeshan Ali: 987187b9
+  teams:
+  - Hong Kong
+  - Singapore
+  toss:
+    winner: Singapore
+    decision: field
+  umpires:
+  - A Natarajan
+  - Hardeep Jadeja
+  venue: Singapore National Cricket Ground
+innings:
+- 1st innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        non_striker: Anshuman Rath
+        batsman: Zeeshan Ali
+    - 0.2:
+        non_striker: Zeeshan Ali
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Anshuman Rath
+    - 0.3:
+        non_striker: Anshuman Rath
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 0.4:
+        non_striker: Anshuman Rath
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 0.5:
+        non_striker: Zeeshan Ali
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anshuman Rath
+    - 0.6:
+        non_striker: Zeeshan Ali
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 0.7:
+        non_striker: Zeeshan Ali
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 1.1:
+        non_striker: Anshuman Rath
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 1.2:
+        non_striker: Anshuman Rath
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 1.3:
+        non_striker: Zeeshan Ali
+        bowler: H Venkataram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anshuman Rath
+    - 1.4:
+        non_striker: Zeeshan Ali
+        bowler: H Venkataram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Anshuman Rath
+    - 1.5:
+        non_striker: Anshuman Rath
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 1.6:
+        non_striker: Zeeshan Ali
+        bowler: H Venkataram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Anshuman Rath
+    - 1.7:
+        non_striker: Anshuman Rath
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+        wicket:
+          player_out: Zeeshan Ali
+          kind: bowled
+    - 2.1:
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Babar Hayat
+        batsman: Anshuman Rath
+    - 2.2:
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Babar Hayat
+        batsman: Anshuman Rath
+    - 2.3:
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Babar Hayat
+        batsman: Anshuman Rath
+    - 2.4:
+        non_striker: Anshuman Rath
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 2.5:
+        non_striker: Babar Hayat
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 2.6:
+        non_striker: Anshuman Rath
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 3.1:
+        non_striker: Babar Hayat
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 3.2:
+        non_striker: Babar Hayat
+        bowler: H Venkataram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Anshuman Rath
+    - 3.3:
+        non_striker: Anshuman Rath
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+    - 3.4:
+        non_striker: Anshuman Rath
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+    - 3.5:
+        non_striker: Anshuman Rath
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 3.6:
+        non_striker: Anshuman Rath
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+    - 4.1:
+        non_striker: Babar Hayat
+        bowler: AR Puri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anshuman Rath
+    - 4.2:
+        non_striker: Babar Hayat
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 4.3:
+        non_striker: Babar Hayat
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Anshuman Rath
+    - 4.4:
+        non_striker: Babar Hayat
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 4.5:
+        non_striker: Babar Hayat
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 4.6:
+        non_striker: Babar Hayat
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 4.7:
+        non_striker: Babar Hayat
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 5.1:
+        non_striker: Anshuman Rath
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Babar Hayat
+    - 5.2:
+        non_striker: Anshuman Rath
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Babar Hayat
+    - 5.3:
+        non_striker: Babar Hayat
+        bowler: C Shivakumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anshuman Rath
+    - 5.4:
+        non_striker: Babar Hayat
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 5.5:
+        non_striker: Babar Hayat
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 5.6:
+        non_striker: Babar Hayat
+        bowler: C Shivakumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Anshuman Rath
+    - 5.7:
+        non_striker: Anshuman Rath
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 6.1:
+        non_striker: Anshuman Rath
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 6.2:
+        non_striker: Anshuman Rath
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 6.3:
+        non_striker: Babar Hayat
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 6.4:
+        non_striker: Babar Hayat
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 6.5:
+        non_striker: Babar Hayat
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 6.6:
+        non_striker: Anshuman Rath
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Hayat
+    - 7.1:
+        non_striker: Babar Hayat
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 7.2:
+        non_striker: Babar Hayat
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 7.3:
+        non_striker: Anshuman Rath
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 7.4:
+        non_striker: Babar Hayat
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 7.5:
+        non_striker: Anshuman Rath
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 7.6:
+        non_striker: Anshuman Rath
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 8.1:
+        non_striker: Babar Hayat
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 8.2:
+        non_striker: Anshuman Rath
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 8.3:
+        non_striker: Babar Hayat
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 8.4:
+        non_striker: Babar Hayat
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 8.5:
+        non_striker: Anshuman Rath
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 8.6:
+        non_striker: Babar Hayat
+        bowler: AR Puri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anshuman Rath
+    - 8.7:
+        non_striker: Babar Hayat
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anshuman Rath
+    - 9.1:
+        non_striker: Anshuman Rath
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 9.2:
+        non_striker: Babar Hayat
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 9.3:
+        non_striker: Anshuman Rath
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 9.4:
+        non_striker: Anshuman Rath
+        bowler: Kabir Berlia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Babar Hayat
+    - 9.5:
+        non_striker: Babar Hayat
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 9.6:
+        non_striker: Anshuman Rath
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 10.1:
+        non_striker: Anshuman Rath
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 10.2:
+        non_striker: Babar Hayat
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 10.3:
+        non_striker: Anshuman Rath
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 10.4:
+        non_striker: Anshuman Rath
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 10.5:
+        non_striker: Babar Hayat
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 10.6:
+        non_striker: Anshuman Rath
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 11.1:
+        non_striker: Anshuman Rath
+        bowler: K Sathish
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 11.2:
+        non_striker: Babar Hayat
+        bowler: K Sathish
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 11.3:
+        non_striker: Babar Hayat
+        bowler: K Sathish
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 11.4:
+        non_striker: Anshuman Rath
+        bowler: K Sathish
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 11.5:
+        non_striker: Babar Hayat
+        bowler: K Sathish
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 11.6:
+        non_striker: Anshuman Rath
+        bowler: K Sathish
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 12.1:
+        non_striker: Babar Hayat
+        bowler: C Shivakumar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Anshuman Rath
+    - 12.2:
+        non_striker: Anshuman Rath
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 12.3:
+        non_striker: Babar Hayat
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 12.4:
+        non_striker: Anshuman Rath
+        bowler: C Shivakumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Babar Hayat
+    - 12.5:
+        non_striker: Anshuman Rath
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 12.6:
+        non_striker: Anshuman Rath
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 12.7:
+        non_striker: Babar Hayat
+        bowler: C Shivakumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anshuman Rath
+    - 12.8:
+        non_striker: Babar Hayat
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 12.9:
+        non_striker: Anshuman Rath
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 13.1:
+        non_striker: Anshuman Rath
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Babar Hayat
+    - 13.2:
+        non_striker: Anshuman Rath
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+        wicket:
+          player_out: Babar Hayat
+          fielders:
+          - SH Venugopal
+          kind: caught
+    - 13.3:
+        non_striker: Anshuman Rath
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 13.4:
+        non_striker: Anshuman Rath
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nizakat Khan
+    - 13.5:
+        non_striker: Anshuman Rath
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 13.6:
+        non_striker: Anshuman Rath
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 14.1:
+        non_striker: Nizakat Khan
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 14.2:
+        non_striker: Anshuman Rath
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 14.3:
+        non_striker: Anshuman Rath
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 14.4:
+        non_striker: Anshuman Rath
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+        wicket:
+          player_out: Nizakat Khan
+          fielders:
+          - Manpreet Singh
+          kind: stumped
+    - 14.5:
+        non_striker: Anshuman Rath
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kalhan Challu
+    - 14.6:
+        non_striker: Anshuman Rath
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kalhan Challu
+    - 15.1:
+        non_striker: Kalhan Challu
+        bowler: C Shivakumar
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Anshuman Rath
+    - 15.2:
+        non_striker: Anshuman Rath
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kalhan Challu
+    - 15.3:
+        non_striker: Kalhan Challu
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anshuman Rath
+    - 15.4:
+        non_striker: Kalhan Challu
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 15.5:
+        non_striker: Anshuman Rath
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kalhan Challu
+    - 15.6:
+        non_striker: Kalhan Challu
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 15.7:
+        non_striker: Kalhan Challu
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 16.1:
+        non_striker: Kalhan Challu
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 16.2:
+        non_striker: Anshuman Rath
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kalhan Challu
+    - 16.3:
+        non_striker: Anshuman Rath
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kalhan Challu
+    - 16.4:
+        non_striker: Kalhan Challu
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anshuman Rath
+    - 16.5:
+        non_striker: Kalhan Challu
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 16.6:
+        non_striker: Kalhan Challu
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 17.1:
+        non_striker: Anshuman Rath
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kalhan Challu
+    - 17.2:
+        non_striker: Kalhan Challu
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 17.3:
+        non_striker: Anshuman Rath
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kalhan Challu
+        wicket:
+          player_out: Kalhan Challu
+          fielders:
+          - AR Puri
+          kind: caught
+    - 17.4:
+        non_striker: Anshuman Rath
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasim Murtaza
+    - 17.5:
+        non_striker: Yasim Murtaza
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 17.6:
+        non_striker: Anshuman Rath
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasim Murtaza
+    - 18.1:
+        non_striker: Yasim Murtaza
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 18.2:
+        non_striker: Yasim Murtaza
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anshuman Rath
+    - 18.3:
+        non_striker: Yasim Murtaza
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 18.4:
+        non_striker: Anshuman Rath
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasim Murtaza
+    - 18.5:
+        non_striker: Yasim Murtaza
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 18.6:
+        non_striker: Yasim Murtaza
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anshuman Rath
+    - 18.7:
+        non_striker: Yasim Murtaza
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 19.1:
+        non_striker: Yasim Murtaza
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 19.2:
+        non_striker: Anshuman Rath
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasim Murtaza
+    - 19.3:
+        non_striker: Yasim Murtaza
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 19.4:
+        non_striker: Anshuman Rath
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasim Murtaza
+    - 19.5:
+        non_striker: Yasim Murtaza
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 19.6:
+        non_striker: Yasim Murtaza
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+- 2nd innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: Arnav Manoj
+        batsman: Aman Desai
+    - 0.2:
+        non_striker: Aman Desai
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arnav Manoj
+    - 0.3:
+        non_striker: Aman Desai
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arnav Manoj
+        wicket:
+          player_out: Arnav Manoj
+          kind: bowled
+    - 0.4:
+        non_striker: Aman Desai
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bhatia
+    - 0.5:
+        non_striker: Aman Desai
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bhatia
+    - 0.6:
+        non_striker: M Bhatia
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 1.1:
+        non_striker: Aman Desai
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Bhatia
+    - 1.2:
+        non_striker: M Bhatia
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 1.3:
+        non_striker: M Bhatia
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 1.4:
+        non_striker: M Bhatia
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 1.5:
+        non_striker: M Bhatia
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 1.6:
+        non_striker: M Bhatia
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 2.1:
+        non_striker: Aman Desai
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Bhatia
+        wicket:
+          player_out: M Bhatia
+          kind: bowled
+    - 2.2:
+        non_striker: Aman Desai
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 2.3:
+        non_striker: Aman Desai
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 2.4:
+        non_striker: Aman Desai
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 2.5:
+        non_striker: Aman Desai
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 2.6:
+        non_striker: Manpreet Singh
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 3.1:
+        non_striker: Aman Desai
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 3.2:
+        non_striker: Aman Desai
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 3.3:
+        non_striker: Manpreet Singh
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 3.4:
+        non_striker: Aman Desai
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 3.5:
+        non_striker: Aman Desai
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 3.6:
+        non_striker: Manpreet Singh
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 4.1:
+        non_striker: Aman Desai
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 4.2:
+        non_striker: Manpreet Singh
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 4.3:
+        non_striker: Aman Desai
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 4.4:
+        non_striker: Aman Desai
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Manpreet Singh
+    - 4.5:
+        non_striker: Aman Desai
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 4.6:
+        non_striker: Aman Desai
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 5.1:
+        non_striker: Manpreet Singh
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 5.2:
+        non_striker: Aman Desai
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Manpreet Singh
+    - 5.3:
+        non_striker: Aman Desai
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 5.4:
+        non_striker: Manpreet Singh
+        bowler: Ehsan Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Aman Desai
+    - 5.5:
+        non_striker: Aman Desai
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 5.6:
+        non_striker: Manpreet Singh
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 6.1:
+        non_striker: Aman Desai
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 6.2:
+        non_striker: Aman Desai
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 6.3:
+        non_striker: Manpreet Singh
+        bowler: Nasrulla Rana
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Aman Desai
+    - 6.4:
+        non_striker: Manpreet Singh
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 6.5:
+        non_striker: Aman Desai
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Manpreet Singh
+    - 6.6:
+        non_striker: Aman Desai
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 6.7:
+        non_striker: Aman Desai
+        bowler: Nasrulla Rana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 7.1:
+        non_striker: Aman Desai
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 7.2:
+        non_striker: Aman Desai
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 7.3:
+        non_striker: Aman Desai
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 7.4:
+        non_striker: Manpreet Singh
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aman Desai
+    - 7.5:
+        non_striker: Manpreet Singh
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 7.6:
+        non_striker: Aman Desai
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 8.1:
+        non_striker: Aman Desai
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 8.2:
+        non_striker: Aman Desai
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 8.3:
+        non_striker: Manpreet Singh
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 8.4:
+        non_striker: Manpreet Singh
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 8.5:
+        non_striker: Aman Desai
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+        wicket:
+          player_out: Manpreet Singh
+          fielders:
+          - Nizakat Khan
+          kind: caught
+    - 8.6:
+        non_striker: Aman Desai
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+    - 9.1:
+        non_striker: K Sathish
+        bowler: Waqas Barkat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aman Desai
+    - 9.2:
+        non_striker: K Sathish
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 9.3:
+        non_striker: K Sathish
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aman Desai
+    - 9.4:
+        non_striker: K Sathish
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 9.5:
+        non_striker: Aman Desai
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 9.6:
+        non_striker: K Sathish
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 9.7:
+        non_striker: Aman Desai
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+    - 10.1:
+        non_striker: K Sathish
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 10.2:
+        non_striker: K Sathish
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 10.3:
+        non_striker: Aman Desai
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 10.4:
+        non_striker: K Sathish
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+    - 10.5:
+        non_striker: K Sathish
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 10.6:
+        non_striker: Aman Desai
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Sathish
+    - 11.1:
+        non_striker: K Sathish
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 11.2:
+        non_striker: Aman Desai
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 11.3:
+        non_striker: K Sathish
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+        wicket:
+          player_out: Aman Desai
+          fielders:
+          - Babar Hayat
+          kind: caught
+    - 11.4:
+        non_striker: K Sathish
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 11.5:
+        non_striker: SH Venugopal
+        bowler: Waqas Barkat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: K Sathish
+    - 11.6:
+        non_striker: K Sathish
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 12.1:
+        non_striker: SH Venugopal
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+    - 12.2:
+        non_striker: SH Venugopal
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+    - 12.3:
+        non_striker: SH Venugopal
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 12.4:
+        non_striker: K Sathish
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 12.5:
+        non_striker: SH Venugopal
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+    - 12.6:
+        non_striker: SH Venugopal
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 13.1:
+        non_striker: SH Venugopal
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 13.2:
+        non_striker: K Sathish
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 13.3:
+        non_striker: SH Venugopal
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 13.4:
+        non_striker: K Sathish
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 13.5:
+        non_striker: SH Venugopal
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+    - 13.6:
+        non_striker: SH Venugopal
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Sathish
+    - 14.1:
+        non_striker: K Sathish
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SH Venugopal
+    - 14.2:
+        non_striker: SH Venugopal
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 14.3:
+        non_striker: K Sathish
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Venugopal
+    - 14.4:
+        non_striker: K Sathish
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 14.5:
+        non_striker: SH Venugopal
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 14.6:
+        non_striker: K Sathish
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 15.1:
+        non_striker: K Sathish
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 15.2:
+        non_striker: K Sathish
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 15.3:
+        non_striker: K Sathish
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 15.4:
+        non_striker: K Sathish
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Venugopal
+    - 15.5:
+        non_striker: K Sathish
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 15.6:
+        non_striker: K Sathish
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SH Venugopal
+    - 16.1:
+        non_striker: SH Venugopal
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 16.2:
+        non_striker: K Sathish
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 16.3:
+        non_striker: SH Venugopal
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 16.4:
+        non_striker: K Sathish
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SH Venugopal
+    - 16.5:
+        non_striker: K Sathish
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 16.6:
+        non_striker: SH Venugopal
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 17.1:
+        non_striker: SH Venugopal
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 17.2:
+        non_striker: K Sathish
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 17.3:
+        non_striker: SH Venugopal
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+        wicket:
+          player_out: K Sathish
+          fielders:
+          - Waqas Barkat
+          kind: caught
+    - 17.4:
+        non_striker: SH Venugopal
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Venkataram
+    - 17.5:
+        non_striker: H Venkataram
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 17.6:
+        non_striker: SH Venugopal
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Venkataram
+    - 18.1:
+        non_striker: H Venkataram
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 18.2:
+        non_striker: H Venkataram
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SH Venugopal
+    - 18.3:
+        non_striker: H Venkataram
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 18.4:
+        non_striker: H Venkataram
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SH Venugopal
+    - 18.5:
+        non_striker: H Venkataram
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Venugopal
+    - 18.6:
+        non_striker: H Venkataram
+        bowler: Waqas Barkat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SH Venugopal
+    - 19.1:
+        non_striker: SH Venugopal
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Venkataram
+    - 19.2:
+        non_striker: SH Venugopal
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Venkataram
+    - 19.3:
+        non_striker: SH Venugopal
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Venkataram
+    - 19.4:
+        non_striker: H Venkataram
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 19.5:
+        non_striker: SH Venugopal
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Venkataram
+    - 19.6:
+        non_striker: H Venkataram
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal

@@ -1,0 +1,2173 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2025-07-22'
+  gender: male
+  match_type: T20
+  match_type_number: 3344
+  outcome:
+    winner: Singapore
+    by:
+      wickets: 3
+  overs: 20
+  player_of_match:
+  - G Gune
+  players:
+    Samoa:
+    - S Cotter
+    - DE Roache
+    - BF Mailata
+    - SF Tiai
+    - D Visser
+    - CK Jasmat
+    - F Suluoto
+    - S Sola
+    - SJ French
+    - SM Nash
+    - KAB Hynam-Nyberg
+    Singapore:
+    - Aman Desai
+    - Arnav Manoj
+    - C Shivakumar
+    - Manpreet Singh
+    - MA Sherry
+    - SH Venugopal
+    - G Gune
+    - H Venkataram
+    - Kabir Berlia
+    - PSRK Sudarshan
+    - AR Puri
+  registry:
+    people:
+      AR Puri: 1f490b28
+      Aman Desai: c10fd8f9
+      Arnav Manoj: 788dbfcd
+      BF Mailata: f49935eb
+      C Shivakumar: a02a0e07
+      CK Jasmat: 5299063a
+      D Visser: bb4da4d3
+      DE Roache: 110b180a
+      E Rajvengadesh: 9b50c645
+      F Suluoto: ae380321
+      G Gune: 5491a9ff
+      H Venkataram: e61cee7b
+      KAB Hynam-Nyberg: 692ed48b
+      KSVP Venu Madhav: 8c7fb752
+      Kabir Berlia: 5e5a45bd
+      MA Sherry: 77eb2d60
+      Manpreet Singh: e9d6a2ce
+      PSRK Sudarshan: 3a44a4e4
+      S Cotter: e6127436
+      S Ramesh: 6055237d
+      S Sola: 3f9feb1e
+      SF Tiai: bf19d427
+      SH Venugopal: 9f542219
+      SJ French: 0e93ef92
+      SM Nash: 4f3a89ae
+      T Senthil Kumar: 961ddfac
+  teams:
+  - Samoa
+  - Singapore
+  toss:
+    winner: Samoa
+    decision: bat
+  umpires:
+  - E Rajvengadesh
+  - KSVP Venu Madhav
+  venue: Singapore National Cricket Ground
+innings:
+- 1st innings:
+    team: Samoa
+    deliveries:
+    - 0.1:
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DE Roache
+        batsman: S Cotter
+    - 0.2:
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DE Roache
+        batsman: S Cotter
+    - 0.3:
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DE Roache
+        batsman: S Cotter
+    - 0.4:
+        non_striker: S Cotter
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Roache
+    - 0.5:
+        non_striker: S Cotter
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DE Roache
+    - 0.6:
+        non_striker: S Cotter
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Roache
+    - 0.7:
+        non_striker: S Cotter
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DE Roache
+    - 1.1:
+        non_striker: S Cotter
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Roache
+        wicket:
+          player_out: DE Roache
+          kind: bowled
+    - 1.2:
+        non_striker: S Cotter
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Mailata
+    - 1.3:
+        non_striker: BF Mailata
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Cotter
+    - 1.4:
+        non_striker: S Cotter
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Mailata
+    - 1.5:
+        non_striker: BF Mailata
+        bowler: H Venkataram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Cotter
+    - 1.6:
+        non_striker: S Cotter
+        bowler: H Venkataram
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: BF Mailata
+    - 1.7:
+        non_striker: BF Mailata
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Cotter
+    - 2.1:
+        non_striker: S Cotter
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Mailata
+    - 2.2:
+        non_striker: BF Mailata
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Cotter
+    - 2.3:
+        non_striker: S Cotter
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BF Mailata
+    - 2.4:
+        non_striker: S Cotter
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Mailata
+    - 2.5:
+        non_striker: S Cotter
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Mailata
+    - 2.6:
+        non_striker: S Cotter
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Mailata
+    - 3.1:
+        non_striker: S Cotter
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Mailata
+    - 3.2:
+        non_striker: S Cotter
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Mailata
+    - 3.3:
+        non_striker: S Cotter
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Mailata
+    - 3.4:
+        non_striker: S Cotter
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Mailata
+    - 3.5:
+        non_striker: S Cotter
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Mailata
+    - 3.6:
+        non_striker: BF Mailata
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Cotter
+    - 4.1:
+        non_striker: BF Mailata
+        bowler: H Venkataram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Cotter
+    - 4.2:
+        non_striker: BF Mailata
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Cotter
+    - 4.3:
+        non_striker: BF Mailata
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Cotter
+    - 4.4:
+        non_striker: BF Mailata
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Cotter
+    - 4.5:
+        non_striker: BF Mailata
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Cotter
+    - 4.6:
+        non_striker: BF Mailata
+        bowler: H Venkataram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Cotter
+    - 4.7:
+        non_striker: S Cotter
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BF Mailata
+    - 5.1:
+        non_striker: BF Mailata
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Cotter
+        wicket:
+          player_out: S Cotter
+          kind: lbw
+    - 5.2:
+        non_striker: BF Mailata
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 5.3:
+        non_striker: BF Mailata
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 5.4:
+        non_striker: BF Mailata
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 5.5:
+        non_striker: BF Mailata
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SF Tiai
+    - 5.6:
+        non_striker: BF Mailata
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 6.1:
+        non_striker: SF Tiai
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Mailata
+    - 6.2:
+        non_striker: SF Tiai
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Mailata
+    - 6.3:
+        non_striker: BF Mailata
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 6.4:
+        non_striker: BF Mailata
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+        wicket:
+          player_out: SF Tiai
+          fielders:
+          - PSRK Sudarshan
+          kind: caught
+    - 6.5:
+        non_striker: BF Mailata
+        bowler: AR Puri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Visser
+    - 6.6:
+        non_striker: BF Mailata
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 6.7:
+        non_striker: BF Mailata
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Visser
+    - 7.1:
+        non_striker: D Visser
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Mailata
+    - 7.2:
+        non_striker: D Visser
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BF Mailata
+    - 7.3:
+        non_striker: D Visser
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Mailata
+    - 7.4:
+        non_striker: D Visser
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Mailata
+    - 7.5:
+        non_striker: BF Mailata
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 7.6:
+        non_striker: D Visser
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BF Mailata
+    - 8.1:
+        non_striker: BF Mailata
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 8.2:
+        non_striker: BF Mailata
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 8.3:
+        non_striker: BF Mailata
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 8.4:
+        non_striker: D Visser
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BF Mailata
+    - 8.5:
+        non_striker: BF Mailata
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Visser
+    - 8.6:
+        non_striker: BF Mailata
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 9.1:
+        non_striker: D Visser
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Mailata
+    - 9.2:
+        non_striker: D Visser
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: BF Mailata
+    - 9.3:
+        non_striker: D Visser
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Mailata
+    - 9.4:
+        non_striker: D Visser
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Mailata
+        wicket:
+          player_out: BF Mailata
+          kind: lbw
+    - 9.5:
+        non_striker: D Visser
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CK Jasmat
+    - 9.6:
+        non_striker: D Visser
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 10.1:
+        non_striker: D Visser
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 10.2:
+        non_striker: D Visser
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CK Jasmat
+    - 10.3:
+        non_striker: D Visser
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 10.4:
+        non_striker: D Visser
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CK Jasmat
+    - 10.5:
+        non_striker: D Visser
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 10.6:
+        non_striker: CK Jasmat
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 11.1:
+        non_striker: CK Jasmat
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 11.2:
+        non_striker: D Visser
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 11.3:
+        non_striker: D Visser
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 11.4:
+        non_striker: D Visser
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 11.5:
+        non_striker: D Visser
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 11.6:
+        non_striker: D Visser
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 12.1:
+        non_striker: D Visser
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 12.2:
+        non_striker: D Visser
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 12.3:
+        non_striker: D Visser
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 12.4:
+        non_striker: CK Jasmat
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 12.5:
+        non_striker: CK Jasmat
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 12.6:
+        non_striker: D Visser
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 13.1:
+        non_striker: D Visser
+        bowler: C Shivakumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CK Jasmat
+    - 13.2:
+        non_striker: CK Jasmat
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 13.3:
+        non_striker: CK Jasmat
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Visser
+    - 13.4:
+        non_striker: CK Jasmat
+        bowler: C Shivakumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Visser
+    - 13.5:
+        non_striker: CK Jasmat
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Visser
+    - 13.6:
+        non_striker: CK Jasmat
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 13.7:
+        non_striker: D Visser
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CK Jasmat
+    - 14.1:
+        non_striker: CK Jasmat
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 14.2:
+        non_striker: D Visser
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 14.3:
+        non_striker: CK Jasmat
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 14.4:
+        non_striker: D Visser
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CK Jasmat
+    - 14.5:
+        non_striker: D Visser
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CK Jasmat
+    - 14.6:
+        non_striker: D Visser
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 15.1:
+        non_striker: CK Jasmat
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 15.2:
+        non_striker: D Visser
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 15.3:
+        non_striker: D Visser
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CK Jasmat
+    - 15.4:
+        non_striker: D Visser
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+        wicket:
+          player_out: CK Jasmat
+          fielders:
+          - PSRK Sudarshan
+          kind: caught
+    - 15.5:
+        non_striker: D Visser
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: F Suluoto
+    - 15.6:
+        non_striker: D Visser
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Suluoto
+    - 16.1:
+        non_striker: F Suluoto
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 16.2:
+        non_striker: F Suluoto
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+        wicket:
+          player_out: D Visser
+          fielders:
+          - Aman Desai
+          kind: caught
+    - 16.3:
+        non_striker: F Suluoto
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sola
+    - 16.4:
+        non_striker: S Sola
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Suluoto
+    - 16.5:
+        non_striker: F Suluoto
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sola
+    - 16.6:
+        non_striker: F Suluoto
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sola
+    - 17.1:
+        non_striker: S Sola
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Suluoto
+    - 17.2:
+        non_striker: F Suluoto
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sola
+    - 17.3:
+        non_striker: F Suluoto
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sola
+    - 17.4:
+        non_striker: F Suluoto
+        bowler: Manpreet Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sola
+    - 17.5:
+        non_striker: F Suluoto
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sola
+    - 17.6:
+        non_striker: S Sola
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Suluoto
+    - 17.7:
+        non_striker: S Sola
+        bowler: Manpreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Suluoto
+    - 18.1:
+        non_striker: F Suluoto
+        bowler: H Venkataram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sola
+    - 18.2:
+        non_striker: F Suluoto
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sola
+    - 18.3:
+        non_striker: S Sola
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Suluoto
+    - 18.4:
+        non_striker: S Sola
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Suluoto
+    - 18.5:
+        non_striker: F Suluoto
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sola
+    - 18.6:
+        non_striker: S Sola
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Suluoto
+    - 18.7:
+        non_striker: F Suluoto
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sola
+    - 19.1:
+        non_striker: S Sola
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Suluoto
+    - 19.2:
+        non_striker: S Sola
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Suluoto
+    - 19.3:
+        non_striker: S Sola
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Suluoto
+    - 19.4:
+        non_striker: F Suluoto
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sola
+    - 19.5:
+        non_striker: S Sola
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Suluoto
+    - 19.6:
+        non_striker: F Suluoto
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sola
+- 2nd innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: SM Nash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Arnav Manoj
+        batsman: Aman Desai
+    - 0.2:
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Arnav Manoj
+        batsman: Aman Desai
+    - 0.3:
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Arnav Manoj
+        batsman: Aman Desai
+    - 0.4:
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: Arnav Manoj
+        batsman: Aman Desai
+    - 0.5:
+        non_striker: Aman Desai
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arnav Manoj
+    - 0.6:
+        non_striker: Aman Desai
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arnav Manoj
+    - 0.7:
+        non_striker: Aman Desai
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Arnav Manoj
+        wicket:
+          player_out: Arnav Manoj
+          kind: bowled
+    - 1.1:
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Shivakumar
+        batsman: Aman Desai
+    - 1.2:
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Shivakumar
+        batsman: Aman Desai
+    - 1.3:
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Shivakumar
+        batsman: Aman Desai
+    - 1.4:
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Shivakumar
+        batsman: Aman Desai
+    - 1.5:
+        non_striker: Aman Desai
+        bowler: CK Jasmat
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: C Shivakumar
+    - 1.6:
+        non_striker: Aman Desai
+        bowler: CK Jasmat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Shivakumar
+    - 2.1:
+        non_striker: Aman Desai
+        bowler: SM Nash
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: C Shivakumar
+    - 2.2:
+        non_striker: Aman Desai
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Shivakumar
+    - 2.3:
+        non_striker: Aman Desai
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Shivakumar
+    - 2.4:
+        non_striker: C Shivakumar
+        bowler: SM Nash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aman Desai
+    - 2.5:
+        non_striker: C Shivakumar
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+        wicket:
+          player_out: Aman Desai
+          fielders:
+          - BF Mailata
+          kind: caught
+    - 2.6:
+        non_striker: C Shivakumar
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+        wicket:
+          player_out: Manpreet Singh
+          kind: lbw
+    - 2.7:
+        non_striker: C Shivakumar
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Sherry
+    - 2.8:
+        non_striker: C Shivakumar
+        bowler: SM Nash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MA Sherry
+    - 2.9:
+        non_striker: C Shivakumar
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Sherry
+    - 3.1:
+        non_striker: C Shivakumar
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Sherry
+    - 3.2:
+        non_striker: C Shivakumar
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Sherry
+    - 3.3:
+        non_striker: C Shivakumar
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Sherry
+    - 3.4:
+        non_striker: C Shivakumar
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Sherry
+    - 3.5:
+        non_striker: C Shivakumar
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Sherry
+    - 3.6:
+        non_striker: MA Sherry
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Shivakumar
+    - 4.1:
+        non_striker: MA Sherry
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Shivakumar
+        wicket:
+          player_out: C Shivakumar
+          kind: bowled
+    - 4.2:
+        non_striker: MA Sherry
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 4.3:
+        non_striker: SH Venugopal
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Sherry
+    - 4.4:
+        non_striker: SH Venugopal
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Sherry
+    - 4.5:
+        non_striker: SH Venugopal
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Sherry
+    - 4.6:
+        non_striker: MA Sherry
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 5.1:
+        non_striker: MA Sherry
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 5.2:
+        non_striker: MA Sherry
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 5.3:
+        non_striker: SH Venugopal
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Sherry
+    - 5.4:
+        non_striker: MA Sherry
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 5.5:
+        non_striker: MA Sherry
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 5.6:
+        non_striker: SH Venugopal
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Sherry
+    - 6.1:
+        non_striker: SH Venugopal
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Sherry
+    - 6.2:
+        non_striker: MA Sherry
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SH Venugopal
+    - 6.3:
+        non_striker: MA Sherry
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 6.4:
+        non_striker: SH Venugopal
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Sherry
+    - 6.5:
+        non_striker: MA Sherry
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 6.6:
+        non_striker: SH Venugopal
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Sherry
+    - 7.1:
+        non_striker: SH Venugopal
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Sherry
+    - 7.2:
+        non_striker: MA Sherry
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 7.3:
+        non_striker: SH Venugopal
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Sherry
+    - 7.4:
+        non_striker: MA Sherry
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SH Venugopal
+    - 7.5:
+        non_striker: MA Sherry
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 7.6:
+        non_striker: SH Venugopal
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MA Sherry
+    - 8.1:
+        non_striker: SH Venugopal
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Sherry
+    - 8.2:
+        non_striker: SH Venugopal
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Sherry
+    - 8.3:
+        non_striker: SH Venugopal
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Sherry
+    - 8.4:
+        non_striker: SH Venugopal
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Sherry
+        wicket:
+          player_out: MA Sherry
+          fielders:
+          - SF Tiai
+          kind: caught
+    - 8.5:
+        non_striker: SH Venugopal
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 8.6:
+        non_striker: SH Venugopal
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 9.1:
+        non_striker: SH Venugopal
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Gune
+    - 9.2:
+        non_striker: SH Venugopal
+        bowler: D Visser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Gune
+    - 9.3:
+        non_striker: SH Venugopal
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 9.4:
+        non_striker: G Gune
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 9.5:
+        non_striker: G Gune
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 9.6:
+        non_striker: SH Venugopal
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Gune
+    - 9.7:
+        non_striker: SH Venugopal
+        bowler: D Visser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Gune
+    - 9.8:
+        non_striker: SH Venugopal
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 10.1:
+        non_striker: SH Venugopal
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 10.2:
+        non_striker: G Gune
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 10.3:
+        non_striker: SH Venugopal
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 10.4:
+        non_striker: SH Venugopal
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 10.5:
+        non_striker: G Gune
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 10.6:
+        non_striker: SH Venugopal
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 11.1:
+        non_striker: G Gune
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 11.2:
+        non_striker: G Gune
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Venugopal
+    - 11.3:
+        non_striker: G Gune
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 11.4:
+        non_striker: G Gune
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 11.5:
+        non_striker: SH Venugopal
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Gune
+    - 11.6:
+        non_striker: SH Venugopal
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 12.1:
+        non_striker: SH Venugopal
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 12.2:
+        non_striker: G Gune
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 12.3:
+        non_striker: G Gune
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 12.4:
+        non_striker: G Gune
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 12.5:
+        non_striker: SH Venugopal
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 12.6:
+        non_striker: SH Venugopal
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Gune
+    - 12.7:
+        non_striker: SH Venugopal
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Gune
+    - 13.1:
+        non_striker: G Gune
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 13.2:
+        non_striker: SH Venugopal
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Gune
+    - 13.3:
+        non_striker: SH Venugopal
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 13.4:
+        non_striker: SH Venugopal
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Gune
+    - 13.5:
+        non_striker: SH Venugopal
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 13.6:
+        non_striker: G Gune
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 14.1:
+        non_striker: SH Venugopal
+        bowler: S Sola
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 14.2:
+        non_striker: G Gune
+        bowler: S Sola
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 14.3:
+        non_striker: SH Venugopal
+        bowler: S Sola
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: G Gune
+    - 14.4:
+        non_striker: G Gune
+        bowler: S Sola
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 14.5:
+        non_striker: SH Venugopal
+        bowler: S Sola
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Gune
+    - 14.6:
+        non_striker: SH Venugopal
+        bowler: S Sola
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Gune
+    - 14.7:
+        non_striker: SH Venugopal
+        bowler: S Sola
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 15.1:
+        non_striker: SH Venugopal
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 15.2:
+        non_striker: G Gune
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 15.3:
+        non_striker: SH Venugopal
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Gune
+    - 15.4:
+        non_striker: SH Venugopal
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+        wicket:
+          player_out: SH Venugopal
+          fielders:
+          - SF Tiai
+          kind: run out
+    - 15.5:
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Venkataram
+        batsman: G Gune
+    - 15.6:
+        non_striker: H Venkataram
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 16.1:
+        non_striker: H Venkataram
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 16.2:
+        non_striker: H Venkataram
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+    - 16.3:
+        non_striker: H Venkataram
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Gune
+    - 16.4:
+        non_striker: H Venkataram
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Gune
+    - 16.5:
+        non_striker: G Gune
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Venkataram
+    - 16.6:
+        non_striker: G Gune
+        bowler: CK Jasmat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Venkataram
+    - 16.7:
+        non_striker: G Gune
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Venkataram
+    - 17.1:
+        non_striker: H Venkataram
+        bowler: S Sola
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Gune
+    - 17.2:
+        non_striker: H Venkataram
+        bowler: S Sola
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Gune
+        wicket:
+          player_out: G Gune
+          fielders:
+          - CK Jasmat
+          kind: caught
+    - 17.3:
+        non_striker: H Venkataram
+        bowler: S Sola
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kabir Berlia
+    - 17.4:
+        non_striker: Kabir Berlia
+        bowler: S Sola
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: H Venkataram
+    - 17.5:
+        non_striker: H Venkataram
+        bowler: S Sola
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kabir Berlia
+    - 17.6:
+        non_striker: H Venkataram
+        bowler: S Sola
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kabir Berlia
+    - 18.1:
+        non_striker: H Venkataram
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kabir Berlia
+    - 18.2:
+        non_striker: Kabir Berlia
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Venkataram
+    - 18.3:
+        non_striker: Kabir Berlia
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Venkataram
+    - 18.4:
+        non_striker: Kabir Berlia
+        bowler: CK Jasmat
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          legbyes: 3
+        batsman: H Venkataram

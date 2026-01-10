@@ -1,0 +1,2177 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-10-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Al Amarat
+  dates:
+  - '2025-10-12'
+  gender: male
+  match_type: T20
+  match_type_number: 3515
+  outcome:
+    winner: Oman
+    by:
+      runs: 34
+  overs: 20
+  player_of_match:
+  - Jatinder Singh
+  players:
+    Oman:
+    - AR Odedara
+    - Jatinder Singh
+    - Nadeem Khan
+    - Hammad Mirza
+    - AR Bisht
+    - V Shukla
+    - Shah Faisal
+    - J Ramanandi
+    - Mohammad Nadeem
+    - Sufyan Mehmood
+    - Shakeel Ahmed
+    Qatar:
+    - I Liyanage
+    - Zubair Ali
+    - Shariq Munir
+    - Muhammad Asim
+    - Muhammad Tanveer
+    - MM Baig
+    - Shahzaib Jamil
+    - Ikramullah Khan
+    - DAM Louis
+    - Mujeeb-ur-Rehman
+    - Owais Ahmed
+  registry:
+    people:
+      AR Bisht: 80fe6790
+      AR Odedara: a7a6c1c2
+      DAM Louis: b975210d
+      Hammad Mirza: 0b7b78c6
+      I Liyanage: 826e1017
+      Ikramullah Khan: c6e1354c
+      J Ramanandi: f7ce2ff9
+      Jatinder Singh: b80dd12c
+      Kent Hannam: 8cc171e7
+      MM Baig: add288ea
+      Mohammad Nadeem: c5d7b244
+      Muhammad Asim: b424d3d3
+      Muhammad Tanveer: aef39fe4
+      Mujeeb-ur-Rehman: 1a8f879b
+      Nadeem Khan: 8a28c5d4
+      Owais Ahmed: cef52835
+      PJ Gillespie: 3e253a50
+      RMPJ Rambukwella: 13fa6ffc
+      Shah Faisal: 4fe6be0c
+      Shahzaib Jamil: fbb6d1a7
+      Shakeel Ahmed: e29e9c12
+      Shariq Munir: 298d9b83
+      Shiju Sam: 1e2f3eae
+      Sufyan Mehmood: bf172ae6
+      V Shukla: 101b1180
+      Zubair Ali: f16e776a
+  teams:
+  - Oman
+  - Qatar
+  toss:
+    winner: Qatar
+    decision: field
+  umpires:
+  - PJ Gillespie
+  - RMPJ Rambukwella
+  venue: Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)
+innings:
+- 1st innings:
+    team: Oman
+    deliveries:
+    - 0.1:
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jatinder Singh
+        batsman: AR Odedara
+    - 0.2:
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jatinder Singh
+        batsman: AR Odedara
+    - 0.3:
+        bowler: MM Baig
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        non_striker: Jatinder Singh
+        batsman: AR Odedara
+    - 0.4:
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jatinder Singh
+        batsman: AR Odedara
+    - 0.5:
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jatinder Singh
+        batsman: AR Odedara
+    - 0.6:
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Jatinder Singh
+        batsman: AR Odedara
+    - 0.7:
+        non_striker: Jatinder Singh
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Odedara
+        wicket:
+          player_out: AR Odedara
+          fielders:
+          - Shahzaib Jamil
+          kind: caught
+    - 1.1:
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Nadeem Khan
+        batsman: Jatinder Singh
+    - 1.2:
+        non_striker: Jatinder Singh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nadeem Khan
+    - 1.3:
+        non_striker: Jatinder Singh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nadeem Khan
+    - 1.4:
+        non_striker: Jatinder Singh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nadeem Khan
+    - 1.5:
+        non_striker: Jatinder Singh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nadeem Khan
+    - 1.6:
+        non_striker: Jatinder Singh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nadeem Khan
+    - 2.1:
+        non_striker: Nadeem Khan
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 2.2:
+        non_striker: Nadeem Khan
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 2.3:
+        non_striker: Nadeem Khan
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 2.4:
+        non_striker: Jatinder Singh
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nadeem Khan
+    - 2.5:
+        non_striker: Jatinder Singh
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nadeem Khan
+    - 2.6:
+        non_striker: Jatinder Singh
+        bowler: MM Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nadeem Khan
+    - 2.7:
+        non_striker: Jatinder Singh
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nadeem Khan
+    - 3.1:
+        non_striker: Jatinder Singh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nadeem Khan
+    - 3.2:
+        non_striker: Jatinder Singh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nadeem Khan
+    - 3.3:
+        non_striker: Nadeem Khan
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jatinder Singh
+    - 3.4:
+        non_striker: Nadeem Khan
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jatinder Singh
+    - 3.5:
+        non_striker: Nadeem Khan
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 3.6:
+        non_striker: Nadeem Khan
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jatinder Singh
+    - 4.1:
+        non_striker: Jatinder Singh
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nadeem Khan
+    - 4.2:
+        non_striker: Nadeem Khan
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 4.3:
+        non_striker: Nadeem Khan
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jatinder Singh
+    - 4.4:
+        non_striker: Nadeem Khan
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 4.5:
+        non_striker: Jatinder Singh
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nadeem Khan
+    - 4.6:
+        non_striker: Jatinder Singh
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nadeem Khan
+    - 5.1:
+        non_striker: Jatinder Singh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nadeem Khan
+        wicket:
+          player_out: Nadeem Khan
+          fielders:
+          - Mujeeb-ur-Rehman
+          kind: caught
+    - 5.2:
+        non_striker: Jatinder Singh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 5.3:
+        non_striker: Jatinder Singh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 5.4:
+        non_striker: Jatinder Singh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 5.5:
+        non_striker: Hammad Mirza
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 5.6:
+        non_striker: Jatinder Singh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 6.1:
+        non_striker: Hammad Mirza
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 6.2:
+        non_striker: Jatinder Singh
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 6.3:
+        non_striker: Jatinder Singh
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 6.4:
+        non_striker: Jatinder Singh
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 6.5:
+        non_striker: Hammad Mirza
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 6.6:
+        non_striker: Jatinder Singh
+        bowler: Mujeeb-ur-Rehman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 7.1:
+        non_striker: Hammad Mirza
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jatinder Singh
+    - 7.2:
+        non_striker: Hammad Mirza
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 7.3:
+        non_striker: Jatinder Singh
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Hammad Mirza
+    - 7.4:
+        non_striker: Jatinder Singh
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 7.5:
+        non_striker: Jatinder Singh
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 7.6:
+        non_striker: Hammad Mirza
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 8.1:
+        non_striker: Hammad Mirza
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 8.2:
+        non_striker: Hammad Mirza
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 8.3:
+        non_striker: Hammad Mirza
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 8.4:
+        non_striker: Jatinder Singh
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 8.5:
+        non_striker: Jatinder Singh
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+    - 8.6:
+        non_striker: Jatinder Singh
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Hammad Mirza
+    - 9.1:
+        non_striker: Jatinder Singh
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Hammad Mirza
+        wicket:
+          player_out: Hammad Mirza
+          fielders:
+          - I Liyanage
+          - Owais Ahmed
+          kind: run out
+    - 9.2:
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AR Bisht
+        batsman: Jatinder Singh
+    - 9.3:
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AR Bisht
+        batsman: Jatinder Singh
+    - 9.4:
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AR Bisht
+        batsman: Jatinder Singh
+    - 9.5:
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AR Bisht
+        batsman: Jatinder Singh
+    - 9.6:
+        non_striker: Jatinder Singh
+        bowler: Owais Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Bisht
+    - 10.1:
+        non_striker: Jatinder Singh
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Bisht
+    - 10.2:
+        non_striker: AR Bisht
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 10.3:
+        non_striker: AR Bisht
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 10.4:
+        non_striker: AR Bisht
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 10.5:
+        non_striker: Jatinder Singh
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Bisht
+    - 10.6:
+        non_striker: AR Bisht
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jatinder Singh
+    - 11.1:
+        non_striker: Jatinder Singh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Bisht
+    - 11.2:
+        non_striker: AR Bisht
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 11.3:
+        non_striker: Jatinder Singh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Bisht
+    - 11.4:
+        non_striker: Jatinder Singh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Bisht
+    - 11.5:
+        non_striker: Jatinder Singh
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Bisht
+    - 11.6:
+        non_striker: AR Bisht
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 12.1:
+        non_striker: AR Bisht
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jatinder Singh
+    - 12.2:
+        non_striker: AR Bisht
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jatinder Singh
+    - 12.3:
+        non_striker: AR Bisht
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 12.4:
+        non_striker: Jatinder Singh
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Bisht
+    - 12.5:
+        non_striker: Jatinder Singh
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Bisht
+    - 12.6:
+        non_striker: AR Bisht
+        bowler: Shariq Munir
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jatinder Singh
+    - 13.1:
+        non_striker: Jatinder Singh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Bisht
+    - 13.2:
+        non_striker: AR Bisht
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 13.3:
+        non_striker: Jatinder Singh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Bisht
+    - 13.4:
+        non_striker: AR Bisht
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+    - 13.5:
+        non_striker: AR Bisht
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 13.6:
+        non_striker: Jatinder Singh
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Bisht
+    - 14.1:
+        non_striker: AR Bisht
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 14.2:
+        non_striker: Jatinder Singh
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Bisht
+    - 14.3:
+        non_striker: AR Bisht
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jatinder Singh
+    - 14.4:
+        non_striker: Jatinder Singh
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Bisht
+    - 14.5:
+        non_striker: AR Bisht
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jatinder Singh
+        wicket:
+          player_out: Jatinder Singh
+          fielders:
+          - DAM Louis
+          kind: caught
+    - 14.6:
+        non_striker: AR Bisht
+        bowler: MM Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Shukla
+    - 14.7:
+        non_striker: AR Bisht
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shukla
+    - 15.1:
+        non_striker: AR Bisht
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shukla
+    - 15.2:
+        non_striker: V Shukla
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Bisht
+    - 15.3:
+        non_striker: AR Bisht
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shukla
+    - 15.4:
+        non_striker: V Shukla
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Bisht
+    - 15.5:
+        non_striker: V Shukla
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Bisht
+    - 15.6:
+        non_striker: AR Bisht
+        bowler: Muhammad Asim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shukla
+    - 16.1:
+        non_striker: AR Bisht
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shukla
+    - 16.2:
+        non_striker: V Shukla
+        bowler: Ikramullah Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AR Bisht
+    - 16.3:
+        non_striker: AR Bisht
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shukla
+    - 16.4:
+        non_striker: V Shukla
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Bisht
+    - 16.5:
+        non_striker: AR Bisht
+        bowler: Ikramullah Khan
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: V Shukla
+    - 16.6:
+        non_striker: AR Bisht
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Shukla
+    - 16.7:
+        non_striker: AR Bisht
+        bowler: Ikramullah Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Shukla
+    - 17.1:
+        non_striker: V Shukla
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AR Bisht
+    - 17.2:
+        non_striker: AR Bisht
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shukla
+    - 17.3:
+        non_striker: V Shukla
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Bisht
+    - 17.4:
+        non_striker: AR Bisht
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Shukla
+    - 17.5:
+        non_striker: AR Bisht
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shukla
+    - 17.6:
+        non_striker: V Shukla
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Bisht
+    - 18.1:
+        non_striker: V Shukla
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Bisht
+    - 18.2:
+        non_striker: V Shukla
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Bisht
+        wicket:
+          player_out: AR Bisht
+          kind: bowled
+    - 18.3:
+        non_striker: V Shukla
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shah Faisal
+        wicket:
+          player_out: Shah Faisal
+          fielders:
+          - Zubair Ali
+          kind: caught
+    - 18.4:
+        non_striker: V Shukla
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Ramanandi
+    - 18.5:
+        non_striker: V Shukla
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Ramanandi
+    - 18.6:
+        non_striker: V Shukla
+        bowler: MM Baig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Ramanandi
+    - 19.1:
+        non_striker: J Ramanandi
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Shukla
+    - 19.2:
+        non_striker: J Ramanandi
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shukla
+    - 19.3:
+        non_striker: V Shukla
+        bowler: DAM Louis
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: J Ramanandi
+    - 19.4:
+        non_striker: V Shukla
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Ramanandi
+    - 19.5:
+        non_striker: J Ramanandi
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Shukla
+    - 19.6:
+        non_striker: V Shukla
+        bowler: DAM Louis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Ramanandi
+- 2nd innings:
+    team: Qatar
+    deliveries:
+    - 0.1:
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Zubair Ali
+        batsman: I Liyanage
+    - 0.2:
+        non_striker: I Liyanage
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Ali
+    - 0.3:
+        non_striker: I Liyanage
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubair Ali
+    - 0.4:
+        non_striker: I Liyanage
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zubair Ali
+    - 0.5:
+        non_striker: I Liyanage
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Ali
+    - 0.6:
+        non_striker: I Liyanage
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Ali
+    - 1.1:
+        non_striker: Zubair Ali
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Liyanage
+    - 1.2:
+        non_striker: Zubair Ali
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Liyanage
+    - 1.3:
+        non_striker: I Liyanage
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Ali
+    - 1.4:
+        non_striker: I Liyanage
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zubair Ali
+    - 1.5:
+        non_striker: I Liyanage
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubair Ali
+    - 1.6:
+        non_striker: Zubair Ali
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Liyanage
+    - 2.1:
+        non_striker: I Liyanage
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zubair Ali
+        wicket:
+          player_out: I Liyanage
+          fielders:
+          - Hammad Mirza
+          - V Shukla
+          kind: run out
+    - 2.2:
+        non_striker: Zubair Ali
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shariq Munir
+    - 2.3:
+        non_striker: Shariq Munir
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zubair Ali
+    - 2.4:
+        non_striker: Shariq Munir
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Ali
+    - 2.5:
+        non_striker: Shariq Munir
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zubair Ali
+    - 2.6:
+        non_striker: Shariq Munir
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Ali
+    - 3.1:
+        non_striker: Zubair Ali
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shariq Munir
+    - 3.2:
+        non_striker: Zubair Ali
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shariq Munir
+    - 3.3:
+        non_striker: Zubair Ali
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shariq Munir
+    - 3.4:
+        non_striker: Zubair Ali
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shariq Munir
+    - 3.5:
+        non_striker: Zubair Ali
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shariq Munir
+    - 3.6:
+        non_striker: Shariq Munir
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zubair Ali
+        wicket:
+          player_out: Zubair Ali
+          kind: lbw
+    - 4.1:
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: Muhammad Asim
+        batsman: Shariq Munir
+    - 4.2:
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Muhammad Asim
+        batsman: Shariq Munir
+    - 4.3:
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Muhammad Asim
+        batsman: Shariq Munir
+    - 4.4:
+        non_striker: Shariq Munir
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 4.5:
+        non_striker: Shariq Munir
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 4.6:
+        non_striker: Muhammad Asim
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shariq Munir
+    - 5.1:
+        non_striker: Shariq Munir
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 5.2:
+        non_striker: Shariq Munir
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 5.3:
+        non_striker: Muhammad Asim
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shariq Munir
+    - 5.4:
+        non_striker: Shariq Munir
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 5.5:
+        non_striker: Shariq Munir
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muhammad Asim
+    - 5.6:
+        non_striker: Shariq Munir
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 5.7:
+        non_striker: Muhammad Asim
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Shariq Munir
+    - 6.1:
+        non_striker: Muhammad Asim
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shariq Munir
+    - 6.2:
+        non_striker: Muhammad Asim
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shariq Munir
+    - 6.3:
+        non_striker: Muhammad Asim
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shariq Munir
+    - 6.4:
+        non_striker: Shariq Munir
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 6.5:
+        non_striker: Shariq Munir
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Asim
+    - 6.6:
+        non_striker: Shariq Munir
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Asim
+    - 7.1:
+        non_striker: Muhammad Asim
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shariq Munir
+    - 7.2:
+        non_striker: Muhammad Asim
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shariq Munir
+    - 7.3:
+        non_striker: Shariq Munir
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 7.4:
+        non_striker: Muhammad Asim
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shariq Munir
+    - 7.5:
+        non_striker: Shariq Munir
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Asim
+    - 7.6:
+        non_striker: Shariq Munir
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 7.7:
+        non_striker: Muhammad Asim
+        bowler: Mohammad Nadeem
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shariq Munir
+    - 8.1:
+        non_striker: Shariq Munir
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muhammad Asim
+    - 8.2:
+        non_striker: Shariq Munir
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 8.3:
+        non_striker: Muhammad Asim
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shariq Munir
+    - 8.4:
+        non_striker: Muhammad Asim
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shariq Munir
+    - 8.5:
+        non_striker: Muhammad Asim
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shariq Munir
+    - 8.6:
+        non_striker: Shariq Munir
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 9.1:
+        non_striker: Shariq Munir
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 9.2:
+        non_striker: Shariq Munir
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 9.3:
+        non_striker: Shariq Munir
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 9.4:
+        non_striker: Muhammad Asim
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shariq Munir
+    - 9.5:
+        non_striker: Muhammad Asim
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shariq Munir
+    - 9.6:
+        non_striker: Shariq Munir
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 10.1:
+        non_striker: Muhammad Asim
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shariq Munir
+    - 10.2:
+        non_striker: Shariq Munir
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Muhammad Asim
+    - 10.3:
+        non_striker: Muhammad Asim
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shariq Munir
+        wicket:
+          player_out: Shariq Munir
+          fielders:
+          - Shah Faisal
+          kind: caught
+    - 10.4:
+        non_striker: Muhammad Asim
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 10.5:
+        non_striker: Muhammad Asim
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 10.6:
+        non_striker: Muhammad Tanveer
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Asim
+    - 11.1:
+        non_striker: Muhammad Tanveer
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+    - 11.2:
+        non_striker: Muhammad Tanveer
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Asim
+        wicket:
+          player_out: Muhammad Asim
+          fielders:
+          - V Shukla
+          kind: stumped
+    - 11.3:
+        non_striker: Muhammad Tanveer
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Baig
+    - 11.4:
+        non_striker: Muhammad Tanveer
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Baig
+    - 11.5:
+        non_striker: MM Baig
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 11.6:
+        non_striker: MM Baig
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 12.1:
+        non_striker: Muhammad Tanveer
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Baig
+    - 12.2:
+        non_striker: MM Baig
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muhammad Tanveer
+    - 12.3:
+        non_striker: MM Baig
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 12.4:
+        non_striker: Muhammad Tanveer
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Baig
+    - 12.5:
+        non_striker: MM Baig
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 12.6:
+        non_striker: Muhammad Tanveer
+        bowler: Shakeel Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Baig
+    - 13.1:
+        non_striker: MM Baig
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 13.2:
+        non_striker: Muhammad Tanveer
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Baig
+    - 13.3:
+        non_striker: Muhammad Tanveer
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Baig
+    - 13.4:
+        non_striker: MM Baig
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 13.5:
+        non_striker: Muhammad Tanveer
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MM Baig
+    - 13.6:
+        non_striker: Muhammad Tanveer
+        bowler: Nadeem Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Baig
+    - 14.1:
+        non_striker: MM Baig
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 14.2:
+        non_striker: Muhammad Tanveer
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Baig
+        wicket:
+          player_out: MM Baig
+          kind: lbw
+    - 14.3:
+        non_striker: Muhammad Tanveer
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzaib Jamil
+    - 14.4:
+        non_striker: Shahzaib Jamil
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 14.5:
+        non_striker: Muhammad Tanveer
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 14.6:
+        non_striker: Muhammad Tanveer
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzaib Jamil
+    - 15.1:
+        non_striker: Muhammad Tanveer
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shahzaib Jamil
+    - 15.2:
+        non_striker: Muhammad Tanveer
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzaib Jamil
+    - 15.3:
+        non_striker: Shahzaib Jamil
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muhammad Tanveer
+    - 15.4:
+        non_striker: Muhammad Tanveer
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shahzaib Jamil
+    - 15.5:
+        non_striker: Muhammad Tanveer
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzaib Jamil
+    - 15.6:
+        non_striker: Shahzaib Jamil
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 15.7:
+        non_striker: Shahzaib Jamil
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+    - 15.8:
+        non_striker: Shahzaib Jamil
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muhammad Tanveer
+        wicket:
+          player_out: Muhammad Tanveer
+          kind: caught and bowled
+    - 16.1:
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Ikramullah Khan
+        batsman: Shahzaib Jamil
+    - 16.2:
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: Ikramullah Khan
+        batsman: Shahzaib Jamil
+    - 16.3:
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Ikramullah Khan
+        batsman: Shahzaib Jamil
+    - 16.4:
+        non_striker: Shahzaib Jamil
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 16.5:
+        non_striker: Ikramullah Khan
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shahzaib Jamil
+    - 16.6:
+        non_striker: Ikramullah Khan
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 17.1:
+        non_striker: Shahzaib Jamil
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ikramullah Khan
+    - 17.2:
+        non_striker: Shahzaib Jamil
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 17.3:
+        non_striker: Ikramullah Khan
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzaib Jamil
+    - 17.4:
+        non_striker: Shahzaib Jamil
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 17.5:
+        non_striker: Ikramullah Khan
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+    - 17.6:
+        non_striker: Ikramullah Khan
+        bowler: Sufyan Mehmood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahzaib Jamil
+    - 18.1:
+        non_striker: Ikramullah Khan
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahzaib Jamil
+        wicket:
+          player_out: Shahzaib Jamil
+          fielders:
+          - Mohammad Nadeem
+          kind: caught
+    - 18.2:
+        non_striker: Ikramullah Khan
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DAM Louis
+        wicket:
+          player_out: DAM Louis
+          fielders:
+          - Jatinder Singh
+          kind: caught
+    - 18.3:
+        non_striker: Ikramullah Khan
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 18.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ikramullah Khan
+    - 18.5:
+        non_striker: Ikramullah Khan
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 18.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: J Ramanandi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ikramullah Khan
+    - 19.1:
+        non_striker: Ikramullah Khan
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 19.2:
+        non_striker: Ikramullah Khan
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mujeeb-ur-Rehman
+    - 19.3:
+        non_striker: Ikramullah Khan
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mujeeb-ur-Rehman
+    - 19.4:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ikramullah Khan
+        wicket:
+          player_out: Ikramullah Khan
+          fielders:
+          - Sufyan Mehmood
+          kind: caught
+    - 19.5:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed
+    - 19.6:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: Shah Faisal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Owais Ahmed
+    - 19.7:
+        non_striker: Mujeeb-ur-Rehman
+        bowler: Shah Faisal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Owais Ahmed

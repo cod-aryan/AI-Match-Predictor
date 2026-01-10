@@ -1,0 +1,2082 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: The Hague
+  dates:
+  - '2025-07-05'
+  gender: male
+  match_type: T20
+  match_type_number: 3275
+  outcome:
+    winner: Netherlands
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - SA Edwards
+  players:
+    Jersey:
+    - H Carlyon
+    - AM Tribe
+    - ZM Tribe
+    - JW Jenner
+    - NA Greenwood
+    - J Sumerauer
+    - C Brennan
+    - B Ward
+    - DG Blampied
+    - JE Dunford
+    - CW Perchard
+    Netherlands:
+    - M Levitt
+    - MP O'Dowd
+    - ZB Lion-Cachet
+    - SA Edwards
+    - BFW de Leede
+    - AT Nidamanuru
+    - NRJ Croes
+    - RE van der Merwe
+    - K Klein
+    - A Dutt
+    - DT Doram
+  registry:
+    people:
+      A Dutt: 803dbf1d
+      AM Tribe: 86f84b37
+      AT Nidamanuru: a319edf8
+      Aidan Seaver: 862c0b16
+      B Ward: 9e0bd203
+      BFW de Leede: fc4375ef
+      C Brennan: 80f9fd4f
+      CW Perchard: 9f998ed8
+      DG Blampied: d8976cb7
+      DT Doram: 3bea1983
+      Denavon Hayles: 5cbeeb02
+      H Carlyon: 42bf1b7d
+      J Sumerauer: 0b581ed6
+      JE Dunford: 89a7dd4a
+      JW Jenner: 32a8161e
+      K Klein: 374bb5e7
+      M Levitt: 6a71ba3a
+      MP O'Dowd: b699df47
+      NA Greenwood: 7ca68967
+      NRJ Croes: f427e63e
+      R Black: 156c8fb1
+      RE van der Merwe: 05c2ca46
+      RJ Warren: 9d1c62d7
+      SA Edwards: b59db04f
+      ZB Lion-Cachet: d99de998
+      ZM Tribe: 96fe3e9f
+  teams:
+  - Jersey
+  - Netherlands
+  toss:
+    winner: Netherlands
+    decision: field
+  umpires:
+  - R Black
+  - RJ Warren
+  venue: Sportpark Westvliet, Voorburg
+innings:
+- 1st innings:
+    team: Jersey
+    deliveries:
+    - 0.1:
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AM Tribe
+        batsman: H Carlyon
+    - 0.2:
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AM Tribe
+        batsman: H Carlyon
+    - 0.3:
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: AM Tribe
+        batsman: H Carlyon
+    - 0.4:
+        non_striker: H Carlyon
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 0.5:
+        non_striker: H Carlyon
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 0.6:
+        non_striker: AM Tribe
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+    - 1.1:
+        non_striker: H Carlyon
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+    - 1.2:
+        non_striker: H Carlyon
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Tribe
+    - 1.3:
+        non_striker: AM Tribe
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Carlyon
+    - 1.4:
+        non_striker: AM Tribe
+        bowler: K Klein
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Carlyon
+    - 1.5:
+        non_striker: AM Tribe
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Carlyon
+    - 1.6:
+        non_striker: AM Tribe
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Carlyon
+        wicket:
+          player_out: H Carlyon
+          kind: lbw
+    - 1.7:
+        non_striker: AM Tribe
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 2.1:
+        non_striker: ZM Tribe
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Tribe
+    - 2.2:
+        non_striker: ZM Tribe
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Tribe
+        wicket:
+          player_out: AM Tribe
+          fielders:
+          - MP O'Dowd
+          kind: caught
+    - 2.3:
+        non_striker: ZM Tribe
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 2.4:
+        non_striker: ZM Tribe
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Jenner
+    - 2.5:
+        non_striker: ZM Tribe
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Jenner
+    - 2.6:
+        non_striker: ZM Tribe
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JW Jenner
+    - 3.1:
+        non_striker: ZM Tribe
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 3.2:
+        non_striker: ZM Tribe
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Jenner
+    - 3.3:
+        non_striker: ZM Tribe
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Jenner
+    - 3.4:
+        non_striker: ZM Tribe
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Jenner
+    - 3.5:
+        non_striker: ZM Tribe
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+    - 3.6:
+        non_striker: ZM Tribe
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Jenner
+    - 4.1:
+        non_striker: JW Jenner
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 4.2:
+        non_striker: JW Jenner
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 4.3:
+        non_striker: JW Jenner
+        bowler: BFW de Leede
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ZM Tribe
+    - 4.4:
+        non_striker: ZM Tribe
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JW Jenner
+    - 4.5:
+        non_striker: ZM Tribe
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JW Jenner
+    - 4.6:
+        non_striker: ZM Tribe
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JW Jenner
+        wicket:
+          player_out: JW Jenner
+          kind: bowled
+    - 5.1:
+        bowler: DT Doram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: NA Greenwood
+        batsman: ZM Tribe
+    - 5.2:
+        non_striker: ZM Tribe
+        bowler: DT Doram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+    - 5.3:
+        non_striker: ZM Tribe
+        bowler: DT Doram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NA Greenwood
+    - 5.4:
+        non_striker: ZM Tribe
+        bowler: DT Doram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NA Greenwood
+    - 5.5:
+        non_striker: NA Greenwood
+        bowler: DT Doram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 5.6:
+        non_striker: ZM Tribe
+        bowler: DT Doram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NA Greenwood
+        wicket:
+          player_out: NA Greenwood
+          kind: bowled
+    - 6.1:
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: J Sumerauer
+        batsman: ZM Tribe
+    - 6.2:
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: J Sumerauer
+        batsman: ZM Tribe
+    - 6.3:
+        non_striker: ZM Tribe
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sumerauer
+    - 6.4:
+        non_striker: J Sumerauer
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 6.5:
+        non_striker: J Sumerauer
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 6.6:
+        non_striker: J Sumerauer
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 7.1:
+        non_striker: J Sumerauer
+        bowler: DT Doram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 7.2:
+        non_striker: J Sumerauer
+        bowler: DT Doram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZM Tribe
+    - 7.3:
+        non_striker: J Sumerauer
+        bowler: DT Doram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 7.4:
+        non_striker: J Sumerauer
+        bowler: DT Doram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 7.5:
+        non_striker: ZM Tribe
+        bowler: DT Doram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+    - 7.6:
+        non_striker: ZM Tribe
+        bowler: DT Doram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+    - 8.1:
+        non_striker: J Sumerauer
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 8.2:
+        non_striker: J Sumerauer
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 8.3:
+        non_striker: ZM Tribe
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Sumerauer
+    - 8.4:
+        non_striker: ZM Tribe
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sumerauer
+    - 8.5:
+        non_striker: J Sumerauer
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 8.6:
+        non_striker: ZM Tribe
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Sumerauer
+    - 9.1:
+        non_striker: J Sumerauer
+        bowler: ZB Lion-Cachet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 9.2:
+        non_striker: ZM Tribe
+        bowler: ZB Lion-Cachet
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Sumerauer
+    - 9.3:
+        non_striker: ZM Tribe
+        bowler: ZB Lion-Cachet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sumerauer
+    - 9.4:
+        non_striker: J Sumerauer
+        bowler: ZB Lion-Cachet
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZM Tribe
+    - 9.5:
+        non_striker: J Sumerauer
+        bowler: ZB Lion-Cachet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 9.6:
+        non_striker: J Sumerauer
+        bowler: ZB Lion-Cachet
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZM Tribe
+    - 10.1:
+        non_striker: ZM Tribe
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Sumerauer
+    - 10.2:
+        non_striker: J Sumerauer
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 10.3:
+        non_striker: J Sumerauer
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 10.4:
+        non_striker: ZM Tribe
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Sumerauer
+    - 10.5:
+        non_striker: ZM Tribe
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Sumerauer
+        wicket:
+          player_out: J Sumerauer
+          fielders:
+          - DT Doram
+          kind: caught
+    - 10.6:
+        non_striker: ZM Tribe
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 11.1:
+        non_striker: C Brennan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 11.2:
+        non_striker: ZM Tribe
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 11.3:
+        non_striker: C Brennan
+        bowler: A Dutt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ZM Tribe
+    - 11.4:
+        non_striker: ZM Tribe
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 11.5:
+        non_striker: C Brennan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZM Tribe
+    - 11.6:
+        non_striker: ZM Tribe
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Brennan
+    - 12.1:
+        non_striker: C Brennan
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ZM Tribe
+    - 12.2:
+        non_striker: C Brennan
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZM Tribe
+    - 12.3:
+        non_striker: C Brennan
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZM Tribe
+    - 12.4:
+        non_striker: C Brennan
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+    - 12.5:
+        non_striker: C Brennan
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZM Tribe
+    - 12.6:
+        non_striker: C Brennan
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZM Tribe
+        wicket:
+          player_out: ZM Tribe
+          kind: bowled
+    - 13.1:
+        bowler: ZB Lion-Cachet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Ward
+        batsman: C Brennan
+    - 13.2:
+        non_striker: C Brennan
+        bowler: ZB Lion-Cachet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 13.3:
+        non_striker: B Ward
+        bowler: ZB Lion-Cachet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 13.4:
+        non_striker: B Ward
+        bowler: ZB Lion-Cachet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 13.5:
+        non_striker: B Ward
+        bowler: ZB Lion-Cachet
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 13.6:
+        non_striker: C Brennan
+        bowler: ZB Lion-Cachet
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 14.1:
+        non_striker: B Ward
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 14.2:
+        non_striker: B Ward
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Brennan
+    - 14.3:
+        non_striker: B Ward
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 14.4:
+        non_striker: B Ward
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 14.5:
+        non_striker: C Brennan
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 14.6:
+        non_striker: C Brennan
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 15.1:
+        non_striker: C Brennan
+        bowler: DT Doram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 15.2:
+        non_striker: B Ward
+        bowler: DT Doram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 15.3:
+        non_striker: B Ward
+        bowler: DT Doram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 15.4:
+        non_striker: C Brennan
+        bowler: DT Doram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 15.5:
+        non_striker: B Ward
+        bowler: DT Doram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 15.6:
+        non_striker: C Brennan
+        bowler: DT Doram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ward
+    - 16.1:
+        non_striker: B Ward
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 16.2:
+        non_striker: B Ward
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Brennan
+    - 16.3:
+        non_striker: B Ward
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 16.4:
+        non_striker: C Brennan
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Ward
+    - 16.5:
+        non_striker: C Brennan
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+    - 16.6:
+        non_striker: C Brennan
+        bowler: RE van der Merwe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Ward
+    - 16.7:
+        non_striker: C Brennan
+        bowler: RE van der Merwe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ward
+    - 17.1:
+        non_striker: B Ward
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 17.2:
+        non_striker: C Brennan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Ward
+    - 17.3:
+        non_striker: C Brennan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 17.4:
+        non_striker: B Ward
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Brennan
+    - 17.5:
+        non_striker: B Ward
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 17.6:
+        non_striker: C Brennan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Ward
+    - 18.1:
+        non_striker: C Brennan
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Ward
+        wicket:
+          player_out: B Ward
+          fielders:
+          - NRJ Croes
+          kind: caught
+    - 18.2:
+        non_striker: C Brennan
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Blampied
+    - 18.3:
+        non_striker: DG Blampied
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 18.4:
+        non_striker: C Brennan
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Blampied
+    - 18.5:
+        non_striker: DG Blampied
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Brennan
+    - 18.6:
+        non_striker: DG Blampied
+        bowler: K Klein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 19.1:
+        non_striker: DG Blampied
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 19.2:
+        non_striker: C Brennan
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DG Blampied
+    - 19.3:
+        non_striker: DG Blampied
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Brennan
+    - 19.4:
+        non_striker: DG Blampied
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Brennan
+    - 19.5:
+        non_striker: DG Blampied
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Brennan
+    - 19.6:
+        non_striker: C Brennan
+        bowler: BFW de Leede
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: DG Blampied
+- 2nd innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: MP O'Dowd
+        batsman: M Levitt
+    - 0.2:
+        non_striker: M Levitt
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 0.3:
+        non_striker: M Levitt
+        bowler: H Carlyon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MP O'Dowd
+    - 0.4:
+        non_striker: MP O'Dowd
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Levitt
+        wicket:
+          player_out: M Levitt
+          kind: bowled
+    - 0.5:
+        non_striker: MP O'Dowd
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZB Lion-Cachet
+    - 0.6:
+        non_striker: MP O'Dowd
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 1.1:
+        non_striker: MP O'Dowd
+        bowler: J Sumerauer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZB Lion-Cachet
+    - 1.2:
+        non_striker: MP O'Dowd
+        bowler: J Sumerauer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ZB Lion-Cachet
+    - 1.3:
+        non_striker: ZB Lion-Cachet
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 1.4:
+        non_striker: MP O'Dowd
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 1.5:
+        non_striker: ZB Lion-Cachet
+        bowler: J Sumerauer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MP O'Dowd
+    - 1.6:
+        non_striker: MP O'Dowd
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZB Lion-Cachet
+    - 1.7:
+        non_striker: MP O'Dowd
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 2.1:
+        non_striker: MP O'Dowd
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 2.2:
+        non_striker: ZB Lion-Cachet
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 2.3:
+        non_striker: MP O'Dowd
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZB Lion-Cachet
+    - 2.4:
+        non_striker: MP O'Dowd
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZB Lion-Cachet
+    - 2.5:
+        non_striker: MP O'Dowd
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZB Lion-Cachet
+    - 2.6:
+        non_striker: MP O'Dowd
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 3.1:
+        non_striker: MP O'Dowd
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZB Lion-Cachet
+    - 3.2:
+        non_striker: MP O'Dowd
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZB Lion-Cachet
+    - 3.3:
+        non_striker: MP O'Dowd
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZB Lion-Cachet
+    - 3.4:
+        non_striker: MP O'Dowd
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZB Lion-Cachet
+    - 3.5:
+        non_striker: MP O'Dowd
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 3.6:
+        non_striker: ZB Lion-Cachet
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 4.1:
+        non_striker: MP O'Dowd
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: ZB Lion-Cachet
+    - 4.2:
+        non_striker: MP O'Dowd
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 4.3:
+        non_striker: ZB Lion-Cachet
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 4.4:
+        non_striker: ZB Lion-Cachet
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 4.5:
+        non_striker: MP O'Dowd
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 4.6:
+        non_striker: ZB Lion-Cachet
+        bowler: J Sumerauer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MP O'Dowd
+    - 5.1:
+        non_striker: ZB Lion-Cachet
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 5.2:
+        non_striker: ZB Lion-Cachet
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 5.3:
+        non_striker: ZB Lion-Cachet
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 5.4:
+        non_striker: ZB Lion-Cachet
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 5.5:
+        non_striker: MP O'Dowd
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 5.6:
+        non_striker: ZB Lion-Cachet
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 6.1:
+        non_striker: ZB Lion-Cachet
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 6.2:
+        non_striker: MP O'Dowd
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 6.3:
+        non_striker: ZB Lion-Cachet
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP O'Dowd
+    - 6.4:
+        non_striker: ZB Lion-Cachet
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 6.5:
+        non_striker: MP O'Dowd
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 6.6:
+        non_striker: ZB Lion-Cachet
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 7.1:
+        non_striker: ZB Lion-Cachet
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 7.2:
+        non_striker: MP O'Dowd
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZB Lion-Cachet
+    - 7.3:
+        non_striker: MP O'Dowd
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 7.4:
+        non_striker: ZB Lion-Cachet
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 7.5:
+        non_striker: ZB Lion-Cachet
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 7.6:
+        non_striker: MP O'Dowd
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 8.1:
+        non_striker: MP O'Dowd
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZB Lion-Cachet
+    - 8.2:
+        non_striker: MP O'Dowd
+        bowler: CW Perchard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ZB Lion-Cachet
+    - 8.3:
+        non_striker: MP O'Dowd
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 8.4:
+        non_striker: ZB Lion-Cachet
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 8.5:
+        non_striker: MP O'Dowd
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZB Lion-Cachet
+    - 8.6:
+        non_striker: MP O'Dowd
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZB Lion-Cachet
+    - 8.7:
+        non_striker: MP O'Dowd
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 9.1:
+        non_striker: MP O'Dowd
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ZB Lion-Cachet
+    - 9.2:
+        non_striker: MP O'Dowd
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZB Lion-Cachet
+    - 9.3:
+        non_striker: MP O'Dowd
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 9.4:
+        non_striker: ZB Lion-Cachet
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 9.5:
+        non_striker: MP O'Dowd
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 9.6:
+        non_striker: ZB Lion-Cachet
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 10.1:
+        non_striker: MP O'Dowd
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZB Lion-Cachet
+    - 10.2:
+        non_striker: MP O'Dowd
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 10.3:
+        non_striker: ZB Lion-Cachet
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 10.4:
+        non_striker: MP O'Dowd
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 10.5:
+        non_striker: ZB Lion-Cachet
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 10.6:
+        non_striker: MP O'Dowd
+        bowler: H Carlyon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 11.1:
+        non_striker: MP O'Dowd
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 11.2:
+        non_striker: ZB Lion-Cachet
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 11.3:
+        non_striker: ZB Lion-Cachet
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 11.4:
+        non_striker: ZB Lion-Cachet
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 11.5:
+        non_striker: MP O'Dowd
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZB Lion-Cachet
+    - 11.6:
+        non_striker: ZB Lion-Cachet
+        bowler: AM Tribe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 12.1:
+        non_striker: ZB Lion-Cachet
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 12.2:
+        non_striker: ZB Lion-Cachet
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP O'Dowd
+    - 12.3:
+        non_striker: ZB Lion-Cachet
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP O'Dowd
+    - 12.4:
+        non_striker: ZB Lion-Cachet
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 12.5:
+        non_striker: MP O'Dowd
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZB Lion-Cachet
+    - 12.6:
+        non_striker: MP O'Dowd
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ZB Lion-Cachet
+    - 13.1:
+        non_striker: ZB Lion-Cachet
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 13.2:
+        non_striker: ZB Lion-Cachet
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 13.3:
+        non_striker: MP O'Dowd
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZB Lion-Cachet
+        wicket:
+          player_out: ZB Lion-Cachet
+          fielders:
+          - JE Dunford
+          kind: caught
+    - 13.4:
+        non_striker: MP O'Dowd
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 13.5:
+        non_striker: MP O'Dowd
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 13.6:
+        non_striker: MP O'Dowd
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 14.1:
+        non_striker: MP O'Dowd
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 14.2:
+        non_striker: SA Edwards
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 14.3:
+        non_striker: SA Edwards
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 14.4:
+        non_striker: MP O'Dowd
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 14.5:
+        non_striker: SA Edwards
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 14.6:
+        non_striker: MP O'Dowd
+        bowler: J Sumerauer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Edwards
+    - 15.1:
+        non_striker: MP O'Dowd
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 15.2:
+        non_striker: MP O'Dowd
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 15.3:
+        non_striker: SA Edwards
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 15.4:
+        non_striker: MP O'Dowd
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 15.5:
+        non_striker: SA Edwards
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MP O'Dowd
+    - 15.6:
+        non_striker: SA Edwards
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 16.1:
+        non_striker: SA Edwards
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 16.2:
+        non_striker: MP O'Dowd
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 16.3:
+        non_striker: SA Edwards
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 16.4:
+        non_striker: MP O'Dowd
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 16.5:
+        non_striker: MP O'Dowd
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Edwards
+    - 16.6:
+        non_striker: MP O'Dowd
+        bowler: J Sumerauer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 17.1:
+        non_striker: SA Edwards
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 17.2:
+        non_striker: MP O'Dowd
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 17.3:
+        non_striker: MP O'Dowd
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 17.4:
+        non_striker: MP O'Dowd
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 17.5:
+        non_striker: MP O'Dowd
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 17.6:
+        non_striker: MP O'Dowd
+        bowler: NA Greenwood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 18.1:
+        non_striker: MP O'Dowd
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 18.2:
+        non_striker: MP O'Dowd
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 18.3:
+        non_striker: SA Edwards
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP O'Dowd
+    - 18.4:
+        non_striker: MP O'Dowd
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 18.5:
+        non_striker: SA Edwards
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP O'Dowd
+    - 18.6:
+        non_striker: SA Edwards
+        bowler: CW Perchard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+        wicket:
+          player_out: MP O'Dowd
+          fielders:
+          - AM Tribe
+          kind: caught
+    - 19.1:
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BFW de Leede
+        batsman: SA Edwards
+    - 19.2:
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: BFW de Leede
+        batsman: SA Edwards
+    - 19.3:
+        bowler: B Ward
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: BFW de Leede
+        batsman: SA Edwards

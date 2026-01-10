@@ -1,0 +1,4505 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Southampton
+  dates:
+  - '2003-07-10'
+  gender: male
+  match_type: ODI
+  match_type_number: 2036
+  outcome:
+    winner: South Africa
+    by:
+      wickets: 7
+  overs: 50
+  player_of_match:
+  - M Ntini
+  players:
+    Zimbabwe:
+    - GW Flower
+    - DD Ebrahim
+    - TJ Friend
+    - T Taibu
+    - SM Ervine
+    - S Matsikenyeri
+    - RW Sims
+    - HH Streak
+    - AM Blignaut
+    - RW Price
+    - DT Hondo
+    South Africa:
+    - GC Smith
+    - HH Gibbs
+    - M van Jaarsveld
+    - JA Rudolph
+    - MV Boucher
+    - AJ Hall
+    - HH Dippenaar
+    - SM Pollock
+    - PR Adams
+    - A Nel
+    - M Ntini
+  registry:
+    people:
+      A Nel: 2503e881
+      AJ Hall: 6b0c3a20
+      AM Blignaut: 80ec5dfd
+      BF Bowden: efc0a862
+      CH Lloyd: 5b445db0
+      DD Ebrahim: b590a4d8
+      DR Shepherd: 8a578048
+      DT Hondo: 7fe5deb8
+      GC Smith: '72861603'
+      GW Flower: 348195ea
+      HH Dippenaar: 98ecf62a
+      HH Gibbs: e1d1b294
+      HH Streak: 37f501d7
+      JA Rudolph: 42537f07
+      M Ntini: 20a941bb
+      M van Jaarsveld: f407e354
+      MV Boucher: f3cb53a1
+      NA Mallender: 3b5dfcd4
+      PR Adams: ae1bd901
+      RW Price: 67af6f81
+      RW Sims: ecaad7d2
+      S Matsikenyeri: e7ba1233
+      SM Ervine: 556302a7
+      SM Pollock: 88fccd6c
+      T Taibu: 75de770f
+      TJ Friend: 3e91a87f
+  teams:
+  - Zimbabwe
+  - South Africa
+  toss:
+    winner: Zimbabwe
+    decision: bat
+  umpires:
+  - BF Bowden
+  - DR Shepherd
+  venue: The Rose Bowl, Southampton
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GW Flower
+    - 0.2:
+        non_striker: GW Flower
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 0.3:
+        non_striker: GW Flower
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 0.4:
+        non_striker: GW Flower
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DD Ebrahim
+    - 0.5:
+        non_striker: GW Flower
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 0.6:
+        non_striker: GW Flower
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 1.1:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 1.2:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 1.3:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GW Flower
+    - 1.4:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: GW Flower
+    - 1.5:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+        wicket:
+          player_out: GW Flower
+          fielders:
+          - MV Boucher
+          kind: caught
+    - 1.6:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TJ Friend
+    - 1.7:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Friend
+    - 1.8:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Friend
+    - 1.9:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Friend
+    - 2.1:
+        non_striker: TJ Friend
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 2.2:
+        non_striker: TJ Friend
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 2.3:
+        non_striker: TJ Friend
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 2.4:
+        non_striker: TJ Friend
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 2.5:
+        non_striker: TJ Friend
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 2.6:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Friend
+    - 3.1:
+        non_striker: TJ Friend
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 3.2:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TJ Friend
+    - 3.3:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TJ Friend
+        wicket:
+          player_out: TJ Friend
+          fielders:
+          - M van Jaarsveld
+          kind: caught
+    - 3.4:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+        wicket:
+          player_out: T Taibu
+          kind: bowled
+    - 3.5:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 3.6:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 4.1:
+        non_striker: SM Ervine
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 4.2:
+        non_striker: SM Ervine
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 4.3:
+        non_striker: SM Ervine
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 4.4:
+        non_striker: SM Ervine
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 4.5:
+        non_striker: SM Ervine
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 4.6:
+        non_striker: SM Ervine
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 5.1:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Ervine
+    - 5.2:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 5.3:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 5.4:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Ervine
+    - 5.5:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 5.6:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 5.7:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 6.1:
+        non_striker: SM Ervine
+        bowler: SM Pollock
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DD Ebrahim
+    - 6.2:
+        non_striker: SM Ervine
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 6.3:
+        non_striker: SM Ervine
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 6.4:
+        non_striker: SM Ervine
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 6.5:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 6.6:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 6.7:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: SM Ervine
+    - 6.8:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 7.1:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 7.2:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 7.3:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 7.4:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 7.5:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 7.6:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 8.1:
+        non_striker: SM Ervine
+        bowler: SM Pollock
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DD Ebrahim
+    - 8.2:
+        non_striker: SM Ervine
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 8.3:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 8.4:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 8.5:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Ervine
+    - 8.6:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 8.7:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 9.1:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Ervine
+    - 9.2:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 9.3:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Ervine
+    - 9.4:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 9.5:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 9.6:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 9.7:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 10.1:
+        non_striker: SM Ervine
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 10.2:
+        non_striker: SM Ervine
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DD Ebrahim
+    - 10.3:
+        non_striker: SM Ervine
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 10.4:
+        non_striker: SM Ervine
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 10.5:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 10.6:
+        non_striker: DD Ebrahim
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 11.1:
+        non_striker: SM Ervine
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 11.2:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 11.3:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 11.4:
+        non_striker: SM Ervine
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 11.5:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 11.6:
+        non_striker: DD Ebrahim
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+        wicket:
+          player_out: SM Ervine
+          fielders:
+          - SM Pollock
+          kind: caught
+    - 12.1:
+        non_striker: S Matsikenyeri
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 12.2:
+        non_striker: S Matsikenyeri
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 12.3:
+        non_striker: S Matsikenyeri
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 12.4:
+        non_striker: S Matsikenyeri
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 12.5:
+        non_striker: S Matsikenyeri
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 12.6:
+        non_striker: S Matsikenyeri
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DD Ebrahim
+    - 13.1:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 13.2:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 13.3:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 13.4:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DD Ebrahim
+    - 13.5:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 13.6:
+        non_striker: S Matsikenyeri
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DD Ebrahim
+    - 14.1:
+        non_striker: DD Ebrahim
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 14.2:
+        non_striker: DD Ebrahim
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 14.3:
+        non_striker: DD Ebrahim
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 14.4:
+        non_striker: DD Ebrahim
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 14.5:
+        non_striker: DD Ebrahim
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 14.6:
+        non_striker: DD Ebrahim
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 15.1:
+        non_striker: S Matsikenyeri
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 15.2:
+        non_striker: DD Ebrahim
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 15.3:
+        non_striker: DD Ebrahim
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 15.4:
+        non_striker: DD Ebrahim
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 15.5:
+        non_striker: DD Ebrahim
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Matsikenyeri
+    - 15.6:
+        non_striker: S Matsikenyeri
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 16.1:
+        non_striker: DD Ebrahim
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Matsikenyeri
+    - 16.2:
+        non_striker: S Matsikenyeri
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 16.3:
+        non_striker: S Matsikenyeri
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 16.4:
+        non_striker: S Matsikenyeri
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 16.5:
+        non_striker: S Matsikenyeri
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 16.6:
+        non_striker: S Matsikenyeri
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 17.1:
+        non_striker: DD Ebrahim
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 17.2:
+        non_striker: DD Ebrahim
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Matsikenyeri
+    - 17.3:
+        non_striker: DD Ebrahim
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 17.4:
+        non_striker: DD Ebrahim
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 17.5:
+        non_striker: DD Ebrahim
+        bowler: AJ Hall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Matsikenyeri
+    - 17.6:
+        non_striker: DD Ebrahim
+        bowler: AJ Hall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Matsikenyeri
+    - 17.7:
+        non_striker: DD Ebrahim
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 17.8:
+        non_striker: DD Ebrahim
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Matsikenyeri
+    - 18.1:
+        non_striker: DD Ebrahim
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 18.2:
+        non_striker: DD Ebrahim
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+    - 18.3:
+        non_striker: DD Ebrahim
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Matsikenyeri
+        wicket:
+          player_out: S Matsikenyeri
+          fielders:
+          - MV Boucher
+          kind: caught
+    - 18.4:
+        non_striker: DD Ebrahim
+        bowler: A Nel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RW Sims
+    - 18.5:
+        non_striker: DD Ebrahim
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 18.6:
+        non_striker: DD Ebrahim
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 18.7:
+        non_striker: DD Ebrahim
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 19.1:
+        non_striker: RW Sims
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 19.2:
+        non_striker: RW Sims
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 19.3:
+        non_striker: RW Sims
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 19.4:
+        non_striker: RW Sims
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 19.5:
+        non_striker: RW Sims
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 19.6:
+        non_striker: DD Ebrahim
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 20.1:
+        non_striker: RW Sims
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 20.2:
+        non_striker: DD Ebrahim
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RW Sims
+    - 20.3:
+        non_striker: DD Ebrahim
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 20.4:
+        non_striker: DD Ebrahim
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Sims
+    - 20.5:
+        non_striker: RW Sims
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 20.6:
+        non_striker: RW Sims
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+        wicket:
+          player_out: DD Ebrahim
+          fielders:
+          - MV Boucher
+          kind: caught
+    - 21.1:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 21.2:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 21.3:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 21.4:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 21.5:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 21.6:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 22.1:
+        non_striker: RW Sims
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 22.2:
+        non_striker: RW Sims
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Streak
+    - 22.3:
+        non_striker: RW Sims
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 22.4:
+        non_striker: HH Streak
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 22.5:
+        non_striker: HH Streak
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 22.6:
+        non_striker: HH Streak
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RW Sims
+    - 23.1:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HH Streak
+    - 23.2:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 23.3:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 23.4:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 23.5:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 23.6:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 23.7:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 24.1:
+        non_striker: RW Sims
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 24.2:
+        non_striker: RW Sims
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 24.3:
+        non_striker: RW Sims
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 24.4:
+        non_striker: RW Sims
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 24.5:
+        non_striker: RW Sims
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 24.6:
+        non_striker: RW Sims
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 25.1:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 25.2:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 25.3:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Sims
+    - 25.4:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 25.5:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 25.6:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 26.1:
+        non_striker: RW Sims
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 26.2:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 26.3:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 26.4:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 26.5:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 26.6:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 27.1:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 27.2:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 27.3:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 27.4:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Sims
+    - 27.5:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 27.6:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Sims
+    - 28.1:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 28.2:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 28.3:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Sims
+    - 28.4:
+        non_striker: RW Sims
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 28.5:
+        non_striker: RW Sims
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 28.6:
+        non_striker: RW Sims
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 29.1:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 29.2:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 29.3:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 29.4:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 29.5:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Sims
+    - 29.6:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 30.1:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RW Sims
+    - 30.2:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 30.3:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 30.4:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 30.5:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 30.6:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: RW Sims
+    - 30.7:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 30.8:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 31.1:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 31.2:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 31.3:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 31.4:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Streak
+    - 31.5:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 31.6:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 32.1:
+        non_striker: RW Sims
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 32.2:
+        non_striker: RW Sims
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 32.3:
+        non_striker: RW Sims
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 32.4:
+        non_striker: RW Sims
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 32.5:
+        non_striker: RW Sims
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 32.6:
+        non_striker: RW Sims
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 33.1:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Sims
+    - 33.2:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HH Streak
+    - 33.3:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 33.4:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 33.5:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RW Sims
+    - 33.6:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 33.7:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 34.1:
+        non_striker: RW Sims
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 34.2:
+        non_striker: RW Sims
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 34.3:
+        non_striker: RW Sims
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 34.4:
+        non_striker: RW Sims
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 34.5:
+        non_striker: RW Sims
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 34.6:
+        non_striker: RW Sims
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 35.1:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 35.2:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 35.3:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Sims
+    - 35.4:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Streak
+    - 35.5:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 35.6:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 36.1:
+        non_striker: HH Streak
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 36.2:
+        non_striker: HH Streak
+        bowler: M Ntini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RW Sims
+    - 36.3:
+        non_striker: HH Streak
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 36.4:
+        non_striker: HH Streak
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 36.5:
+        non_striker: HH Streak
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RW Sims
+    - 36.6:
+        non_striker: HH Streak
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 36.7:
+        non_striker: HH Streak
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 37.1:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 37.2:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 37.3:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 37.4:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Streak
+    - 37.5:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 37.6:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 38.1:
+        non_striker: HH Streak
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 38.2:
+        non_striker: HH Streak
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Sims
+    - 38.3:
+        non_striker: RW Sims
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 38.4:
+        non_striker: RW Sims
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 38.5:
+        non_striker: HH Streak
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+    - 38.6:
+        non_striker: HH Streak
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RW Sims
+    - 39.1:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 39.2:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 39.3:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Sims
+    - 39.4:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 39.5:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 39.6:
+        non_striker: RW Sims
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Streak
+    - 40.1:
+        non_striker: HH Streak
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Sims
+        wicket:
+          player_out: RW Sims
+          fielders:
+          - MV Boucher
+          kind: caught
+    - 40.2:
+        non_striker: HH Streak
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Blignaut
+    - 40.3:
+        non_striker: AM Blignaut
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 40.4:
+        non_striker: AM Blignaut
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 40.5:
+        non_striker: AM Blignaut
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 40.6:
+        non_striker: AM Blignaut
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 41.1:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 41.2:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 41.3:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 41.4:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 41.5:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+        wicket:
+          player_out: AM Blignaut
+          kind: bowled
+    - 41.6:
+        non_striker: HH Streak
+        bowler: PR Adams
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 42.1:
+        non_striker: RW Price
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 42.2:
+        non_striker: HH Streak
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 42.3:
+        non_striker: HH Streak
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 42.4:
+        non_striker: HH Streak
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 42.5:
+        non_striker: HH Streak
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Price
+    - 42.6:
+        non_striker: RW Price
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 43.1:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 43.2:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Price
+    - 43.3:
+        non_striker: RW Price
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 43.4:
+        non_striker: RW Price
+        bowler: AJ Hall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HH Streak
+    - 43.5:
+        non_striker: RW Price
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 43.6:
+        non_striker: RW Price
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 43.7:
+        non_striker: RW Price
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 44.1:
+        non_striker: RW Price
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Streak
+    - 44.2:
+        non_striker: RW Price
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 44.3:
+        non_striker: HH Streak
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RW Price
+    - 44.4:
+        non_striker: RW Price
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 44.5:
+        non_striker: HH Streak
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 44.6:
+        non_striker: HH Streak
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 45.1:
+        non_striker: RW Price
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 45.2:
+        non_striker: RW Price
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 45.3:
+        non_striker: RW Price
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 45.4:
+        non_striker: HH Streak
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Price
+    - 45.5:
+        non_striker: RW Price
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Streak
+    - 45.6:
+        non_striker: RW Price
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 46.1:
+        non_striker: HH Streak
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RW Price
+    - 46.2:
+        non_striker: HH Streak
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 46.3:
+        non_striker: HH Streak
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 46.4:
+        non_striker: HH Streak
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Price
+    - 46.5:
+        non_striker: RW Price
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 46.6:
+        non_striker: HH Streak
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 47.1:
+        non_striker: RW Price
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 47.2:
+        non_striker: HH Streak
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 47.3:
+        non_striker: HH Streak
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Price
+    - 47.4:
+        non_striker: RW Price
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Streak
+    - 47.5:
+        non_striker: RW Price
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 47.6:
+        non_striker: HH Streak
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 48.1:
+        non_striker: RW Price
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 48.2:
+        non_striker: HH Streak
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 48.3:
+        non_striker: HH Streak
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Price
+    - 48.4:
+        non_striker: RW Price
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 48.5:
+        non_striker: HH Streak
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Price
+    - 48.6:
+        non_striker: RW Price
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 49.1:
+        non_striker: RW Price
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Streak
+    - 49.2:
+        non_striker: HH Streak
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RW Price
+    - 49.3:
+        non_striker: HH Streak
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 49.4:
+        non_striker: HH Streak
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Price
+    - 49.5:
+        non_striker: RW Price
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Streak
+    - 49.6:
+        non_striker: RW Price
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Streak
+- 2nd innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HH Gibbs
+        batsman: GC Smith
+    - 0.2:
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HH Gibbs
+        batsman: GC Smith
+    - 0.3:
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HH Gibbs
+        batsman: GC Smith
+    - 0.4:
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HH Gibbs
+        batsman: GC Smith
+    - 0.5:
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HH Gibbs
+        batsman: GC Smith
+    - 0.6:
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HH Gibbs
+        batsman: GC Smith
+    - 1.1:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Gibbs
+    - 1.2:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 1.3:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 1.4:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 1.5:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+        wicket:
+          player_out: HH Gibbs
+          kind: bowled
+    - 1.6:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M van Jaarsveld
+    - 2.1:
+        non_striker: M van Jaarsveld
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 2.2:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M van Jaarsveld
+    - 2.3:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 2.4:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 2.5:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 2.6:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Jaarsveld
+    - 3.1:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 3.2:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 3.3:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 3.4:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 3.5:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+        wicket:
+          player_out: M van Jaarsveld
+          fielders:
+          - T Taibu
+          kind: caught
+    - 3.6:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 4.1:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Smith
+    - 4.2:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 4.3:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 4.4:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 4.5:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 4.6:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 5.1:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 5.2:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 5.3:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 5.4:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 5.5:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 5.6:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 6.1:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 6.2:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 6.3:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 6.4:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 6.5:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 6.6:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 7.1:
+        non_striker: JA Rudolph
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 7.2:
+        non_striker: JA Rudolph
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Smith
+    - 7.3:
+        non_striker: JA Rudolph
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 7.4:
+        non_striker: JA Rudolph
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 7.5:
+        non_striker: JA Rudolph
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 7.6:
+        non_striker: JA Rudolph
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 8.1:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 8.2:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 8.3:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 8.4:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 8.5:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 8.6:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 9.1:
+        non_striker: JA Rudolph
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 9.2:
+        non_striker: JA Rudolph
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 9.3:
+        non_striker: JA Rudolph
+        bowler: DT Hondo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GC Smith
+    - 9.4:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Rudolph
+    - 9.5:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 9.6:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 9.7:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 10.1:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 10.2:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Rudolph
+    - 10.3:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 10.4:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 10.5:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 10.6:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 10.7:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 11.1:
+        non_striker: JA Rudolph
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 11.2:
+        non_striker: JA Rudolph
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 11.3:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 11.4:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 11.5:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 11.6:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JA Rudolph
+    - 12.1:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 12.2:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 12.3:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 12.4:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 12.5:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 12.6:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 13.1:
+        non_striker: JA Rudolph
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Smith
+    - 13.2:
+        non_striker: JA Rudolph
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 13.3:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 13.4:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 13.5:
+        non_striker: JA Rudolph
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 13.6:
+        non_striker: GC Smith
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 14.1:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 14.2:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 14.3:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 14.4:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 14.5:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 14.6:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 15.1:
+        non_striker: GC Smith
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 15.2:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 15.3:
+        non_striker: GC Smith
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 15.4:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 15.5:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 15.6:
+        non_striker: GC Smith
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 16.1:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 16.2:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 16.3:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 16.4:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GC Smith
+    - 16.5:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 16.6:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 17.1:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 17.2:
+        non_striker: GC Smith
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 17.3:
+        non_striker: GC Smith
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 17.4:
+        non_striker: GC Smith
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 17.5:
+        non_striker: GC Smith
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 17.6:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 18.1:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 18.2:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 18.3:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 18.4:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 18.5:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 18.6:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 19.1:
+        non_striker: GC Smith
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 19.2:
+        non_striker: GC Smith
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 19.3:
+        non_striker: GC Smith
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 19.4:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 19.5:
+        non_striker: GC Smith
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 19.6:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 20.1:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 20.2:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 20.3:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 20.4:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 20.5:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: JA Rudolph
+    - 20.6:
+        non_striker: GC Smith
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JA Rudolph
+    - 20.7:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 21.1:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 21.2:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 21.3:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 21.4:
+        non_striker: GC Smith
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 21.5:
+        non_striker: GC Smith
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 21.6:
+        non_striker: GC Smith
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 22.1:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 22.2:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GC Smith
+    - 22.3:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Smith
+    - 22.4:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 22.5:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: GC Smith
+    - 22.6:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GC Smith
+    - 22.7:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 22.8:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 22.9:
+        non_striker: JA Rudolph
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 23.1:
+        non_striker: GC Smith
+        bowler: RW Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 23.2:
+        non_striker: GC Smith
+        bowler: RW Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 23.3:
+        non_striker: JA Rudolph
+        bowler: RW Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 23.4:
+        non_striker: GC Smith
+        bowler: RW Sims
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 23.5:
+        non_striker: GC Smith
+        bowler: RW Sims
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 3
+        batsman: JA Rudolph
+    - 23.6:
+        non_striker: JA Rudolph
+        bowler: RW Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 24.1:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 24.2:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 24.3:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 24.4:
+        non_striker: GC Smith
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 24.5:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 24.6:
+        non_striker: JA Rudolph
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 25.1:
+        non_striker: GC Smith
+        bowler: RW Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 25.2:
+        non_striker: GC Smith
+        bowler: RW Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 25.3:
+        non_striker: GC Smith
+        bowler: RW Sims
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JA Rudolph
+    - 25.4:
+        non_striker: JA Rudolph
+        bowler: RW Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 25.5:
+        non_striker: JA Rudolph
+        bowler: RW Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 25.6:
+        non_striker: GC Smith
+        bowler: RW Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 26.1:
+        non_striker: JA Rudolph
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 26.2:
+        non_striker: JA Rudolph
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 26.3:
+        non_striker: JA Rudolph
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 26.4:
+        non_striker: JA Rudolph
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 26.5:
+        non_striker: JA Rudolph
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 26.6:
+        non_striker: GC Smith
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 27.1:
+        non_striker: GC Smith
+        bowler: RW Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 27.2:
+        non_striker: JA Rudolph
+        bowler: RW Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 27.3:
+        non_striker: JA Rudolph
+        bowler: RW Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Smith
+    - 27.4:
+        non_striker: GC Smith
+        bowler: RW Sims
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 27.5:
+        non_striker: GC Smith
+        bowler: RW Sims
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 27.6:
+        non_striker: GC Smith
+        bowler: RW Sims
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 28.1:
+        non_striker: GC Smith
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 28.2:
+        non_striker: JA Rudolph
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 28.3:
+        non_striker: JA Rudolph
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 28.4:
+        non_striker: JA Rudolph
+        bowler: TJ Friend
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GC Smith
+    - 28.5:
+        non_striker: JA Rudolph
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 28.6:
+        non_striker: JA Rudolph
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+        wicket:
+          player_out: GC Smith
+          fielders:
+          - DD Ebrahim
+          kind: caught
+    - 28.7:
+        non_striker: JA Rudolph
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 29.1:
+        non_striker: MV Boucher
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 29.2:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 29.3:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 29.4:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 29.5:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 29.6:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 30.1:
+        non_striker: MV Boucher
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 30.2:
+        non_striker: MV Boucher
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 30.3:
+        non_striker: MV Boucher
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 30.4:
+        non_striker: MV Boucher
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 30.5:
+        non_striker: MV Boucher
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 30.6:
+        non_striker: MV Boucher
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 31.1:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 31.2:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 31.3:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Boucher
+    - 31.4:
+        non_striker: MV Boucher
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 31.5:
+        non_striker: MV Boucher
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 31.6:
+        non_striker: MV Boucher
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 32.1:
+        non_striker: JA Rudolph
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 32.2:
+        non_striker: JA Rudolph
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Boucher
+    - 32.3:
+        non_striker: MV Boucher
+        bowler: TJ Friend
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Rudolph
+    - 32.4:
+        non_striker: MV Boucher
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 32.5:
+        non_striker: MV Boucher
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 32.6:
+        non_striker: JA Rudolph
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 32.7:
+        non_striker: JA Rudolph
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Boucher
+    - 33.1:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 33.2:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 33.3:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 33.4:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MV Boucher
+    - 33.5:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Boucher
+    - 33.6:
+        non_striker: MV Boucher
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 34.1:
+        non_striker: JA Rudolph
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Boucher
+    - 34.2:
+        non_striker: MV Boucher
+        bowler: TJ Friend
+        runs:
+          extras: 1
+          total: 3
+          batsman: 2
+        extras:
+          noballs: 1
+        batsman: JA Rudolph
+    - 34.3:
+        non_striker: MV Boucher
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 34.4:
+        non_striker: JA Rudolph
+        bowler: TJ Friend
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MV Boucher
+    - 34.5:
+        non_striker: MV Boucher
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 34.6:
+        non_striker: MV Boucher
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 34.7:
+        non_striker: MV Boucher
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 35.1:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 35.2:
+        non_striker: JA Rudolph
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MV Boucher

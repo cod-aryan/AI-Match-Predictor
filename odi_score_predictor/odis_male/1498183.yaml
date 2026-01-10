@@ -1,0 +1,4629 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-01'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: King City
+  dates:
+  - '2025-08-31'
+  gender: male
+  match_type: ODI
+  match_type_number: 4901
+  outcome:
+    winner: Scotland
+    by:
+      wickets: 7
+  overs: 50
+  player_of_match:
+  - HG Munsey
+  players:
+    Canada:
+    - Ali Nadeem
+    - YS Samra
+    - Pargat Singh
+    - DS Bajwa
+    - NR Kirton
+    - S Movva
+    - Akhil Kumar
+    - Saad Bin Zafar
+    - Jaskaran Singh
+    - Shahid Ahmadzai
+    - Kaleem Sana
+    Scotland:
+    - HG Munsey
+    - C Tear
+    - BJ McMullen
+    - RD Berrington
+    - TC Bruce
+    - FDW McCreath
+    - MA Leask
+    - JH Davey
+    - MRJ Watt
+    - BJ Currie
+    - SM Sharif
+  registry:
+    people:
+      Akhil Kumar: 2feb5b8d
+      Ali Nadeem: '02802468'
+      BJ Currie: 2ecd844a
+      BJ McMullen: 436c763a
+      C Tear: 7ffe4817
+      DS Bajwa: e3540b8c
+      FDW McCreath: bccead86
+      G McCrea: 46f4a901
+      H Grewal: 1172f36e
+      HG Munsey: ff014c34
+      JH Davey: d3868bd0
+      Jaskaran Singh: d7b3a420
+      Kaleem Sana: 14810ee7
+      MA Leask: '28131839'
+      MRJ Watt: 1252f71a
+      NR Kirton: 6b75c2b1
+      Pargat Singh: d2e67105
+      R Shah: 3424e050
+      RD Berrington: e21bc7f3
+      S Movva: ee229588
+      SB Haig: 811655b3
+      SM Sharif: f43dd8c2
+      Saad Bin Zafar: f28a60e0
+      Shahid Ahmadzai: 3fb56752
+      TC Bruce: f92c9151
+      YS Samra: d02c40ab
+  teams:
+  - Canada
+  - Scotland
+  toss:
+    winner: Scotland
+    decision: field
+  umpires:
+  - R Shah
+  - SB Haig
+  venue: Maple Leaf North-West Ground, King City
+innings:
+- 1st innings:
+    team: Canada
+    deliveries:
+    - 0.1:
+        non_striker: YS Samra
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ali Nadeem
+        wicket:
+          player_out: Ali Nadeem
+          fielders:
+          - MRJ Watt
+          kind: caught
+    - 0.2:
+        non_striker: YS Samra
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+        wicket:
+          player_out: YS Samra
+          fielders:
+          - BJ Currie
+          kind: run out
+    - 0.3:
+        non_striker: DS Bajwa
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pargat Singh
+    - 0.4:
+        non_striker: Pargat Singh
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 0.5:
+        non_striker: Pargat Singh
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 0.6:
+        non_striker: Pargat Singh
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 1.1:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 1.2:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 1.3:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+    - 1.4:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pargat Singh
+        wicket:
+          player_out: Pargat Singh
+          kind: bowled
+    - 1.5:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 1.6:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 2.1:
+        non_striker: NR Kirton
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 2.2:
+        non_striker: NR Kirton
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Bajwa
+    - 2.3:
+        non_striker: DS Bajwa
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 2.4:
+        non_striker: DS Bajwa
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 2.5:
+        non_striker: DS Bajwa
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 2.6:
+        non_striker: DS Bajwa
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 3.1:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 3.2:
+        non_striker: NR Kirton
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DS Bajwa
+    - 3.3:
+        non_striker: NR Kirton
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 3.4:
+        non_striker: NR Kirton
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DS Bajwa
+    - 3.5:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Kirton
+    - 3.6:
+        non_striker: NR Kirton
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 4.1:
+        non_striker: DS Bajwa
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 4.2:
+        non_striker: DS Bajwa
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 4.3:
+        non_striker: DS Bajwa
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Kirton
+    - 4.4:
+        non_striker: DS Bajwa
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+    - 4.5:
+        non_striker: DS Bajwa
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Kirton
+        wicket:
+          player_out: NR Kirton
+          kind: lbw
+    - 4.6:
+        non_striker: DS Bajwa
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 5.1:
+        non_striker: S Movva
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 5.2:
+        non_striker: S Movva
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 5.3:
+        non_striker: S Movva
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Bajwa
+    - 5.4:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 5.5:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 5.6:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 6.1:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 6.2:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 6.3:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DS Bajwa
+    - 6.4:
+        non_striker: DS Bajwa
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 6.5:
+        non_striker: DS Bajwa
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 6.6:
+        non_striker: DS Bajwa
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Movva
+    - 7.1:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 7.2:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 7.3:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 7.4:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 7.5:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 7.6:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 8.1:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DS Bajwa
+    - 8.2:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 8.3:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 8.4:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 8.5:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 8.6:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 8.7:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+    - 9.1:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 9.2:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 9.3:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 9.4:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 9.5:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 9.6:
+        non_striker: DS Bajwa
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 10.1:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DS Bajwa
+        wicket:
+          player_out: DS Bajwa
+          fielders:
+          - HG Munsey
+          kind: caught
+    - 10.2:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Kumar
+    - 10.3:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Kumar
+    - 10.4:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Kumar
+    - 10.5:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Kumar
+    - 10.6:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Kumar
+    - 11.1:
+        non_striker: Akhil Kumar
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 11.2:
+        non_striker: Akhil Kumar
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 11.3:
+        non_striker: Akhil Kumar
+        bowler: JH Davey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Movva
+    - 11.4:
+        non_striker: Akhil Kumar
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 11.5:
+        non_striker: Akhil Kumar
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 11.6:
+        non_striker: Akhil Kumar
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 11.7:
+        non_striker: S Movva
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Kumar
+    - 12.1:
+        non_striker: Akhil Kumar
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 12.2:
+        non_striker: Akhil Kumar
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 12.3:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Kumar
+    - 12.4:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Kumar
+    - 12.5:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akhil Kumar
+    - 12.6:
+        non_striker: Akhil Kumar
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 13.1:
+        non_striker: Akhil Kumar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 13.2:
+        non_striker: Akhil Kumar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 13.3:
+        non_striker: S Movva
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Akhil Kumar
+    - 13.4:
+        non_striker: S Movva
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Kumar
+    - 13.5:
+        non_striker: S Movva
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Akhil Kumar
+    - 13.6:
+        non_striker: S Movva
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akhil Kumar
+        wicket:
+          player_out: Akhil Kumar
+          fielders:
+          - MRJ Watt
+          kind: caught
+    - 14.1:
+        non_striker: Saad Bin Zafar
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 14.2:
+        non_striker: Saad Bin Zafar
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 14.3:
+        non_striker: Saad Bin Zafar
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 14.4:
+        non_striker: S Movva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 14.5:
+        non_striker: S Movva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 14.6:
+        non_striker: S Movva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 15.1:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 15.2:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 15.3:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 15.4:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 15.5:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 15.6:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 16.1:
+        non_striker: S Movva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 16.2:
+        non_striker: S Movva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saad Bin Zafar
+    - 16.3:
+        non_striker: S Movva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 16.4:
+        non_striker: S Movva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 16.5:
+        non_striker: S Movva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 16.6:
+        non_striker: S Movva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 17.1:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 17.2:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Movva
+    - 17.3:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 17.4:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 17.5:
+        non_striker: S Movva
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 17.6:
+        non_striker: S Movva
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 18.1:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 18.2:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 18.3:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 18.4:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 18.5:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 18.6:
+        non_striker: S Movva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 19.1:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Movva
+    - 19.2:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 19.3:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 19.4:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 19.5:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 19.6:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 20.1:
+        non_striker: S Movva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 20.2:
+        non_striker: S Movva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saad Bin Zafar
+    - 20.3:
+        non_striker: S Movva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 20.4:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 20.5:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 20.6:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 21.1:
+        non_striker: S Movva
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 21.2:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Movva
+    - 21.3:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 21.4:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 21.5:
+        non_striker: Saad Bin Zafar
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 21.6:
+        non_striker: S Movva
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 22.1:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 22.2:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 22.3:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 22.4:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 22.5:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Movva
+    - 22.6:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 23.1:
+        non_striker: S Movva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 23.2:
+        non_striker: S Movva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 23.3:
+        non_striker: S Movva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 23.4:
+        non_striker: S Movva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 23.5:
+        non_striker: S Movva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 23.6:
+        non_striker: Saad Bin Zafar
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 24.1:
+        non_striker: S Movva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 24.2:
+        non_striker: S Movva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 24.3:
+        non_striker: S Movva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 24.4:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 24.5:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 24.6:
+        non_striker: S Movva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 25.1:
+        non_striker: Saad Bin Zafar
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 25.2:
+        non_striker: Saad Bin Zafar
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 25.3:
+        non_striker: S Movva
+        bowler: MA Leask
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saad Bin Zafar
+    - 25.4:
+        non_striker: S Movva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 25.5:
+        non_striker: S Movva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 25.6:
+        non_striker: Saad Bin Zafar
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 25.7:
+        non_striker: Saad Bin Zafar
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 26.1:
+        non_striker: S Movva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 26.2:
+        non_striker: S Movva
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 26.3:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 26.4:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Movva
+    - 26.5:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 26.6:
+        non_striker: Saad Bin Zafar
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 27.1:
+        non_striker: S Movva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 27.2:
+        non_striker: S Movva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 27.3:
+        non_striker: S Movva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saad Bin Zafar
+    - 27.4:
+        non_striker: S Movva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 27.5:
+        non_striker: S Movva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saad Bin Zafar
+    - 27.6:
+        non_striker: S Movva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 28.1:
+        non_striker: Saad Bin Zafar
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 28.2:
+        non_striker: Saad Bin Zafar
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Movva
+    - 28.3:
+        non_striker: Saad Bin Zafar
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 28.4:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 28.5:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 28.6:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 29.1:
+        non_striker: Saad Bin Zafar
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 29.2:
+        non_striker: Saad Bin Zafar
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 29.3:
+        non_striker: S Movva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saad Bin Zafar
+    - 29.4:
+        non_striker: S Movva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 29.5:
+        non_striker: S Movva
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 29.6:
+        non_striker: Saad Bin Zafar
+        bowler: MA Leask
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Movva
+    - 30.1:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 30.2:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saad Bin Zafar
+    - 30.3:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 30.4:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 30.5:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 30.6:
+        non_striker: Saad Bin Zafar
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 31.1:
+        non_striker: S Movva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saad Bin Zafar
+    - 31.2:
+        non_striker: Saad Bin Zafar
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 31.3:
+        non_striker: Saad Bin Zafar
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 31.4:
+        non_striker: Saad Bin Zafar
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 31.5:
+        non_striker: Saad Bin Zafar
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 31.6:
+        non_striker: Saad Bin Zafar
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 32.1:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 32.2:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+    - 32.3:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saad Bin Zafar
+        wicket:
+          player_out: Saad Bin Zafar
+          kind: bowled
+    - 32.4:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 32.5:
+        non_striker: S Movva
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Jaskaran Singh
+    - 32.6:
+        non_striker: Jaskaran Singh
+        bowler: BJ Currie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 33.1:
+        non_striker: S Movva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 33.2:
+        non_striker: S Movva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaskaran Singh
+    - 33.3:
+        non_striker: Jaskaran Singh
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 33.4:
+        non_striker: Jaskaran Singh
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Movva
+    - 33.5:
+        non_striker: Jaskaran Singh
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 33.6:
+        non_striker: S Movva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 34.1:
+        non_striker: Jaskaran Singh
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 34.2:
+        non_striker: Jaskaran Singh
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Movva
+    - 34.3:
+        non_striker: Jaskaran Singh
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 34.4:
+        non_striker: S Movva
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaskaran Singh
+    - 34.5:
+        non_striker: Jaskaran Singh
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 34.6:
+        non_striker: S Movva
+        bowler: JH Davey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Jaskaran Singh
+    - 35.1:
+        non_striker: S Movva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 35.2:
+        non_striker: S Movva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 35.3:
+        non_striker: S Movva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jaskaran Singh
+    - 35.4:
+        non_striker: S Movva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 35.5:
+        non_striker: S Movva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 35.6:
+        non_striker: S Movva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaskaran Singh
+    - 36.1:
+        non_striker: S Movva
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 36.2:
+        non_striker: S Movva
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 36.3:
+        non_striker: S Movva
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaskaran Singh
+    - 36.4:
+        non_striker: Jaskaran Singh
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 36.5:
+        non_striker: Jaskaran Singh
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Movva
+    - 36.6:
+        non_striker: Jaskaran Singh
+        bowler: JH Davey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 37.1:
+        non_striker: S Movva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 37.2:
+        non_striker: S Movva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaskaran Singh
+    - 37.3:
+        non_striker: Jaskaran Singh
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 37.4:
+        non_striker: Jaskaran Singh
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 37.5:
+        non_striker: Jaskaran Singh
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 37.6:
+        non_striker: Jaskaran Singh
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 38.1:
+        non_striker: S Movva
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 38.2:
+        non_striker: S Movva
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 38.3:
+        non_striker: S Movva
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 38.4:
+        non_striker: S Movva
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 38.5:
+        non_striker: S Movva
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 38.6:
+        non_striker: S Movva
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaskaran Singh
+    - 39.1:
+        non_striker: S Movva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jaskaran Singh
+    - 39.2:
+        non_striker: S Movva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 39.3:
+        non_striker: S Movva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaskaran Singh
+    - 39.4:
+        non_striker: Jaskaran Singh
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 39.5:
+        non_striker: Jaskaran Singh
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 39.6:
+        non_striker: S Movva
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 40.1:
+        non_striker: Jaskaran Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Movva
+    - 40.2:
+        non_striker: Jaskaran Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Movva
+    - 40.3:
+        non_striker: S Movva
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 40.4:
+        non_striker: S Movva
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaskaran Singh
+    - 40.5:
+        non_striker: Jaskaran Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+    - 40.6:
+        non_striker: Jaskaran Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Movva
+        wicket:
+          player_out: S Movva
+          fielders:
+          - BJ Currie
+          kind: caught
+    - 41.1:
+        non_striker: Shahid Ahmadzai
+        bowler: MRJ Watt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jaskaran Singh
+    - 41.2:
+        non_striker: Shahid Ahmadzai
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jaskaran Singh
+    - 41.3:
+        non_striker: Shahid Ahmadzai
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 41.4:
+        non_striker: Shahid Ahmadzai
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 41.5:
+        non_striker: Shahid Ahmadzai
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaskaran Singh
+    - 41.6:
+        non_striker: Jaskaran Singh
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Ahmadzai
+    - 41.7:
+        non_striker: Shahid Ahmadzai
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 42.1:
+        non_striker: Jaskaran Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Ahmadzai
+    - 42.2:
+        non_striker: Shahid Ahmadzai
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jaskaran Singh
+    - 42.3:
+        non_striker: Shahid Ahmadzai
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 42.4:
+        non_striker: Shahid Ahmadzai
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaskaran Singh
+    - 42.5:
+        non_striker: Jaskaran Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Ahmadzai
+    - 42.6:
+        non_striker: Jaskaran Singh
+        bowler: BJ McMullen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Shahid Ahmadzai
+    - 43.1:
+        non_striker: Jaskaran Singh
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Ahmadzai
+    - 43.2:
+        non_striker: Jaskaran Singh
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Ahmadzai
+    - 43.3:
+        non_striker: Jaskaran Singh
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahid Ahmadzai
+    - 43.4:
+        non_striker: Jaskaran Singh
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Ahmadzai
+    - 43.5:
+        non_striker: Jaskaran Singh
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Ahmadzai
+    - 43.6:
+        non_striker: Jaskaran Singh
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Ahmadzai
+    - 44.1:
+        non_striker: Shahid Ahmadzai
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 44.2:
+        non_striker: Shahid Ahmadzai
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jaskaran Singh
+    - 44.3:
+        non_striker: Jaskaran Singh
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Ahmadzai
+    - 44.4:
+        non_striker: Jaskaran Singh
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Ahmadzai
+    - 44.5:
+        non_striker: Jaskaran Singh
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Ahmadzai
+    - 44.6:
+        non_striker: Jaskaran Singh
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Ahmadzai
+    - 45.1:
+        non_striker: Shahid Ahmadzai
+        bowler: MRJ Watt
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Jaskaran Singh
+    - 45.2:
+        non_striker: Shahid Ahmadzai
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 45.3:
+        non_striker: Shahid Ahmadzai
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jaskaran Singh
+    - 45.4:
+        non_striker: Shahid Ahmadzai
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+    - 45.5:
+        non_striker: Shahid Ahmadzai
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jaskaran Singh
+        wicket:
+          player_out: Jaskaran Singh
+          fielders:
+          - HG Munsey
+          kind: caught
+    - 45.6:
+        non_striker: Shahid Ahmadzai
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kaleem Sana
+    - 46.1:
+        non_striker: Kaleem Sana
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Ahmadzai
+    - 46.2:
+        non_striker: Kaleem Sana
+        bowler: SM Sharif
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Shahid Ahmadzai
+    - 46.3:
+        non_striker: Kaleem Sana
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shahid Ahmadzai
+    - 46.4:
+        non_striker: Kaleem Sana
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shahid Ahmadzai
+    - 46.5:
+        non_striker: Kaleem Sana
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Ahmadzai
+    - 46.6:
+        non_striker: Kaleem Sana
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Ahmadzai
+    - 47.1:
+        non_striker: Shahid Ahmadzai
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kaleem Sana
+    - 47.2:
+        non_striker: Shahid Ahmadzai
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaleem Sana
+    - 47.3:
+        non_striker: Shahid Ahmadzai
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaleem Sana
+    - 47.4:
+        non_striker: Shahid Ahmadzai
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kaleem Sana
+    - 47.5:
+        non_striker: Shahid Ahmadzai
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kaleem Sana
+    - 47.6:
+        non_striker: Shahid Ahmadzai
+        bowler: MRJ Watt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kaleem Sana
+    - 48.1:
+        non_striker: Kaleem Sana
+        bowler: SM Sharif
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Ahmadzai
+        wicket:
+          player_out: Shahid Ahmadzai
+          fielders:
+          - TC Bruce
+          kind: caught
+- 2nd innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        non_striker: C Tear
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 0.2:
+        non_striker: HG Munsey
+        bowler: Kaleem Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Tear
+    - 0.3:
+        non_striker: HG Munsey
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 0.4:
+        non_striker: C Tear
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 0.5:
+        non_striker: C Tear
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 0.6:
+        non_striker: C Tear
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 0.7:
+        non_striker: C Tear
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 1.1:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Tear
+    - 1.2:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 1.3:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 1.4:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 1.5:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 1.6:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 2.1:
+        non_striker: C Tear
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Munsey
+    - 2.2:
+        non_striker: C Tear
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 2.3:
+        non_striker: C Tear
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 2.4:
+        non_striker: C Tear
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Munsey
+    - 2.5:
+        non_striker: C Tear
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 2.6:
+        non_striker: C Tear
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 3.1:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+    - 3.2:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Tear
+    - 3.3:
+        non_striker: C Tear
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 3.4:
+        non_striker: C Tear
+        bowler: Jaskaran Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 3.5:
+        non_striker: C Tear
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 3.6:
+        non_striker: C Tear
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 3.7:
+        non_striker: C Tear
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 4.1:
+        non_striker: HG Munsey
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Tear
+    - 4.2:
+        non_striker: HG Munsey
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Tear
+    - 4.3:
+        non_striker: HG Munsey
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Tear
+        wicket:
+          player_out: C Tear
+          fielders:
+          - Akhil Kumar
+          kind: caught
+    - 4.4:
+        non_striker: HG Munsey
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+    - 4.5:
+        non_striker: HG Munsey
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BJ McMullen
+        wicket:
+          player_out: BJ McMullen
+          fielders:
+          - S Movva
+          kind: caught
+    - 4.6:
+        non_striker: HG Munsey
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 5.1:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 5.2:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 5.3:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 5.4:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 5.5:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 5.6:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 6.1:
+        non_striker: RD Berrington
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 6.2:
+        non_striker: HG Munsey
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 6.3:
+        non_striker: HG Munsey
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 6.4:
+        non_striker: HG Munsey
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 6.5:
+        non_striker: HG Munsey
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 6.6:
+        non_striker: HG Munsey
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 7.1:
+        non_striker: RD Berrington
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 7.2:
+        non_striker: RD Berrington
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 7.3:
+        non_striker: RD Berrington
+        bowler: Jaskaran Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 7.4:
+        non_striker: RD Berrington
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 7.5:
+        non_striker: RD Berrington
+        bowler: Jaskaran Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 7.6:
+        non_striker: RD Berrington
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 7.7:
+        non_striker: RD Berrington
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 7.8:
+        non_striker: RD Berrington
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 8.1:
+        non_striker: HG Munsey
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 8.2:
+        non_striker: HG Munsey
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 8.3:
+        non_striker: HG Munsey
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 8.4:
+        non_striker: HG Munsey
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 8.5:
+        non_striker: HG Munsey
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 8.6:
+        non_striker: RD Berrington
+        bowler: Kaleem Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 9.1:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 9.2:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 9.3:
+        non_striker: RD Berrington
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 9.4:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Berrington
+    - 9.5:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 9.6:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 9.7:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 10.1:
+        non_striker: RD Berrington
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 10.2:
+        non_striker: RD Berrington
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 10.3:
+        non_striker: RD Berrington
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 10.4:
+        non_striker: RD Berrington
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 10.5:
+        non_striker: HG Munsey
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 10.6:
+        non_striker: RD Berrington
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 11.1:
+        non_striker: HG Munsey
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 11.2:
+        non_striker: HG Munsey
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 11.3:
+        non_striker: HG Munsey
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 11.4:
+        non_striker: RD Berrington
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 11.5:
+        non_striker: RD Berrington
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 11.6:
+        non_striker: RD Berrington
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 12.1:
+        non_striker: HG Munsey
+        bowler: DS Bajwa
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: RD Berrington
+    - 12.2:
+        non_striker: HG Munsey
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 12.3:
+        non_striker: HG Munsey
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 12.4:
+        non_striker: HG Munsey
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 12.5:
+        non_striker: HG Munsey
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 12.6:
+        non_striker: HG Munsey
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 12.7:
+        non_striker: RD Berrington
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 13.1:
+        non_striker: HG Munsey
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 13.2:
+        non_striker: HG Munsey
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 13.3:
+        non_striker: HG Munsey
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 13.4:
+        non_striker: HG Munsey
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 13.5:
+        non_striker: HG Munsey
+        bowler: Akhil Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Berrington
+    - 13.6:
+        non_striker: HG Munsey
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 13.7:
+        non_striker: HG Munsey
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 14.1:
+        non_striker: RD Berrington
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 14.2:
+        non_striker: RD Berrington
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 14.3:
+        non_striker: RD Berrington
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 14.4:
+        non_striker: RD Berrington
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 14.5:
+        non_striker: RD Berrington
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 14.6:
+        non_striker: RD Berrington
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 15.1:
+        non_striker: HG Munsey
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 15.2:
+        non_striker: RD Berrington
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 15.3:
+        non_striker: HG Munsey
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 15.4:
+        non_striker: RD Berrington
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 15.5:
+        non_striker: RD Berrington
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 15.6:
+        non_striker: RD Berrington
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 16.1:
+        non_striker: HG Munsey
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 16.2:
+        non_striker: HG Munsey
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 16.3:
+        non_striker: HG Munsey
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 16.4:
+        non_striker: HG Munsey
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 16.5:
+        non_striker: HG Munsey
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 16.6:
+        non_striker: HG Munsey
+        bowler: DS Bajwa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RD Berrington
+    - 17.1:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 17.2:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 17.3:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 17.4:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 17.5:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 17.6:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 18.1:
+        non_striker: RD Berrington
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 18.2:
+        non_striker: HG Munsey
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 18.3:
+        non_striker: HG Munsey
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 18.4:
+        non_striker: HG Munsey
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 18.5:
+        non_striker: HG Munsey
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 18.6:
+        non_striker: HG Munsey
+        bowler: DS Bajwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 19.1:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 19.2:
+        non_striker: RD Berrington
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 19.3:
+        non_striker: RD Berrington
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Munsey
+    - 19.4:
+        non_striker: RD Berrington
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 19.5:
+        non_striker: RD Berrington
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 19.6:
+        non_striker: RD Berrington
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 20.1:
+        non_striker: HG Munsey
+        bowler: Shahid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 20.2:
+        non_striker: HG Munsey
+        bowler: Shahid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 20.3:
+        non_striker: HG Munsey
+        bowler: Shahid Ahmadzai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 20.4:
+        non_striker: HG Munsey
+        bowler: Shahid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 20.5:
+        non_striker: RD Berrington
+        bowler: Shahid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 20.6:
+        non_striker: RD Berrington
+        bowler: Shahid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 21.1:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 21.2:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 21.3:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 21.4:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 21.5:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 21.6:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 22.1:
+        non_striker: RD Berrington
+        bowler: Shahid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 22.2:
+        non_striker: RD Berrington
+        bowler: Shahid Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HG Munsey
+    - 22.3:
+        non_striker: HG Munsey
+        bowler: Shahid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 22.4:
+        non_striker: HG Munsey
+        bowler: Shahid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 22.5:
+        non_striker: HG Munsey
+        bowler: Shahid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 22.6:
+        non_striker: RD Berrington
+        bowler: Shahid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 23.1:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 23.2:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 23.3:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 23.4:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 23.5:
+        non_striker: RD Berrington
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 23.6:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 24.1:
+        non_striker: RD Berrington
+        bowler: Shahid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 24.2:
+        non_striker: RD Berrington
+        bowler: Shahid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 24.3:
+        non_striker: RD Berrington
+        bowler: Shahid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 24.4:
+        non_striker: HG Munsey
+        bowler: Shahid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 24.5:
+        non_striker: HG Munsey
+        bowler: Shahid Ahmadzai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 24.6:
+        non_striker: HG Munsey
+        bowler: Shahid Ahmadzai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Berrington
+    - 24.7:
+        non_striker: HG Munsey
+        bowler: Shahid Ahmadzai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 25.1:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 25.2:
+        non_striker: RD Berrington
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 25.3:
+        non_striker: RD Berrington
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 25.4:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 25.5:
+        non_striker: RD Berrington
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 25.6:
+        non_striker: RD Berrington
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 26.1:
+        non_striker: HG Munsey
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 26.2:
+        non_striker: RD Berrington
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 26.3:
+        non_striker: RD Berrington
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 26.4:
+        non_striker: HG Munsey
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 26.5:
+        non_striker: HG Munsey
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RD Berrington
+    - 26.6:
+        non_striker: RD Berrington
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 27.1:
+        non_striker: RD Berrington
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 27.2:
+        non_striker: RD Berrington
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 27.3:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 27.4:
+        non_striker: HG Munsey
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 27.5:
+        non_striker: RD Berrington
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 27.6:
+        non_striker: RD Berrington
+        bowler: Saad Bin Zafar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Munsey
+    - 28.1:
+        non_striker: HG Munsey
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 28.2:
+        non_striker: RD Berrington
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 28.3:
+        non_striker: HG Munsey
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 28.4:
+        non_striker: HG Munsey
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 28.5:
+        non_striker: HG Munsey
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 28.6:
+        non_striker: RD Berrington
+        bowler: Akhil Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 29.1:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 29.2:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 29.3:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 29.4:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 29.5:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 29.6:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 30.1:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 30.2:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 30.3:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 30.4:
+        non_striker: RD Berrington
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 30.5:
+        non_striker: RD Berrington
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 30.6:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: RD Berrington
+    - 30.7:
+        non_striker: RD Berrington
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 31.1:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 31.2:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 31.3:
+        non_striker: RD Berrington
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 31.4:
+        non_striker: RD Berrington
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 31.5:
+        non_striker: RD Berrington
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 31.6:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 32.1:
+        non_striker: RD Berrington
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 32.2:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Berrington
+    - 32.3:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 32.4:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 32.5:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 32.6:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 32.7:
+        non_striker: RD Berrington
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 33.1:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 33.2:
+        non_striker: RD Berrington
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 33.3:
+        non_striker: RD Berrington
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 33.4:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 33.5:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 33.6:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Berrington
+    - 34.1:
+        non_striker: RD Berrington
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 34.2:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 34.3:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 34.4:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 34.5:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 34.6:
+        non_striker: RD Berrington
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 35.1:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 35.2:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+    - 35.3:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Berrington
+    - 35.4:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Berrington
+    - 35.5:
+        non_striker: RD Berrington
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 35.6:
+        non_striker: RD Berrington
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 36.1:
+        non_striker: RD Berrington
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HG Munsey
+    - 36.2:
+        non_striker: RD Berrington
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Munsey
+    - 36.3:
+        non_striker: RD Berrington
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 36.4:
+        non_striker: RD Berrington
+        bowler: NR Kirton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HG Munsey
+    - 36.5:
+        non_striker: RD Berrington
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Munsey
+    - 36.6:
+        non_striker: RD Berrington
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HG Munsey
+    - 36.7:
+        non_striker: RD Berrington
+        bowler: NR Kirton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 37.1:
+        non_striker: RD Berrington
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 37.2:
+        non_striker: RD Berrington
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 37.3:
+        non_striker: RD Berrington
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 37.4:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Berrington
+        wicket:
+          player_out: RD Berrington
+          kind: bowled
+    - 37.5:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 37.6:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 38.1:
+        non_striker: TC Bruce
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 38.2:
+        non_striker: TC Bruce
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 38.3:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 38.4:
+        non_striker: TC Bruce
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 38.5:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 38.6:
+        non_striker: TC Bruce
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 39.1:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 39.2:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TC Bruce
+    - 39.3:
+        non_striker: TC Bruce
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 39.4:
+        non_striker: TC Bruce
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 39.5:
+        non_striker: TC Bruce
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HG Munsey
+    - 39.6:
+        non_striker: TC Bruce
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HG Munsey
+    - 40.1:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 40.2:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 40.3:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 40.4:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 40.5:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 40.6:
+        non_striker: HG Munsey
+        bowler: Jaskaran Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 41.1:
+        non_striker: TC Bruce
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HG Munsey
+    - 41.2:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 41.3:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TC Bruce
+    - 41.4:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TC Bruce
+    - 41.5:
+        non_striker: HG Munsey
+        bowler: Pargat Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TC Bruce

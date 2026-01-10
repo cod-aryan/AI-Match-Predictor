@@ -1,0 +1,4740 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-10-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kolkata
+  dates:
+  - '2023-10-28'
+  gender: male
+  match_type: ODI
+  match_type_number: 4685
+  outcome:
+    winner: Netherlands
+    by:
+      runs: 87
+  overs: 50
+  player_of_match:
+  - PA van Meekeren
+  players:
+    Netherlands:
+    - Vikramjit Singh
+    - MP O'Dowd
+    - W Barresi
+    - CN Ackermann
+    - SA Edwards
+    - BFW de Leede
+    - SA Engelbrecht
+    - LV van Beek
+    - Shariz Ahmad
+    - A Dutt
+    - PA van Meekeren
+    Bangladesh:
+    - Liton Das
+    - Tanzid Hasan
+    - Mehedi Hasan Miraz
+    - Nazmul Hossain Shanto
+    - Shakib Al Hasan
+    - Mushfiqur Rahim
+    - Mahmudullah
+    - Mahedi Hasan
+    - Taskin Ahmed
+    - Mustafizur Rahman
+    - Shoriful Islam
+  registry:
+    people:
+      A Dutt: 803dbf1d
+      BFW de Leede: fc4375ef
+      CB Gaffaney: d5ac41d8
+      CN Ackermann: e734d090
+      HDPK Dharmasena: 323e4c16
+      JJ Crowe: 2e760301
+      JS Wilson: d7f3b72f
+      LV van Beek: 782fb776
+      Liton Das: 0404d43c
+      MP O'Dowd: b699df47
+      Mahedi Hasan: 9dad0f2e
+      Mahmudullah: bf1d7d3e
+      Mehedi Hasan Miraz: c58b0108
+      Mushfiqur Rahim: a94e08ea
+      Mustafizur Rahman: 0a8fce53
+      Nazmul Hossain Shanto: 1274d7ab
+      P Wilson: 68304a36
+      PA van Meekeren: 4557dc54
+      SA Edwards: b59db04f
+      SA Engelbrecht: 81a0e294
+      Shakib Al Hasan: 7dc35884
+      Shariz Ahmad: 7595b47f
+      Shoriful Islam: bb34fd31
+      Tanzid Hasan: 80fe764d
+      Taskin Ahmed: ef18b66e
+      Vikramjit Singh: 2a9eee66
+      W Barresi: 0d677597
+  teams:
+  - Netherlands
+  - Bangladesh
+  toss:
+    winner: Netherlands
+    decision: bat
+  umpires:
+  - JS Wilson
+  - P Wilson
+  venue: Eden Gardens, Kolkata
+innings:
+- 1st innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        non_striker: MP O'Dowd
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 0.2:
+        non_striker: MP O'Dowd
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 0.3:
+        non_striker: MP O'Dowd
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 0.4:
+        non_striker: MP O'Dowd
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 0.5:
+        non_striker: MP O'Dowd
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Vikramjit Singh
+    - 0.6:
+        non_striker: Vikramjit Singh
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 1.1:
+        non_striker: MP O'Dowd
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 1.2:
+        non_striker: MP O'Dowd
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 1.3:
+        non_striker: MP O'Dowd
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+    - 1.4:
+        non_striker: MP O'Dowd
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Vikramjit Singh
+        wicket:
+          player_out: Vikramjit Singh
+          fielders:
+          - Shakib Al Hasan
+          kind: caught
+    - 1.5:
+        non_striker: MP O'Dowd
+        bowler: Taskin Ahmed
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Barresi
+    - 1.6:
+        non_striker: MP O'Dowd
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 1.7:
+        non_striker: MP O'Dowd
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 2.1:
+        non_striker: W Barresi
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+    - 2.2:
+        non_striker: W Barresi
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP O'Dowd
+        wicket:
+          player_out: MP O'Dowd
+          fielders:
+          - Tanzid Hasan
+          kind: caught
+    - 2.3:
+        non_striker: W Barresi
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 2.4:
+        non_striker: W Barresi
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Ackermann
+    - 2.5:
+        non_striker: W Barresi
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 2.6:
+        non_striker: W Barresi
+        bowler: Shoriful Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CN Ackermann
+    - 2.7:
+        non_striker: W Barresi
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 3.1:
+        non_striker: CN Ackermann
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 3.2:
+        non_striker: CN Ackermann
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 3.3:
+        non_striker: CN Ackermann
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Barresi
+    - 3.4:
+        non_striker: CN Ackermann
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 3.5:
+        non_striker: CN Ackermann
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 3.6:
+        non_striker: W Barresi
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 4.1:
+        non_striker: CN Ackermann
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 4.2:
+        non_striker: CN Ackermann
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Barresi
+    - 4.3:
+        non_striker: CN Ackermann
+        bowler: Shoriful Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Barresi
+    - 4.4:
+        non_striker: CN Ackermann
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Barresi
+    - 4.5:
+        non_striker: CN Ackermann
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 4.6:
+        non_striker: CN Ackermann
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 4.7:
+        non_striker: CN Ackermann
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 5.1:
+        non_striker: W Barresi
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 5.2:
+        non_striker: W Barresi
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 5.3:
+        non_striker: W Barresi
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 5.4:
+        non_striker: W Barresi
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 5.5:
+        non_striker: W Barresi
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 5.6:
+        non_striker: W Barresi
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 6.1:
+        non_striker: CN Ackermann
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 6.2:
+        non_striker: CN Ackermann
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 6.3:
+        non_striker: CN Ackermann
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 6.4:
+        non_striker: W Barresi
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 6.5:
+        non_striker: W Barresi
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 6.6:
+        non_striker: CN Ackermann
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Barresi
+    - 7.1:
+        non_striker: W Barresi
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 7.2:
+        non_striker: W Barresi
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 7.3:
+        non_striker: CN Ackermann
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 7.4:
+        non_striker: CN Ackermann
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Barresi
+    - 7.5:
+        non_striker: CN Ackermann
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 7.6:
+        non_striker: CN Ackermann
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Barresi
+    - 8.1:
+        non_striker: W Barresi
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 8.2:
+        non_striker: W Barresi
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 8.3:
+        non_striker: W Barresi
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 8.4:
+        non_striker: W Barresi
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 8.5:
+        non_striker: CN Ackermann
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 8.6:
+        non_striker: CN Ackermann
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 9.1:
+        non_striker: CN Ackermann
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 9.2:
+        non_striker: CN Ackermann
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Barresi
+    - 9.3:
+        non_striker: CN Ackermann
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 9.4:
+        non_striker: W Barresi
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 9.5:
+        non_striker: W Barresi
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 9.6:
+        non_striker: CN Ackermann
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 10.1:
+        non_striker: CN Ackermann
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 10.2:
+        non_striker: W Barresi
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 10.3:
+        non_striker: CN Ackermann
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 10.4:
+        non_striker: CN Ackermann
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 10.5:
+        non_striker: CN Ackermann
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 10.6:
+        non_striker: W Barresi
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 11.1:
+        non_striker: W Barresi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 11.2:
+        non_striker: W Barresi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 11.3:
+        non_striker: CN Ackermann
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 11.4:
+        non_striker: CN Ackermann
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 11.5:
+        non_striker: W Barresi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 11.6:
+        non_striker: CN Ackermann
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 12.1:
+        non_striker: W Barresi
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 12.2:
+        non_striker: CN Ackermann
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 12.3:
+        non_striker: CN Ackermann
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: W Barresi
+    - 12.4:
+        non_striker: W Barresi
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 12.5:
+        non_striker: CN Ackermann
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 12.6:
+        non_striker: CN Ackermann
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: W Barresi
+    - 13.1:
+        non_striker: W Barresi
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Ackermann
+    - 13.2:
+        non_striker: CN Ackermann
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 13.3:
+        non_striker: CN Ackermann
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+    - 13.4:
+        non_striker: CN Ackermann
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: W Barresi
+    - 13.5:
+        non_striker: CN Ackermann
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: W Barresi
+        wicket:
+          player_out: W Barresi
+          fielders:
+          - Shakib Al Hasan
+          kind: caught
+    - 13.6:
+        non_striker: CN Ackermann
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 13.7:
+        non_striker: CN Ackermann
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 14.1:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 14.2:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 14.3:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+    - 14.4:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Ackermann
+        wicket:
+          player_out: CN Ackermann
+          fielders:
+          - Mustafizur Rahman
+          kind: caught
+    - 14.5:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 14.6:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 15.1:
+        non_striker: BFW de Leede
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 15.2:
+        non_striker: BFW de Leede
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 15.3:
+        non_striker: BFW de Leede
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 15.4:
+        non_striker: BFW de Leede
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 15.5:
+        non_striker: BFW de Leede
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 15.6:
+        non_striker: BFW de Leede
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 16.1:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 16.2:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 16.3:
+        non_striker: BFW de Leede
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 16.4:
+        non_striker: BFW de Leede
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 16.5:
+        non_striker: BFW de Leede
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 16.6:
+        non_striker: BFW de Leede
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 17.1:
+        non_striker: BFW de Leede
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 17.2:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 17.3:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 17.4:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 17.5:
+        non_striker: BFW de Leede
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 17.6:
+        non_striker: BFW de Leede
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 18.1:
+        non_striker: SA Edwards
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 18.2:
+        non_striker: BFW de Leede
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 18.3:
+        non_striker: BFW de Leede
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 18.4:
+        non_striker: BFW de Leede
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 18.5:
+        non_striker: BFW de Leede
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 18.6:
+        non_striker: BFW de Leede
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 19.1:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 19.2:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 19.3:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BFW de Leede
+    - 19.4:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 19.5:
+        non_striker: BFW de Leede
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 19.6:
+        non_striker: BFW de Leede
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 20.1:
+        non_striker: BFW de Leede
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 20.2:
+        non_striker: BFW de Leede
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 20.3:
+        non_striker: BFW de Leede
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 20.4:
+        non_striker: BFW de Leede
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 20.5:
+        non_striker: SA Edwards
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 20.6:
+        non_striker: SA Edwards
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 21.1:
+        non_striker: BFW de Leede
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 21.2:
+        non_striker: BFW de Leede
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 21.3:
+        non_striker: BFW de Leede
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 21.4:
+        non_striker: BFW de Leede
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 21.5:
+        non_striker: SA Edwards
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 21.6:
+        non_striker: SA Edwards
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 22.1:
+        non_striker: BFW de Leede
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 22.2:
+        non_striker: BFW de Leede
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 22.3:
+        non_striker: BFW de Leede
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 22.4:
+        non_striker: SA Edwards
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 22.5:
+        non_striker: SA Edwards
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 22.6:
+        non_striker: BFW de Leede
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 23.1:
+        non_striker: SA Edwards
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 23.2:
+        non_striker: SA Edwards
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 23.3:
+        non_striker: SA Edwards
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 23.4:
+        non_striker: SA Edwards
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 23.5:
+        non_striker: SA Edwards
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BFW de Leede
+    - 23.6:
+        non_striker: SA Edwards
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 24.1:
+        non_striker: BFW de Leede
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 24.2:
+        non_striker: BFW de Leede
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 24.3:
+        non_striker: BFW de Leede
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 24.4:
+        non_striker: BFW de Leede
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 24.5:
+        non_striker: SA Edwards
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 24.6:
+        non_striker: BFW de Leede
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 25.1:
+        non_striker: BFW de Leede
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 25.2:
+        non_striker: BFW de Leede
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 25.3:
+        non_striker: SA Edwards
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BFW de Leede
+    - 25.4:
+        non_striker: BFW de Leede
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 25.5:
+        non_striker: BFW de Leede
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 25.6:
+        non_striker: BFW de Leede
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 26.1:
+        non_striker: SA Edwards
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BFW de Leede
+    - 26.2:
+        non_striker: SA Edwards
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 26.3:
+        non_striker: SA Edwards
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 26.4:
+        non_striker: SA Edwards
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 26.5:
+        non_striker: SA Edwards
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+    - 26.6:
+        non_striker: SA Edwards
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BFW de Leede
+        wicket:
+          player_out: BFW de Leede
+          fielders:
+          - Mushfiqur Rahim
+          kind: caught
+    - 27.1:
+        non_striker: SA Engelbrecht
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 27.2:
+        non_striker: SA Engelbrecht
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 27.3:
+        non_striker: SA Edwards
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 27.4:
+        non_striker: SA Edwards
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 27.5:
+        non_striker: SA Edwards
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 27.6:
+        non_striker: SA Edwards
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 28.1:
+        non_striker: SA Edwards
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 28.2:
+        non_striker: SA Edwards
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 28.3:
+        non_striker: SA Edwards
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 28.4:
+        non_striker: SA Engelbrecht
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 28.5:
+        non_striker: SA Edwards
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 28.6:
+        non_striker: SA Edwards
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 29.1:
+        non_striker: SA Engelbrecht
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 29.2:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 29.3:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 29.4:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 29.5:
+        non_striker: SA Engelbrecht
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 29.6:
+        non_striker: SA Engelbrecht
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 30.1:
+        non_striker: SA Edwards
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 30.2:
+        non_striker: SA Engelbrecht
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 30.3:
+        non_striker: SA Edwards
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 30.4:
+        non_striker: SA Edwards
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 30.5:
+        non_striker: SA Edwards
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Engelbrecht
+    - 30.6:
+        non_striker: SA Edwards
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 31.1:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 31.2:
+        non_striker: SA Engelbrecht
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 31.3:
+        non_striker: SA Engelbrecht
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 31.4:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 31.5:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 31.6:
+        non_striker: SA Engelbrecht
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 32.1:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 32.2:
+        non_striker: SA Engelbrecht
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 32.3:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 32.4:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 32.5:
+        non_striker: SA Engelbrecht
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 32.6:
+        non_striker: SA Engelbrecht
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 33.1:
+        non_striker: SA Edwards
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 33.2:
+        non_striker: SA Engelbrecht
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 33.3:
+        non_striker: SA Engelbrecht
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 33.4:
+        non_striker: SA Edwards
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 33.5:
+        non_striker: SA Engelbrecht
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 33.6:
+        non_striker: SA Engelbrecht
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 34.1:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 34.2:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Engelbrecht
+    - 34.3:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 34.4:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 34.5:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 34.6:
+        non_striker: SA Engelbrecht
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 35.1:
+        non_striker: SA Engelbrecht
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 35.2:
+        non_striker: SA Engelbrecht
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 35.3:
+        non_striker: SA Edwards
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 35.4:
+        non_striker: SA Edwards
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 35.5:
+        non_striker: SA Edwards
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 35.6:
+        non_striker: SA Engelbrecht
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 36.1:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 36.2:
+        non_striker: SA Engelbrecht
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 36.3:
+        non_striker: SA Engelbrecht
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 36.4:
+        non_striker: SA Engelbrecht
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 36.5:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 36.6:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 37.1:
+        non_striker: SA Engelbrecht
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 37.2:
+        non_striker: SA Edwards
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 37.3:
+        non_striker: SA Engelbrecht
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 37.4:
+        non_striker: SA Edwards
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 37.5:
+        non_striker: SA Engelbrecht
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 37.6:
+        non_striker: SA Edwards
+        bowler: Mehedi Hasan Miraz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 38.1:
+        non_striker: SA Engelbrecht
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 38.2:
+        non_striker: SA Edwards
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 38.3:
+        non_striker: SA Edwards
+        bowler: Shoriful Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Engelbrecht
+    - 38.4:
+        non_striker: SA Edwards
+        bowler: Shoriful Islam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Engelbrecht
+    - 38.5:
+        non_striker: SA Engelbrecht
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 38.6:
+        non_striker: SA Engelbrecht
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 38.7:
+        non_striker: SA Edwards
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 39.1:
+        non_striker: SA Engelbrecht
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 39.2:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 39.3:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 39.4:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 39.5:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 39.6:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 40.1:
+        non_striker: SA Engelbrecht
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 40.2:
+        non_striker: SA Engelbrecht
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 40.3:
+        non_striker: SA Engelbrecht
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Edwards
+    - 40.4:
+        non_striker: SA Engelbrecht
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 40.5:
+        non_striker: SA Engelbrecht
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 40.6:
+        non_striker: SA Engelbrecht
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+    - 41.1:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Engelbrecht
+    - 41.2:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 41.3:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 41.4:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 41.5:
+        non_striker: SA Edwards
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 41.6:
+        non_striker: SA Engelbrecht
+        bowler: Shakib Al Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 42.1:
+        non_striker: SA Engelbrecht
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 42.2:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 42.3:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 42.4:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 42.5:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SA Engelbrecht
+    - 42.6:
+        non_striker: SA Engelbrecht
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 43.1:
+        non_striker: SA Engelbrecht
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 43.2:
+        non_striker: SA Engelbrecht
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 43.3:
+        non_striker: SA Edwards
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 43.4:
+        non_striker: SA Engelbrecht
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Edwards
+    - 43.5:
+        non_striker: SA Engelbrecht
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Edwards
+    - 43.6:
+        non_striker: SA Edwards
+        bowler: Taskin Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 44.1:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+    - 44.2:
+        non_striker: SA Edwards
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Engelbrecht
+    - 44.3:
+        non_striker: SA Engelbrecht
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Edwards
+        wicket:
+          player_out: SA Edwards
+          fielders:
+          - Mehedi Hasan Miraz
+          kind: caught
+    - 44.4:
+        non_striker: SA Engelbrecht
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 44.5:
+        non_striker: SA Engelbrecht
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 44.6:
+        non_striker: SA Engelbrecht
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 45.1:
+        non_striker: LV van Beek
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Engelbrecht
+        wicket:
+          player_out: SA Engelbrecht
+          kind: lbw
+    - 45.2:
+        non_striker: LV van Beek
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shariz Ahmad
+    - 45.3:
+        non_striker: LV van Beek
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shariz Ahmad
+    - 45.4:
+        non_striker: LV van Beek
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shariz Ahmad
+    - 45.5:
+        non_striker: Shariz Ahmad
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 45.6:
+        non_striker: LV van Beek
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shariz Ahmad
+    - 46.1:
+        non_striker: Shariz Ahmad
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 46.2:
+        non_striker: Shariz Ahmad
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 46.3:
+        non_striker: LV van Beek
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shariz Ahmad
+    - 46.4:
+        non_striker: Shariz Ahmad
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 46.5:
+        non_striker: LV van Beek
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shariz Ahmad
+    - 46.6:
+        non_striker: LV van Beek
+        bowler: Mustafizur Rahman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shariz Ahmad
+    - 47.1:
+        non_striker: LV van Beek
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shariz Ahmad
+        wicket:
+          player_out: Shariz Ahmad
+          fielders:
+          - Mushfiqur Rahim
+          - Mahmudullah
+          kind: run out
+    - 47.2:
+        non_striker: LV van Beek
+        bowler: Mahedi Hasan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Dutt
+    - 47.3:
+        non_striker: A Dutt
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LV van Beek
+    - 47.4:
+        non_striker: A Dutt
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 47.5:
+        non_striker: LV van Beek
+        bowler: Mahedi Hasan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: A Dutt
+    - 47.6:
+        non_striker: LV van Beek
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dutt
+    - 47.7:
+        non_striker: LV van Beek
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Dutt
+    - 48.1:
+        non_striker: A Dutt
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 48.2:
+        non_striker: LV van Beek
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dutt
+    - 48.3:
+        non_striker: A Dutt
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 48.4:
+        non_striker: LV van Beek
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Dutt
+    - 48.5:
+        non_striker: LV van Beek
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dutt
+        wicket:
+          player_out: A Dutt
+          fielders:
+          - Mehedi Hasan Miraz
+          kind: caught
+    - 48.6:
+        non_striker: LV van Beek
+        bowler: Shoriful Islam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA van Meekeren
+    - 49.1:
+        non_striker: PA van Meekeren
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV van Beek
+    - 49.2:
+        non_striker: PA van Meekeren
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LV van Beek
+    - 49.3:
+        non_striker: PA van Meekeren
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LV van Beek
+    - 49.4:
+        non_striker: PA van Meekeren
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: LV van Beek
+    - 49.5:
+        non_striker: PA van Meekeren
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LV van Beek
+    - 49.6:
+        non_striker: LV van Beek
+        bowler: Mahedi Hasan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA van Meekeren
+        wicket:
+          player_out: PA van Meekeren
+          kind: lbw
+- 2nd innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Tanzid Hasan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 0.2:
+        non_striker: Tanzid Hasan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 0.3:
+        non_striker: Tanzid Hasan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 0.4:
+        non_striker: Tanzid Hasan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 0.5:
+        non_striker: Liton Das
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tanzid Hasan
+    - 0.6:
+        non_striker: Tanzid Hasan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 1.1:
+        non_striker: Liton Das
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 1.2:
+        non_striker: Liton Das
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 1.3:
+        non_striker: Liton Das
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tanzid Hasan
+    - 1.4:
+        non_striker: Liton Das
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tanzid Hasan
+    - 1.5:
+        non_striker: Tanzid Hasan
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 1.6:
+        non_striker: Tanzid Hasan
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 2.1:
+        non_striker: Liton Das
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 2.2:
+        non_striker: Liton Das
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 2.3:
+        non_striker: Liton Das
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 2.4:
+        non_striker: Liton Das
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 2.5:
+        non_striker: Liton Das
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tanzid Hasan
+    - 2.6:
+        non_striker: Liton Das
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 3.1:
+        non_striker: Tanzid Hasan
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 3.2:
+        non_striker: Tanzid Hasan
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Liton Das
+    - 3.3:
+        non_striker: Tanzid Hasan
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 3.4:
+        non_striker: Liton Das
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 3.5:
+        non_striker: Liton Das
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tanzid Hasan
+    - 3.6:
+        non_striker: Tanzid Hasan
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Liton Das
+    - 3.7:
+        non_striker: Liton Das
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tanzid Hasan
+    - 4.1:
+        non_striker: Tanzid Hasan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+    - 4.2:
+        non_striker: Tanzid Hasan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Liton Das
+        wicket:
+          player_out: Liton Das
+          fielders:
+          - SA Edwards
+          kind: caught
+    - 4.3:
+        non_striker: Tanzid Hasan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 4.4:
+        non_striker: Tanzid Hasan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 4.5:
+        non_striker: Tanzid Hasan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 4.6:
+        non_striker: Tanzid Hasan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 5.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+    - 5.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzid Hasan
+        wicket:
+          player_out: Tanzid Hasan
+          fielders:
+          - SA Edwards
+          kind: caught
+    - 5.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 5.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 5.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 5.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 6.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 6.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 6.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 6.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 6.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 6.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 7.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 7.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 7.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 7.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 7.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazmul Hossain Shanto
+    - 7.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 8.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mehedi Hasan Miraz
+    - 8.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 8.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 8.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 8.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 8.6:
+        non_striker: Nazmul Hossain Shanto
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 9.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nazmul Hossain Shanto
+    - 9.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 9.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 9.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 9.5:
+        non_striker: Nazmul Hossain Shanto
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 9.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 10.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 10.2:
+        non_striker: Nazmul Hossain Shanto
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 10.3:
+        non_striker: Nazmul Hossain Shanto
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 10.4:
+        non_striker: Nazmul Hossain Shanto
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 10.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 10.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 11.1:
+        non_striker: Nazmul Hossain Shanto
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 11.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nazmul Hossain Shanto
+    - 11.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 11.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+    - 11.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nazmul Hossain Shanto
+        wicket:
+          player_out: Nazmul Hossain Shanto
+          fielders:
+          - LV van Beek
+          kind: caught
+    - 11.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 12.1:
+        non_striker: Shakib Al Hasan
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 12.2:
+        non_striker: Shakib Al Hasan
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 12.3:
+        non_striker: Shakib Al Hasan
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 12.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 12.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 12.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 13.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 13.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 13.3:
+        non_striker: Shakib Al Hasan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 13.4:
+        non_striker: Mehedi Hasan Miraz
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 13.5:
+        non_striker: Mehedi Hasan Miraz
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 13.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 14.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 14.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+    - 14.3:
+        non_striker: Mehedi Hasan Miraz
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 14.4:
+        non_striker: Shakib Al Hasan
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 14.5:
+        non_striker: Shakib Al Hasan
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 14.6:
+        non_striker: Shakib Al Hasan
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 15.1:
+        non_striker: Mehedi Hasan Miraz
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shakib Al Hasan
+    - 15.2:
+        non_striker: Shakib Al Hasan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 15.3:
+        non_striker: Shakib Al Hasan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mehedi Hasan Miraz
+    - 15.4:
+        non_striker: Shakib Al Hasan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 15.5:
+        non_striker: Shakib Al Hasan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 15.6:
+        non_striker: Mehedi Hasan Miraz
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shakib Al Hasan
+        wicket:
+          player_out: Shakib Al Hasan
+          fielders:
+          - SA Edwards
+          kind: caught
+    - 16.1:
+        non_striker: Mushfiqur Rahim
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mehedi Hasan Miraz
+    - 16.2:
+        non_striker: Mehedi Hasan Miraz
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mushfiqur Rahim
+    - 16.3:
+        non_striker: Mushfiqur Rahim
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mehedi Hasan Miraz
+    - 16.4:
+        non_striker: Mushfiqur Rahim
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+    - 16.5:
+        non_striker: Mushfiqur Rahim
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mehedi Hasan Miraz
+        wicket:
+          player_out: Mehedi Hasan Miraz
+          fielders:
+          - SA Edwards
+          kind: caught
+    - 16.6:
+        non_striker: Mushfiqur Rahim
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 17.1:
+        non_striker: Mahmudullah
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 17.2:
+        non_striker: Mahmudullah
+        bowler: PA van Meekeren
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mushfiqur Rahim
+    - 17.3:
+        non_striker: Mahmudullah
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 17.4:
+        non_striker: Mahmudullah
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+    - 17.5:
+        non_striker: Mahmudullah
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mushfiqur Rahim
+        wicket:
+          player_out: Mushfiqur Rahim
+          kind: bowled
+    - 17.6:
+        non_striker: Mahmudullah
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 17.7:
+        non_striker: Mahmudullah
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 18.1:
+        non_striker: Mahedi Hasan
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 18.2:
+        non_striker: Mahmudullah
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 18.3:
+        non_striker: Mahmudullah
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 18.4:
+        non_striker: Mahmudullah
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 18.5:
+        non_striker: Mahmudullah
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 18.6:
+        non_striker: Mahmudullah
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 19.1:
+        non_striker: Mahedi Hasan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 19.2:
+        non_striker: Mahedi Hasan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 19.3:
+        non_striker: Mahedi Hasan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 19.4:
+        non_striker: Mahedi Hasan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 19.5:
+        non_striker: Mahedi Hasan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 19.6:
+        non_striker: Mahmudullah
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 20.1:
+        non_striker: Mahedi Hasan
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 20.2:
+        non_striker: Mahedi Hasan
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 20.3:
+        non_striker: Mahedi Hasan
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 20.4:
+        non_striker: Mahmudullah
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 20.5:
+        non_striker: Mahedi Hasan
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 20.6:
+        non_striker: Mahedi Hasan
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 21.1:
+        non_striker: Mahmudullah
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 21.2:
+        non_striker: Mahmudullah
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 21.3:
+        non_striker: Mahedi Hasan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 21.4:
+        non_striker: Mahedi Hasan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 21.5:
+        non_striker: Mahedi Hasan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 21.6:
+        non_striker: Mahedi Hasan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 22.1:
+        non_striker: Mahedi Hasan
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 22.2:
+        non_striker: Mahmudullah
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 22.3:
+        non_striker: Mahmudullah
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 22.4:
+        non_striker: Mahmudullah
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 22.5:
+        non_striker: Mahmudullah
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 22.6:
+        non_striker: Mahmudullah
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 23.1:
+        non_striker: Mahedi Hasan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 23.2:
+        non_striker: Mahedi Hasan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 23.3:
+        non_striker: Mahedi Hasan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 23.4:
+        non_striker: Mahedi Hasan
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 23.5:
+        non_striker: Mahmudullah
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 23.6:
+        non_striker: Mahmudullah
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 24.1:
+        non_striker: Mahmudullah
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 24.2:
+        non_striker: Mahmudullah
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 24.3:
+        non_striker: Mahedi Hasan
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 24.4:
+        non_striker: Mahedi Hasan
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 24.5:
+        non_striker: Mahmudullah
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mahedi Hasan
+    - 24.6:
+        non_striker: Mahmudullah
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 25.1:
+        non_striker: Mahedi Hasan
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahmudullah
+    - 25.2:
+        non_striker: Mahedi Hasan
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 25.3:
+        non_striker: Mahedi Hasan
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 25.4:
+        non_striker: Mahmudullah
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 25.5:
+        non_striker: Mahmudullah
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 25.6:
+        non_striker: Mahmudullah
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 26.1:
+        non_striker: Mahmudullah
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mahedi Hasan
+    - 26.2:
+        non_striker: Mahmudullah
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 26.3:
+        non_striker: Mahmudullah
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 26.4:
+        non_striker: Mahedi Hasan
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 26.5:
+        non_striker: Mahedi Hasan
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 26.6:
+        non_striker: Mahedi Hasan
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 26.7:
+        non_striker: Mahedi Hasan
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 27.1:
+        non_striker: Mahmudullah
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 27.2:
+        non_striker: Mahmudullah
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mahedi Hasan
+    - 27.3:
+        non_striker: Mahmudullah
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 27.4:
+        non_striker: Mahedi Hasan
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 27.5:
+        non_striker: Mahmudullah
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 27.6:
+        non_striker: Mahedi Hasan
+        bowler: Shariz Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 28.1:
+        non_striker: Mahmudullah
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 28.2:
+        non_striker: Mahmudullah
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 28.3:
+        non_striker: Mahedi Hasan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 28.4:
+        non_striker: Mahmudullah
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 28.5:
+        non_striker: Mahmudullah
+        bowler: PA van Meekeren
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mahedi Hasan
+    - 28.6:
+        non_striker: Mahmudullah
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 28.7:
+        non_striker: Mahedi Hasan
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 29.1:
+        non_striker: Mahmudullah
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+    - 29.2:
+        non_striker: Mahmudullah
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahedi Hasan
+    - 29.3:
+        non_striker: Mahedi Hasan
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 29.4:
+        non_striker: Mahmudullah
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahedi Hasan
+        wicket:
+          player_out: Mahedi Hasan
+          fielders:
+          - BFW de Leede
+          kind: run out
+    - 29.5:
+        non_striker: Taskin Ahmed
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mahmudullah
+    - 29.6:
+        non_striker: Mahmudullah
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taskin Ahmed
+    - 30.1:
+        non_striker: Mahmudullah
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 30.2:
+        non_striker: Mahmudullah
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 30.3:
+        non_striker: Mahmudullah
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 30.4:
+        non_striker: Mahmudullah
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taskin Ahmed
+    - 30.5:
+        non_striker: Taskin Ahmed
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 30.6:
+        non_striker: Taskin Ahmed
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 31.1:
+        non_striker: Mahmudullah
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 31.2:
+        non_striker: Mahmudullah
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Taskin Ahmed
+    - 31.3:
+        non_striker: Mahmudullah
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 31.4:
+        non_striker: Mahmudullah
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 31.5:
+        non_striker: Mahmudullah
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 31.6:
+        non_striker: Mahmudullah
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 32.1:
+        non_striker: Taskin Ahmed
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 32.2:
+        non_striker: Taskin Ahmed
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+    - 32.3:
+        non_striker: Taskin Ahmed
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mahmudullah
+        wicket:
+          player_out: Mahmudullah
+          fielders:
+          - A Dutt
+          kind: caught
+    - 32.4:
+        non_striker: Taskin Ahmed
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 32.5:
+        non_striker: Taskin Ahmed
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 32.6:
+        non_striker: Taskin Ahmed
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mustafizur Rahman
+    - 33.1:
+        non_striker: Taskin Ahmed
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 33.2:
+        non_striker: Taskin Ahmed
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 33.3:
+        non_striker: Taskin Ahmed
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 33.4:
+        non_striker: Taskin Ahmed
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 33.5:
+        non_striker: Taskin Ahmed
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mustafizur Rahman
+    - 33.6:
+        non_striker: Mustafizur Rahman
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 34.1:
+        non_striker: Taskin Ahmed
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 34.2:
+        non_striker: Taskin Ahmed
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 34.3:
+        non_striker: Taskin Ahmed
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 34.4:
+        non_striker: Taskin Ahmed
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mustafizur Rahman
+    - 34.5:
+        non_striker: Taskin Ahmed
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mustafizur Rahman
+    - 34.6:
+        non_striker: Taskin Ahmed
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 35.1:
+        non_striker: Mustafizur Rahman
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 35.2:
+        non_striker: Mustafizur Rahman
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 35.3:
+        non_striker: Mustafizur Rahman
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 35.4:
+        non_striker: Mustafizur Rahman
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 35.5:
+        non_striker: Mustafizur Rahman
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 35.6:
+        non_striker: Mustafizur Rahman
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 36.1:
+        non_striker: Taskin Ahmed
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 36.2:
+        non_striker: Taskin Ahmed
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 36.3:
+        non_striker: Taskin Ahmed
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mustafizur Rahman
+    - 36.4:
+        non_striker: Taskin Ahmed
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 36.5:
+        non_striker: Taskin Ahmed
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 36.6:
+        non_striker: Taskin Ahmed
+        bowler: BFW de Leede
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 37.1:
+        non_striker: Mustafizur Rahman
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 37.2:
+        non_striker: Mustafizur Rahman
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 37.3:
+        non_striker: Mustafizur Rahman
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 37.4:
+        non_striker: Mustafizur Rahman
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taskin Ahmed
+    - 37.5:
+        non_striker: Taskin Ahmed
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 37.6:
+        non_striker: Taskin Ahmed
+        bowler: A Dutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 38.1:
+        non_striker: Mustafizur Rahman
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 38.2:
+        non_striker: Mustafizur Rahman
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 38.3:
+        non_striker: Mustafizur Rahman
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Taskin Ahmed
+    - 38.4:
+        non_striker: Mustafizur Rahman
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 38.5:
+        non_striker: Mustafizur Rahman
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Taskin Ahmed
+    - 38.6:
+        non_striker: Mustafizur Rahman
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 38.7:
+        non_striker: Mustafizur Rahman
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 39.1:
+        non_striker: Taskin Ahmed
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 39.2:
+        non_striker: Taskin Ahmed
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Mustafizur Rahman
+    - 39.3:
+        non_striker: Taskin Ahmed
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mustafizur Rahman
+    - 39.4:
+        non_striker: Mustafizur Rahman
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 39.5:
+        non_striker: Mustafizur Rahman
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taskin Ahmed
+    - 39.6:
+        non_striker: Mustafizur Rahman
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 40.1:
+        non_striker: Taskin Ahmed
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 40.2:
+        non_striker: Taskin Ahmed
+        bowler: LV van Beek
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Mustafizur Rahman
+    - 40.3:
+        non_striker: Taskin Ahmed
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 40.4:
+        non_striker: Taskin Ahmed
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 40.5:
+        non_striker: Taskin Ahmed
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mustafizur Rahman
+    - 40.6:
+        non_striker: Mustafizur Rahman
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 40.7:
+        non_striker: Mustafizur Rahman
+        bowler: LV van Beek
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 41.1:
+        non_striker: Taskin Ahmed
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 41.2:
+        non_striker: Taskin Ahmed
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 41.3:
+        non_striker: Taskin Ahmed
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 41.4:
+        non_striker: Taskin Ahmed
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 41.5:
+        non_striker: Taskin Ahmed
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+    - 41.6:
+        non_striker: Taskin Ahmed
+        bowler: CN Ackermann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mustafizur Rahman
+        wicket:
+          player_out: Mustafizur Rahman
+          kind: bowled
+    - 42.1:
+        non_striker: Shoriful Islam
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+    - 42.2:
+        non_striker: Shoriful Islam
+        bowler: PA van Meekeren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taskin Ahmed
+        wicket:
+          player_out: Taskin Ahmed
+          fielders:
+          - BFW de Leede
+          kind: caught

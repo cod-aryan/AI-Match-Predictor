@@ -1,0 +1,4721 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-03-30'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Windhoek
+  dates:
+  - '2023-03-26'
+  gender: male
+  match_type: ODI
+  match_type_number: 4550
+  outcome:
+    winner: United States of America
+    by:
+      runs: 80
+  overs: 50
+  player_of_match:
+  - G Singh
+  players:
+    United States of America:
+    - SR Taylor
+    - SJ Modani
+    - MD Patel
+    - Aaron Jones
+    - G Singh
+    - Shayan Jahangir
+    - NK Patel
+    - Jasdeep Singh
+    - NP Kenjige
+    - SN Netravalkar
+    - Ali Khan
+    Namibia:
+    - S Fouché
+    - N Davin
+    - M van Lingen
+    - MG Erasmus
+    - JN Loftie-Eaton
+    - ZE Green
+    - MD du Preez
+    - HN Ya France
+    - R Trumpelmann
+    - BM Scholtz
+    - B Shikongo
+  registry:
+    people:
+      Aaron Jones: 17aa4f1d
+      Ali Khan: b0eaaac6
+      B Shikongo: c26cd57a
+      BM Scholtz: e85d03d6
+      C Phiri: ade73404
+      D Odhiambo: '45994517'
+      G Singh: e93b6c95
+      GH Pienaar: 3516e46b
+      HN Ya France: 915264c2
+      IO Oyieko: de4828fa
+      JN Loftie-Eaton: f468293b
+      Jasdeep Singh: 5ec41cd7
+      M van Lingen: 7eb36269
+      MD Patel: 25d7f1ac
+      MD du Preez: e5ad357a
+      MG Erasmus: 95a5e066
+      N Davin: 72e361fe
+      NK Patel: c6e10e5c
+      NP Kenjige: f7d267f7
+      R Trumpelmann: ff6a7ab5
+      S Fouché: 89ce57a8
+      SJ Modani: 290cba17
+      SN Netravalkar: c8a3f688
+      SR Taylor: a9231c3f
+      Shayan Jahangir: 571e1d2a
+      ZE Green: 8716233e
+  teams:
+  - United States of America
+  - Namibia
+  toss:
+    winner: Namibia
+    decision: field
+  umpires:
+  - C Phiri
+  - D Odhiambo
+  venue: Wanderers Cricket Ground, Windhoek
+innings:
+- 1st innings:
+    team: United States of America
+    deliveries:
+    - 0.1:
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SJ Modani
+        batsman: SR Taylor
+    - 0.2:
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SJ Modani
+        batsman: SR Taylor
+    - 0.3:
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SJ Modani
+        batsman: SR Taylor
+    - 0.4:
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: SJ Modani
+        batsman: SR Taylor
+    - 0.5:
+        non_striker: SR Taylor
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 0.6:
+        non_striker: SR Taylor
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 1.1:
+        non_striker: SJ Modani
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 1.2:
+        non_striker: SJ Modani
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 1.3:
+        non_striker: SJ Modani
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+        wicket:
+          player_out: SR Taylor
+          fielders:
+          - MG Erasmus
+          kind: caught
+    - 1.4:
+        non_striker: SJ Modani
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 1.5:
+        non_striker: SJ Modani
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+    - 1.6:
+        non_striker: SJ Modani
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Patel
+        wicket:
+          player_out: MD Patel
+          kind: bowled
+    - 2.1:
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Aaron Jones
+        batsman: SJ Modani
+    - 2.2:
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Aaron Jones
+        batsman: SJ Modani
+    - 2.3:
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Aaron Jones
+        batsman: SJ Modani
+    - 2.4:
+        non_striker: SJ Modani
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aaron Jones
+    - 2.5:
+        non_striker: SJ Modani
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 2.6:
+        non_striker: SJ Modani
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 2.7:
+        non_striker: SJ Modani
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 3.1:
+        non_striker: Aaron Jones
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 3.2:
+        non_striker: Aaron Jones
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Modani
+    - 3.3:
+        non_striker: SJ Modani
+        bowler: B Shikongo
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Aaron Jones
+    - 3.4:
+        non_striker: SJ Modani
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 3.5:
+        non_striker: SJ Modani
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 3.6:
+        non_striker: Aaron Jones
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 4.1:
+        non_striker: SJ Modani
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 4.2:
+        non_striker: SJ Modani
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 4.3:
+        non_striker: Aaron Jones
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 4.4:
+        non_striker: Aaron Jones
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 4.5:
+        non_striker: Aaron Jones
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 4.6:
+        non_striker: Aaron Jones
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Modani
+    - 5.1:
+        non_striker: SJ Modani
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 5.2:
+        non_striker: SJ Modani
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 5.3:
+        non_striker: Aaron Jones
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 5.4:
+        non_striker: Aaron Jones
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 5.5:
+        non_striker: Aaron Jones
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Modani
+    - 5.6:
+        non_striker: SJ Modani
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 6.1:
+        non_striker: Aaron Jones
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 6.2:
+        non_striker: Aaron Jones
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Modani
+    - 6.3:
+        non_striker: Aaron Jones
+        bowler: R Trumpelmann
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Modani
+    - 6.4:
+        non_striker: Aaron Jones
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 6.5:
+        non_striker: Aaron Jones
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 6.6:
+        non_striker: Aaron Jones
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 6.7:
+        non_striker: Aaron Jones
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 7.1:
+        non_striker: SJ Modani
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 7.2:
+        non_striker: Aaron Jones
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Modani
+    - 7.3:
+        non_striker: SJ Modani
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 7.4:
+        non_striker: SJ Modani
+        bowler: B Shikongo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Aaron Jones
+    - 7.5:
+        non_striker: Aaron Jones
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 7.6:
+        non_striker: Aaron Jones
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 8.1:
+        non_striker: SJ Modani
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aaron Jones
+    - 8.2:
+        non_striker: SJ Modani
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 8.3:
+        non_striker: SJ Modani
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 8.4:
+        non_striker: SJ Modani
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 8.5:
+        non_striker: SJ Modani
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 8.6:
+        non_striker: Aaron Jones
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 9.1:
+        non_striker: SJ Modani
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 9.2:
+        non_striker: SJ Modani
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 9.3:
+        non_striker: SJ Modani
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Aaron Jones
+    - 9.4:
+        non_striker: Aaron Jones
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 9.5:
+        non_striker: Aaron Jones
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 9.6:
+        non_striker: Aaron Jones
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Modani
+    - 10.1:
+        non_striker: Aaron Jones
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 10.2:
+        non_striker: Aaron Jones
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Modani
+    - 10.3:
+        non_striker: SJ Modani
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 10.4:
+        non_striker: Aaron Jones
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Modani
+    - 10.5:
+        non_striker: SJ Modani
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 10.6:
+        non_striker: SJ Modani
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aaron Jones
+    - 11.1:
+        non_striker: Aaron Jones
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 11.2:
+        non_striker: Aaron Jones
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Modani
+    - 11.3:
+        non_striker: SJ Modani
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 11.4:
+        non_striker: SJ Modani
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 11.5:
+        non_striker: SJ Modani
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 11.6:
+        non_striker: SJ Modani
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aaron Jones
+    - 12.1:
+        non_striker: Aaron Jones
+        bowler: S Fouché
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Modani
+    - 12.2:
+        non_striker: Aaron Jones
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+    - 12.3:
+        non_striker: Aaron Jones
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Modani
+    - 12.4:
+        non_striker: SJ Modani
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 12.5:
+        non_striker: SJ Modani
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 12.6:
+        non_striker: SJ Modani
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 12.7:
+        non_striker: SJ Modani
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 13.1:
+        non_striker: SJ Modani
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 13.2:
+        non_striker: SJ Modani
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aaron Jones
+    - 13.3:
+        non_striker: SJ Modani
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 13.4:
+        non_striker: Aaron Jones
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Modani
+    - 13.5:
+        non_striker: SJ Modani
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 13.6:
+        non_striker: SJ Modani
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 14.1:
+        non_striker: Aaron Jones
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Modani
+    - 14.2:
+        non_striker: SJ Modani
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 14.3:
+        non_striker: SJ Modani
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aaron Jones
+    - 14.4:
+        non_striker: SJ Modani
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 14.5:
+        non_striker: Aaron Jones
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Modani
+        wicket:
+          player_out: SJ Modani
+          fielders:
+          - JN Loftie-Eaton
+          kind: caught
+    - 14.6:
+        non_striker: Aaron Jones
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 15.1:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 15.2:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 15.3:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 15.4:
+        non_striker: Aaron Jones
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 15.5:
+        non_striker: Aaron Jones
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 15.6:
+        non_striker: Aaron Jones
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 16.1:
+        non_striker: G Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 16.2:
+        non_striker: Aaron Jones
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 16.3:
+        non_striker: Aaron Jones
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 16.4:
+        non_striker: G Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aaron Jones
+    - 16.5:
+        non_striker: G Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 16.6:
+        non_striker: Aaron Jones
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 17.1:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aaron Jones
+    - 17.2:
+        non_striker: Aaron Jones
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 17.3:
+        non_striker: Aaron Jones
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Singh
+    - 17.4:
+        non_striker: Aaron Jones
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Singh
+    - 17.5:
+        non_striker: Aaron Jones
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 17.6:
+        non_striker: Aaron Jones
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 18.1:
+        non_striker: Aaron Jones
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 18.2:
+        non_striker: Aaron Jones
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 18.3:
+        non_striker: G Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Aaron Jones
+    - 18.4:
+        non_striker: Aaron Jones
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 18.5:
+        non_striker: Aaron Jones
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 18.6:
+        non_striker: Aaron Jones
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 19.1:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+    - 19.2:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aaron Jones
+        wicket:
+          player_out: Aaron Jones
+          fielders:
+          - N Davin
+          kind: caught
+    - 19.3:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Shayan Jahangir
+    - 19.4:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 19.5:
+        non_striker: Shayan Jahangir
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Singh
+    - 19.6:
+        non_striker: Shayan Jahangir
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 20.1:
+        non_striker: G Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 20.2:
+        non_striker: G Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 20.3:
+        non_striker: G Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 20.4:
+        non_striker: G Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 20.5:
+        non_striker: G Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 20.6:
+        non_striker: Shayan Jahangir
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 21.1:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 21.2:
+        non_striker: Shayan Jahangir
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 21.3:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 21.4:
+        non_striker: Shayan Jahangir
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 21.5:
+        non_striker: Shayan Jahangir
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 21.6:
+        non_striker: Shayan Jahangir
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 22.1:
+        non_striker: G Singh
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+    - 22.2:
+        non_striker: G Singh
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shayan Jahangir
+    - 22.3:
+        non_striker: Shayan Jahangir
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 22.4:
+        non_striker: Shayan Jahangir
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 22.5:
+        non_striker: G Singh
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shayan Jahangir
+        wicket:
+          player_out: Shayan Jahangir
+          kind: bowled
+    - 22.6:
+        non_striker: G Singh
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 23.1:
+        non_striker: NK Patel
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 23.2:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 23.3:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: NK Patel
+    - 23.4:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 23.5:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 23.6:
+        non_striker: NK Patel
+        bowler: HN Ya France
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: G Singh
+    - 23.7:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+    - 23.8:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 24.1:
+        non_striker: G Singh
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NK Patel
+    - 24.2:
+        non_striker: NK Patel
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 24.3:
+        non_striker: NK Patel
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Singh
+    - 24.4:
+        non_striker: NK Patel
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 24.5:
+        non_striker: G Singh
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NK Patel
+        wicket:
+          player_out: NK Patel
+          kind: lbw
+    - 24.6:
+        non_striker: G Singh
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 25.1:
+        non_striker: Jasdeep Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 25.2:
+        non_striker: Jasdeep Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 25.3:
+        non_striker: G Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 25.4:
+        non_striker: G Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 25.5:
+        non_striker: G Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 25.6:
+        non_striker: G Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 26.1:
+        non_striker: Jasdeep Singh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Singh
+    - 26.2:
+        non_striker: Jasdeep Singh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 26.3:
+        non_striker: G Singh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 26.4:
+        non_striker: G Singh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jasdeep Singh
+    - 26.5:
+        non_striker: G Singh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 26.6:
+        non_striker: G Singh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 27.1:
+        non_striker: Jasdeep Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 27.2:
+        non_striker: G Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 27.3:
+        non_striker: G Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 27.4:
+        non_striker: G Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 27.5:
+        non_striker: G Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 27.6:
+        non_striker: G Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 28.1:
+        non_striker: G Singh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 28.2:
+        non_striker: G Singh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 28.3:
+        non_striker: Jasdeep Singh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Singh
+    - 28.4:
+        non_striker: Jasdeep Singh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 28.5:
+        non_striker: Jasdeep Singh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 28.6:
+        non_striker: Jasdeep Singh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 29.1:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 29.2:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Singh
+    - 29.3:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 29.4:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 29.5:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 29.6:
+        non_striker: G Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 30.1:
+        non_striker: Jasdeep Singh
+        bowler: HN Ya France
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Singh
+    - 30.2:
+        non_striker: Jasdeep Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 30.3:
+        non_striker: Jasdeep Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: G Singh
+    - 30.4:
+        non_striker: Jasdeep Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 30.5:
+        non_striker: Jasdeep Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 30.6:
+        non_striker: Jasdeep Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Singh
+    - 30.7:
+        non_striker: Jasdeep Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 31.1:
+        non_striker: G Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 31.2:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 31.3:
+        non_striker: G Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 31.4:
+        non_striker: G Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 31.5:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 31.6:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 32.1:
+        non_striker: Jasdeep Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Singh
+    - 32.2:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 32.3:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 32.4:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 32.5:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 32.6:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 33.1:
+        non_striker: G Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 33.2:
+        non_striker: G Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 33.3:
+        non_striker: G Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 33.4:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Singh
+    - 33.5:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 33.6:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 34.1:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 34.2:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 34.3:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 34.4:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 34.5:
+        non_striker: G Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 34.6:
+        non_striker: Jasdeep Singh
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Singh
+    - 35.1:
+        non_striker: G Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 35.2:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 35.3:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Singh
+    - 35.4:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 35.5:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+    - 35.6:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Singh
+        wicket:
+          player_out: G Singh
+          kind: bowled
+    - 36.1:
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NP Kenjige
+        batsman: Jasdeep Singh
+    - 36.2:
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NP Kenjige
+        batsman: Jasdeep Singh
+    - 36.3:
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NP Kenjige
+        batsman: Jasdeep Singh
+    - 36.4:
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: NP Kenjige
+        batsman: Jasdeep Singh
+    - 36.5:
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: NP Kenjige
+        batsman: Jasdeep Singh
+    - 36.6:
+        non_striker: NP Kenjige
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 37.1:
+        non_striker: NP Kenjige
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 37.2:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 37.3:
+        non_striker: NP Kenjige
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Jasdeep Singh
+    - 37.4:
+        non_striker: NP Kenjige
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Jasdeep Singh
+    - 37.5:
+        non_striker: NP Kenjige
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 37.6:
+        non_striker: NP Kenjige
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 38.1:
+        non_striker: Jasdeep Singh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 38.2:
+        non_striker: Jasdeep Singh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 38.3:
+        non_striker: Jasdeep Singh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 38.4:
+        non_striker: Jasdeep Singh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 38.5:
+        non_striker: Jasdeep Singh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 38.6:
+        non_striker: Jasdeep Singh
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 39.1:
+        non_striker: NP Kenjige
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 39.2:
+        non_striker: NP Kenjige
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 39.3:
+        non_striker: NP Kenjige
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 39.4:
+        non_striker: NP Kenjige
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 39.5:
+        non_striker: NP Kenjige
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 39.6:
+        non_striker: NP Kenjige
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 40.1:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 40.2:
+        non_striker: NP Kenjige
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 40.3:
+        non_striker: NP Kenjige
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 40.4:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 40.5:
+        non_striker: NP Kenjige
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jasdeep Singh
+    - 40.6:
+        non_striker: NP Kenjige
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 41.1:
+        non_striker: NP Kenjige
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jasdeep Singh
+    - 41.2:
+        non_striker: Jasdeep Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 41.3:
+        non_striker: Jasdeep Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 41.4:
+        non_striker: Jasdeep Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 41.5:
+        non_striker: Jasdeep Singh
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 41.6:
+        non_striker: NP Kenjige
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 42.1:
+        non_striker: Jasdeep Singh
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 42.2:
+        non_striker: NP Kenjige
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 42.3:
+        non_striker: NP Kenjige
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 42.4:
+        non_striker: NP Kenjige
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+    - 42.5:
+        non_striker: NP Kenjige
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jasdeep Singh
+        wicket:
+          player_out: Jasdeep Singh
+          fielders:
+          - MD du Preez
+          kind: caught
+    - 42.6:
+        non_striker: NP Kenjige
+        bowler: S Fouché
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Netravalkar
+    - 43.1:
+        non_striker: SN Netravalkar
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 43.2:
+        non_striker: SN Netravalkar
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 43.3:
+        non_striker: SN Netravalkar
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NP Kenjige
+    - 43.4:
+        non_striker: SN Netravalkar
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NP Kenjige
+    - 43.5:
+        non_striker: SN Netravalkar
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 43.6:
+        non_striker: SN Netravalkar
+        bowler: BM Scholtz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 44.1:
+        non_striker: NP Kenjige
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Netravalkar
+    - 44.2:
+        non_striker: SN Netravalkar
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 44.3:
+        non_striker: NP Kenjige
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Netravalkar
+    - 44.4:
+        non_striker: NP Kenjige
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Netravalkar
+    - 44.5:
+        non_striker: SN Netravalkar
+        bowler: B Shikongo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NP Kenjige
+    - 44.6:
+        non_striker: SN Netravalkar
+        bowler: B Shikongo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: NP Kenjige
+    - 44.7:
+        non_striker: SN Netravalkar
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 44.8:
+        non_striker: NP Kenjige
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Netravalkar
+    - 45.1:
+        non_striker: NP Kenjige
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Netravalkar
+    - 45.2:
+        non_striker: NP Kenjige
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Netravalkar
+    - 45.3:
+        non_striker: SN Netravalkar
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NP Kenjige
+    - 45.4:
+        non_striker: SN Netravalkar
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 45.5:
+        non_striker: NP Kenjige
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Netravalkar
+    - 45.6:
+        non_striker: NP Kenjige
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Netravalkar
+    - 46.1:
+        non_striker: SN Netravalkar
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 46.2:
+        non_striker: SN Netravalkar
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 46.3:
+        non_striker: SN Netravalkar
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 46.4:
+        non_striker: SN Netravalkar
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 46.5:
+        non_striker: SN Netravalkar
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 46.6:
+        non_striker: SN Netravalkar
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 47.1:
+        non_striker: SN Netravalkar
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 47.2:
+        non_striker: SN Netravalkar
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 47.3:
+        non_striker: SN Netravalkar
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NP Kenjige
+    - 47.4:
+        non_striker: SN Netravalkar
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NP Kenjige
+    - 47.5:
+        non_striker: SN Netravalkar
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 47.6:
+        non_striker: SN Netravalkar
+        bowler: HN Ya France
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 48.1:
+        non_striker: SN Netravalkar
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+    - 48.2:
+        non_striker: SN Netravalkar
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NP Kenjige
+    - 48.3:
+        non_striker: NP Kenjige
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SN Netravalkar
+    - 48.4:
+        non_striker: NP Kenjige
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Netravalkar
+    - 48.5:
+        non_striker: NP Kenjige
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Netravalkar
+    - 48.6:
+        non_striker: NP Kenjige
+        bowler: R Trumpelmann
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SN Netravalkar
+    - 49.1:
+        non_striker: SN Netravalkar
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NP Kenjige
+    - 49.2:
+        non_striker: SN Netravalkar
+        bowler: B Shikongo
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: NP Kenjige
+    - 49.3:
+        non_striker: SN Netravalkar
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NP Kenjige
+    - 49.4:
+        non_striker: SN Netravalkar
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NP Kenjige
+    - 49.5:
+        non_striker: SN Netravalkar
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NP Kenjige
+        wicket:
+          player_out: NP Kenjige
+          fielders:
+          - MG Erasmus
+          kind: caught
+    - 49.6:
+        non_striker: SN Netravalkar
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Khan
+    - 49.7:
+        non_striker: SN Netravalkar
+        bowler: B Shikongo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ali Khan
+- 2nd innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: N Davin
+        batsman: S Fouché
+    - 0.2:
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: N Davin
+        batsman: S Fouché
+    - 0.3:
+        non_striker: S Fouché
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 0.4:
+        non_striker: S Fouché
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Davin
+    - 0.5:
+        non_striker: N Davin
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 0.6:
+        non_striker: N Davin
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 1.1:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 1.2:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 1.3:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 1.4:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+    - 1.5:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Davin
+        wicket:
+          player_out: N Davin
+          kind: bowled
+    - 1.6:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Lingen
+        wicket:
+          player_out: M van Lingen
+          kind: lbw
+    - 2.1:
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MG Erasmus
+        batsman: S Fouché
+    - 2.2:
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MG Erasmus
+        batsman: S Fouché
+    - 2.3:
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MG Erasmus
+        batsman: S Fouché
+    - 2.4:
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MG Erasmus
+        batsman: S Fouché
+    - 2.5:
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: MG Erasmus
+        batsman: S Fouché
+    - 2.6:
+        non_striker: MG Erasmus
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 3.1:
+        non_striker: MG Erasmus
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 3.2:
+        non_striker: MG Erasmus
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 3.3:
+        non_striker: MG Erasmus
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 3.4:
+        non_striker: MG Erasmus
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 3.5:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 3.6:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MG Erasmus
+    - 4.1:
+        non_striker: MG Erasmus
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 4.2:
+        non_striker: MG Erasmus
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 4.3:
+        non_striker: MG Erasmus
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 4.4:
+        non_striker: MG Erasmus
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Fouché
+    - 4.5:
+        non_striker: MG Erasmus
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 4.6:
+        non_striker: MG Erasmus
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 5.1:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 5.2:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 5.3:
+        non_striker: MG Erasmus
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 5.4:
+        non_striker: MG Erasmus
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 5.5:
+        non_striker: MG Erasmus
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 5.6:
+        non_striker: MG Erasmus
+        bowler: Ali Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Fouché
+    - 5.7:
+        non_striker: MG Erasmus
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 6.1:
+        non_striker: MG Erasmus
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Fouché
+    - 6.2:
+        non_striker: S Fouché
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 6.3:
+        non_striker: S Fouché
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 6.4:
+        non_striker: S Fouché
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 6.5:
+        non_striker: S Fouché
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 6.6:
+        non_striker: S Fouché
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 7.1:
+        non_striker: MG Erasmus
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 7.2:
+        non_striker: MG Erasmus
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 7.3:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 7.4:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 7.5:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 7.6:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 8.1:
+        non_striker: MG Erasmus
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 8.2:
+        non_striker: MG Erasmus
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 8.3:
+        non_striker: MG Erasmus
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 8.4:
+        non_striker: MG Erasmus
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 8.5:
+        non_striker: MG Erasmus
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 8.6:
+        non_striker: MG Erasmus
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 9.1:
+        non_striker: S Fouché
+        bowler: Jasdeep Singh
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: MG Erasmus
+    - 9.2:
+        non_striker: S Fouché
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MG Erasmus
+    - 9.3:
+        non_striker: MG Erasmus
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 9.4:
+        non_striker: MG Erasmus
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 9.5:
+        non_striker: S Fouché
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 9.6:
+        non_striker: S Fouché
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 9.7:
+        non_striker: S Fouché
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 10.1:
+        non_striker: MG Erasmus
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 10.2:
+        non_striker: MG Erasmus
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 10.3:
+        non_striker: MG Erasmus
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 10.4:
+        non_striker: MG Erasmus
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 10.5:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 10.6:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 11.1:
+        non_striker: S Fouché
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 11.2:
+        non_striker: S Fouché
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 11.3:
+        non_striker: MG Erasmus
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 11.4:
+        non_striker: MG Erasmus
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Fouché
+    - 11.5:
+        non_striker: MG Erasmus
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 11.6:
+        non_striker: MG Erasmus
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 12.1:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 12.2:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 12.3:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MG Erasmus
+    - 12.4:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 12.5:
+        non_striker: MG Erasmus
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Fouché
+    - 12.6:
+        non_striker: MG Erasmus
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 13.1:
+        non_striker: MG Erasmus
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 13.2:
+        non_striker: MG Erasmus
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 13.3:
+        non_striker: S Fouché
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 13.4:
+        non_striker: S Fouché
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 13.5:
+        non_striker: S Fouché
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 13.6:
+        non_striker: S Fouché
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 14.1:
+        non_striker: MG Erasmus
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 14.2:
+        non_striker: MG Erasmus
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 14.3:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 14.4:
+        non_striker: MG Erasmus
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 14.5:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 14.6:
+        non_striker: MG Erasmus
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 15.1:
+        non_striker: MG Erasmus
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 15.2:
+        non_striker: MG Erasmus
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 15.3:
+        non_striker: MG Erasmus
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 15.4:
+        non_striker: MG Erasmus
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 15.5:
+        non_striker: S Fouché
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 15.6:
+        non_striker: S Fouché
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 16.1:
+        non_striker: MG Erasmus
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 16.2:
+        non_striker: S Fouché
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 16.3:
+        non_striker: MG Erasmus
+        bowler: NK Patel
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Fouché
+    - 16.4:
+        non_striker: S Fouché
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 16.5:
+        non_striker: MG Erasmus
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 16.6:
+        non_striker: MG Erasmus
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 16.7:
+        non_striker: MG Erasmus
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 17.1:
+        non_striker: MG Erasmus
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 17.2:
+        non_striker: S Fouché
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 17.3:
+        non_striker: S Fouché
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MG Erasmus
+    - 17.4:
+        non_striker: MG Erasmus
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 17.5:
+        non_striker: S Fouché
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 17.6:
+        non_striker: S Fouché
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+    - 18.1:
+        non_striker: MG Erasmus
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 18.2:
+        non_striker: MG Erasmus
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 18.3:
+        non_striker: MG Erasmus
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 18.4:
+        non_striker: S Fouché
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MG Erasmus
+        wicket:
+          player_out: MG Erasmus
+          fielders:
+          - G Singh
+          kind: caught
+    - 18.5:
+        non_striker: S Fouché
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 18.6:
+        non_striker: S Fouché
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 19.1:
+        non_striker: JN Loftie-Eaton
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Fouché
+    - 19.2:
+        non_striker: JN Loftie-Eaton
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 19.3:
+        non_striker: JN Loftie-Eaton
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 19.4:
+        non_striker: JN Loftie-Eaton
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 19.5:
+        non_striker: S Fouché
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 19.6:
+        non_striker: S Fouché
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 20.1:
+        non_striker: S Fouché
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 20.2:
+        non_striker: JN Loftie-Eaton
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 20.3:
+        non_striker: JN Loftie-Eaton
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 20.4:
+        non_striker: S Fouché
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 20.5:
+        non_striker: S Fouché
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 20.6:
+        non_striker: S Fouché
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 21.1:
+        non_striker: JN Loftie-Eaton
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 21.2:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 21.3:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 21.4:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 21.5:
+        non_striker: JN Loftie-Eaton
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 21.6:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 22.1:
+        non_striker: S Fouché
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Loftie-Eaton
+    - 22.2:
+        non_striker: S Fouché
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 22.3:
+        non_striker: S Fouché
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 22.4:
+        non_striker: JN Loftie-Eaton
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 22.5:
+        non_striker: S Fouché
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 22.6:
+        non_striker: JN Loftie-Eaton
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 23.1:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 23.2:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Loftie-Eaton
+    - 23.3:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Loftie-Eaton
+    - 23.4:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 23.5:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 23.6:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JN Loftie-Eaton
+    - 24.1:
+        non_striker: JN Loftie-Eaton
+        bowler: NK Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Fouché
+    - 24.2:
+        non_striker: S Fouché
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 24.3:
+        non_striker: S Fouché
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 24.4:
+        non_striker: JN Loftie-Eaton
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 24.5:
+        non_striker: JN Loftie-Eaton
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Fouché
+    - 24.6:
+        non_striker: JN Loftie-Eaton
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Fouché
+    - 25.1:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 25.2:
+        non_striker: JN Loftie-Eaton
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 25.3:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 25.4:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JN Loftie-Eaton
+    - 25.5:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 25.6:
+        non_striker: S Fouché
+        bowler: NP Kenjige
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Loftie-Eaton
+    - 26.1:
+        non_striker: JN Loftie-Eaton
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 26.2:
+        non_striker: S Fouché
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 26.3:
+        non_striker: S Fouché
+        bowler: G Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JN Loftie-Eaton
+    - 26.4:
+        non_striker: JN Loftie-Eaton
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 26.5:
+        non_striker: S Fouché
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 26.6:
+        non_striker: S Fouché
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 27.1:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JN Loftie-Eaton
+    - 27.2:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 27.3:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 27.4:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 27.5:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 27.6:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Loftie-Eaton
+    - 27.7:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 28.1:
+        non_striker: JN Loftie-Eaton
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 28.2:
+        non_striker: JN Loftie-Eaton
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 28.3:
+        non_striker: S Fouché
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 28.4:
+        non_striker: JN Loftie-Eaton
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 28.5:
+        non_striker: S Fouché
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 28.6:
+        non_striker: JN Loftie-Eaton
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 29.1:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+    - 29.2:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Loftie-Eaton
+    - 29.3:
+        non_striker: JN Loftie-Eaton
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Fouché
+    - 29.4:
+        non_striker: JN Loftie-Eaton
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 29.5:
+        non_striker: JN Loftie-Eaton
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 29.6:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Loftie-Eaton
+        wicket:
+          player_out: JN Loftie-Eaton
+          fielders:
+          - Aaron Jones
+          kind: caught
+    - 30.1:
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ZE Green
+        batsman: S Fouché
+    - 30.2:
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ZE Green
+        batsman: S Fouché
+    - 30.3:
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ZE Green
+        batsman: S Fouché
+    - 30.4:
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ZE Green
+        batsman: S Fouché
+    - 30.5:
+        non_striker: S Fouché
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 30.6:
+        non_striker: S Fouché
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 31.1:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 31.2:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 31.3:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 31.4:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 31.5:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 31.6:
+        non_striker: S Fouché
+        bowler: Ali Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 32.1:
+        non_striker: S Fouché
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 32.2:
+        non_striker: ZE Green
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 32.3:
+        non_striker: S Fouché
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 32.4:
+        non_striker: ZE Green
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 32.5:
+        non_striker: S Fouché
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 32.6:
+        non_striker: S Fouché
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 33.1:
+        non_striker: ZE Green
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Fouché
+    - 33.2:
+        non_striker: S Fouché
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+    - 33.3:
+        non_striker: S Fouché
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 33.4:
+        non_striker: ZE Green
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+    - 33.5:
+        non_striker: ZE Green
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Fouché
+        wicket:
+          player_out: S Fouché
+          kind: bowled
+    - 33.6:
+        non_striker: ZE Green
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+    - 34.1:
+        non_striker: MD du Preez
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ZE Green
+    - 34.2:
+        non_striker: ZE Green
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+    - 34.3:
+        non_striker: ZE Green
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+    - 34.4:
+        non_striker: ZE Green
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD du Preez
+    - 34.5:
+        non_striker: MD du Preez
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ZE Green
+        wicket:
+          player_out: ZE Green
+          kind: lbw
+    - 34.6:
+        non_striker: MD du Preez
+        bowler: G Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HN Ya France
+    - 35.1:
+        non_striker: HN Ya France
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+    - 35.2:
+        non_striker: HN Ya France
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD du Preez
+    - 35.3:
+        non_striker: MD du Preez
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HN Ya France
+    - 35.4:
+        non_striker: MD du Preez
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HN Ya France
+    - 35.5:
+        non_striker: MD du Preez
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HN Ya France
+    - 35.6:
+        non_striker: MD du Preez
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HN Ya France
+    - 36.1:
+        non_striker: HN Ya France
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+    - 36.2:
+        non_striker: HN Ya France
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD du Preez
+    - 36.3:
+        non_striker: MD du Preez
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HN Ya France
+    - 36.4:
+        non_striker: HN Ya France
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD du Preez
+    - 36.5:
+        non_striker: MD du Preez
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HN Ya France
+    - 36.6:
+        non_striker: MD du Preez
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HN Ya France
+    - 37.1:
+        non_striker: MD du Preez
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HN Ya France
+    - 37.2:
+        non_striker: HN Ya France
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD du Preez
+    - 37.3:
+        non_striker: MD du Preez
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HN Ya France
+    - 37.4:
+        non_striker: MD du Preez
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HN Ya France
+    - 37.5:
+        non_striker: MD du Preez
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HN Ya France
+    - 37.6:
+        non_striker: MD du Preez
+        bowler: SN Netravalkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HN Ya France
+    - 38.1:
+        non_striker: HN Ya France
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+    - 38.2:
+        non_striker: HN Ya France
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD du Preez
+        wicket:
+          player_out: MD du Preez
+          fielders:
+          - SN Netravalkar
+          kind: caught
+    - 38.3:
+        non_striker: HN Ya France
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+    - 38.4:
+        non_striker: HN Ya France
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+    - 38.5:
+        non_striker: HN Ya France
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+    - 38.6:
+        non_striker: HN Ya France
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Trumpelmann
+        wicket:
+          player_out: R Trumpelmann
+          fielders:
+          - G Singh
+          kind: caught
+    - 39.1:
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: BM Scholtz
+        batsman: HN Ya France
+    - 39.2:
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: BM Scholtz
+        batsman: HN Ya France
+    - 39.3:
+        non_striker: HN Ya France
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Scholtz
+        wicket:
+          player_out: BM Scholtz
+          kind: bowled
+    - 39.4:
+        non_striker: HN Ya France
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Shikongo
+    - 39.5:
+        non_striker: B Shikongo
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HN Ya France
+    - 39.6:
+        non_striker: B Shikongo
+        bowler: Jasdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: HN Ya France
+    - 40.1:
+        non_striker: B Shikongo
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HN Ya France
+    - 40.2:
+        non_striker: HN Ya France
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shikongo
+    - 40.3:
+        non_striker: HN Ya France
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shikongo
+    - 40.4:
+        non_striker: HN Ya France
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shikongo
+    - 40.5:
+        non_striker: HN Ya France
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shikongo
+    - 40.6:
+        non_striker: HN Ya France
+        bowler: NK Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shikongo
+    - 41.1:
+        non_striker: B Shikongo
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HN Ya France
+    - 41.2:
+        non_striker: B Shikongo
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: HN Ya France
+    - 41.3:
+        non_striker: B Shikongo
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HN Ya France
+    - 41.4:
+        non_striker: HN Ya France
+        bowler: Jasdeep Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Shikongo
+    - 41.5:
+        non_striker: HN Ya France
+        bowler: Jasdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Shikongo
+        wicket:
+          player_out: B Shikongo
+          kind: bowled

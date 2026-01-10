@@ -1,0 +1,4760 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Pietermaritzburg
+  dates:
+  - '2003-02-23'
+  gender: male
+  match_type: ODI
+  match_type_number: 1964
+  outcome:
+    winner: India
+    by:
+      runs: 181
+  overs: 50
+  player_of_match:
+  - SR Tendulkar
+  players:
+    India:
+    - V Sehwag
+    - SR Tendulkar
+    - SC Ganguly
+    - Yuvraj Singh
+    - R Dravid
+    - D Mongia
+    - M Kaif
+    - Harbhajan Singh
+    - Z Khan
+    - A Nehra
+    - J Srinath
+    Namibia:
+    - SJ Swanepoel
+    - AJ Burger
+    - LJ Burger
+    - D Keulder
+    - GB Murgatroyd
+    - DB Kotze
+    - M van Schoor
+    - BO van Rooi
+    - BL Kotze
+    - G Snyman
+    - RJ van Vuuren
+  registry:
+    people:
+      A Nehra: 96fd40ae
+      AJ Burger: 4347a4ae
+      Aleem Dar: f02778d1
+      BL Kotze: 540ffb25
+      BO van Rooi: '047945ae'
+      D Keulder: 34c823b0
+      D Mongia: 99663fa5
+      DB Kotze: 5ee47383
+      DR Shepherd: 8a578048
+      G Snyman: 5af592d2
+      GB Murgatroyd: 18356eb3
+      Harbhajan Singh: 8b5b6769
+      J Srinath: bad31fac
+      KC Barbour: 4359f89a
+      LJ Burger: 6f4d314b
+      M Kaif: d84378a4
+      M van Schoor: 74bd2653
+      R Dravid: '0184dc35'
+      RJ van Vuuren: '0882b3f1'
+      SC Ganguly: 725529bc
+      SJ Swanepoel: 31e31116
+      SR Tendulkar: d2c2b2d5
+      V Sehwag: 8ba8195d
+      Wasim Raja: d8bce357
+      Yuvraj Singh: 1c914163
+      Z Khan: 91a4a398
+  teams:
+  - India
+  - Namibia
+  toss:
+    winner: Namibia
+    decision: field
+  umpires:
+  - Aleem Dar
+  - DR Shepherd
+  venue: City Oval, Pietermaritzburg
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Sehwag
+    - 0.2:
+        non_striker: V Sehwag
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 0.3:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Sehwag
+    - 0.4:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 0.5:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 0.6:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 0.7:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 1.1:
+        non_striker: V Sehwag
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 1.2:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 1.3:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Sehwag
+    - 1.4:
+        non_striker: V Sehwag
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 1.5:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Sehwag
+    - 1.6:
+        non_striker: V Sehwag
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 2.1:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: V Sehwag
+    - 2.2:
+        non_striker: V Sehwag
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Tendulkar
+    - 2.3:
+        non_striker: V Sehwag
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Tendulkar
+    - 2.4:
+        non_striker: V Sehwag
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 2.5:
+        non_striker: V Sehwag
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 2.6:
+        non_striker: V Sehwag
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 3.1:
+        non_striker: V Sehwag
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 3.2:
+        non_striker: V Sehwag
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 3.3:
+        non_striker: V Sehwag
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 3.4:
+        non_striker: V Sehwag
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 3.5:
+        non_striker: V Sehwag
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 3.6:
+        non_striker: V Sehwag
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Tendulkar
+    - 4.1:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: V Sehwag
+    - 4.2:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 4.3:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 4.4:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Sehwag
+    - 4.5:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Sehwag
+    - 4.6:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Sehwag
+    - 4.7:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 5.1:
+        non_striker: V Sehwag
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 5.2:
+        non_striker: V Sehwag
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 5.3:
+        non_striker: V Sehwag
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 5.4:
+        non_striker: V Sehwag
+        bowler: RJ van Vuuren
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Tendulkar
+    - 5.5:
+        non_striker: V Sehwag
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 5.6:
+        non_striker: V Sehwag
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 5.7:
+        non_striker: V Sehwag
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 6.1:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 6.2:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 6.3:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 6.4:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Sehwag
+    - 6.5:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Sehwag
+    - 6.6:
+        non_striker: V Sehwag
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SR Tendulkar
+    - 7.1:
+        non_striker: V Sehwag
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 7.2:
+        non_striker: V Sehwag
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 7.3:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Sehwag
+    - 7.4:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Sehwag
+    - 7.5:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+        wicket:
+          player_out: V Sehwag
+          fielders:
+          - D Keulder
+          kind: caught
+    - 7.6:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 8.1:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 8.2:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 8.3:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 8.4:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 8.5:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Tendulkar
+    - 8.6:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 8.7:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 9.1:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 9.2:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 9.3:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 9.4:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 9.5:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 9.6:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 10.1:
+        non_striker: SR Tendulkar
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 10.2:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 10.3:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 10.4:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: SR Tendulkar
+    - 10.5:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 10.6:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 10.7:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 11.1:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 11.2:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 11.3:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 11.4:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 11.5:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 11.6:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 12.1:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 12.2:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 12.3:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Tendulkar
+    - 12.4:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 12.5:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 12.6:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Tendulkar
+    - 13.1:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 13.2:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 13.3:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 13.4:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 13.5:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 13.6:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 14.1:
+        non_striker: SC Ganguly
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Tendulkar
+    - 14.2:
+        non_striker: SC Ganguly
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 14.3:
+        non_striker: SR Tendulkar
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 14.4:
+        non_striker: SC Ganguly
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 14.5:
+        non_striker: SC Ganguly
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 14.6:
+        non_striker: SC Ganguly
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 15.1:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 15.2:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 15.3:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Tendulkar
+    - 15.4:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 15.5:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 15.6:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 16.1:
+        non_striker: SR Tendulkar
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 16.2:
+        non_striker: SR Tendulkar
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 16.3:
+        non_striker: SR Tendulkar
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 16.4:
+        non_striker: SR Tendulkar
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 16.5:
+        non_striker: SC Ganguly
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 16.6:
+        non_striker: SC Ganguly
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 17.1:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 17.2:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 17.3:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 17.4:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 17.5:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 17.6:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 18.1:
+        non_striker: SR Tendulkar
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 18.2:
+        non_striker: SR Tendulkar
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 18.3:
+        non_striker: SC Ganguly
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 18.4:
+        non_striker: SC Ganguly
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 18.5:
+        non_striker: SC Ganguly
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 18.6:
+        non_striker: SC Ganguly
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 19.1:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 19.2:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 19.3:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 19.4:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 19.5:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 19.6:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 20.1:
+        non_striker: SC Ganguly
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Tendulkar
+    - 20.2:
+        non_striker: SC Ganguly
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 20.3:
+        non_striker: SR Tendulkar
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 20.4:
+        non_striker: SR Tendulkar
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 20.5:
+        non_striker: SR Tendulkar
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Ganguly
+    - 20.6:
+        non_striker: SR Tendulkar
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 21.1:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 21.2:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 21.3:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 21.4:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 21.5:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 21.6:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 22.1:
+        non_striker: SR Tendulkar
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SC Ganguly
+    - 22.2:
+        non_striker: SR Tendulkar
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 22.3:
+        non_striker: SC Ganguly
+        bowler: BO van Rooi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Tendulkar
+    - 22.4:
+        non_striker: SC Ganguly
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 22.5:
+        non_striker: SR Tendulkar
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 22.6:
+        non_striker: SR Tendulkar
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 22.7:
+        non_striker: SC Ganguly
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 23.1:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 23.2:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 23.3:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 23.4:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 23.5:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 23.6:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 24.1:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 24.2:
+        non_striker: SC Ganguly
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 24.3:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 24.4:
+        non_striker: SC Ganguly
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 24.5:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 24.6:
+        non_striker: SC Ganguly
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 25.1:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 25.2:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Tendulkar
+    - 25.3:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 25.4:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SC Ganguly
+    - 25.5:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 25.6:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 26.1:
+        non_striker: SC Ganguly
+        bowler: DB Kotze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Tendulkar
+    - 26.2:
+        non_striker: SC Ganguly
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 26.3:
+        non_striker: SC Ganguly
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 26.4:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 26.5:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Ganguly
+    - 26.6:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 26.7:
+        non_striker: SC Ganguly
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 27.1:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 27.2:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 27.3:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 27.4:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 27.5:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 27.6:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 28.1:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 28.2:
+        non_striker: SC Ganguly
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Tendulkar
+    - 28.3:
+        non_striker: SC Ganguly
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 28.4:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 28.5:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 28.6:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 29.1:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 29.2:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 29.3:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC Ganguly
+    - 29.4:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 29.5:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 29.6:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 29.7:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 30.1:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Ganguly
+    - 30.2:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 30.3:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 30.4:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 30.5:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 30.6:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 31.1:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 31.2:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 31.3:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 31.4:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 31.5:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 31.6:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 32.1:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC Ganguly
+    - 32.2:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 32.3:
+        non_striker: SC Ganguly
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 32.4:
+        non_striker: SC Ganguly
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 32.5:
+        non_striker: SC Ganguly
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 32.6:
+        non_striker: SC Ganguly
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 32.7:
+        non_striker: SC Ganguly
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 33.1:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 33.2:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 33.3:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 33.4:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 33.5:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 33.6:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 34.1:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Ganguly
+    - 34.2:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 34.3:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 34.4:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 34.5:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 34.6:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SC Ganguly
+    - 35.1:
+        non_striker: SC Ganguly
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 35.2:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Ganguly
+    - 35.3:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 35.4:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Ganguly
+    - 35.5:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 35.6:
+        non_striker: SR Tendulkar
+        bowler: G Snyman
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 36.1:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Ganguly
+    - 36.2:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 36.3:
+        non_striker: SC Ganguly
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 36.4:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 36.5:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 36.6:
+        non_striker: SC Ganguly
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 37.1:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 37.2:
+        non_striker: SR Tendulkar
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 37.3:
+        non_striker: SR Tendulkar
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 37.4:
+        non_striker: SR Tendulkar
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 37.5:
+        non_striker: SR Tendulkar
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 37.6:
+        non_striker: SR Tendulkar
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 38.1:
+        non_striker: SC Ganguly
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 38.2:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SC Ganguly
+    - 38.3:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Ganguly
+    - 38.4:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 38.5:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 38.6:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SC Ganguly
+    - 38.7:
+        non_striker: SR Tendulkar
+        bowler: DB Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 39.1:
+        non_striker: SR Tendulkar
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 39.2:
+        non_striker: SR Tendulkar
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 39.3:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 39.4:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 39.5:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 39.6:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 40.1:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 40.2:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Tendulkar
+    - 40.3:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 40.4:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 40.5:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 40.6:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Ganguly
+    - 41.1:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 41.2:
+        non_striker: SR Tendulkar
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 41.3:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 41.4:
+        non_striker: SR Tendulkar
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 41.5:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 41.6:
+        non_striker: SR Tendulkar
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 42.1:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 42.2:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 42.3:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 42.4:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 42.5:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 42.6:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 43.1:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 43.2:
+        non_striker: SR Tendulkar
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Ganguly
+    - 43.3:
+        non_striker: SR Tendulkar
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Ganguly
+    - 43.4:
+        non_striker: SR Tendulkar
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 43.5:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Tendulkar
+    - 43.6:
+        non_striker: SC Ganguly
+        bowler: LJ Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 44.1:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Tendulkar
+    - 44.2:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 44.3:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 44.4:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Tendulkar
+    - 44.5:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 44.6:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 45.1:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 45.2:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 45.3:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 45.4:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 45.5:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Ganguly
+    - 45.6:
+        non_striker: SR Tendulkar
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 46.1:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 46.2:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 46.3:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 46.4:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 46.5:
+        non_striker: SR Tendulkar
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 46.6:
+        non_striker: SC Ganguly
+        bowler: BL Kotze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 47.1:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 47.2:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 47.3:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 47.4:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+        wicket:
+          player_out: SR Tendulkar
+          kind: bowled
+    - 47.5:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 47.6:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 48.1:
+        non_striker: Yuvraj Singh
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 48.2:
+        non_striker: Yuvraj Singh
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SC Ganguly
+    - 48.3:
+        non_striker: Yuvraj Singh
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 48.4:
+        non_striker: Yuvraj Singh
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 48.5:
+        non_striker: SC Ganguly
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 48.6:
+        non_striker: Yuvraj Singh
+        bowler: BO van Rooi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Ganguly
+    - 49.1:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yuvraj Singh
+    - 49.2:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yuvraj Singh
+    - 49.3:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+    - 49.4:
+        non_striker: Yuvraj Singh
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SC Ganguly
+    - 49.5:
+        non_striker: Yuvraj Singh
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 49.6:
+        non_striker: SC Ganguly
+        bowler: RJ van Vuuren
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yuvraj Singh
+- 2nd innings:
+    team: Namibia
+    deliveries:
+    - 0.1:
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AJ Burger
+        batsman: SJ Swanepoel
+    - 0.2:
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AJ Burger
+        batsman: SJ Swanepoel
+    - 0.3:
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AJ Burger
+        batsman: SJ Swanepoel
+    - 0.4:
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AJ Burger
+        batsman: SJ Swanepoel
+    - 0.5:
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AJ Burger
+        batsman: SJ Swanepoel
+    - 0.6:
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AJ Burger
+        batsman: SJ Swanepoel
+    - 1.1:
+        non_striker: SJ Swanepoel
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 1.2:
+        non_striker: SJ Swanepoel
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          role:
+          - in: Z Khan
+            out: A Nehra
+            reason: injury
+            role: bowler
+        batsman: AJ Burger
+    - 1.3:
+        non_striker: SJ Swanepoel
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 1.4:
+        non_striker: SJ Swanepoel
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Burger
+    - 1.5:
+        non_striker: SJ Swanepoel
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 1.6:
+        non_striker: SJ Swanepoel
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 2.1:
+        non_striker: AJ Burger
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Swanepoel
+    - 2.2:
+        non_striker: AJ Burger
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Swanepoel
+    - 2.3:
+        non_striker: AJ Burger
+        bowler: J Srinath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Swanepoel
+    - 2.4:
+        non_striker: AJ Burger
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Swanepoel
+    - 2.5:
+        non_striker: AJ Burger
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Swanepoel
+    - 2.6:
+        non_striker: AJ Burger
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Swanepoel
+    - 2.7:
+        non_striker: SJ Swanepoel
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 3.1:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Swanepoel
+    - 3.2:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Swanepoel
+    - 3.3:
+        non_striker: SJ Swanepoel
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 3.4:
+        non_striker: SJ Swanepoel
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 3.5:
+        non_striker: SJ Swanepoel
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Burger
+    - 3.6:
+        non_striker: SJ Swanepoel
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 4.1:
+        non_striker: AJ Burger
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Swanepoel
+    - 4.2:
+        non_striker: AJ Burger
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Swanepoel
+    - 4.3:
+        non_striker: AJ Burger
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Swanepoel
+    - 4.4:
+        non_striker: AJ Burger
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Swanepoel
+    - 4.5:
+        non_striker: AJ Burger
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Swanepoel
+    - 4.6:
+        non_striker: AJ Burger
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Swanepoel
+    - 5.1:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ Swanepoel
+    - 5.2:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Swanepoel
+    - 5.3:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Swanepoel
+        wicket:
+          player_out: SJ Swanepoel
+          kind: lbw
+    - 5.4:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+    - 5.5:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+    - 5.6:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+    - 5.7:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+    - 6.1:
+        non_striker: LJ Burger
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Burger
+    - 6.2:
+        non_striker: AJ Burger
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+    - 6.3:
+        non_striker: AJ Burger
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+    - 6.4:
+        non_striker: AJ Burger
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+    - 6.5:
+        non_striker: AJ Burger
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+    - 6.6:
+        non_striker: AJ Burger
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+    - 7.1:
+        non_striker: LJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Burger
+    - 7.2:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+    - 7.3:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+    - 7.4:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LJ Burger
+        wicket:
+          player_out: LJ Burger
+          kind: lbw
+    - 7.5:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 7.6:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 8.1:
+        non_striker: D Keulder
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 8.2:
+        non_striker: D Keulder
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 8.3:
+        non_striker: D Keulder
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 8.4:
+        non_striker: D Keulder
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 8.5:
+        non_striker: D Keulder
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Burger
+    - 8.6:
+        non_striker: D Keulder
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 9.1:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 9.2:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 9.3:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 9.4:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Keulder
+    - 9.5:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 9.6:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 10.1:
+        non_striker: D Keulder
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Burger
+    - 10.2:
+        non_striker: D Keulder
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 10.3:
+        non_striker: D Keulder
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AJ Burger
+    - 10.4:
+        non_striker: D Keulder
+        bowler: J Srinath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AJ Burger
+    - 10.5:
+        non_striker: AJ Burger
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Keulder
+    - 10.6:
+        non_striker: D Keulder
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 11.1:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 11.2:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 11.3:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 11.4:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: D Keulder
+    - 11.5:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Keulder
+    - 11.6:
+        non_striker: D Keulder
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Burger
+    - 11.7:
+        non_striker: AJ Burger
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 12.1:
+        non_striker: D Keulder
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Burger
+    - 12.2:
+        non_striker: AJ Burger
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 12.3:
+        non_striker: AJ Burger
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 12.4:
+        non_striker: AJ Burger
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+    - 12.5:
+        non_striker: AJ Burger
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Keulder
+        wicket:
+          player_out: D Keulder
+          fielders:
+          - D Mongia
+          kind: caught
+    - 12.6:
+        non_striker: GB Murgatroyd
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Burger
+    - 13.1:
+        non_striker: GB Murgatroyd
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Burger
+    - 13.2:
+        non_striker: GB Murgatroyd
+        bowler: D Mongia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Burger
+    - 13.3:
+        non_striker: GB Murgatroyd
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+    - 13.4:
+        non_striker: GB Murgatroyd
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Burger
+        wicket:
+          player_out: AJ Burger
+          kind: bowled
+    - 13.5:
+        non_striker: GB Murgatroyd
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 13.6:
+        non_striker: GB Murgatroyd
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 13.7:
+        non_striker: GB Murgatroyd
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 14.1:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Murgatroyd
+    - 14.2:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Murgatroyd
+    - 14.3:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Murgatroyd
+    - 14.4:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Murgatroyd
+    - 14.5:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Murgatroyd
+    - 14.6:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Murgatroyd
+        wicket:
+          player_out: GB Murgatroyd
+          kind: lbw
+    - 15.1:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 15.2:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Kotze
+    - 15.3:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Schoor
+    - 15.4:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Kotze
+    - 15.5:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 15.6:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 16.1:
+        non_striker: M van Schoor
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Kotze
+    - 16.2:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 16.3:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 16.4:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 16.5:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 16.6:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 17.1:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 17.2:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 17.3:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Kotze
+    - 17.4:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 17.5:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 17.6:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 18.1:
+        non_striker: M van Schoor
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Kotze
+    - 18.2:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 18.3:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Schoor
+    - 18.4:
+        non_striker: M van Schoor
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Kotze
+    - 18.5:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 18.6:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M van Schoor
+    - 19.1:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 19.2:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 19.3:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 19.4:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 19.5:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 19.6:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 20.1:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 20.2:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 20.3:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Schoor
+    - 20.4:
+        non_striker: M van Schoor
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 20.5:
+        non_striker: M van Schoor
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DB Kotze
+    - 20.6:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 21.1:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Kotze
+    - 21.2:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 21.3:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M van Schoor
+    - 21.4:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 21.5:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 21.6:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 22.1:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 22.2:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 22.3:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 22.4:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Schoor
+    - 22.5:
+        non_striker: M van Schoor
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 22.6:
+        non_striker: M van Schoor
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 23.1:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 23.2:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 23.3:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 23.4:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 23.5:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 23.6:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Schoor
+    - 24.1:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 24.2:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 24.3:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 24.4:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 24.5:
+        non_striker: DB Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Schoor
+    - 24.6:
+        non_striker: M van Schoor
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: DB Kotze
+    - 25.1:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 25.2:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 25.3:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 25.4:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 25.5:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 25.6:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Kotze
+    - 26.1:
+        non_striker: M van Schoor
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 26.2:
+        non_striker: M van Schoor
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 26.3:
+        non_striker: M van Schoor
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Kotze
+    - 26.4:
+        non_striker: DB Kotze
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 26.5:
+        non_striker: DB Kotze
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 26.6:
+        non_striker: DB Kotze
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Schoor
+    - 27.1:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 27.2:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Schoor
+    - 27.3:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 27.4:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 27.5:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Kotze
+    - 27.6:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Schoor
+    - 28.1:
+        non_striker: DB Kotze
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 28.2:
+        non_striker: DB Kotze
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 28.3:
+        non_striker: DB Kotze
+        bowler: V Sehwag
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M van Schoor
+    - 28.4:
+        non_striker: DB Kotze
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 28.5:
+        non_striker: DB Kotze
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 28.6:
+        non_striker: DB Kotze
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Schoor
+    - 28.7:
+        non_striker: DB Kotze
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Schoor
+    - 29.1:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 29.2:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 29.3:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 29.4:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 29.5:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M van Schoor
+    - 29.6:
+        non_striker: DB Kotze
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 30.1:
+        non_striker: M van Schoor
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 30.2:
+        non_striker: M van Schoor
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 30.3:
+        non_striker: M van Schoor
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 30.4:
+        non_striker: M van Schoor
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Kotze
+    - 30.5:
+        non_striker: M van Schoor
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Kotze
+    - 30.6:
+        non_striker: DB Kotze
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M van Schoor
+    - 31.1:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 31.2:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DB Kotze
+    - 31.3:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 31.4:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 31.5:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+    - 31.6:
+        non_striker: M van Schoor
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Kotze
+        wicket:
+          player_out: DB Kotze
+          kind: caught and bowled
+    - 32.1:
+        non_striker: BO van Rooi
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 32.2:
+        non_striker: BO van Rooi
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 32.3:
+        non_striker: BO van Rooi
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Schoor
+    - 32.4:
+        non_striker: M van Schoor
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 32.5:
+        non_striker: M van Schoor
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 32.6:
+        non_striker: M van Schoor
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 33.1:
+        non_striker: BO van Rooi
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+    - 33.2:
+        non_striker: BO van Rooi
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Schoor
+        wicket:
+          player_out: M van Schoor
+          fielders:
+          - R Dravid
+          kind: caught
+    - 33.3:
+        non_striker: BO van Rooi
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 33.4:
+        non_striker: BO van Rooi
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 33.5:
+        non_striker: BO van Rooi
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 33.6:
+        non_striker: BO van Rooi
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 34.1:
+        non_striker: BL Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 34.2:
+        non_striker: BL Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 34.3:
+        non_striker: BL Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: BO van Rooi
+    - 34.4:
+        non_striker: BL Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 34.5:
+        non_striker: BL Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BO van Rooi
+    - 34.6:
+        non_striker: BO van Rooi
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 34.7:
+        non_striker: BO van Rooi
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 35.1:
+        non_striker: BL Kotze
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BO van Rooi
+    - 35.2:
+        non_striker: BL Kotze
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 35.3:
+        non_striker: BL Kotze
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 35.4:
+        non_striker: BL Kotze
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BO van Rooi
+    - 35.5:
+        non_striker: BO van Rooi
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 35.6:
+        non_striker: BO van Rooi
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 36.1:
+        non_striker: BL Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 36.2:
+        non_striker: BL Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 36.3:
+        non_striker: BL Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BO van Rooi
+    - 36.4:
+        non_striker: BL Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 36.5:
+        non_striker: BL Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 36.6:
+        non_striker: BL Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BO van Rooi
+    - 37.1:
+        non_striker: BL Kotze
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 37.2:
+        non_striker: BL Kotze
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BO van Rooi
+    - 37.3:
+        non_striker: BO van Rooi
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Kotze
+    - 37.4:
+        non_striker: BL Kotze
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 37.5:
+        non_striker: BL Kotze
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 37.6:
+        non_striker: BL Kotze
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BO van Rooi
+    - 38.1:
+        non_striker: BL Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 38.2:
+        non_striker: BL Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 38.3:
+        non_striker: BL Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BO van Rooi
+    - 38.4:
+        non_striker: BL Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BO van Rooi
+    - 38.5:
+        non_striker: BL Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 38.6:
+        non_striker: BL Kotze
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 39.1:
+        non_striker: BO van Rooi
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 39.2:
+        non_striker: BO van Rooi
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 39.3:
+        non_striker: BO van Rooi
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 39.4:
+        non_striker: BO van Rooi
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 39.5:
+        non_striker: BO van Rooi
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 39.6:
+        non_striker: BO van Rooi
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BL Kotze
+    - 40.1:
+        non_striker: BL Kotze
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 40.2:
+        non_striker: BL Kotze
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+    - 40.3:
+        non_striker: BL Kotze
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BO van Rooi
+        wicket:
+          player_out: BO van Rooi
+          fielders:
+          - D Mongia
+          kind: caught
+    - 40.4:
+        non_striker: G Snyman
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 40.5:
+        non_striker: G Snyman
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+    - 40.6:
+        non_striker: G Snyman
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Kotze
+        wicket:
+          player_out: BL Kotze
+          fielders:
+          - R Dravid
+          kind: caught
+    - 41.1:
+        non_striker: RJ van Vuuren
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Snyman
+    - 41.2:
+        non_striker: RJ van Vuuren
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Snyman
+    - 41.3:
+        non_striker: RJ van Vuuren
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Snyman
+    - 41.4:
+        non_striker: G Snyman
+        bowler: Z Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RJ van Vuuren
+    - 41.5:
+        non_striker: G Snyman
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ van Vuuren
+    - 41.6:
+        non_striker: G Snyman
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ van Vuuren
+    - 41.7:
+        non_striker: G Snyman
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RJ van Vuuren
+    - 42.1:
+        non_striker: RJ van Vuuren
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Snyman
+    - 42.2:
+        non_striker: RJ van Vuuren
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Snyman
+    - 42.3:
+        non_striker: RJ van Vuuren
+        bowler: Yuvraj Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Snyman
+        wicket:
+          player_out: G Snyman
+          fielders:
+          - J Srinath
+          kind: caught

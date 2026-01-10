@@ -1,0 +1,4756 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bridgetown
+  dates:
+  - '2003-06-07'
+  gender: male
+  match_type: ODI
+  match_type_number: 2022
+  outcome:
+    winner: Sri Lanka
+    by:
+      runs: 55
+  overs: 50
+  player_of_match:
+  - M Muralitharan
+  players:
+    Sri Lanka:
+    - ST Jayasuriya
+    - RS Kaluwitharana
+    - MS Atapattu
+    - KC Sangakkara
+    - DPMD Jayawardene
+    - TM Dilshan
+    - HDPK Dharmasena
+    - WPUJC Vaas
+    - M Muralitharan
+    - RAP Nissanka
+    - D Gamage
+    West Indies:
+    - CH Gayle
+    - WW Hinds
+    - RL Powell
+    - RR Sarwan
+    - BC Lara
+    - MN Samuels
+    - RD Jacobs
+    - DE Bernard
+    - VC Drakes
+    - M Dillon
+    - CD Collymore
+  registry:
+    people:
+      BC Lara: d5403021
+      BF Bowden: efc0a862
+      BR Doctrove: cbebf805
+      CD Collymore: 87b177e8
+      CH Gayle: db584dad
+      D Gamage: df92d6fb
+      DE Bernard: e0557f7f
+      DPMD Jayawardene: d18f9182
+      EA Nicholls: ae71e419
+      HDPK Dharmasena: 323e4c16
+      KC Sangakkara: 6b71e6cf
+      M Dillon: 5af87ad6
+      M Muralitharan: 4ba44e19
+      MN Samuels: f846de6a
+      MS Atapattu: 8a686d30
+      RAP Nissanka: 6cc006ef
+      RD Jacobs: c1f9b051
+      RL Powell: 33a50ecf
+      RR Sarwan: 36d33dd0
+      RS Kaluwitharana: dff967c1
+      ST Jayasuriya: f233bbb4
+      TM Dilshan: 5bdcdb72
+      VC Drakes: b16b5eea
+      WPUJC Vaas: bcce309e
+      WW Hinds: 60beb01b
+      Wasim Raja: d8bce357
+  teams:
+  - Sri Lanka
+  - West Indies
+  toss:
+    winner: West Indies
+    decision: field
+  umpires:
+  - BF Bowden
+  - BR Doctrove
+  venue: Kensington Oval, Bridgetown, Barbados
+innings:
+- 1st innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RS Kaluwitharana
+        batsman: ST Jayasuriya
+    - 0.2:
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RS Kaluwitharana
+        batsman: ST Jayasuriya
+    - 0.3:
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RS Kaluwitharana
+        batsman: ST Jayasuriya
+        wicket:
+          player_out: ST Jayasuriya
+          fielders:
+          - RD Jacobs
+          kind: caught
+    - 0.4:
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RS Kaluwitharana
+        batsman: MS Atapattu
+    - 0.5:
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RS Kaluwitharana
+        batsman: MS Atapattu
+    - 0.6:
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: RS Kaluwitharana
+        batsman: MS Atapattu
+    - 1.1:
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RS Kaluwitharana
+        batsman: MS Atapattu
+    - 1.2:
+        bowler: CD Collymore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: RS Kaluwitharana
+        batsman: MS Atapattu
+    - 1.3:
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RS Kaluwitharana
+        batsman: MS Atapattu
+    - 1.4:
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: RS Kaluwitharana
+        batsman: MS Atapattu
+    - 1.5:
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RS Kaluwitharana
+        batsman: MS Atapattu
+    - 1.6:
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: RS Kaluwitharana
+        batsman: MS Atapattu
+    - 1.7:
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: RS Kaluwitharana
+        batsman: MS Atapattu
+    - 2.1:
+        non_striker: MS Atapattu
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 2.2:
+        non_striker: MS Atapattu
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 2.3:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 2.4:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 2.5:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 2.6:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 3.1:
+        non_striker: MS Atapattu
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 3.2:
+        non_striker: MS Atapattu
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 3.3:
+        non_striker: MS Atapattu
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 3.4:
+        non_striker: MS Atapattu
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 3.5:
+        non_striker: MS Atapattu
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 3.6:
+        non_striker: MS Atapattu
+        bowler: CD Collymore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RS Kaluwitharana
+    - 3.7:
+        non_striker: MS Atapattu
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 4.1:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Atapattu
+    - 4.2:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 4.3:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Atapattu
+    - 4.4:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 4.5:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MS Atapattu
+    - 4.6:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 4.7:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 5.1:
+        non_striker: MS Atapattu
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RS Kaluwitharana
+    - 5.2:
+        non_striker: MS Atapattu
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Kaluwitharana
+    - 5.3:
+        non_striker: MS Atapattu
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 5.4:
+        non_striker: MS Atapattu
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 5.5:
+        non_striker: RS Kaluwitharana
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 5.6:
+        non_striker: RS Kaluwitharana
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 6.1:
+        non_striker: MS Atapattu
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 6.2:
+        non_striker: MS Atapattu
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RS Kaluwitharana
+    - 6.3:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Atapattu
+    - 6.4:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 6.5:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MS Atapattu
+    - 6.6:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 7.1:
+        non_striker: MS Atapattu
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Kaluwitharana
+    - 7.2:
+        non_striker: MS Atapattu
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 7.3:
+        non_striker: RS Kaluwitharana
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MS Atapattu
+    - 7.4:
+        non_striker: RS Kaluwitharana
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MS Atapattu
+    - 7.5:
+        non_striker: MS Atapattu
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 7.6:
+        non_striker: MS Atapattu
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Kaluwitharana
+    - 8.1:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 8.2:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 8.3:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 8.4:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 8.5:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 8.6:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 9.1:
+        non_striker: MS Atapattu
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 9.2:
+        non_striker: RS Kaluwitharana
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 9.3:
+        non_striker: RS Kaluwitharana
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+    - 9.4:
+        non_striker: RS Kaluwitharana
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MS Atapattu
+        wicket:
+          player_out: MS Atapattu
+          kind: caught and bowled
+    - 9.5:
+        non_striker: RS Kaluwitharana
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 9.6:
+        non_striker: RS Kaluwitharana
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 10.1:
+        non_striker: KC Sangakkara
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 10.2:
+        non_striker: KC Sangakkara
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 10.3:
+        non_striker: RS Kaluwitharana
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 10.4:
+        non_striker: RS Kaluwitharana
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 10.5:
+        non_striker: RS Kaluwitharana
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 10.6:
+        non_striker: RS Kaluwitharana
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 11.1:
+        non_striker: KC Sangakkara
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 11.2:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 11.3:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 11.4:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 11.5:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 11.6:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Sangakkara
+    - 12.1:
+        non_striker: RS Kaluwitharana
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Sangakkara
+    - 12.2:
+        non_striker: KC Sangakkara
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 12.3:
+        non_striker: KC Sangakkara
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 12.4:
+        non_striker: KC Sangakkara
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 12.5:
+        non_striker: KC Sangakkara
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 12.6:
+        non_striker: KC Sangakkara
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RS Kaluwitharana
+    - 13.1:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 13.2:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 13.3:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KC Sangakkara
+    - 13.4:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 13.5:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 13.6:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 14.1:
+        non_striker: KC Sangakkara
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 14.2:
+        non_striker: KC Sangakkara
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 14.3:
+        non_striker: KC Sangakkara
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 14.4:
+        non_striker: KC Sangakkara
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 14.5:
+        non_striker: KC Sangakkara
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 14.6:
+        non_striker: RS Kaluwitharana
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 15.1:
+        non_striker: KC Sangakkara
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: RS Kaluwitharana
+    - 15.2:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Sangakkara
+    - 15.3:
+        non_striker: KC Sangakkara
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 15.4:
+        non_striker: KC Sangakkara
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 15.5:
+        non_striker: KC Sangakkara
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 15.6:
+        non_striker: KC Sangakkara
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 16.1:
+        non_striker: RS Kaluwitharana
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 16.2:
+        non_striker: RS Kaluwitharana
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 16.3:
+        non_striker: RS Kaluwitharana
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 16.4:
+        non_striker: RS Kaluwitharana
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KC Sangakkara
+    - 16.5:
+        non_striker: RS Kaluwitharana
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 16.6:
+        non_striker: RS Kaluwitharana
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 17.1:
+        non_striker: KC Sangakkara
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 17.2:
+        non_striker: KC Sangakkara
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 17.3:
+        non_striker: KC Sangakkara
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 17.4:
+        non_striker: KC Sangakkara
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 17.5:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 17.6:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Sangakkara
+    - 18.1:
+        non_striker: RS Kaluwitharana
+        bowler: DE Bernard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 18.2:
+        non_striker: RS Kaluwitharana
+        bowler: DE Bernard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KC Sangakkara
+    - 18.3:
+        non_striker: RS Kaluwitharana
+        bowler: DE Bernard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KC Sangakkara
+    - 18.4:
+        non_striker: RS Kaluwitharana
+        bowler: DE Bernard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 18.5:
+        non_striker: RS Kaluwitharana
+        bowler: DE Bernard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Sangakkara
+    - 18.6:
+        non_striker: KC Sangakkara
+        bowler: DE Bernard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 18.7:
+        non_striker: KC Sangakkara
+        bowler: DE Bernard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Kaluwitharana
+    - 18.8:
+        non_striker: KC Sangakkara
+        bowler: DE Bernard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 19.1:
+        non_striker: KC Sangakkara
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 19.2:
+        non_striker: KC Sangakkara
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 19.3:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KC Sangakkara
+    - 19.4:
+        non_striker: KC Sangakkara
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 19.5:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: KC Sangakkara
+    - 19.6:
+        non_striker: KC Sangakkara
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 19.7:
+        non_striker: KC Sangakkara
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RS Kaluwitharana
+    - 20.1:
+        non_striker: RS Kaluwitharana
+        bowler: DE Bernard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 20.2:
+        non_striker: RS Kaluwitharana
+        bowler: DE Bernard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 20.3:
+        non_striker: RS Kaluwitharana
+        bowler: DE Bernard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+    - 20.4:
+        non_striker: RS Kaluwitharana
+        bowler: DE Bernard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KC Sangakkara
+    - 20.5:
+        non_striker: RS Kaluwitharana
+        bowler: DE Bernard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KC Sangakkara
+        wicket:
+          player_out: KC Sangakkara
+          fielders:
+          - RR Sarwan
+          kind: caught
+    - 20.6:
+        non_striker: DPMD Jayawardene
+        bowler: DE Bernard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RS Kaluwitharana
+    - 20.7:
+        non_striker: DPMD Jayawardene
+        bowler: DE Bernard
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RS Kaluwitharana
+    - 20.8:
+        non_striker: DPMD Jayawardene
+        bowler: DE Bernard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 20.9:
+        non_striker: DPMD Jayawardene
+        bowler: DE Bernard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 21.1:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 21.2:
+        non_striker: DPMD Jayawardene
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 21.3:
+        non_striker: DPMD Jayawardene
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RS Kaluwitharana
+    - 21.4:
+        non_striker: DPMD Jayawardene
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 21.5:
+        non_striker: DPMD Jayawardene
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 21.6:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 22.1:
+        non_striker: DPMD Jayawardene
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 22.2:
+        non_striker: DPMD Jayawardene
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 22.3:
+        non_striker: DPMD Jayawardene
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 22.4:
+        non_striker: DPMD Jayawardene
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 22.5:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 22.6:
+        non_striker: DPMD Jayawardene
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 23.1:
+        non_striker: DPMD Jayawardene
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 23.2:
+        non_striker: DPMD Jayawardene
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 23.3:
+        non_striker: DPMD Jayawardene
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 23.4:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 23.5:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DPMD Jayawardene
+    - 23.6:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 23.7:
+        non_striker: DPMD Jayawardene
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RS Kaluwitharana
+    - 24.1:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 24.2:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 24.3:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 24.4:
+        non_striker: DPMD Jayawardene
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 24.5:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 24.6:
+        non_striker: RS Kaluwitharana
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DPMD Jayawardene
+    - 25.1:
+        non_striker: DPMD Jayawardene
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 25.2:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 25.3:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 25.4:
+        non_striker: DPMD Jayawardene
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 25.5:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 25.6:
+        non_striker: RS Kaluwitharana
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 26.1:
+        non_striker: DPMD Jayawardene
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 26.2:
+        non_striker: RS Kaluwitharana
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 26.3:
+        non_striker: RS Kaluwitharana
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 26.4:
+        non_striker: RS Kaluwitharana
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DPMD Jayawardene
+    - 26.5:
+        non_striker: DPMD Jayawardene
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 26.6:
+        non_striker: DPMD Jayawardene
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 27.1:
+        non_striker: RS Kaluwitharana
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 27.2:
+        non_striker: RS Kaluwitharana
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 27.3:
+        non_striker: RS Kaluwitharana
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+    - 27.4:
+        non_striker: RS Kaluwitharana
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DPMD Jayawardene
+        wicket:
+          player_out: DPMD Jayawardene
+          fielders:
+          - M Dillon
+          kind: caught
+    - 27.5:
+        non_striker: TM Dilshan
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 27.6:
+        non_striker: TM Dilshan
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RS Kaluwitharana
+    - 28.1:
+        non_striker: RS Kaluwitharana
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 28.2:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Kaluwitharana
+    - 28.3:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Kaluwitharana
+    - 28.4:
+        non_striker: RS Kaluwitharana
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 28.5:
+        non_striker: RS Kaluwitharana
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Dilshan
+        wicket:
+          player_out: RS Kaluwitharana
+          fielders:
+          - WW Hinds
+          - RD Jacobs
+          kind: run out
+    - 28.6:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 29.1:
+        non_striker: HDPK Dharmasena
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 29.2:
+        non_striker: HDPK Dharmasena
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 29.3:
+        non_striker: TM Dilshan
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 29.4:
+        non_striker: HDPK Dharmasena
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 29.5:
+        non_striker: TM Dilshan
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 29.6:
+        non_striker: TM Dilshan
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 30.1:
+        non_striker: HDPK Dharmasena
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 30.2:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 30.3:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 30.4:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 30.5:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 30.6:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 31.1:
+        non_striker: HDPK Dharmasena
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 31.2:
+        non_striker: HDPK Dharmasena
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 31.3:
+        non_striker: HDPK Dharmasena
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 31.4:
+        non_striker: TM Dilshan
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 31.5:
+        non_striker: HDPK Dharmasena
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 31.6:
+        non_striker: TM Dilshan
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 32.1:
+        non_striker: HDPK Dharmasena
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 32.2:
+        non_striker: HDPK Dharmasena
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 32.3:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 32.4:
+        non_striker: HDPK Dharmasena
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 32.5:
+        non_striker: HDPK Dharmasena
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 32.6:
+        non_striker: HDPK Dharmasena
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 33.1:
+        non_striker: HDPK Dharmasena
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 33.2:
+        non_striker: HDPK Dharmasena
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 33.3:
+        non_striker: TM Dilshan
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 33.4:
+        non_striker: HDPK Dharmasena
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 33.5:
+        non_striker: TM Dilshan
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 33.6:
+        non_striker: HDPK Dharmasena
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 34.1:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 34.2:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 34.3:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 34.4:
+        non_striker: HDPK Dharmasena
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 34.5:
+        non_striker: HDPK Dharmasena
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 34.6:
+        non_striker: HDPK Dharmasena
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 35.1:
+        non_striker: HDPK Dharmasena
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 35.2:
+        non_striker: HDPK Dharmasena
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 35.3:
+        non_striker: HDPK Dharmasena
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 35.4:
+        non_striker: HDPK Dharmasena
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 35.5:
+        non_striker: TM Dilshan
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 35.6:
+        non_striker: TM Dilshan
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 36.1:
+        non_striker: HDPK Dharmasena
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 36.2:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 36.3:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 36.4:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 36.5:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 36.6:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 37.1:
+        non_striker: TM Dilshan
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 37.2:
+        non_striker: TM Dilshan
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 37.3:
+        non_striker: HDPK Dharmasena
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 37.4:
+        non_striker: TM Dilshan
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 37.5:
+        non_striker: TM Dilshan
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 37.6:
+        non_striker: HDPK Dharmasena
+        bowler: WW Hinds
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 38.1:
+        non_striker: HDPK Dharmasena
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 38.2:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 38.3:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDPK Dharmasena
+    - 38.4:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 38.5:
+        non_striker: HDPK Dharmasena
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 38.6:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 39.1:
+        non_striker: TM Dilshan
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDPK Dharmasena
+    - 39.2:
+        non_striker: TM Dilshan
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HDPK Dharmasena
+    - 39.3:
+        non_striker: TM Dilshan
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 39.4:
+        non_striker: HDPK Dharmasena
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM Dilshan
+    - 39.5:
+        non_striker: HDPK Dharmasena
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 39.6:
+        non_striker: HDPK Dharmasena
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 40.1:
+        non_striker: HDPK Dharmasena
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 40.2:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 40.3:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 40.4:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDPK Dharmasena
+    - 40.5:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 40.6:
+        non_striker: HDPK Dharmasena
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 41.1:
+        non_striker: HDPK Dharmasena
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 41.2:
+        non_striker: HDPK Dharmasena
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 41.3:
+        non_striker: TM Dilshan
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDPK Dharmasena
+    - 41.4:
+        non_striker: TM Dilshan
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 41.5:
+        non_striker: TM Dilshan
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDPK Dharmasena
+    - 41.6:
+        non_striker: TM Dilshan
+        bowler: CH Gayle
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 42.1:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 42.2:
+        non_striker: HDPK Dharmasena
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 42.3:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+    - 42.4:
+        non_striker: TM Dilshan
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 42.5:
+        non_striker: HDPK Dharmasena
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 42.6:
+        non_striker: HDPK Dharmasena
+        bowler: MN Samuels
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 43.1:
+        non_striker: TM Dilshan
+        bowler: VC Drakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HDPK Dharmasena
+    - 43.2:
+        non_striker: TM Dilshan
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 43.3:
+        non_striker: HDPK Dharmasena
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM Dilshan
+    - 43.4:
+        non_striker: TM Dilshan
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 43.5:
+        non_striker: HDPK Dharmasena
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 43.6:
+        non_striker: HDPK Dharmasena
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+    - 43.7:
+        non_striker: HDPK Dharmasena
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Dilshan
+        wicket:
+          player_out: TM Dilshan
+          kind: bowled
+    - 44.1:
+        non_striker: WPUJC Vaas
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HDPK Dharmasena
+    - 44.2:
+        non_striker: WPUJC Vaas
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 44.3:
+        non_striker: HDPK Dharmasena
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WPUJC Vaas
+    - 44.4:
+        non_striker: HDPK Dharmasena
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WPUJC Vaas
+    - 44.5:
+        non_striker: HDPK Dharmasena
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WPUJC Vaas
+    - 44.6:
+        non_striker: HDPK Dharmasena
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WPUJC Vaas
+    - 45.1:
+        non_striker: WPUJC Vaas
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 45.2:
+        non_striker: HDPK Dharmasena
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WPUJC Vaas
+    - 45.3:
+        non_striker: HDPK Dharmasena
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WPUJC Vaas
+    - 45.4:
+        non_striker: WPUJC Vaas
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 45.5:
+        non_striker: HDPK Dharmasena
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WPUJC Vaas
+    - 45.6:
+        non_striker: HDPK Dharmasena
+        bowler: VC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WPUJC Vaas
+    - 46.1:
+        non_striker: HDPK Dharmasena
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WPUJC Vaas
+        wicket:
+          player_out: WPUJC Vaas
+          kind: bowled
+    - 46.2:
+        non_striker: HDPK Dharmasena
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Muralitharan
+    - 46.3:
+        non_striker: M Muralitharan
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HDPK Dharmasena
+    - 46.4:
+        non_striker: HDPK Dharmasena
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Muralitharan
+    - 46.5:
+        non_striker: M Muralitharan
+        bowler: M Dillon
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: HDPK Dharmasena
+    - 46.6:
+        non_striker: HDPK Dharmasena
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Muralitharan
+    - 46.7:
+        non_striker: M Muralitharan
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HDPK Dharmasena
+        wicket:
+          player_out: HDPK Dharmasena
+          fielders:
+          - RD Jacobs
+          kind: caught
+    - 47.1:
+        non_striker: RAP Nissanka
+        bowler: CD Collymore
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Muralitharan
+    - 47.2:
+        non_striker: RAP Nissanka
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Muralitharan
+        wicket:
+          player_out: M Muralitharan
+          fielders:
+          - MN Samuels
+          kind: caught
+    - 47.3:
+        non_striker: D Gamage
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RAP Nissanka
+    - 47.4:
+        non_striker: RAP Nissanka
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gamage
+    - 47.5:
+        non_striker: RAP Nissanka
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Gamage
+    - 47.6:
+        non_striker: D Gamage
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: RAP Nissanka
+    - 47.7:
+        non_striker: RAP Nissanka
+        bowler: CD Collymore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gamage
+    - 48.1:
+        non_striker: D Gamage
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RAP Nissanka
+    - 48.2:
+        non_striker: RAP Nissanka
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gamage
+    - 48.3:
+        non_striker: RAP Nissanka
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gamage
+    - 48.4:
+        non_striker: RAP Nissanka
+        bowler: M Dillon
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Gamage
+        wicket:
+          player_out: D Gamage
+          fielders:
+          - CD Collymore
+          kind: run out
+- 2nd innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WW Hinds
+        batsman: CH Gayle
+    - 0.2:
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WW Hinds
+        batsman: CH Gayle
+    - 0.3:
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WW Hinds
+        batsman: CH Gayle
+    - 0.4:
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WW Hinds
+        batsman: CH Gayle
+    - 0.5:
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WW Hinds
+        batsman: CH Gayle
+    - 0.6:
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: WW Hinds
+        batsman: CH Gayle
+    - 1.1:
+        non_striker: CH Gayle
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WW Hinds
+    - 1.2:
+        non_striker: CH Gayle
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WW Hinds
+    - 1.3:
+        non_striker: CH Gayle
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WW Hinds
+    - 1.4:
+        non_striker: CH Gayle
+        bowler: RAP Nissanka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: WW Hinds
+    - 1.5:
+        non_striker: CH Gayle
+        bowler: RAP Nissanka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: WW Hinds
+    - 1.6:
+        non_striker: CH Gayle
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WW Hinds
+    - 1.7:
+        non_striker: CH Gayle
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WW Hinds
+        wicket:
+          player_out: WW Hinds
+          kind: bowled
+    - 1.8:
+        non_striker: CH Gayle
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Powell
+    - 2.1:
+        non_striker: RL Powell
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 2.2:
+        non_striker: RL Powell
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+    - 2.3:
+        non_striker: RL Powell
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CH Gayle
+        wicket:
+          player_out: CH Gayle
+          fielders:
+          - RS Kaluwitharana
+          kind: caught
+    - 2.4:
+        non_striker: RL Powell
+        bowler: WPUJC Vaas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RR Sarwan
+    - 2.5:
+        non_striker: RL Powell
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 2.6:
+        non_striker: RL Powell
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 2.7:
+        non_striker: RL Powell
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+    - 3.1:
+        non_striker: RR Sarwan
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 3.2:
+        non_striker: RR Sarwan
+        bowler: RAP Nissanka
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: RL Powell
+    - 3.3:
+        non_striker: RL Powell
+        bowler: RAP Nissanka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: RR Sarwan
+    - 3.4:
+        non_striker: RR Sarwan
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 3.5:
+        non_striker: RR Sarwan
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RL Powell
+    - 3.6:
+        non_striker: RR Sarwan
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RL Powell
+    - 3.7:
+        non_striker: RL Powell
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Sarwan
+    - 4.1:
+        non_striker: RR Sarwan
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 4.2:
+        non_striker: RR Sarwan
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+    - 4.3:
+        non_striker: RR Sarwan
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RL Powell
+        wicket:
+          player_out: RL Powell
+          kind: lbw
+    - 4.4:
+        non_striker: RR Sarwan
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 4.5:
+        non_striker: RR Sarwan
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 4.6:
+        non_striker: RR Sarwan
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 5.1:
+        non_striker: BC Lara
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Sarwan
+    - 5.2:
+        non_striker: BC Lara
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Sarwan
+        wicket:
+          player_out: RR Sarwan
+          fielders:
+          - KC Sangakkara
+          kind: caught
+    - 5.3:
+        non_striker: BC Lara
+        bowler: RAP Nissanka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MN Samuels
+    - 5.4:
+        non_striker: BC Lara
+        bowler: RAP Nissanka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MN Samuels
+    - 5.5:
+        non_striker: BC Lara
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 5.6:
+        non_striker: BC Lara
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 5.7:
+        non_striker: BC Lara
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 5.8:
+        non_striker: BC Lara
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 6.1:
+        non_striker: MN Samuels
+        bowler: WPUJC Vaas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: BC Lara
+    - 6.2:
+        non_striker: MN Samuels
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 6.3:
+        non_striker: MN Samuels
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 6.4:
+        non_striker: MN Samuels
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 6.5:
+        non_striker: MN Samuels
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 6.6:
+        non_striker: MN Samuels
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 6.7:
+        non_striker: MN Samuels
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 7.1:
+        non_striker: BC Lara
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN Samuels
+    - 7.2:
+        non_striker: MN Samuels
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 7.3:
+        non_striker: MN Samuels
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 7.4:
+        non_striker: MN Samuels
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 7.5:
+        non_striker: MN Samuels
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 7.6:
+        non_striker: BC Lara
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 8.1:
+        non_striker: MN Samuels
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 8.2:
+        non_striker: MN Samuels
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 8.3:
+        non_striker: BC Lara
+        bowler: WPUJC Vaas
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: MN Samuels
+    - 8.4:
+        non_striker: MN Samuels
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 8.5:
+        non_striker: MN Samuels
+        bowler: WPUJC Vaas
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: BC Lara
+    - 8.6:
+        non_striker: BC Lara
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 8.7:
+        non_striker: BC Lara
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 8.8:
+        non_striker: BC Lara
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MN Samuels
+    - 9.1:
+        non_striker: MN Samuels
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 9.2:
+        non_striker: MN Samuels
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 9.3:
+        non_striker: MN Samuels
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 9.4:
+        non_striker: MN Samuels
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 9.5:
+        non_striker: MN Samuels
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 9.6:
+        non_striker: MN Samuels
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 10.1:
+        non_striker: BC Lara
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN Samuels
+    - 10.2:
+        non_striker: MN Samuels
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 10.3:
+        non_striker: MN Samuels
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 10.4:
+        non_striker: BC Lara
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 10.5:
+        non_striker: BC Lara
+        bowler: WPUJC Vaas
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: MN Samuels
+    - 10.6:
+        non_striker: BC Lara
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 10.7:
+        non_striker: BC Lara
+        bowler: WPUJC Vaas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 11.1:
+        non_striker: MN Samuels
+        bowler: RAP Nissanka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: BC Lara
+    - 11.2:
+        non_striker: MN Samuels
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BC Lara
+    - 11.3:
+        non_striker: MN Samuels
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 11.4:
+        non_striker: MN Samuels
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 11.5:
+        non_striker: MN Samuels
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 11.6:
+        non_striker: BC Lara
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 11.7:
+        non_striker: BC Lara
+        bowler: RAP Nissanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 12.1:
+        non_striker: MN Samuels
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 12.2:
+        non_striker: MN Samuels
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 12.3:
+        non_striker: MN Samuels
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 12.4:
+        non_striker: MN Samuels
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 12.5:
+        non_striker: MN Samuels
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 12.6:
+        non_striker: MN Samuels
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 13.1:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 13.2:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 13.3:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 13.4:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN Samuels
+    - 13.5:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 13.6:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 14.1:
+        non_striker: MN Samuels
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 14.2:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 14.3:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 14.4:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 14.5:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN Samuels
+    - 14.6:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN Samuels
+    - 15.1:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 15.2:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 15.3:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN Samuels
+    - 15.4:
+        non_striker: MN Samuels
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 15.5:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN Samuels
+    - 15.6:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN Samuels
+    - 16.1:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 16.2:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+    - 16.3:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN Samuels
+    - 16.4:
+        non_striker: MN Samuels
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 16.5:
+        non_striker: MN Samuels
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 16.6:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN Samuels
+    - 17.1:
+        non_striker: MN Samuels
+        bowler: M Muralitharan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: BC Lara
+    - 17.2:
+        non_striker: MN Samuels
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 17.3:
+        non_striker: MN Samuels
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 17.4:
+        non_striker: MN Samuels
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 17.5:
+        non_striker: MN Samuels
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 17.6:
+        non_striker: MN Samuels
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 17.7:
+        non_striker: MN Samuels
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 18.1:
+        non_striker: MN Samuels
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 18.2:
+        non_striker: MN Samuels
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BC Lara
+    - 18.3:
+        non_striker: MN Samuels
+        bowler: D Gamage
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BC Lara
+    - 18.4:
+        non_striker: MN Samuels
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 18.5:
+        non_striker: MN Samuels
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 18.6:
+        non_striker: MN Samuels
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 18.7:
+        non_striker: MN Samuels
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 19.1:
+        non_striker: MN Samuels
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 19.2:
+        non_striker: MN Samuels
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 19.3:
+        non_striker: MN Samuels
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 19.4:
+        non_striker: MN Samuels
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 19.5:
+        non_striker: MN Samuels
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 19.6:
+        non_striker: MN Samuels
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 20.1:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN Samuels
+        wicket:
+          player_out: MN Samuels
+          fielders:
+          - RS Kaluwitharana
+          kind: caught
+    - 20.2:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Jacobs
+    - 20.3:
+        non_striker: RD Jacobs
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 20.4:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 20.5:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 20.6:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Jacobs
+    - 21.1:
+        non_striker: RD Jacobs
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 21.2:
+        non_striker: RD Jacobs
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 21.3:
+        non_striker: RD Jacobs
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 21.4:
+        non_striker: RD Jacobs
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BC Lara
+    - 21.5:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 21.6:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 22.1:
+        non_striker: RD Jacobs
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 22.2:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 22.3:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 22.4:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 22.5:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Jacobs
+    - 22.6:
+        non_striker: RD Jacobs
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 23.1:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 23.2:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 23.3:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Jacobs
+    - 23.4:
+        non_striker: RD Jacobs
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BC Lara
+    - 23.5:
+        non_striker: RD Jacobs
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 23.6:
+        non_striker: RD Jacobs
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 24.1:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Jacobs
+    - 24.2:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Jacobs
+    - 24.3:
+        non_striker: RD Jacobs
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 24.4:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Jacobs
+    - 24.5:
+        non_striker: RD Jacobs
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 24.6:
+        non_striker: BC Lara
+        bowler: D Gamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 25.1:
+        non_striker: RD Jacobs
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 25.2:
+        non_striker: RD Jacobs
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 25.3:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 25.4:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 25.5:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 25.6:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 26.1:
+        non_striker: RD Jacobs
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 26.2:
+        non_striker: RD Jacobs
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 26.3:
+        non_striker: BC Lara
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 26.4:
+        non_striker: BC Lara
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 26.5:
+        non_striker: BC Lara
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Jacobs
+    - 26.6:
+        non_striker: RD Jacobs
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 27.1:
+        non_striker: RD Jacobs
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 27.2:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Jacobs
+    - 27.3:
+        non_striker: RD Jacobs
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 27.4:
+        non_striker: RD Jacobs
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 27.5:
+        non_striker: RD Jacobs
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 27.6:
+        non_striker: RD Jacobs
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 28.1:
+        non_striker: BC Lara
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 28.2:
+        non_striker: BC Lara
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 28.3:
+        non_striker: BC Lara
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 28.4:
+        non_striker: BC Lara
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 28.5:
+        non_striker: BC Lara
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 28.6:
+        non_striker: BC Lara
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+    - 29.1:
+        non_striker: RD Jacobs
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BC Lara
+    - 29.2:
+        non_striker: RD Jacobs
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 29.3:
+        non_striker: RD Jacobs
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BC Lara
+    - 29.4:
+        non_striker: RD Jacobs
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 29.5:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Jacobs
+    - 29.6:
+        non_striker: RD Jacobs
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 30.1:
+        non_striker: RD Jacobs
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 30.2:
+        non_striker: BC Lara
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Jacobs
+        wicket:
+          player_out: RD Jacobs
+          fielders:
+          - ST Jayasuriya
+          kind: caught
+    - 30.3:
+        non_striker: BC Lara
+        bowler: M Muralitharan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DE Bernard
+    - 30.4:
+        non_striker: BC Lara
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Bernard
+    - 30.5:
+        non_striker: BC Lara
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Bernard
+        wicket:
+          player_out: DE Bernard
+          kind: bowled
+    - 30.6:
+        non_striker: BC Lara
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VC Drakes
+    - 30.7:
+        non_striker: BC Lara
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VC Drakes
+    - 31.1:
+        non_striker: BC Lara
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VC Drakes
+    - 31.2:
+        non_striker: BC Lara
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VC Drakes
+    - 31.3:
+        non_striker: BC Lara
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VC Drakes
+    - 31.4:
+        non_striker: BC Lara
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: VC Drakes
+    - 31.5:
+        non_striker: VC Drakes
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BC Lara
+    - 31.6:
+        non_striker: VC Drakes
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 32.1:
+        non_striker: VC Drakes
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 32.2:
+        non_striker: VC Drakes
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 32.3:
+        non_striker: BC Lara
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VC Drakes
+    - 32.4:
+        non_striker: BC Lara
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VC Drakes
+    - 32.5:
+        non_striker: BC Lara
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VC Drakes
+    - 32.6:
+        non_striker: BC Lara
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VC Drakes
+    - 33.1:
+        non_striker: VC Drakes
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 33.2:
+        non_striker: VC Drakes
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BC Lara
+    - 33.3:
+        non_striker: VC Drakes
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 33.4:
+        non_striker: VC Drakes
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 33.5:
+        non_striker: VC Drakes
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 33.6:
+        non_striker: VC Drakes
+        bowler: ST Jayasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 34.1:
+        non_striker: VC Drakes
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 34.2:
+        non_striker: VC Drakes
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 34.3:
+        non_striker: VC Drakes
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+        wicket:
+          player_out: VC Drakes
+          fielders:
+          - RS Kaluwitharana
+          - RAP Nissanka
+          kind: run out
+    - 34.4:
+        non_striker: BC Lara
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dillon
+    - 34.5:
+        non_striker: M Dillon
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 34.6:
+        non_striker: BC Lara
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dillon
+    - 35.1:
+        non_striker: BC Lara
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dillon
+    - 35.2:
+        non_striker: BC Lara
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dillon
+        wicket:
+          player_out: M Dillon
+          fielders:
+          - MS Atapattu
+          kind: caught
+    - 35.3:
+        non_striker: BC Lara
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CD Collymore
+    - 35.4:
+        non_striker: CD Collymore
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 35.5:
+        non_striker: CD Collymore
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 35.6:
+        non_striker: CD Collymore
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 36.1:
+        non_striker: CD Collymore
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 36.2:
+        non_striker: CD Collymore
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 36.3:
+        non_striker: CD Collymore
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 36.4:
+        non_striker: CD Collymore
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 36.5:
+        non_striker: CD Collymore
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 36.6:
+        non_striker: BC Lara
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Collymore
+    - 37.1:
+        non_striker: CD Collymore
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 37.2:
+        non_striker: CD Collymore
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 37.3:
+        non_striker: CD Collymore
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BC Lara
+    - 37.4:
+        non_striker: CD Collymore
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BC Lara
+    - 37.5:
+        non_striker: CD Collymore
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 37.6:
+        non_striker: BC Lara
+        bowler: HDPK Dharmasena
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Collymore
+    - 38.1:
+        non_striker: CD Collymore
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BC Lara
+    - 38.2:
+        non_striker: CD Collymore
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 38.3:
+        non_striker: CD Collymore
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BC Lara
+    - 38.4:
+        non_striker: CD Collymore
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 38.5:
+        non_striker: BC Lara
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Collymore
+    - 38.6:
+        non_striker: BC Lara
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Collymore
+    - 39.1:
+        non_striker: CD Collymore
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 39.2:
+        non_striker: CD Collymore
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 39.3:
+        non_striker: CD Collymore
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 39.4:
+        non_striker: CD Collymore
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 39.5:
+        non_striker: CD Collymore
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BC Lara
+    - 39.6:
+        non_striker: CD Collymore
+        bowler: M Muralitharan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 40.1:
+        non_striker: CD Collymore
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 40.2:
+        non_striker: CD Collymore
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 40.3:
+        non_striker: CD Collymore
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 40.4:
+        non_striker: CD Collymore
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BC Lara
+    - 40.5:
+        non_striker: CD Collymore
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BC Lara
+    - 40.6:
+        non_striker: BC Lara
+        bowler: TM Dilshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CD Collymore
+        wicket:
+          player_out: CD Collymore
+          kind: lbw

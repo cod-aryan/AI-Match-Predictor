@@ -1,0 +1,2140 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Singapore
+  dates:
+  - '2025-07-18'
+  gender: male
+  match_type: T20
+  match_type_number: 3321
+  outcome:
+    winner: Singapore
+    by:
+      runs: 52
+  overs: 20
+  player_of_match:
+  - H Venkataram
+  players:
+    Singapore:
+    - Aman Desai
+    - Aritra Dutta
+    - HK Kukreja
+    - K Sathish
+    - Manpreet Singh
+    - SH Venugopal
+    - C Shivakumar
+    - H Venkataram
+    - Kabir Berlia
+    - AR Puri
+    - PSRK Sudarshan
+    Samoa:
+    - DE Roache
+    - SJ French
+    - D Visser
+    - BF Mailata
+    - F Suluoto
+    - CK Jasmat
+    - SM Nash
+    - SF Tiai
+    - A Ilaoa
+    - Noah Mead
+    - KAB Hynam-Nyberg
+  registry:
+    people:
+      A Ilaoa: 4d733a54
+      A Natarajan: a2b73ae0
+      AR Puri: 1f490b28
+      Aman Desai: c10fd8f9
+      Aritra Dutta: f3a5c378
+      BF Mailata: f49935eb
+      C Shivakumar: a02a0e07
+      CK Jasmat: 5299063a
+      D Visser: bb4da4d3
+      DE Roache: 110b180a
+      F Suluoto: ae380321
+      Foyes Ahmed: 465cdd1d
+      H Venkataram: e61cee7b
+      HK Kukreja: b67bfbf8
+      Hardeep Jadeja: 552cf5a2
+      K Sathish: 1cad1601
+      KAB Hynam-Nyberg: 692ed48b
+      Kabir Berlia: 5e5a45bd
+      Manpreet Singh: e9d6a2ce
+      Noah Mead: '0095a0e3'
+      PSRK Sudarshan: 3a44a4e4
+      SF Tiai: bf19d427
+      SH Venugopal: 9f542219
+      SJ French: 0e93ef92
+      SM Nash: 4f3a89ae
+      T Senthil Kumar: 961ddfac
+  teams:
+  - Singapore
+  - Samoa
+  toss:
+    winner: Singapore
+    decision: bat
+  umpires:
+  - Foyes Ahmed
+  - Hardeep Jadeja
+  venue: Singapore National Cricket Ground
+innings:
+- 1st innings:
+    team: Singapore
+    deliveries:
+    - 0.1:
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Aritra Dutta
+        batsman: Aman Desai
+    - 0.2:
+        non_striker: Aman Desai
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aritra Dutta
+    - 0.3:
+        non_striker: Aman Desai
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aritra Dutta
+    - 0.4:
+        non_striker: Aritra Dutta
+        bowler: Noah Mead
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aman Desai
+    - 0.5:
+        non_striker: Aritra Dutta
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aman Desai
+    - 0.6:
+        non_striker: Aman Desai
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aritra Dutta
+    - 0.7:
+        non_striker: Aman Desai
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aritra Dutta
+        wicket:
+          player_out: Aritra Dutta
+          fielders:
+          - SM Nash
+          kind: caught
+    - 1.1:
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HK Kukreja
+        batsman: Aman Desai
+    - 1.2:
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HK Kukreja
+        batsman: Aman Desai
+    - 1.3:
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: HK Kukreja
+        batsman: Aman Desai
+    - 1.4:
+        non_striker: Aman Desai
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+    - 1.5:
+        non_striker: Aman Desai
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Kukreja
+        wicket:
+          player_out: HK Kukreja
+          kind: bowled
+    - 1.6:
+        non_striker: Aman Desai
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Sathish
+    - 2.1:
+        non_striker: K Sathish
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aman Desai
+        wicket:
+          player_out: Aman Desai
+          fielders:
+          - A Ilaoa
+          kind: caught
+    - 2.2:
+        non_striker: K Sathish
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 2.3:
+        non_striker: K Sathish
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 2.4:
+        non_striker: K Sathish
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 2.5:
+        non_striker: K Sathish
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 2.6:
+        non_striker: K Sathish
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Manpreet Singh
+    - 3.1:
+        non_striker: Manpreet Singh
+        bowler: SM Nash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: K Sathish
+    - 3.2:
+        non_striker: Manpreet Singh
+        bowler: SM Nash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Sathish
+    - 3.3:
+        non_striker: K Sathish
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 3.4:
+        non_striker: K Sathish
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 3.5:
+        non_striker: K Sathish
+        bowler: SM Nash
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Manpreet Singh
+    - 3.6:
+        non_striker: K Sathish
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 3.7:
+        non_striker: K Sathish
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 3.8:
+        non_striker: Manpreet Singh
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 4.1:
+        non_striker: Manpreet Singh
+        bowler: CK Jasmat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Sathish
+    - 4.2:
+        non_striker: Manpreet Singh
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+    - 4.3:
+        non_striker: Manpreet Singh
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+    - 4.4:
+        non_striker: Manpreet Singh
+        bowler: CK Jasmat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Sathish
+    - 4.5:
+        non_striker: K Sathish
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 4.6:
+        non_striker: Manpreet Singh
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+    - 4.7:
+        non_striker: Manpreet Singh
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 5.1:
+        non_striker: Manpreet Singh
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 5.2:
+        non_striker: K Sathish
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 5.3:
+        non_striker: Manpreet Singh
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 5.4:
+        non_striker: K Sathish
+        bowler: Noah Mead
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Manpreet Singh
+    - 5.5:
+        non_striker: K Sathish
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Manpreet Singh
+    - 5.6:
+        non_striker: K Sathish
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 5.7:
+        non_striker: K Sathish
+        bowler: Noah Mead
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 6.1:
+        non_striker: K Sathish
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 6.2:
+        non_striker: Manpreet Singh
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 6.3:
+        non_striker: K Sathish
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 6.4:
+        non_striker: Manpreet Singh
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 6.5:
+        non_striker: K Sathish
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 6.6:
+        non_striker: K Sathish
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Manpreet Singh
+    - 7.1:
+        non_striker: Manpreet Singh
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+    - 7.2:
+        non_striker: Manpreet Singh
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+    - 7.3:
+        non_striker: Manpreet Singh
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Sathish
+    - 7.4:
+        non_striker: Manpreet Singh
+        bowler: D Visser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: K Sathish
+    - 7.5:
+        non_striker: K Sathish
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 7.6:
+        non_striker: K Sathish
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 8.1:
+        non_striker: K Sathish
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 8.2:
+        non_striker: Manpreet Singh
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+    - 8.3:
+        non_striker: Manpreet Singh
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: K Sathish
+    - 8.4:
+        non_striker: K Sathish
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Manpreet Singh
+    - 8.5:
+        non_striker: K Sathish
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 8.6:
+        non_striker: Manpreet Singh
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Sathish
+    - 9.1:
+        non_striker: K Sathish
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 9.2:
+        non_striker: Manpreet Singh
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Sathish
+    - 9.3:
+        non_striker: Manpreet Singh
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+    - 9.4:
+        non_striker: Manpreet Singh
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+    - 9.5:
+        non_striker: Manpreet Singh
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Sathish
+    - 9.6:
+        non_striker: Manpreet Singh
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Sathish
+    - 10.1:
+        non_striker: Manpreet Singh
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Sathish
+        wicket:
+          player_out: K Sathish
+          fielders:
+          - D Visser
+          kind: caught
+    - 10.2:
+        non_striker: Manpreet Singh
+        bowler: SF Tiai
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: SH Venugopal
+    - 10.3:
+        non_striker: SH Venugopal
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Manpreet Singh
+    - 10.4:
+        non_striker: Manpreet Singh
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 10.5:
+        non_striker: Manpreet Singh
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 10.6:
+        non_striker: Manpreet Singh
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 11.1:
+        non_striker: SH Venugopal
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 11.2:
+        non_striker: SH Venugopal
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+    - 11.3:
+        non_striker: SH Venugopal
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Manpreet Singh
+    - 11.4:
+        non_striker: SH Venugopal
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Manpreet Singh
+        wicket:
+          player_out: Manpreet Singh
+          fielders:
+          - DE Roache
+          kind: caught
+    - 11.5:
+        non_striker: SH Venugopal
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Shivakumar
+    - 11.6:
+        non_striker: C Shivakumar
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 12.1:
+        non_striker: C Shivakumar
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 12.2:
+        non_striker: C Shivakumar
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 12.3:
+        non_striker: SH Venugopal
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Shivakumar
+    - 12.4:
+        non_striker: SH Venugopal
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Shivakumar
+    - 12.5:
+        non_striker: SH Venugopal
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Shivakumar
+    - 12.6:
+        non_striker: SH Venugopal
+        bowler: CK Jasmat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Shivakumar
+    - 13.1:
+        non_striker: SH Venugopal
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Shivakumar
+    - 13.2:
+        non_striker: C Shivakumar
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Venugopal
+    - 13.3:
+        non_striker: C Shivakumar
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 13.4:
+        non_striker: SH Venugopal
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Shivakumar
+    - 13.5:
+        non_striker: SH Venugopal
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Shivakumar
+    - 13.6:
+        non_striker: C Shivakumar
+        bowler: D Visser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 14.1:
+        non_striker: C Shivakumar
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 14.2:
+        non_striker: C Shivakumar
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 14.3:
+        non_striker: SH Venugopal
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Shivakumar
+    - 14.4:
+        non_striker: C Shivakumar
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 14.5:
+        non_striker: SH Venugopal
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Shivakumar
+    - 14.6:
+        non_striker: C Shivakumar
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 15.1:
+        non_striker: C Shivakumar
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 15.2:
+        non_striker: SH Venugopal
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Shivakumar
+    - 15.3:
+        non_striker: SH Venugopal
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Shivakumar
+        wicket:
+          player_out: C Shivakumar
+          kind: run out
+    - 15.4:
+        non_striker: SH Venugopal
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Venkataram
+    - 15.5:
+        non_striker: H Venkataram
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Venugopal
+    - 15.6:
+        non_striker: H Venkataram
+        bowler: SM Nash
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 16.1:
+        non_striker: H Venkataram
+        bowler: CK Jasmat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SH Venugopal
+    - 16.2:
+        non_striker: H Venkataram
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Venugopal
+    - 16.3:
+        non_striker: H Venkataram
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 16.4:
+        non_striker: H Venkataram
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 16.5:
+        non_striker: SH Venugopal
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Venkataram
+    - 16.6:
+        non_striker: SH Venugopal
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Venkataram
+    - 16.7:
+        non_striker: H Venkataram
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 17.1:
+        non_striker: H Venkataram
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SH Venugopal
+    - 17.2:
+        non_striker: SH Venugopal
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Venkataram
+    - 17.3:
+        non_striker: SH Venugopal
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Venkataram
+    - 17.4:
+        non_striker: H Venkataram
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+    - 17.5:
+        non_striker: H Venkataram
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SH Venugopal
+    - 17.6:
+        non_striker: H Venkataram
+        bowler: KAB Hynam-Nyberg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SH Venugopal
+    - 18.1:
+        non_striker: H Venkataram
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SH Venugopal
+        wicket:
+          player_out: SH Venugopal
+          fielders:
+          - SJ French
+          kind: caught
+    - 18.2:
+        non_striker: H Venkataram
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kabir Berlia
+    - 18.3:
+        non_striker: Kabir Berlia
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Venkataram
+    - 18.4:
+        non_striker: H Venkataram
+        bowler: CK Jasmat
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Kabir Berlia
+    - 18.5:
+        non_striker: Kabir Berlia
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Venkataram
+    - 18.6:
+        non_striker: Kabir Berlia
+        bowler: CK Jasmat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Venkataram
+    - 19.1:
+        non_striker: Kabir Berlia
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Venkataram
+    - 19.2:
+        non_striker: H Venkataram
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kabir Berlia
+    - 19.3:
+        non_striker: H Venkataram
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kabir Berlia
+    - 19.4:
+        non_striker: Kabir Berlia
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Venkataram
+    - 19.5:
+        non_striker: Kabir Berlia
+        bowler: SF Tiai
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: H Venkataram
+    - 19.6:
+        non_striker: Kabir Berlia
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Venkataram
+    - 19.7:
+        non_striker: H Venkataram
+        bowler: SF Tiai
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kabir Berlia
+        wicket:
+          player_out: Kabir Berlia
+          fielders:
+          - SJ French
+          kind: stumped
+- 2nd innings:
+    team: Samoa
+    deliveries:
+    - 0.1:
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SJ French
+        batsman: DE Roache
+    - 0.2:
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SJ French
+        batsman: DE Roache
+    - 0.3:
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SJ French
+        batsman: DE Roache
+    - 0.4:
+        non_striker: DE Roache
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ French
+    - 0.5:
+        non_striker: DE Roache
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ French
+    - 0.6:
+        non_striker: DE Roache
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ French
+    - 0.7:
+        non_striker: DE Roache
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ French
+    - 1.1:
+        non_striker: SJ French
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Roache
+    - 1.2:
+        non_striker: SJ French
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DE Roache
+    - 1.3:
+        non_striker: DE Roache
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ French
+    - 1.4:
+        non_striker: DE Roache
+        bowler: H Venkataram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ French
+    - 1.5:
+        non_striker: DE Roache
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ French
+    - 1.6:
+        non_striker: DE Roache
+        bowler: H Venkataram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SJ French
+    - 1.7:
+        non_striker: DE Roache
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ French
+        wicket:
+          player_out: SJ French
+          kind: bowled
+    - 1.8:
+        non_striker: DE Roache
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 2.1:
+        non_striker: DE Roache
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 2.2:
+        non_striker: DE Roache
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 2.3:
+        non_striker: DE Roache
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+    - 2.4:
+        non_striker: DE Roache
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Visser
+    - 2.5:
+        non_striker: D Visser
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Roache
+    - 2.6:
+        non_striker: D Visser
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DE Roache
+        wicket:
+          player_out: DE Roache
+          kind: bowled
+    - 3.1:
+        non_striker: BF Mailata
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Visser
+        wicket:
+          player_out: D Visser
+          kind: bowled
+    - 3.2:
+        non_striker: BF Mailata
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Suluoto
+        wicket:
+          player_out: F Suluoto
+          kind: lbw
+    - 3.3:
+        non_striker: BF Mailata
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 3.4:
+        non_striker: BF Mailata
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 3.5:
+        non_striker: BF Mailata
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 3.6:
+        non_striker: BF Mailata
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 4.1:
+        non_striker: CK Jasmat
+        bowler: AR Puri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BF Mailata
+    - 4.2:
+        non_striker: CK Jasmat
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BF Mailata
+        wicket:
+          player_out: BF Mailata
+          fielders:
+          - PSRK Sudarshan
+          kind: caught
+    - 4.3:
+        non_striker: CK Jasmat
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Nash
+    - 4.4:
+        non_striker: SM Nash
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 4.5:
+        non_striker: SM Nash
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 4.6:
+        non_striker: SM Nash
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CK Jasmat
+    - 4.7:
+        non_striker: CK Jasmat
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 5.1:
+        non_striker: SM Nash
+        bowler: H Venkataram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CK Jasmat
+    - 5.2:
+        non_striker: SM Nash
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 5.3:
+        non_striker: SM Nash
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CK Jasmat
+    - 5.4:
+        non_striker: SM Nash
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CK Jasmat
+    - 5.5:
+        non_striker: SM Nash
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+    - 5.6:
+        non_striker: SM Nash
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CK Jasmat
+        wicket:
+          player_out: CK Jasmat
+          fielders:
+          - K Sathish
+          kind: caught
+    - 5.7:
+        non_striker: SM Nash
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 6.1:
+        non_striker: SF Tiai
+        bowler: Kabir Berlia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Nash
+    - 6.2:
+        non_striker: SF Tiai
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 6.3:
+        non_striker: SF Tiai
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 6.4:
+        non_striker: SF Tiai
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Nash
+    - 6.5:
+        non_striker: SM Nash
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 6.6:
+        non_striker: SM Nash
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Tiai
+    - 6.7:
+        non_striker: SF Tiai
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 7.1:
+        non_striker: SM Nash
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Tiai
+    - 7.2:
+        non_striker: SF Tiai
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 7.3:
+        non_striker: SF Tiai
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 7.4:
+        non_striker: SF Tiai
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Nash
+    - 7.5:
+        non_striker: SM Nash
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 7.6:
+        non_striker: SM Nash
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 8.1:
+        non_striker: SF Tiai
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Nash
+    - 8.2:
+        non_striker: SM Nash
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 8.3:
+        non_striker: SM Nash
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 8.4:
+        non_striker: SM Nash
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Tiai
+    - 8.5:
+        non_striker: SF Tiai
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 8.6:
+        non_striker: SF Tiai
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 9.1:
+        non_striker: SM Nash
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Tiai
+    - 9.2:
+        non_striker: SF Tiai
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Nash
+    - 9.3:
+        non_striker: SF Tiai
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 9.4:
+        non_striker: SF Tiai
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Nash
+    - 9.5:
+        non_striker: SM Nash
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 9.6:
+        non_striker: SM Nash
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 10.1:
+        non_striker: SF Tiai
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 10.2:
+        non_striker: SF Tiai
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Nash
+    - 10.3:
+        non_striker: SM Nash
+        bowler: AR Puri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SF Tiai
+    - 10.4:
+        non_striker: SM Nash
+        bowler: AR Puri
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SF Tiai
+    - 10.5:
+        non_striker: SM Nash
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Tiai
+    - 10.6:
+        non_striker: SF Tiai
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 10.7:
+        non_striker: SF Tiai
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Nash
+    - 10.8:
+        non_striker: SM Nash
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 11.1:
+        non_striker: SF Tiai
+        bowler: K Sathish
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Nash
+    - 11.2:
+        non_striker: SF Tiai
+        bowler: K Sathish
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Nash
+    - 11.3:
+        non_striker: SM Nash
+        bowler: K Sathish
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Tiai
+    - 11.4:
+        non_striker: SF Tiai
+        bowler: K Sathish
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+    - 11.5:
+        non_striker: SF Tiai
+        bowler: K Sathish
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Nash
+    - 11.6:
+        non_striker: SM Nash
+        bowler: K Sathish
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 12.1:
+        non_striker: SF Tiai
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Nash
+        wicket:
+          player_out: SM Nash
+          fielders:
+          - PSRK Sudarshan
+          kind: caught
+    - 12.2:
+        non_striker: SF Tiai
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ilaoa
+    - 12.3:
+        non_striker: SF Tiai
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ilaoa
+    - 12.4:
+        non_striker: A Ilaoa
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SF Tiai
+    - 12.5:
+        non_striker: A Ilaoa
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SF Tiai
+    - 12.6:
+        non_striker: A Ilaoa
+        bowler: AR Puri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Tiai
+    - 13.1:
+        non_striker: A Ilaoa
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 13.2:
+        non_striker: A Ilaoa
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SF Tiai
+    - 13.3:
+        non_striker: A Ilaoa
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Tiai
+    - 13.4:
+        non_striker: SF Tiai
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ilaoa
+    - 13.5:
+        non_striker: SF Tiai
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ilaoa
+    - 13.6:
+        non_striker: SF Tiai
+        bowler: PSRK Sudarshan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ilaoa
+    - 14.1:
+        non_striker: SF Tiai
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ilaoa
+    - 14.2:
+        non_striker: A Ilaoa
+        bowler: H Venkataram
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SF Tiai
+    - 14.3:
+        non_striker: SF Tiai
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ilaoa
+        wicket:
+          player_out: A Ilaoa
+          kind: bowled
+    - 14.4:
+        non_striker: SF Tiai
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noah Mead
+    - 14.5:
+        non_striker: SF Tiai
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noah Mead
+    - 14.6:
+        non_striker: SF Tiai
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noah Mead
+    - 14.7:
+        non_striker: Noah Mead
+        bowler: H Venkataram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SF Tiai
+    - 15.1:
+        non_striker: SF Tiai
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noah Mead
+    - 15.2:
+        non_striker: SF Tiai
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noah Mead
+    - 15.3:
+        non_striker: SF Tiai
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noah Mead
+    - 15.4:
+        non_striker: Noah Mead
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 15.5:
+        non_striker: Noah Mead
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 15.6:
+        non_striker: Noah Mead
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 16.1:
+        non_striker: SF Tiai
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Noah Mead
+    - 16.2:
+        non_striker: Noah Mead
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+    - 16.3:
+        non_striker: Noah Mead
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SF Tiai
+    - 16.4:
+        non_striker: Noah Mead
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SF Tiai
+    - 16.5:
+        non_striker: Noah Mead
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SF Tiai
+    - 16.6:
+        non_striker: Noah Mead
+        bowler: C Shivakumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SF Tiai
+    - 17.1:
+        non_striker: Noah Mead
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SF Tiai
+        wicket:
+          player_out: SF Tiai
+          fielders:
+          - PSRK Sudarshan
+          kind: caught
+    - 17.2:
+        non_striker: Noah Mead
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KAB Hynam-Nyberg
+    - 17.3:
+        non_striker: KAB Hynam-Nyberg
+        bowler: Kabir Berlia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Noah Mead
+        wicket:
+          player_out: Noah Mead
+          fielders:
+          - PSRK Sudarshan
+          kind: caught

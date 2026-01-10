@@ -1,0 +1,2468 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-07-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Bridgetown
+  dates:
+  - '2023-07-27'
+  gender: male
+  match_type: ODI
+  match_type_number: 4622
+  outcome:
+    winner: India
+    by:
+      wickets: 5
+  overs: 50
+  player_of_match:
+  - Kuldeep Yadav
+  players:
+    West Indies:
+    - BA King
+    - KR Mayers
+    - A Athanaze
+    - SD Hope
+    - SO Hetmyer
+    - R Powell
+    - R Shepherd
+    - DC Drakes
+    - Y Cariah
+    - G Motie
+    - JNT Seales
+    India:
+    - Ishan Kishan
+    - Shubman Gill
+    - SA Yadav
+    - HH Pandya
+    - RA Jadeja
+    - SN Thakur
+    - RG Sharma
+    - V Kohli
+    - Kuldeep Yadav
+    - Umran Malik
+    - Mukesh Kumar
+  registry:
+    people:
+      A Athanaze: 58c2fac4
+      BA King: 7fca84b7
+      DC Drakes: 34b332d3
+      G Motie: 97bdec3d
+      GO Brathwaite: 1ace56d4
+      HH Pandya: dbe50b21
+      Ishan Kishan: 752f7486
+      JNT Seales: ded9ff1e
+      KR Mayers: 73c18486
+      Kuldeep Yadav: 8d2c70ad
+      M Erasmus: 15d3c895
+      MA Gough: 76752ac8
+      Mukesh Kumar: 2cffab74
+      N Duguid: '64495506'
+      R Powell: 650d5e49
+      R Shepherd: c5aef772
+      RA Jadeja: fe93fd9d
+      RB Richardson: 410e2f12
+      RG Sharma: 740742ef
+      SA Yadav: 271f83cd
+      SD Hope: 1fc6ef83
+      SN Thakur: 1abb78f8
+      SO Hetmyer: 48a1d7b7
+      Shubman Gill: b4b99816
+      Umran Malik: 81c08fa3
+      V Kohli: ba607b88
+      Y Cariah: 78bb68d4
+  teams:
+  - West Indies
+  - India
+  toss:
+    winner: India
+    decision: field
+  umpires:
+  - MA Gough
+  - N Duguid
+  venue: Kensington Oval, Bridgetown, Barbados
+innings:
+- 1st innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: KR Mayers
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 0.2:
+        non_striker: KR Mayers
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 0.3:
+        non_striker: KR Mayers
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 0.4:
+        non_striker: KR Mayers
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 0.5:
+        non_striker: KR Mayers
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 0.6:
+        non_striker: KR Mayers
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 1.1:
+        non_striker: BA King
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 1.2:
+        non_striker: BA King
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 1.3:
+        non_striker: BA King
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 1.4:
+        non_striker: BA King
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 1.5:
+        non_striker: BA King
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 1.6:
+        non_striker: BA King
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 2.1:
+        non_striker: KR Mayers
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 2.2:
+        non_striker: BA King
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KR Mayers
+    - 2.3:
+        non_striker: BA King
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+    - 2.4:
+        non_striker: BA King
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KR Mayers
+        wicket:
+          player_out: KR Mayers
+          fielders:
+          - RG Sharma
+          kind: caught
+    - 2.5:
+        non_striker: BA King
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+    - 2.6:
+        non_striker: BA King
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+    - 3.1:
+        non_striker: A Athanaze
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 3.2:
+        non_striker: A Athanaze
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 3.3:
+        non_striker: BA King
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+    - 3.4:
+        non_striker: BA King
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Athanaze
+    - 3.5:
+        non_striker: A Athanaze
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 3.6:
+        non_striker: A Athanaze
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 4.1:
+        non_striker: BA King
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+    - 4.2:
+        non_striker: BA King
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+    - 4.3:
+        non_striker: BA King
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+    - 4.4:
+        non_striker: BA King
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Athanaze
+    - 4.5:
+        non_striker: BA King
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Athanaze
+    - 4.6:
+        non_striker: BA King
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+    - 5.1:
+        non_striker: A Athanaze
+        bowler: Mukesh Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA King
+    - 5.2:
+        non_striker: A Athanaze
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 5.3:
+        non_striker: A Athanaze
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 5.4:
+        non_striker: A Athanaze
+        bowler: Mukesh Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: BA King
+    - 5.5:
+        non_striker: BA King
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+    - 5.6:
+        non_striker: BA King
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+    - 5.7:
+        non_striker: BA King
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Athanaze
+    - 6.1:
+        non_striker: A Athanaze
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 6.2:
+        non_striker: A Athanaze
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 6.3:
+        non_striker: BA King
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Athanaze
+    - 6.4:
+        non_striker: A Athanaze
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 6.5:
+        non_striker: BA King
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Athanaze
+    - 6.6:
+        non_striker: BA King
+        bowler: SN Thakur
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Athanaze
+    - 6.7:
+        non_striker: BA King
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Athanaze
+    - 7.1:
+        non_striker: A Athanaze
+        bowler: Mukesh Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BA King
+    - 7.2:
+        non_striker: A Athanaze
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BA King
+    - 7.3:
+        non_striker: A Athanaze
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 7.4:
+        non_striker: A Athanaze
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BA King
+    - 7.5:
+        non_striker: BA King
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+    - 7.6:
+        non_striker: BA King
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Athanaze
+        wicket:
+          player_out: A Athanaze
+          fielders:
+          - RA Jadeja
+          kind: caught
+    - 7.7:
+        non_striker: BA King
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 8.1:
+        non_striker: SD Hope
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 8.2:
+        non_striker: SD Hope
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+    - 8.3:
+        non_striker: SD Hope
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BA King
+        wicket:
+          player_out: BA King
+          kind: bowled
+    - 8.4:
+        non_striker: SD Hope
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 8.5:
+        non_striker: SD Hope
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 8.6:
+        non_striker: SD Hope
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 9.1:
+        non_striker: SO Hetmyer
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 9.2:
+        non_striker: SO Hetmyer
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 9.3:
+        non_striker: SO Hetmyer
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 9.4:
+        non_striker: SO Hetmyer
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Hope
+    - 9.5:
+        non_striker: SO Hetmyer
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 9.6:
+        non_striker: SD Hope
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 10.1:
+        non_striker: SO Hetmyer
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 10.2:
+        non_striker: SO Hetmyer
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 10.3:
+        non_striker: SD Hope
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 10.4:
+        non_striker: SD Hope
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 10.5:
+        non_striker: SO Hetmyer
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 10.6:
+        non_striker: SO Hetmyer
+        bowler: SN Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 11.1:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 11.2:
+        non_striker: SO Hetmyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 11.3:
+        non_striker: SO Hetmyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 11.4:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Hetmyer
+    - 11.5:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: SO Hetmyer
+    - 11.6:
+        non_striker: SO Hetmyer
+        bowler: RA Jadeja
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: SD Hope
+    - 11.7:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 11.8:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 11.9:
+        non_striker: SO Hetmyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 12.1:
+        non_striker: SO Hetmyer
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 12.2:
+        non_striker: SD Hope
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 12.3:
+        non_striker: SO Hetmyer
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 12.4:
+        non_striker: SO Hetmyer
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 12.5:
+        non_striker: SO Hetmyer
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 12.6:
+        non_striker: SO Hetmyer
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 13.1:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: SO Hetmyer
+    - 13.2:
+        non_striker: SO Hetmyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SD Hope
+    - 13.3:
+        non_striker: SO Hetmyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 13.4:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 13.5:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 13.6:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 13.7:
+        non_striker: SO Hetmyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 14.1:
+        non_striker: SO Hetmyer
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 14.2:
+        non_striker: SD Hope
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 14.3:
+        non_striker: SO Hetmyer
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 14.4:
+        non_striker: SO Hetmyer
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 14.5:
+        non_striker: SO Hetmyer
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 14.6:
+        non_striker: SD Hope
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 15.1:
+        non_striker: SO Hetmyer
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 15.2:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 15.3:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 15.4:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          kind: bowled
+    - 15.5:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 15.6:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Powell
+    - 16.1:
+        non_striker: R Powell
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 16.2:
+        non_striker: R Powell
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 16.3:
+        non_striker: R Powell
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 16.4:
+        non_striker: R Powell
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 16.5:
+        non_striker: R Powell
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SD Hope
+    - 16.6:
+        non_striker: R Powell
+        bowler: Umran Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 17.1:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+    - 17.2:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Powell
+        wicket:
+          player_out: R Powell
+          fielders:
+          - Shubman Gill
+          kind: caught
+    - 17.3:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+    - 17.4:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Shepherd
+        wicket:
+          player_out: R Shepherd
+          fielders:
+          - V Kohli
+          kind: caught
+    - 17.5:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 17.6:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DC Drakes
+    - 18.1:
+        non_striker: SD Hope
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+    - 18.2:
+        non_striker: SD Hope
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DC Drakes
+    - 18.3:
+        non_striker: SD Hope
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DC Drakes
+        wicket:
+          player_out: DC Drakes
+          kind: lbw
+    - 18.4:
+        non_striker: SD Hope
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Cariah
+    - 18.5:
+        non_striker: Y Cariah
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 18.6:
+        non_striker: Y Cariah
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SD Hope
+    - 19.1:
+        non_striker: Y Cariah
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 19.2:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Cariah
+    - 19.3:
+        non_striker: Y Cariah
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 19.4:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Cariah
+    - 19.5:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Cariah
+    - 19.6:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Y Cariah
+    - 20.1:
+        non_striker: SD Hope
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Cariah
+    - 20.2:
+        non_striker: SD Hope
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Cariah
+    - 20.3:
+        non_striker: SD Hope
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Cariah
+    - 20.4:
+        non_striker: SD Hope
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Y Cariah
+        wicket:
+          player_out: Y Cariah
+          kind: lbw
+    - 20.5:
+        non_striker: SD Hope
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Motie
+    - 20.6:
+        non_striker: SD Hope
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Motie
+    - 21.1:
+        non_striker: G Motie
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 21.2:
+        non_striker: G Motie
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 21.3:
+        non_striker: G Motie
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SD Hope
+    - 21.4:
+        non_striker: G Motie
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 21.5:
+        non_striker: G Motie
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SD Hope
+    - 21.6:
+        non_striker: SD Hope
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Motie
+    - 22.1:
+        non_striker: G Motie
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 22.2:
+        non_striker: G Motie
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+    - 22.3:
+        non_striker: G Motie
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SD Hope
+        wicket:
+          player_out: SD Hope
+          kind: lbw
+    - 22.4:
+        non_striker: G Motie
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JNT Seales
+    - 22.5:
+        non_striker: G Motie
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JNT Seales
+    - 22.6:
+        non_striker: G Motie
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JNT Seales
+        wicket:
+          player_out: JNT Seales
+          fielders:
+          - HH Pandya
+          kind: caught
+- 2nd innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: Shubman Gill
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 0.2:
+        non_striker: Shubman Gill
+        bowler: DC Drakes
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Ishan Kishan
+    - 0.3:
+        non_striker: Shubman Gill
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 0.4:
+        non_striker: Shubman Gill
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 0.5:
+        non_striker: Shubman Gill
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 0.6:
+        non_striker: Shubman Gill
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 1.1:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 1.2:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 1.3:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 1.4:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 1.5:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 1.6:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 2.1:
+        non_striker: Ishan Kishan
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 2.2:
+        non_striker: Ishan Kishan
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 2.3:
+        non_striker: Ishan Kishan
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 2.4:
+        non_striker: Ishan Kishan
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 2.5:
+        non_striker: Ishan Kishan
+        bowler: DC Drakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubman Gill
+    - 2.6:
+        non_striker: Ishan Kishan
+        bowler: DC Drakes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubman Gill
+    - 2.7:
+        non_striker: Ishan Kishan
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 2.8:
+        non_striker: Ishan Kishan
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 3.1:
+        non_striker: Shubman Gill
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 3.2:
+        non_striker: Shubman Gill
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 3.3:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 3.4:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 3.5:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 3.6:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+        wicket:
+          player_out: Shubman Gill
+          fielders:
+          - BA King
+          kind: caught
+    - 4.1:
+        non_striker: SA Yadav
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 4.2:
+        non_striker: SA Yadav
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 4.3:
+        non_striker: SA Yadav
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 4.4:
+        non_striker: SA Yadav
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 4.5:
+        non_striker: Ishan Kishan
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 4.6:
+        non_striker: Ishan Kishan
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 5.1:
+        non_striker: SA Yadav
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 5.2:
+        non_striker: SA Yadav
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 5.3:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 5.4:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 5.5:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 5.6:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 6.1:
+        non_striker: SA Yadav
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 6.2:
+        non_striker: SA Yadav
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 6.3:
+        non_striker: SA Yadav
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 6.4:
+        non_striker: SA Yadav
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 6.5:
+        non_striker: SA Yadav
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 6.6:
+        non_striker: SA Yadav
+        bowler: DC Drakes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 7.1:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 7.2:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 7.3:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 7.4:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 7.5:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 7.6:
+        non_striker: Ishan Kishan
+        bowler: JNT Seales
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 8.1:
+        non_striker: SA Yadav
+        bowler: KR Mayers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ishan Kishan
+    - 8.2:
+        non_striker: SA Yadav
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 8.3:
+        non_striker: SA Yadav
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 8.4:
+        non_striker: Ishan Kishan
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 8.5:
+        non_striker: Ishan Kishan
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 8.6:
+        non_striker: Ishan Kishan
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 8.7:
+        non_striker: Ishan Kishan
+        bowler: KR Mayers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 9.1:
+        non_striker: SA Yadav
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 9.2:
+        non_striker: Ishan Kishan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 9.3:
+        non_striker: Ishan Kishan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 9.4:
+        non_striker: Ishan Kishan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 9.5:
+        non_striker: Ishan Kishan
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 9.6:
+        non_striker: SA Yadav
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 10.1:
+        non_striker: Ishan Kishan
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 10.2:
+        non_striker: Ishan Kishan
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 10.3:
+        non_striker: Ishan Kishan
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 10.4:
+        non_striker: Ishan Kishan
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 10.5:
+        non_striker: Ishan Kishan
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+        wicket:
+          player_out: SA Yadav
+          kind: lbw
+    - 10.6:
+        non_striker: Ishan Kishan
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 11.1:
+        non_striker: HH Pandya
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 11.2:
+        non_striker: HH Pandya
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 11.3:
+        non_striker: HH Pandya
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 11.4:
+        non_striker: HH Pandya
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 11.5:
+        non_striker: Ishan Kishan
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Pandya
+    - 11.6:
+        non_striker: Ishan Kishan
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 12.1:
+        non_striker: Ishan Kishan
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 12.2:
+        non_striker: HH Pandya
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 12.3:
+        non_striker: Ishan Kishan
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 12.4:
+        non_striker: Ishan Kishan
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 12.5:
+        non_striker: HH Pandya
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 12.6:
+        non_striker: Ishan Kishan
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 13.1:
+        non_striker: HH Pandya
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+        wicket:
+          player_out: HH Pandya
+          fielders:
+          - Y Cariah
+          kind: run out
+    - 13.2:
+        non_striker: RA Jadeja
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 13.3:
+        non_striker: RA Jadeja
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 13.4:
+        non_striker: RA Jadeja
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 13.5:
+        non_striker: Ishan Kishan
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 13.6:
+        non_striker: RA Jadeja
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 14.1:
+        non_striker: Ishan Kishan
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 14.2:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 14.3:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 14.4:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 14.5:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 14.6:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 15.1:
+        non_striker: RA Jadeja
+        bowler: A Athanaze
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Ishan Kishan
+    - 15.2:
+        non_striker: Ishan Kishan
+        bowler: A Athanaze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 15.3:
+        non_striker: RA Jadeja
+        bowler: A Athanaze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 15.4:
+        non_striker: RA Jadeja
+        bowler: A Athanaze
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 15.5:
+        non_striker: RA Jadeja
+        bowler: A Athanaze
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 15.6:
+        non_striker: RA Jadeja
+        bowler: A Athanaze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 15.7:
+        non_striker: Ishan Kishan
+        bowler: A Athanaze
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 16.1:
+        non_striker: Ishan Kishan
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 16.2:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+        wicket:
+          player_out: Ishan Kishan
+          fielders:
+          - R Powell
+          kind: caught
+    - 16.3:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SN Thakur
+    - 16.4:
+        non_striker: SN Thakur
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 16.5:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Thakur
+    - 16.6:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Thakur
+    - 17.1:
+        non_striker: SN Thakur
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 17.2:
+        non_striker: RA Jadeja
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SN Thakur
+        wicket:
+          player_out: SN Thakur
+          fielders:
+          - A Athanaze
+          kind: caught
+    - 17.3:
+        non_striker: RA Jadeja
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 17.4:
+        non_striker: RA Jadeja
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 17.5:
+        non_striker: RG Sharma
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 17.6:
+        non_striker: RG Sharma
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 18.1:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 18.2:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 18.3:
+        non_striker: RG Sharma
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 18.4:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 18.5:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 18.6:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 19.1:
+        non_striker: RG Sharma
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 19.2:
+        non_striker: RA Jadeja
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 19.3:
+        non_striker: RG Sharma
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 19.4:
+        non_striker: RG Sharma
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 19.5:
+        non_striker: RA Jadeja
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 19.6:
+        non_striker: RA Jadeja
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma
+    - 20.1:
+        non_striker: RG Sharma
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 20.2:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 20.3:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 20.4:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RG Sharma
+    - 20.5:
+        non_striker: RG Sharma
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 20.6:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 21.1:
+        non_striker: RG Sharma
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 21.2:
+        non_striker: RG Sharma
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 21.3:
+        non_striker: RG Sharma
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 21.4:
+        non_striker: RG Sharma
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Jadeja
+    - 21.5:
+        non_striker: RG Sharma
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 21.6:
+        non_striker: RG Sharma
+        bowler: Y Cariah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 22.1:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 22.2:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 22.3:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 22.4:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RG Sharma
+    - 22.5:
+        non_striker: RA Jadeja
+        bowler: G Motie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RG Sharma

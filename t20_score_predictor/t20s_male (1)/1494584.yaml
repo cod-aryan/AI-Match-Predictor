@@ -1,0 +1,2100 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-28'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Entebbe
+  dates:
+  - '2025-07-27'
+  gender: male
+  match_type: T20
+  match_type_number: 3380
+  outcome:
+    winner: Kenya
+    by:
+      wickets: 6
+  overs: 20
+  players:
+    Nigeria:
+    - S Chilemanya
+    - Sulaimon Runsewe
+    - I Danladi
+    - AE Isesele
+    - VD Adewoye
+    - DNA Ankrah
+    - Mohameed Taiwo
+    - SA Okpe
+    - IO Okpe
+    - AA Jimoh
+    - P Aho
+    Kenya:
+    - P Sharma
+    - JS Kundi
+    - S Gill
+    - S Singh
+    - RR Patel
+    - Tanzeel Sheikh
+    - SO Ngoche
+    - F Mutua
+    - GM Muthui
+    - Vraj Patel
+    - Vishil Patel
+  registry:
+    people:
+      AA Jimoh: b506636b
+      AE Isesele: 5249f9c4
+      Charles Kariuki: 8de34db0
+      DNA Ankrah: c6614fc0
+      F Mutua: 21b67523
+      GM Muthui: d7e51f87
+      I Danladi: c156cc1f
+      IO Okpe: 1c5c3dce
+      J Bamulese: e8c8f086
+      JS Kundi: '092ccf20'
+      Mohameed Taiwo: a9d788e3
+      O Chirombe: 6345307f
+      P Aho: 2e392afa
+      P Sharma: d047f983
+      RR Patel: 7fa6bd8e
+      S Chilemanya: e1fe58ad
+      S Gill: 3e6e9a5f
+      S Kintu: ff387f93
+      S Singh: 612a395c
+      SA Okpe: 681f522f
+      SO Ngoche: 49118dc7
+      Sulaimon Runsewe: c25d26dc
+      Tanzeel Sheikh: 5493ad5c
+      VD Adewoye: 45a34a2d
+      Vishil Patel: 3df8f9d5
+      Vraj Patel: 2af28253
+  teams:
+  - Nigeria
+  - Kenya
+  toss:
+    winner: Nigeria
+    decision: bat
+  umpires:
+  - Charles Kariuki
+  - S Kintu
+  venue: Entebbe Cricket Oval
+innings:
+- 1st innings:
+    team: Nigeria
+    deliveries:
+    - 0.1:
+        bowler: S Gill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: Sulaimon Runsewe
+        batsman: S Chilemanya
+    - 0.2:
+        non_striker: S Chilemanya
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 0.3:
+        non_striker: S Chilemanya
+        bowler: S Gill
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Sulaimon Runsewe
+    - 0.4:
+        non_striker: S Chilemanya
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sulaimon Runsewe
+    - 0.5:
+        non_striker: Sulaimon Runsewe
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Chilemanya
+        wicket:
+          player_out: S Chilemanya
+          kind: lbw
+    - 0.6:
+        non_striker: Sulaimon Runsewe
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 1.1:
+        non_striker: I Danladi
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+    - 1.2:
+        non_striker: I Danladi
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sulaimon Runsewe
+        wicket:
+          player_out: Sulaimon Runsewe
+          fielders:
+          - RR Patel
+          kind: run out
+    - 1.3:
+        non_striker: I Danladi
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Isesele
+    - 1.4:
+        non_striker: I Danladi
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Isesele
+    - 1.5:
+        non_striker: AE Isesele
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 1.6:
+        non_striker: AE Isesele
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Danladi
+    - 2.1:
+        non_striker: I Danladi
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Isesele
+        wicket:
+          player_out: AE Isesele
+          kind: bowled
+    - 2.2:
+        non_striker: I Danladi
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VD Adewoye
+    - 2.3:
+        non_striker: I Danladi
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VD Adewoye
+    - 2.4:
+        non_striker: I Danladi
+        bowler: S Gill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: VD Adewoye
+    - 2.5:
+        non_striker: VD Adewoye
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Danladi
+    - 2.6:
+        non_striker: VD Adewoye
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 3.1:
+        non_striker: I Danladi
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VD Adewoye
+    - 3.2:
+        non_striker: I Danladi
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VD Adewoye
+    - 3.3:
+        non_striker: VD Adewoye
+        bowler: GM Muthui
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: I Danladi
+    - 3.4:
+        non_striker: VD Adewoye
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Danladi
+    - 3.5:
+        non_striker: VD Adewoye
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Danladi
+    - 3.6:
+        non_striker: I Danladi
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VD Adewoye
+        wicket:
+          player_out: VD Adewoye
+          fielders:
+          - S Singh
+          kind: caught
+    - 4.1:
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DNA Ankrah
+        batsman: I Danladi
+        wicket:
+          player_out: I Danladi
+          fielders:
+          - F Mutua
+          kind: run out
+    - 4.2:
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DNA Ankrah
+        batsman: Mohameed Taiwo
+    - 4.3:
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DNA Ankrah
+        batsman: Mohameed Taiwo
+    - 4.4:
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DNA Ankrah
+        batsman: Mohameed Taiwo
+    - 4.5:
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DNA Ankrah
+        batsman: Mohameed Taiwo
+    - 4.6:
+        non_striker: DNA Ankrah
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohameed Taiwo
+    - 5.1:
+        non_striker: DNA Ankrah
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohameed Taiwo
+    - 5.2:
+        non_striker: DNA Ankrah
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohameed Taiwo
+    - 5.3:
+        non_striker: DNA Ankrah
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohameed Taiwo
+    - 5.4:
+        non_striker: Mohameed Taiwo
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DNA Ankrah
+        wicket:
+          player_out: DNA Ankrah
+          kind: bowled
+    - 5.5:
+        non_striker: Mohameed Taiwo
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 5.6:
+        non_striker: Mohameed Taiwo
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 6.1:
+        non_striker: SA Okpe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohameed Taiwo
+    - 6.2:
+        non_striker: Mohameed Taiwo
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 6.3:
+        non_striker: Mohameed Taiwo
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 6.4:
+        non_striker: Mohameed Taiwo
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 6.5:
+        non_striker: Mohameed Taiwo
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 6.6:
+        non_striker: Mohameed Taiwo
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 7.1:
+        non_striker: SA Okpe
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohameed Taiwo
+    - 7.2:
+        non_striker: SA Okpe
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohameed Taiwo
+    - 7.3:
+        non_striker: SA Okpe
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohameed Taiwo
+    - 7.4:
+        non_striker: SA Okpe
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohameed Taiwo
+    - 7.5:
+        non_striker: SA Okpe
+        bowler: GM Muthui
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohameed Taiwo
+    - 7.6:
+        non_striker: Mohameed Taiwo
+        bowler: GM Muthui
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Okpe
+    - 8.1:
+        non_striker: Mohameed Taiwo
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 8.2:
+        non_striker: SA Okpe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohameed Taiwo
+    - 8.3:
+        non_striker: SA Okpe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohameed Taiwo
+    - 8.4:
+        non_striker: SA Okpe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohameed Taiwo
+    - 8.5:
+        non_striker: SA Okpe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohameed Taiwo
+    - 8.6:
+        non_striker: SA Okpe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohameed Taiwo
+    - 9.1:
+        non_striker: Mohameed Taiwo
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 9.2:
+        non_striker: Mohameed Taiwo
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 9.3:
+        non_striker: Mohameed Taiwo
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 9.4:
+        non_striker: Mohameed Taiwo
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 9.5:
+        non_striker: Mohameed Taiwo
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 9.6:
+        non_striker: SA Okpe
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohameed Taiwo
+    - 10.1:
+        non_striker: SA Okpe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohameed Taiwo
+    - 10.2:
+        non_striker: SA Okpe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohameed Taiwo
+    - 10.3:
+        non_striker: SA Okpe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohameed Taiwo
+    - 10.4:
+        non_striker: Mohameed Taiwo
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 10.5:
+        non_striker: Mohameed Taiwo
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 10.6:
+        non_striker: SA Okpe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohameed Taiwo
+    - 11.1:
+        non_striker: Mohameed Taiwo
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Okpe
+    - 11.2:
+        non_striker: Mohameed Taiwo
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Okpe
+    - 11.3:
+        non_striker: Mohameed Taiwo
+        bowler: Vishil Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SA Okpe
+    - 11.4:
+        non_striker: SA Okpe
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohameed Taiwo
+    - 11.5:
+        non_striker: SA Okpe
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohameed Taiwo
+    - 11.6:
+        non_striker: SA Okpe
+        bowler: Vishil Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Mohameed Taiwo
+    - 12.1:
+        non_striker: Mohameed Taiwo
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 12.2:
+        non_striker: Mohameed Taiwo
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 12.3:
+        non_striker: SA Okpe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohameed Taiwo
+    - 12.4:
+        non_striker: SA Okpe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohameed Taiwo
+    - 12.5:
+        non_striker: SA Okpe
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohameed Taiwo
+    - 12.6:
+        non_striker: Mohameed Taiwo
+        bowler: Vraj Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 13.1:
+        non_striker: SA Okpe
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohameed Taiwo
+    - 13.2:
+        non_striker: SA Okpe
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Mohameed Taiwo
+    - 13.3:
+        non_striker: Mohameed Taiwo
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 13.4:
+        non_striker: SA Okpe
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohameed Taiwo
+        wicket:
+          player_out: Mohameed Taiwo
+          fielders:
+          - GM Muthui
+          kind: caught
+    - 13.5:
+        non_striker: SA Okpe
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 13.6:
+        non_striker: IO Okpe
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 14.1:
+        non_striker: IO Okpe
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Okpe
+    - 14.2:
+        non_striker: IO Okpe
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 14.3:
+        non_striker: IO Okpe
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 14.4:
+        non_striker: SA Okpe
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IO Okpe
+    - 14.5:
+        non_striker: SA Okpe
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 14.6:
+        non_striker: SA Okpe
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 15.1:
+        non_striker: SA Okpe
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 15.2:
+        non_striker: IO Okpe
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Okpe
+    - 15.3:
+        non_striker: IO Okpe
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Okpe
+    - 15.4:
+        non_striker: IO Okpe
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 15.5:
+        non_striker: SA Okpe
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 15.6:
+        non_striker: SA Okpe
+        bowler: RR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 16.1:
+        non_striker: IO Okpe
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Okpe
+    - 16.2:
+        non_striker: SA Okpe
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IO Okpe
+    - 16.3:
+        non_striker: SA Okpe
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 16.4:
+        non_striker: SA Okpe
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 16.5:
+        non_striker: IO Okpe
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Okpe
+    - 16.6:
+        non_striker: IO Okpe
+        bowler: SO Ngoche
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 17.1:
+        non_striker: SA Okpe
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IO Okpe
+    - 17.2:
+        non_striker: IO Okpe
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Okpe
+    - 17.3:
+        non_striker: IO Okpe
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Okpe
+    - 17.4:
+        non_striker: IO Okpe
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+    - 17.5:
+        non_striker: IO Okpe
+        bowler: F Mutua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Okpe
+    - 17.6:
+        non_striker: IO Okpe
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Okpe
+        wicket:
+          player_out: SA Okpe
+          fielders:
+          - RR Patel
+          kind: caught
+    - 17.7:
+        non_striker: IO Okpe
+        bowler: F Mutua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AA Jimoh
+    - 17.8:
+        non_striker: IO Okpe
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Jimoh
+    - 18.1:
+        non_striker: IO Okpe
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Jimoh
+    - 18.2:
+        non_striker: IO Okpe
+        bowler: S Gill
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AA Jimoh
+    - 18.3:
+        non_striker: IO Okpe
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Jimoh
+    - 18.4:
+        non_striker: IO Okpe
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AA Jimoh
+    - 18.5:
+        non_striker: IO Okpe
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AA Jimoh
+    - 18.6:
+        non_striker: IO Okpe
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Jimoh
+    - 18.7:
+        non_striker: IO Okpe
+        bowler: S Gill
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Jimoh
+    - 19.1:
+        non_striker: IO Okpe
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Jimoh
+    - 19.2:
+        non_striker: AA Jimoh
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IO Okpe
+    - 19.3:
+        non_striker: AA Jimoh
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+    - 19.4:
+        non_striker: AA Jimoh
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IO Okpe
+        wicket:
+          player_out: IO Okpe
+          kind: bowled
+    - 19.5:
+        non_striker: AA Jimoh
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Aho
+    - 19.6:
+        non_striker: AA Jimoh
+        bowler: F Mutua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Aho
+- 2nd innings:
+    team: Kenya
+    deliveries:
+    - 0.1:
+        bowler: P Aho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: JS Kundi
+        batsman: P Sharma
+    - 0.2:
+        bowler: P Aho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: JS Kundi
+        batsman: P Sharma
+    - 0.3:
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: JS Kundi
+        batsman: P Sharma
+    - 0.4:
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: JS Kundi
+        batsman: P Sharma
+    - 0.5:
+        non_striker: P Sharma
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Kundi
+    - 0.6:
+        non_striker: P Sharma
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JS Kundi
+    - 0.7:
+        non_striker: P Sharma
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Kundi
+    - 0.8:
+        non_striker: P Sharma
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JS Kundi
+    - 1.1:
+        non_striker: P Sharma
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JS Kundi
+        wicket:
+          player_out: JS Kundi
+          fielders:
+          - DNA Ankrah
+          kind: caught
+    - 1.2:
+        non_striker: P Sharma
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 1.3:
+        non_striker: P Sharma
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 1.4:
+        non_striker: S Gill
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Sharma
+    - 1.5:
+        non_striker: P Sharma
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 1.6:
+        non_striker: P Sharma
+        bowler: Mohameed Taiwo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Gill
+    - 2.1:
+        non_striker: S Gill
+        bowler: AA Jimoh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Sharma
+        wicket:
+          player_out: P Sharma
+          kind: bowled
+    - 2.2:
+        non_striker: S Gill
+        bowler: AA Jimoh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 2.3:
+        non_striker: S Gill
+        bowler: AA Jimoh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 2.4:
+        non_striker: S Singh
+        bowler: AA Jimoh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 2.5:
+        non_striker: S Singh
+        bowler: AA Jimoh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 2.6:
+        non_striker: S Gill
+        bowler: AA Jimoh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 3.1:
+        non_striker: S Singh
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 3.2:
+        non_striker: S Gill
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 3.3:
+        non_striker: S Singh
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 3.4:
+        non_striker: S Singh
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 3.5:
+        non_striker: S Singh
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 3.6:
+        non_striker: S Singh
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 4.1:
+        non_striker: S Gill
+        bowler: AA Jimoh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 4.2:
+        non_striker: S Gill
+        bowler: AA Jimoh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 4.3:
+        non_striker: S Gill
+        bowler: AA Jimoh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 4.4:
+        non_striker: S Gill
+        bowler: AA Jimoh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 4.5:
+        non_striker: S Gill
+        bowler: AA Jimoh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 4.6:
+        non_striker: S Singh
+        bowler: AA Jimoh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 5.1:
+        non_striker: S Gill
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Singh
+    - 5.2:
+        non_striker: S Gill
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 5.3:
+        non_striker: S Gill
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 5.4:
+        non_striker: S Gill
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 5.5:
+        non_striker: S Gill
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 5.6:
+        non_striker: S Gill
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 6.1:
+        non_striker: S Singh
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 6.2:
+        non_striker: S Singh
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 6.3:
+        non_striker: S Gill
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 6.4:
+        non_striker: S Gill
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 6.5:
+        non_striker: S Singh
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Gill
+    - 6.6:
+        non_striker: S Singh
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 7.1:
+        non_striker: S Gill
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 7.2:
+        non_striker: S Gill
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 7.3:
+        non_striker: S Gill
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 7.4:
+        non_striker: S Singh
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 7.5:
+        non_striker: S Singh
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 7.6:
+        non_striker: S Gill
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 8.1:
+        non_striker: S Gill
+        bowler: I Danladi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: S Singh
+    - 8.2:
+        non_striker: S Gill
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 8.3:
+        non_striker: S Singh
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 8.4:
+        non_striker: S Gill
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 8.5:
+        non_striker: S Singh
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 8.6:
+        non_striker: S Singh
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 9.1:
+        non_striker: S Singh
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Gill
+    - 9.2:
+        non_striker: S Singh
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 9.3:
+        non_striker: S Gill
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 9.4:
+        non_striker: S Gill
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 9.5:
+        non_striker: S Singh
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 9.6:
+        non_striker: S Gill
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 10.1:
+        non_striker: S Gill
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Singh
+    - 10.2:
+        non_striker: S Gill
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 10.3:
+        non_striker: S Singh
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 10.4:
+        non_striker: S Gill
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 10.5:
+        non_striker: S Singh
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 10.6:
+        non_striker: S Singh
+        bowler: I Danladi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Gill
+    - 11.1:
+        non_striker: S Gill
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Singh
+    - 11.2:
+        non_striker: S Gill
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Singh
+    - 11.3:
+        non_striker: S Gill
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Singh
+    - 11.4:
+        non_striker: S Singh
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Gill
+    - 11.5:
+        non_striker: S Singh
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 11.6:
+        non_striker: S Gill
+        bowler: SA Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 12.1:
+        non_striker: S Singh
+        bowler: AE Isesele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 12.2:
+        non_striker: S Gill
+        bowler: AE Isesele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Singh
+    - 12.3:
+        non_striker: S Gill
+        bowler: AE Isesele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Singh
+    - 12.4:
+        non_striker: S Gill
+        bowler: AE Isesele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+    - 12.5:
+        non_striker: S Gill
+        bowler: AE Isesele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Singh
+        wicket:
+          player_out: S Singh
+          fielders:
+          - S Chilemanya
+          kind: caught
+    - 12.6:
+        non_striker: S Gill
+        bowler: AE Isesele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 13.1:
+        non_striker: RR Patel
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 13.2:
+        non_striker: RR Patel
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 13.3:
+        non_striker: S Gill
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 13.4:
+        non_striker: S Gill
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 13.5:
+        non_striker: RR Patel
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 13.6:
+        non_striker: S Gill
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Patel
+    - 14.1:
+        non_striker: RR Patel
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 14.2:
+        non_striker: RR Patel
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 14.3:
+        non_striker: S Gill
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 14.4:
+        non_striker: RR Patel
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 14.5:
+        non_striker: RR Patel
+        bowler: P Aho
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Gill
+    - 14.6:
+        non_striker: RR Patel
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 14.7:
+        non_striker: S Gill
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 15.1:
+        non_striker: RR Patel
+        bowler: AA Jimoh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gill
+    - 15.2:
+        non_striker: RR Patel
+        bowler: AA Jimoh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 15.3:
+        non_striker: S Gill
+        bowler: AA Jimoh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RR Patel
+    - 15.4:
+        non_striker: RR Patel
+        bowler: AA Jimoh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 15.5:
+        non_striker: S Gill
+        bowler: AA Jimoh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 15.6:
+        non_striker: S Gill
+        bowler: AA Jimoh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 16.1:
+        non_striker: S Gill
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 16.2:
+        non_striker: S Gill
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 16.3:
+        non_striker: S Gill
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 16.4:
+        non_striker: RR Patel
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gill
+    - 16.5:
+        non_striker: S Gill
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 16.6:
+        non_striker: RR Patel
+        bowler: IO Okpe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Gill
+    - 17.1:
+        non_striker: S Gill
+        bowler: AE Isesele
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Patel
+    - 17.2:
+        non_striker: S Gill
+        bowler: AE Isesele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 17.3:
+        non_striker: S Gill
+        bowler: AE Isesele
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RR Patel
+    - 17.4:
+        non_striker: S Gill
+        bowler: AE Isesele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 17.5:
+        non_striker: S Gill
+        bowler: AE Isesele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+        wicket:
+          player_out: S Gill
+          fielders:
+          - AE Isesele
+          - P Aho
+          kind: run out
+    - 17.6:
+        non_striker: Tanzeel Sheikh
+        bowler: AE Isesele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 18.1:
+        non_striker: Tanzeel Sheikh
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel
+    - 18.2:
+        non_striker: Tanzeel Sheikh
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 18.3:
+        non_striker: Tanzeel Sheikh
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Patel
+    - 18.4:
+        non_striker: Tanzeel Sheikh
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Patel
+    - 18.5:
+        non_striker: RR Patel
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tanzeel Sheikh
+    - 18.6:
+        non_striker: RR Patel
+        bowler: P Aho
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tanzeel Sheikh
+    - 19.1:
+        non_striker: Tanzeel Sheikh
+        bowler: AA Jimoh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Patel

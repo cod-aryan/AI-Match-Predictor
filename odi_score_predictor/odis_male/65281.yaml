@@ -1,0 +1,4437 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Centurion
+  dates:
+  - '2003-03-14'
+  gender: male
+  match_type: ODI
+  match_type_number: 1988
+  outcome:
+    winner: India
+    by:
+      wickets: 7
+  overs: 50
+  player_of_match:
+  - Z Khan
+  players:
+    New Zealand:
+    - CD McMillan
+    - SP Fleming
+    - NJ Astle
+    - SB Styris
+    - BB McCullum
+    - CL Cairns
+    - CZ Harris
+    - JDP Oram
+    - DL Vettori
+    - DR Tuffey
+    - SE Bond
+    India:
+    - V Sehwag
+    - SR Tendulkar
+    - SC Ganguly
+    - M Kaif
+    - R Dravid
+    - Yuvraj Singh
+    - D Mongia
+    - J Srinath
+    - A Nehra
+    - Z Khan
+    - Harbhajan Singh
+  registry:
+    people:
+      A Nehra: 96fd40ae
+      BB McCullum: b8a55852
+      CD McMillan: f5390243
+      CL Cairns: 0b130202
+      CZ Harris: 582e9baa
+      D Mongia: 99663fa5
+      DB Hair: 492e1a8e
+      DJ Harper: 0ec08b27
+      DL Vettori: d7c6af50
+      DR Tuffey: '43936951'
+      Harbhajan Singh: 8b5b6769
+      J Srinath: bad31fac
+      JDP Oram: 3eac9d95
+      M Kaif: d84378a4
+      NJ Astle: 99639abf
+      P Willey: 1b647f99
+      R Dravid: '0184dc35'
+      RS Madugalle: 766b5798
+      SB Styris: 57efa3be
+      SC Ganguly: 725529bc
+      SE Bond: 4f629497
+      SP Fleming: eea6b7f1
+      SR Tendulkar: d2c2b2d5
+      V Sehwag: 8ba8195d
+      Yuvraj Singh: 1c914163
+      Z Khan: 91a4a398
+  teams:
+  - New Zealand
+  - India
+  toss:
+    winner: India
+    decision: field
+  umpires:
+  - DJ Harper
+  - P Willey
+  venue: SuperSport Park, Centurion
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Fleming
+        batsman: CD McMillan
+    - 0.2:
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Fleming
+        batsman: CD McMillan
+        wicket:
+          player_out: CD McMillan
+          fielders:
+          - Harbhajan Singh
+          kind: caught
+    - 0.3:
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Fleming
+        batsman: NJ Astle
+        wicket:
+          player_out: NJ Astle
+          kind: lbw
+    - 0.4:
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: SP Fleming
+        batsman: SB Styris
+    - 0.5:
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: SP Fleming
+        batsman: SB Styris
+    - 0.6:
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SP Fleming
+        batsman: SB Styris
+    - 1.1:
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Fleming
+        batsman: SB Styris
+    - 1.2:
+        bowler: J Srinath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: SP Fleming
+        batsman: SB Styris
+    - 1.3:
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Fleming
+        batsman: SB Styris
+    - 1.4:
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Fleming
+        batsman: SB Styris
+    - 1.5:
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Fleming
+        batsman: SB Styris
+    - 1.6:
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Fleming
+        batsman: SB Styris
+    - 1.7:
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SP Fleming
+        batsman: SB Styris
+    - 2.1:
+        non_striker: SB Styris
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 2.2:
+        non_striker: SB Styris
+        bowler: Z Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SP Fleming
+    - 2.3:
+        non_striker: SB Styris
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 2.4:
+        non_striker: SP Fleming
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SB Styris
+    - 2.5:
+        non_striker: SB Styris
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 2.6:
+        non_striker: SB Styris
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SP Fleming
+    - 2.7:
+        non_striker: SB Styris
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Fleming
+    - 3.1:
+        non_striker: SP Fleming
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Styris
+    - 3.2:
+        non_striker: SB Styris
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 3.3:
+        non_striker: SB Styris
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 3.4:
+        non_striker: SB Styris
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 3.5:
+        non_striker: SB Styris
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 3.6:
+        non_striker: SB Styris
+        bowler: J Srinath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SP Fleming
+    - 3.7:
+        non_striker: SB Styris
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 4.1:
+        non_striker: SB Styris
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Fleming
+    - 4.2:
+        non_striker: SB Styris
+        bowler: Z Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SP Fleming
+    - 4.3:
+        non_striker: SB Styris
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 4.4:
+        non_striker: SB Styris
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Fleming
+    - 4.5:
+        non_striker: SB Styris
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 4.6:
+        non_striker: SP Fleming
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Styris
+    - 4.7:
+        non_striker: SP Fleming
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Styris
+    - 5.1:
+        non_striker: SB Styris
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 5.2:
+        non_striker: SB Styris
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 5.3:
+        non_striker: SP Fleming
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Styris
+    - 5.4:
+        non_striker: SP Fleming
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Styris
+    - 5.5:
+        non_striker: SB Styris
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 5.6:
+        non_striker: SP Fleming
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Styris
+    - 6.1:
+        non_striker: SB Styris
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 6.2:
+        non_striker: SB Styris
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 6.3:
+        non_striker: SB Styris
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 6.4:
+        non_striker: SB Styris
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 6.5:
+        non_striker: SB Styris
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 6.6:
+        non_striker: SB Styris
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 7.1:
+        non_striker: SP Fleming
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Styris
+    - 7.2:
+        non_striker: SP Fleming
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Styris
+    - 7.3:
+        non_striker: SP Fleming
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Styris
+    - 7.4:
+        non_striker: SP Fleming
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SB Styris
+    - 7.5:
+        non_striker: SB Styris
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 7.6:
+        non_striker: SB Styris
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 8.1:
+        non_striker: SP Fleming
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Styris
+        wicket:
+          player_out: SB Styris
+          fielders:
+          - R Dravid
+          kind: caught
+    - 8.2:
+        non_striker: SP Fleming
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 8.3:
+        non_striker: SP Fleming
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 8.4:
+        non_striker: SP Fleming
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 8.5:
+        non_striker: SP Fleming
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 8.6:
+        non_striker: SP Fleming
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 9.1:
+        non_striker: BB McCullum
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 9.2:
+        non_striker: BB McCullum
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SP Fleming
+    - 9.3:
+        non_striker: BB McCullum
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 9.4:
+        non_striker: BB McCullum
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 9.5:
+        non_striker: BB McCullum
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 9.6:
+        non_striker: BB McCullum
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 10.1:
+        non_striker: SP Fleming
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 10.2:
+        non_striker: SP Fleming
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 10.3:
+        non_striker: BB McCullum
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 10.4:
+        non_striker: BB McCullum
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 10.5:
+        non_striker: BB McCullum
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 10.6:
+        non_striker: BB McCullum
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 11.1:
+        non_striker: SP Fleming
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 11.2:
+        non_striker: SP Fleming
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 11.3:
+        non_striker: SP Fleming
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 11.4:
+        non_striker: SP Fleming
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 11.5:
+        non_striker: SP Fleming
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 11.6:
+        non_striker: BB McCullum
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 12.1:
+        non_striker: SP Fleming
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+    - 12.2:
+        non_striker: SP Fleming
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 12.3:
+        non_striker: BB McCullum
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 12.4:
+        non_striker: BB McCullum
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 12.5:
+        non_striker: BB McCullum
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 12.6:
+        non_striker: BB McCullum
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 13.1:
+        non_striker: BB McCullum
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 13.2:
+        non_striker: SP Fleming
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BB McCullum
+    - 13.3:
+        non_striker: BB McCullum
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 13.4:
+        non_striker: SP Fleming
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BB McCullum
+        wicket:
+          player_out: BB McCullum
+          kind: bowled
+    - 13.5:
+        non_striker: SP Fleming
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Cairns
+    - 13.6:
+        non_striker: SP Fleming
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CL Cairns
+    - 14.1:
+        non_striker: CL Cairns
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 14.2:
+        non_striker: CL Cairns
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 14.3:
+        non_striker: CL Cairns
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 14.4:
+        non_striker: CL Cairns
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 14.5:
+        non_striker: CL Cairns
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 14.6:
+        non_striker: SP Fleming
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CL Cairns
+    - 15.1:
+        non_striker: CL Cairns
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 15.2:
+        non_striker: CL Cairns
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 15.3:
+        non_striker: CL Cairns
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SP Fleming
+    - 15.4:
+        non_striker: CL Cairns
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 15.5:
+        non_striker: CL Cairns
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 15.6:
+        non_striker: CL Cairns
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 16.1:
+        non_striker: SP Fleming
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Cairns
+    - 16.2:
+        non_striker: SP Fleming
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Cairns
+    - 16.3:
+        non_striker: CL Cairns
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 16.4:
+        non_striker: CL Cairns
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+    - 16.5:
+        non_striker: CL Cairns
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SP Fleming
+    - 16.6:
+        non_striker: SP Fleming
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Cairns
+    - 17.1:
+        non_striker: SP Fleming
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Cairns
+    - 17.2:
+        non_striker: SP Fleming
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Cairns
+    - 17.3:
+        non_striker: CL Cairns
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SP Fleming
+        wicket:
+          player_out: SP Fleming
+          fielders:
+          - SR Tendulkar
+          kind: caught
+    - 17.4:
+        non_striker: CL Cairns
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 17.5:
+        non_striker: CL Cairns
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 17.6:
+        non_striker: CL Cairns
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 18.1:
+        non_striker: CZ Harris
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Cairns
+    - 18.2:
+        non_striker: CZ Harris
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Cairns
+    - 18.3:
+        non_striker: CL Cairns
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 18.4:
+        non_striker: CL Cairns
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 18.5:
+        non_striker: CL Cairns
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CZ Harris
+    - 18.6:
+        non_striker: CL Cairns
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 19.1:
+        non_striker: CZ Harris
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Cairns
+    - 19.2:
+        non_striker: CL Cairns
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 19.3:
+        non_striker: CL Cairns
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 19.4:
+        non_striker: CL Cairns
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 19.5:
+        non_striker: CL Cairns
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 19.6:
+        non_striker: CL Cairns
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CZ Harris
+    - 20.1:
+        non_striker: CZ Harris
+        bowler: A Nehra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: CL Cairns
+    - 20.2:
+        non_striker: CZ Harris
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Cairns
+    - 20.3:
+        non_striker: CL Cairns
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 20.4:
+        non_striker: CL Cairns
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CZ Harris
+    - 20.5:
+        non_striker: CZ Harris
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Cairns
+    - 20.6:
+        non_striker: CZ Harris
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Cairns
+    - 20.7:
+        non_striker: CL Cairns
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CZ Harris
+    - 21.1:
+        non_striker: CL Cairns
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CZ Harris
+    - 21.2:
+        non_striker: CZ Harris
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CL Cairns
+    - 21.3:
+        non_striker: CZ Harris
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Cairns
+    - 21.4:
+        non_striker: CZ Harris
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Cairns
+    - 21.5:
+        non_striker: CL Cairns
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 21.6:
+        non_striker: CL Cairns
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CZ Harris
+    - 22.1:
+        non_striker: CZ Harris
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Cairns
+    - 22.2:
+        non_striker: CL Cairns
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 22.3:
+        non_striker: CL Cairns
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 22.4:
+        non_striker: CL Cairns
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 22.5:
+        non_striker: CL Cairns
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 22.6:
+        non_striker: CL Cairns
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 23.1:
+        non_striker: CZ Harris
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Cairns
+    - 23.2:
+        non_striker: CL Cairns
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 23.3:
+        non_striker: CL Cairns
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 23.4:
+        non_striker: CL Cairns
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 23.5:
+        non_striker: CL Cairns
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 23.6:
+        non_striker: CL Cairns
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 24.1:
+        non_striker: CZ Harris
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Cairns
+    - 24.2:
+        non_striker: CZ Harris
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Cairns
+    - 24.3:
+        non_striker: CL Cairns
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 24.4:
+        non_striker: CL Cairns
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CZ Harris
+    - 24.5:
+        non_striker: CZ Harris
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CL Cairns
+    - 24.6:
+        non_striker: CL Cairns
+        bowler: SC Ganguly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 25.1:
+        non_striker: CZ Harris
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Cairns
+    - 25.2:
+        non_striker: CZ Harris
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Cairns
+    - 25.3:
+        non_striker: CZ Harris
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CL Cairns
+        wicket:
+          player_out: CL Cairns
+          fielders:
+          - Z Khan
+          kind: caught
+    - 25.4:
+        non_striker: CZ Harris
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 25.5:
+        non_striker: CZ Harris
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 25.6:
+        non_striker: CZ Harris
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 26.1:
+        non_striker: JDP Oram
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CZ Harris
+    - 26.2:
+        non_striker: CZ Harris
+        bowler: Z Khan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: JDP Oram
+    - 26.3:
+        non_striker: CZ Harris
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDP Oram
+    - 26.4:
+        non_striker: JDP Oram
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CZ Harris
+    - 26.5:
+        non_striker: CZ Harris
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 26.6:
+        non_striker: CZ Harris
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 27.1:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 27.2:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CZ Harris
+    - 27.3:
+        non_striker: CZ Harris
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 27.4:
+        non_striker: CZ Harris
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 27.5:
+        non_striker: CZ Harris
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 27.6:
+        non_striker: CZ Harris
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 28.1:
+        non_striker: JDP Oram
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+    - 28.2:
+        non_striker: JDP Oram
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CZ Harris
+        wicket:
+          player_out: CZ Harris
+          kind: lbw
+    - 28.3:
+        non_striker: JDP Oram
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 28.4:
+        non_striker: JDP Oram
+        bowler: Z Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DL Vettori
+    - 28.5:
+        non_striker: JDP Oram
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 28.6:
+        non_striker: JDP Oram
+        bowler: Z Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 28.7:
+        non_striker: JDP Oram
+        bowler: Z Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DL Vettori
+    - 29.1:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 29.2:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 29.3:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 29.4:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 29.5:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 29.6:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 30.1:
+        non_striker: DL Vettori
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 30.2:
+        non_striker: DL Vettori
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 30.3:
+        non_striker: DL Vettori
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDP Oram
+    - 30.4:
+        non_striker: JDP Oram
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 30.5:
+        non_striker: JDP Oram
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 30.6:
+        non_striker: JDP Oram
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 31.1:
+        non_striker: DL Vettori
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 31.2:
+        non_striker: DL Vettori
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 31.3:
+        non_striker: DL Vettori
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JDP Oram
+    - 31.4:
+        non_striker: DL Vettori
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 31.5:
+        non_striker: DL Vettori
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 31.6:
+        non_striker: DL Vettori
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 32.1:
+        non_striker: JDP Oram
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 32.2:
+        non_striker: JDP Oram
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 32.3:
+        non_striker: JDP Oram
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 32.4:
+        non_striker: JDP Oram
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 32.5:
+        non_striker: JDP Oram
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 32.6:
+        non_striker: JDP Oram
+        bowler: A Nehra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 33.1:
+        non_striker: DL Vettori
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 33.2:
+        non_striker: DL Vettori
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDP Oram
+    - 33.3:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DL Vettori
+    - 33.4:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 33.5:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 33.6:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 34.1:
+        non_striker: DL Vettori
+        bowler: SR Tendulkar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: JDP Oram
+    - 34.2:
+        non_striker: DL Vettori
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 34.3:
+        non_striker: DL Vettori
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDP Oram
+    - 34.4:
+        non_striker: JDP Oram
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 34.5:
+        non_striker: JDP Oram
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 34.6:
+        non_striker: JDP Oram
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 34.7:
+        non_striker: DL Vettori
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 35.1:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 35.2:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 35.3:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 35.4:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 35.5:
+        non_striker: DL Vettori
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 35.6:
+        non_striker: DL Vettori
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDP Oram
+    - 36.1:
+        non_striker: DL Vettori
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDP Oram
+    - 36.2:
+        non_striker: JDP Oram
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 36.3:
+        non_striker: JDP Oram
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 36.4:
+        non_striker: DL Vettori
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 36.5:
+        non_striker: DL Vettori
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 36.6:
+        non_striker: DL Vettori
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 37.1:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 37.2:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 37.3:
+        non_striker: DL Vettori
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JDP Oram
+    - 37.4:
+        non_striker: DL Vettori
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 37.5:
+        non_striker: DL Vettori
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDP Oram
+    - 37.6:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 38.1:
+        non_striker: DL Vettori
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 38.2:
+        non_striker: DL Vettori
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDP Oram
+    - 38.3:
+        non_striker: JDP Oram
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DL Vettori
+    - 38.4:
+        non_striker: DL Vettori
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 38.5:
+        non_striker: DL Vettori
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 38.6:
+        non_striker: DL Vettori
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDP Oram
+    - 39.1:
+        non_striker: DL Vettori
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JDP Oram
+    - 39.2:
+        non_striker: DL Vettori
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDP Oram
+    - 39.3:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 39.4:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 39.5:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+    - 39.6:
+        non_striker: JDP Oram
+        bowler: Harbhajan Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DL Vettori
+        wicket:
+          player_out: DL Vettori
+          fielders:
+          - SC Ganguly
+          kind: caught
+    - 40.1:
+        non_striker: DR Tuffey
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 40.2:
+        non_striker: DR Tuffey
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 40.3:
+        non_striker: DR Tuffey
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 40.4:
+        non_striker: DR Tuffey
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 40.5:
+        non_striker: DR Tuffey
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDP Oram
+    - 40.6:
+        non_striker: JDP Oram
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Tuffey
+    - 41.1:
+        non_striker: DR Tuffey
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDP Oram
+    - 41.2:
+        non_striker: JDP Oram
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Tuffey
+    - 41.3:
+        non_striker: DR Tuffey
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDP Oram
+    - 41.4:
+        non_striker: JDP Oram
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Tuffey
+    - 41.5:
+        non_striker: JDP Oram
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Tuffey
+    - 41.6:
+        non_striker: JDP Oram
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Tuffey
+    - 42.1:
+        non_striker: DR Tuffey
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 42.2:
+        non_striker: DR Tuffey
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDP Oram
+    - 42.3:
+        non_striker: JDP Oram
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Tuffey
+    - 42.4:
+        non_striker: JDP Oram
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Tuffey
+    - 42.5:
+        non_striker: DR Tuffey
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDP Oram
+    - 42.6:
+        non_striker: JDP Oram
+        bowler: SR Tendulkar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DR Tuffey
+    - 43.1:
+        non_striker: DR Tuffey
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+    - 43.2:
+        non_striker: DR Tuffey
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JDP Oram
+        wicket:
+          player_out: JDP Oram
+          kind: bowled
+    - 43.3:
+        non_striker: DR Tuffey
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 43.4:
+        non_striker: DR Tuffey
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 43.5:
+        non_striker: DR Tuffey
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 43.6:
+        non_striker: DR Tuffey
+        bowler: V Sehwag
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 44.1:
+        non_striker: SE Bond
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Tuffey
+    - 44.2:
+        non_striker: SE Bond
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Tuffey
+    - 44.3:
+        non_striker: SE Bond
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Tuffey
+    - 44.4:
+        non_striker: SE Bond
+        bowler: J Srinath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DR Tuffey
+    - 44.5:
+        non_striker: SE Bond
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DR Tuffey
+    - 44.6:
+        non_striker: DR Tuffey
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 44.7:
+        non_striker: DR Tuffey
+        bowler: J Srinath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SE Bond
+    - 45.1:
+        non_striker: SE Bond
+        bowler: D Mongia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Tuffey
+        wicket:
+          player_out: DR Tuffey
+          kind: caught and bowled
+- 2nd innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: SR Tendulkar
+        bowler: DR Tuffey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Sehwag
+    - 0.2:
+        non_striker: SR Tendulkar
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Sehwag
+    - 0.3:
+        non_striker: V Sehwag
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 0.4:
+        non_striker: V Sehwag
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 0.5:
+        non_striker: V Sehwag
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 0.6:
+        non_striker: V Sehwag
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 0.7:
+        non_striker: SR Tendulkar
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 1.1:
+        non_striker: V Sehwag
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 1.2:
+        non_striker: V Sehwag
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 1.3:
+        non_striker: SR Tendulkar
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 1.4:
+        non_striker: SR Tendulkar
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 1.5:
+        non_striker: SR Tendulkar
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+    - 1.6:
+        non_striker: SR Tendulkar
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Sehwag
+        wicket:
+          player_out: V Sehwag
+          fielders:
+          - SB Styris
+          kind: caught
+    - 2.1:
+        non_striker: SC Ganguly
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Tendulkar
+    - 2.2:
+        non_striker: SR Tendulkar
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SC Ganguly
+    - 2.3:
+        non_striker: SC Ganguly
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 2.4:
+        non_striker: SC Ganguly
+        bowler: DR Tuffey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Tendulkar
+    - 2.5:
+        non_striker: SC Ganguly
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 2.6:
+        non_striker: SC Ganguly
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 2.7:
+        non_striker: SC Ganguly
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 3.1:
+        non_striker: SR Tendulkar
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 3.2:
+        non_striker: SR Tendulkar
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 3.3:
+        non_striker: SR Tendulkar
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+    - 3.4:
+        non_striker: SR Tendulkar
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SC Ganguly
+    - 3.5:
+        non_striker: SR Tendulkar
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SC Ganguly
+        wicket:
+          player_out: SC Ganguly
+          kind: bowled
+    - 3.6:
+        non_striker: SR Tendulkar
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 4.1:
+        non_striker: M Kaif
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 4.2:
+        non_striker: M Kaif
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 4.3:
+        non_striker: M Kaif
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Tendulkar
+    - 4.4:
+        non_striker: M Kaif
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+    - 4.5:
+        non_striker: M Kaif
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Tendulkar
+        wicket:
+          player_out: SR Tendulkar
+          fielders:
+          - JDP Oram
+          kind: caught
+    - 4.6:
+        non_striker: M Kaif
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 5.1:
+        non_striker: M Kaif
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 5.2:
+        non_striker: M Kaif
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 5.3:
+        non_striker: M Kaif
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 5.4:
+        non_striker: M Kaif
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 5.5:
+        non_striker: M Kaif
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 5.6:
+        non_striker: M Kaif
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 6.1:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kaif
+    - 6.2:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 6.3:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 6.4:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 6.5:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 6.6:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 6.7:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kaif
+    - 7.1:
+        non_striker: M Kaif
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 7.2:
+        non_striker: M Kaif
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 7.3:
+        non_striker: M Kaif
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dravid
+    - 7.4:
+        non_striker: M Kaif
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dravid
+    - 7.5:
+        non_striker: M Kaif
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 7.6:
+        non_striker: M Kaif
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 8.1:
+        non_striker: R Dravid
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 8.2:
+        non_striker: R Dravid
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 8.3:
+        non_striker: R Dravid
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 8.4:
+        non_striker: R Dravid
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 8.5:
+        non_striker: M Kaif
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 8.6:
+        non_striker: R Dravid
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 9.1:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 9.2:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 9.3:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 9.4:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 9.5:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 9.6:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kaif
+    - 10.1:
+        non_striker: M Kaif
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 10.2:
+        non_striker: R Dravid
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 10.3:
+        non_striker: R Dravid
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 10.4:
+        non_striker: M Kaif
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 10.5:
+        non_striker: M Kaif
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 10.6:
+        non_striker: R Dravid
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 11.1:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kaif
+    - 11.2:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 11.3:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 11.4:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kaif
+    - 11.5:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 11.6:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kaif
+    - 11.7:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 11.8:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Kaif
+    - 11.9:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 12.1:
+        non_striker: M Kaif
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 12.2:
+        non_striker: R Dravid
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 12.3:
+        non_striker: R Dravid
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kaif
+    - 12.4:
+        non_striker: R Dravid
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 12.5:
+        non_striker: R Dravid
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 12.6:
+        non_striker: M Kaif
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 13.1:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 13.2:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 13.3:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kaif
+    - 13.4:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kaif
+    - 13.5:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 13.6:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 14.1:
+        non_striker: M Kaif
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 14.2:
+        non_striker: M Kaif
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 14.3:
+        non_striker: M Kaif
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 14.4:
+        non_striker: M Kaif
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 14.5:
+        non_striker: M Kaif
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dravid
+    - 14.6:
+        non_striker: M Kaif
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 15.1:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 15.2:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 15.3:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 15.4:
+        non_striker: M Kaif
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 15.5:
+        non_striker: M Kaif
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 15.6:
+        non_striker: M Kaif
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 16.1:
+        non_striker: R Dravid
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 16.2:
+        non_striker: R Dravid
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kaif
+    - 16.3:
+        non_striker: R Dravid
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 16.4:
+        non_striker: M Kaif
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 16.5:
+        non_striker: M Kaif
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 16.6:
+        non_striker: M Kaif
+        bowler: JDP Oram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 17.1:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 17.2:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kaif
+    - 17.3:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 17.4:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 17.5:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 17.6:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 18.1:
+        non_striker: M Kaif
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 18.2:
+        non_striker: M Kaif
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 18.3:
+        non_striker: R Dravid
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 18.4:
+        non_striker: R Dravid
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 18.5:
+        non_striker: M Kaif
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 18.6:
+        non_striker: M Kaif
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dravid
+    - 19.1:
+        non_striker: R Dravid
+        bowler: CD McMillan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 19.2:
+        non_striker: R Dravid
+        bowler: CD McMillan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 19.3:
+        non_striker: R Dravid
+        bowler: CD McMillan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 19.4:
+        non_striker: R Dravid
+        bowler: CD McMillan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 19.5:
+        non_striker: R Dravid
+        bowler: CD McMillan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 19.6:
+        non_striker: R Dravid
+        bowler: CD McMillan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 20.1:
+        non_striker: M Kaif
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 20.2:
+        non_striker: M Kaif
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 20.3:
+        non_striker: R Dravid
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 20.4:
+        non_striker: R Dravid
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 20.5:
+        non_striker: R Dravid
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 20.6:
+        non_striker: R Dravid
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kaif
+    - 21.1:
+        non_striker: M Kaif
+        bowler: CD McMillan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 21.2:
+        non_striker: M Kaif
+        bowler: CD McMillan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 21.3:
+        non_striker: R Dravid
+        bowler: CD McMillan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 21.4:
+        non_striker: M Kaif
+        bowler: CD McMillan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 21.5:
+        non_striker: R Dravid
+        bowler: CD McMillan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 21.6:
+        non_striker: M Kaif
+        bowler: CD McMillan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 22.1:
+        non_striker: R Dravid
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 22.2:
+        non_striker: R Dravid
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 22.3:
+        non_striker: M Kaif
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 22.4:
+        non_striker: R Dravid
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 22.5:
+        non_striker: R Dravid
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 22.6:
+        non_striker: M Kaif
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 23.1:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 23.2:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 23.3:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 23.4:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 23.5:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 23.6:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 24.1:
+        non_striker: M Kaif
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 24.2:
+        non_striker: M Kaif
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 24.3:
+        non_striker: M Kaif
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 24.4:
+        non_striker: R Dravid
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 24.5:
+        non_striker: M Kaif
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 24.6:
+        non_striker: M Kaif
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 25.1:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 25.2:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kaif
+    - 25.3:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 25.4:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 25.5:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 25.6:
+        non_striker: R Dravid
+        bowler: SE Bond
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 26.1:
+        non_striker: R Dravid
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 26.2:
+        non_striker: R Dravid
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 26.3:
+        non_striker: R Dravid
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 26.4:
+        non_striker: M Kaif
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 26.5:
+        non_striker: M Kaif
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dravid
+    - 26.6:
+        non_striker: M Kaif
+        bowler: DL Vettori
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 27.1:
+        non_striker: M Kaif
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 27.2:
+        non_striker: M Kaif
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 27.3:
+        non_striker: M Kaif
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 27.4:
+        non_striker: M Kaif
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 27.5:
+        non_striker: M Kaif
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 27.6:
+        non_striker: M Kaif
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 28.1:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 28.2:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 28.3:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 28.4:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kaif
+    - 28.5:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 28.6:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 29.1:
+        non_striker: M Kaif
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 29.2:
+        non_striker: M Kaif
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 29.3:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Kaif
+    - 29.4:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 29.5:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 29.6:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 29.7:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: M Kaif
+    - 29.8:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 30.1:
+        non_striker: M Kaif
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 30.2:
+        non_striker: M Kaif
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 30.3:
+        non_striker: M Kaif
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 30.4:
+        non_striker: M Kaif
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dravid
+    - 30.5:
+        non_striker: M Kaif
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 30.6:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 31.1:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 31.2:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kaif
+    - 31.3:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 31.4:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 31.5:
+        non_striker: R Dravid
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 31.6:
+        non_striker: M Kaif
+        bowler: DR Tuffey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 32.1:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 32.2:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kaif
+    - 32.3:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 32.4:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 32.5:
+        non_striker: M Kaif
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Dravid
+    - 32.6:
+        non_striker: M Kaif
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 33.1:
+        non_striker: R Dravid
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 33.2:
+        non_striker: R Dravid
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 33.3:
+        non_striker: R Dravid
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 33.4:
+        non_striker: R Dravid
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 33.5:
+        non_striker: M Kaif
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dravid
+    - 33.6:
+        non_striker: M Kaif
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 34.1:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 34.2:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 34.3:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 34.4:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 34.5:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 34.6:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Kaif
+    - 35.1:
+        non_striker: M Kaif
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 35.2:
+        non_striker: M Kaif
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 35.3:
+        non_striker: M Kaif
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 35.4:
+        non_striker: M Kaif
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dravid
+    - 35.5:
+        non_striker: M Kaif
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dravid
+    - 35.6:
+        non_striker: M Kaif
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 36.1:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 36.2:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 36.3:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 36.4:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Kaif
+    - 36.5:
+        non_striker: M Kaif
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 36.6:
+        non_striker: M Kaif
+        bowler: SB Styris
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: R Dravid
+    - 36.7:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 37.1:
+        non_striker: M Kaif
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 37.2:
+        non_striker: M Kaif
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 37.3:
+        non_striker: M Kaif
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 37.4:
+        non_striker: M Kaif
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 37.5:
+        non_striker: M Kaif
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 37.6:
+        non_striker: R Dravid
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 38.1:
+        non_striker: M Kaif
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 38.2:
+        non_striker: M Kaif
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Dravid
+    - 38.3:
+        non_striker: M Kaif
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 38.4:
+        non_striker: M Kaif
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 38.5:
+        non_striker: M Kaif
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 38.6:
+        non_striker: M Kaif
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 39.1:
+        non_striker: R Dravid
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 39.2:
+        non_striker: R Dravid
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 39.3:
+        non_striker: R Dravid
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 39.4:
+        non_striker: R Dravid
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 39.5:
+        non_striker: R Dravid
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 39.6:
+        non_striker: R Dravid
+        bowler: CZ Harris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Kaif
+    - 40.1:
+        non_striker: M Kaif
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Dravid
+    - 40.2:
+        non_striker: M Kaif
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Dravid
+    - 40.3:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kaif
+    - 40.4:
+        non_striker: R Dravid
+        bowler: SB Styris
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Kaif

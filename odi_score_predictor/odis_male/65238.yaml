@@ -1,0 +1,5075 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-15'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Johannesburg
+  dates:
+  - '2003-02-11'
+  gender: male
+  match_type: ODI
+  match_type_number: 1945
+  outcome:
+    winner: Australia
+    by:
+      runs: 82
+  overs: 50
+  player_of_match:
+  - A Symonds
+  players:
+    Australia:
+    - AC Gilchrist
+    - ML Hayden
+    - RT Ponting
+    - DR Martyn
+    - JP Maher
+    - A Symonds
+    - GB Hogg
+    - IJ Harvey
+    - B Lee
+    - JN Gillespie
+    - GD McGrath
+    Pakistan:
+    - Taufeeq Umar
+    - Shahid Afridi
+    - Saleem Elahi
+    - Inzamam-ul-Haq
+    - Yousuf Youhana
+    - Younis Khan
+    - Abdul Razzaq
+    - Rashid Latif
+    - Wasim Akram
+    - Waqar Younis
+    - Shoaib Akhtar
+  registry:
+    people:
+      A Symonds: bd77eb62
+      AC Gilchrist: 2b6e6dec
+      Abdul Razzaq: 390ff45b
+      B Lee: dd09ff8e
+      BF Bowden: efc0a862
+      CH Lloyd: 5b445db0
+      DR Martyn: '69762509'
+      DR Shepherd: 8a578048
+      EAR de Silva: dc63f509
+      GB Hogg: f708a0bc
+      GD McGrath: ee7d0c82
+      IJ Harvey: 3227beb4
+      Inzamam-ul-Haq: b9a3d8c6
+      JN Gillespie: 74234d66
+      JP Maher: ec526fca
+      ML Hayden: d8699ab7
+      RT Ponting: 7d415ea5
+      Rashid Latif: d32782ae
+      Saleem Elahi: 1e7b1aa7
+      Shahid Afridi: 0dc00542
+      Shoaib Akhtar: 10a91f35
+      Taufeeq Umar: c73bb037
+      Waqar Younis: d8906a73
+      Wasim Akram: 126e56a1
+      Younis Khan: 33cb3411
+      Yousuf Youhana: e237b28c
+  teams:
+  - Australia
+  - Pakistan
+  toss:
+    winner: Pakistan
+    decision: field
+  umpires:
+  - EAR de Silva
+  - DR Shepherd
+  venue: New Wanderers Stadium, Johannesburg
+innings:
+- 1st innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: ML Hayden
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Gilchrist
+    - 0.2:
+        non_striker: AC Gilchrist
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 0.3:
+        non_striker: AC Gilchrist
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 0.4:
+        non_striker: AC Gilchrist
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 0.5:
+        non_striker: AC Gilchrist
+        bowler: Wasim Akram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Hayden
+    - 0.6:
+        non_striker: AC Gilchrist
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 0.7:
+        non_striker: AC Gilchrist
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 1.1:
+        non_striker: AC Gilchrist
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 1.2:
+        non_striker: AC Gilchrist
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 1.3:
+        non_striker: AC Gilchrist
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 1.4:
+        non_striker: AC Gilchrist
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Hayden
+    - 1.5:
+        non_striker: AC Gilchrist
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 1.6:
+        non_striker: AC Gilchrist
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 2.1:
+        non_striker: ML Hayden
+        bowler: Wasim Akram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Gilchrist
+    - 2.2:
+        non_striker: ML Hayden
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+    - 2.3:
+        non_striker: ML Hayden
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Gilchrist
+        wicket:
+          player_out: AC Gilchrist
+          fielders:
+          - Waqar Younis
+          kind: caught
+    - 2.4:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Hayden
+    - 2.5:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 2.6:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 2.7:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 2.8:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 3.1:
+        non_striker: RT Ponting
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Hayden
+    - 3.2:
+        non_striker: RT Ponting
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 3.3:
+        non_striker: RT Ponting
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 3.4:
+        non_striker: ML Hayden
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 3.5:
+        non_striker: ML Hayden
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 3.6:
+        non_striker: ML Hayden
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 3.7:
+        non_striker: RT Ponting
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 4.1:
+        non_striker: ML Hayden
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 4.2:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Hayden
+    - 4.3:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 4.4:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 4.5:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: ML Hayden
+    - 4.6:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Hayden
+    - 4.7:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 4.8:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 5.1:
+        non_striker: ML Hayden
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 5.2:
+        non_striker: ML Hayden
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 5.3:
+        non_striker: ML Hayden
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 5.4:
+        non_striker: RT Ponting
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 5.5:
+        non_striker: ML Hayden
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 5.6:
+        non_striker: ML Hayden
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 6.1:
+        non_striker: ML Hayden
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Ponting
+    - 6.2:
+        non_striker: ML Hayden
+        bowler: Wasim Akram
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: RT Ponting
+    - 6.3:
+        non_striker: ML Hayden
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 6.4:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ML Hayden
+    - 6.5:
+        non_striker: ML Hayden
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 6.6:
+        non_striker: ML Hayden
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 7.1:
+        non_striker: RT Ponting
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Hayden
+    - 7.2:
+        non_striker: RT Ponting
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ML Hayden
+    - 7.3:
+        non_striker: ML Hayden
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 7.4:
+        non_striker: ML Hayden
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 7.5:
+        non_striker: ML Hayden
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 7.6:
+        non_striker: ML Hayden
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 8.1:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Hayden
+    - 8.2:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 8.3:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: ML Hayden
+    - 8.4:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: ML Hayden
+    - 8.5:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 8.6:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 8.7:
+        non_striker: ML Hayden
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 9.1:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 9.2:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ML Hayden
+    - 9.3:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 9.4:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Hayden
+    - 9.5:
+        non_striker: ML Hayden
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 9.6:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 9.7:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ML Hayden
+    - 10.1:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+    - 10.2:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Hayden
+        wicket:
+          player_out: ML Hayden
+          kind: bowled
+    - 10.3:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DR Martyn
+        wicket:
+          player_out: DR Martyn
+          kind: bowled
+    - 10.4:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 10.5:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Maher
+    - 10.6:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 11.1:
+        non_striker: JP Maher
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 11.2:
+        non_striker: JP Maher
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 11.3:
+        non_striker: JP Maher
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 11.4:
+        non_striker: JP Maher
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 11.5:
+        non_striker: JP Maher
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 11.6:
+        non_striker: JP Maher
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 12.1:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 12.2:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 12.3:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 12.4:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 12.5:
+        non_striker: RT Ponting
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Maher
+    - 12.6:
+        non_striker: JP Maher
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 13.1:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Maher
+    - 13.2:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Maher
+    - 13.3:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 13.4:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 13.5:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 13.6:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 14.1:
+        non_striker: JP Maher
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 14.2:
+        non_striker: JP Maher
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 14.3:
+        non_striker: JP Maher
+        bowler: Abdul Razzaq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: RT Ponting
+    - 14.4:
+        non_striker: JP Maher
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 14.5:
+        non_striker: JP Maher
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 14.6:
+        non_striker: JP Maher
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 14.7:
+        non_striker: JP Maher
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 15.1:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 15.2:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 15.3:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 15.4:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+    - 15.5:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Maher
+        wicket:
+          player_out: JP Maher
+          fielders:
+          - Rashid Latif
+          kind: caught
+    - 15.6:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 16.1:
+        non_striker: A Symonds
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 16.2:
+        non_striker: A Symonds
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 16.3:
+        non_striker: RT Ponting
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 16.4:
+        non_striker: RT Ponting
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 16.5:
+        non_striker: RT Ponting
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 16.6:
+        non_striker: RT Ponting
+        bowler: Abdul Razzaq
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Symonds
+    - 16.7:
+        non_striker: RT Ponting
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 17.1:
+        non_striker: A Symonds
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 17.2:
+        non_striker: A Symonds
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 17.3:
+        non_striker: A Symonds
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 17.4:
+        non_striker: A Symonds
+        bowler: Waqar Younis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RT Ponting
+    - 17.5:
+        non_striker: A Symonds
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 17.6:
+        non_striker: A Symonds
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RT Ponting
+    - 17.7:
+        non_striker: A Symonds
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 18.1:
+        non_striker: RT Ponting
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 18.2:
+        non_striker: RT Ponting
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 18.3:
+        non_striker: RT Ponting
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 18.4:
+        non_striker: RT Ponting
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 18.5:
+        non_striker: RT Ponting
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 18.6:
+        non_striker: RT Ponting
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 19.1:
+        non_striker: A Symonds
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 19.2:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 19.3:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 19.4:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 19.5:
+        non_striker: A Symonds
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 19.6:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 20.1:
+        non_striker: A Symonds
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 20.2:
+        non_striker: A Symonds
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 20.3:
+        non_striker: RT Ponting
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 20.4:
+        non_striker: RT Ponting
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 20.5:
+        non_striker: RT Ponting
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 20.6:
+        non_striker: RT Ponting
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 21.1:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 21.2:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 21.3:
+        non_striker: A Symonds
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 21.4:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Symonds
+    - 21.5:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 21.6:
+        non_striker: A Symonds
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 21.7:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 22.1:
+        non_striker: A Symonds
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 22.2:
+        non_striker: RT Ponting
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 22.3:
+        non_striker: RT Ponting
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 22.4:
+        non_striker: RT Ponting
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 22.5:
+        non_striker: A Symonds
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RT Ponting
+    - 22.6:
+        non_striker: A Symonds
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 23.1:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 23.2:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 23.3:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 23.4:
+        non_striker: A Symonds
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 23.5:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 23.6:
+        non_striker: RT Ponting
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 24.1:
+        non_striker: RT Ponting
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 24.2:
+        non_striker: A Symonds
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 24.3:
+        non_striker: A Symonds
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 24.4:
+        non_striker: A Symonds
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 24.5:
+        non_striker: RT Ponting
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 24.6:
+        non_striker: RT Ponting
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 25.1:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RT Ponting
+    - 25.2:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RT Ponting
+    - 25.3:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 25.4:
+        non_striker: RT Ponting
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 25.5:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 25.6:
+        non_striker: RT Ponting
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 25.7:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 25.8:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 26.1:
+        non_striker: A Symonds
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 26.2:
+        non_striker: A Symonds
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 26.3:
+        non_striker: RT Ponting
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 26.4:
+        non_striker: RT Ponting
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 26.5:
+        non_striker: RT Ponting
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 26.6:
+        non_striker: RT Ponting
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 27.1:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 27.2:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 27.3:
+        non_striker: RT Ponting
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 27.4:
+        non_striker: RT Ponting
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 27.5:
+        non_striker: RT Ponting
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 27.6:
+        non_striker: RT Ponting
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 28.1:
+        non_striker: A Symonds
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RT Ponting
+    - 28.2:
+        non_striker: RT Ponting
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 28.3:
+        non_striker: RT Ponting
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 28.4:
+        non_striker: RT Ponting
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 28.5:
+        non_striker: RT Ponting
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 28.6:
+        non_striker: RT Ponting
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 29.1:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 29.2:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+    - 29.3:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RT Ponting
+        wicket:
+          player_out: RT Ponting
+          fielders:
+          - Taufeeq Umar
+          kind: caught
+    - 29.4:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 29.5:
+        non_striker: GB Hogg
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 29.6:
+        non_striker: GB Hogg
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 30.1:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 30.2:
+        non_striker: A Symonds
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 30.3:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 30.4:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 30.5:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 30.6:
+        non_striker: A Symonds
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 31.1:
+        non_striker: A Symonds
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 31.2:
+        non_striker: GB Hogg
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 31.3:
+        non_striker: GB Hogg
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 31.4:
+        non_striker: GB Hogg
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 31.5:
+        non_striker: A Symonds
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 31.6:
+        non_striker: GB Hogg
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 32.1:
+        non_striker: A Symonds
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Hogg
+    - 32.2:
+        non_striker: A Symonds
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 32.3:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 32.4:
+        non_striker: A Symonds
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 32.5:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 32.6:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 33.1:
+        non_striker: GB Hogg
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 33.2:
+        non_striker: GB Hogg
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 33.3:
+        non_striker: A Symonds
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 33.4:
+        non_striker: GB Hogg
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 33.5:
+        non_striker: GB Hogg
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 33.6:
+        non_striker: A Symonds
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Hogg
+    - 34.1:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 34.2:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Symonds
+    - 34.3:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 34.4:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 34.5:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 34.6:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 34.7:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 35.1:
+        non_striker: A Symonds
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Hogg
+    - 35.2:
+        non_striker: A Symonds
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Hogg
+    - 35.3:
+        non_striker: A Symonds
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 35.4:
+        non_striker: GB Hogg
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 35.5:
+        non_striker: A Symonds
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 35.6:
+        non_striker: GB Hogg
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 36.1:
+        non_striker: A Symonds
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 36.2:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 36.3:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 36.4:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 36.5:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 36.6:
+        non_striker: A Symonds
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 37.1:
+        non_striker: A Symonds
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Hogg
+    - 37.2:
+        non_striker: A Symonds
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Hogg
+    - 37.3:
+        non_striker: A Symonds
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 37.4:
+        non_striker: GB Hogg
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 37.5:
+        non_striker: GB Hogg
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 37.6:
+        non_striker: GB Hogg
+        bowler: Younis Khan
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Symonds
+    - 37.7:
+        non_striker: A Symonds
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Hogg
+    - 38.1:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 38.2:
+        non_striker: A Symonds
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GB Hogg
+    - 38.3:
+        non_striker: A Symonds
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GB Hogg
+    - 38.4:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 38.5:
+        non_striker: GB Hogg
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+        wicket:
+          player_out: GB Hogg
+          fielders:
+          - Younis Khan
+          - Rashid Latif
+          kind: run out
+    - 38.6:
+        non_striker: A Symonds
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJ Harvey
+    - 39.1:
+        non_striker: IJ Harvey
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 39.2:
+        non_striker: IJ Harvey
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 39.3:
+        non_striker: IJ Harvey
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 39.4:
+        non_striker: A Symonds
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJ Harvey
+    - 39.5:
+        non_striker: IJ Harvey
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 39.6:
+        non_striker: A Symonds
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJ Harvey
+    - 40.1:
+        non_striker: IJ Harvey
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 40.2:
+        non_striker: IJ Harvey
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 40.3:
+        non_striker: IJ Harvey
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 40.4:
+        non_striker: IJ Harvey
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 40.5:
+        non_striker: IJ Harvey
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 40.6:
+        non_striker: IJ Harvey
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 41.1:
+        non_striker: A Symonds
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJ Harvey
+    - 41.2:
+        non_striker: IJ Harvey
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 41.3:
+        non_striker: A Symonds
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJ Harvey
+    - 41.4:
+        non_striker: IJ Harvey
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 41.5:
+        non_striker: A Symonds
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJ Harvey
+    - 41.6:
+        non_striker: IJ Harvey
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 42.1:
+        non_striker: IJ Harvey
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Symonds
+    - 42.2:
+        non_striker: IJ Harvey
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 42.3:
+        non_striker: IJ Harvey
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 42.4:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJ Harvey
+    - 42.5:
+        non_striker: IJ Harvey
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Symonds
+    - 42.6:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJ Harvey
+    - 43.1:
+        non_striker: A Symonds
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IJ Harvey
+    - 43.2:
+        non_striker: A Symonds
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJ Harvey
+    - 43.3:
+        non_striker: IJ Harvey
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 43.4:
+        non_striker: IJ Harvey
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 43.5:
+        non_striker: A Symonds
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJ Harvey
+    - 43.6:
+        non_striker: A Symonds
+        bowler: Younis Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJ Harvey
+    - 44.1:
+        non_striker: IJ Harvey
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 44.2:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJ Harvey
+    - 44.3:
+        non_striker: IJ Harvey
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 44.4:
+        non_striker: IJ Harvey
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 44.5:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IJ Harvey
+    - 44.6:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IJ Harvey
+    - 45.1:
+        non_striker: IJ Harvey
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 45.2:
+        non_striker: A Symonds
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJ Harvey
+    - 45.3:
+        non_striker: IJ Harvey
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 45.4:
+        non_striker: A Symonds
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IJ Harvey
+    - 45.5:
+        non_striker: A Symonds
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJ Harvey
+    - 45.6:
+        non_striker: IJ Harvey
+        bowler: Wasim Akram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: A Symonds
+    - 46.1:
+        non_striker: IJ Harvey
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Symonds
+    - 46.2:
+        non_striker: IJ Harvey
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 46.3:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJ Harvey
+        wicket:
+          player_out: IJ Harvey
+          fielders:
+          - Waqar Younis
+          kind: caught
+    - 46.4:
+        non_striker: B Lee
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 46.5:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lee
+    - 46.6:
+        non_striker: A Symonds
+        bowler: Shoaib Akhtar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lee
+    - 47.1:
+        non_striker: B Lee
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 47.2:
+        non_striker: B Lee
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Symonds
+    - 47.3:
+        non_striker: B Lee
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 47.4:
+        non_striker: A Symonds
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lee
+    - 47.5:
+        non_striker: A Symonds
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lee
+    - 47.6:
+        non_striker: A Symonds
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Lee
+    - 48.1:
+        non_striker: B Lee
+        bowler: Waqar Younis
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          noballs: 3
+        batsman: A Symonds
+    - 48.2:
+        non_striker: B Lee
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Symonds
+    - 48.3:
+        non_striker: B Lee
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 48.4:
+        non_striker: A Symonds
+        bowler: Waqar Younis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Lee
+        wicket:
+          player_out: B Lee
+          fielders:
+          - Inzamam-ul-Haq
+          kind: caught
+    - 48.5:
+        non_striker: JN Gillespie
+        bowler: Waqar Younis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Symonds
+    - 48.6:
+        non_striker: JN Gillespie
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: Shahid Afridi
+            out: Waqar Younis
+            reason: excluded - high full pitched balls
+            role: bowler
+        batsman: A Symonds
+    - 48.7:
+        non_striker: A Symonds
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Gillespie
+    - 48.8:
+        non_striker: JN Gillespie
+        bowler: Shahid Afridi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 49.1:
+        non_striker: JN Gillespie
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Symonds
+    - 49.2:
+        non_striker: JN Gillespie
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+    - 49.3:
+        non_striker: A Symonds
+        bowler: Wasim Akram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JN Gillespie
+    - 49.4:
+        non_striker: A Symonds
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JN Gillespie
+    - 49.5:
+        non_striker: A Symonds
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JN Gillespie
+    - 49.6:
+        non_striker: A Symonds
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JN Gillespie
+    - 49.7:
+        non_striker: JN Gillespie
+        bowler: Wasim Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Symonds
+- 2nd innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shahid Afridi
+        batsman: Taufeeq Umar
+    - 0.2:
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shahid Afridi
+        batsman: Taufeeq Umar
+    - 0.3:
+        bowler: GD McGrath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: Shahid Afridi
+        batsman: Taufeeq Umar
+    - 0.4:
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shahid Afridi
+        batsman: Taufeeq Umar
+    - 0.5:
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shahid Afridi
+        batsman: Taufeeq Umar
+    - 0.6:
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shahid Afridi
+        batsman: Taufeeq Umar
+    - 0.7:
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: Shahid Afridi
+        batsman: Taufeeq Umar
+    - 1.1:
+        non_striker: Taufeeq Umar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 1.2:
+        non_striker: Taufeeq Umar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 1.3:
+        non_striker: Taufeeq Umar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 1.4:
+        non_striker: Taufeeq Umar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 1.5:
+        non_striker: Taufeeq Umar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 1.6:
+        non_striker: Taufeeq Umar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+    - 2.1:
+        non_striker: Shahid Afridi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 2.2:
+        non_striker: Shahid Afridi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 2.3:
+        non_striker: Shahid Afridi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 2.4:
+        non_striker: Shahid Afridi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 2.5:
+        non_striker: Shahid Afridi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Taufeeq Umar
+    - 2.6:
+        non_striker: Shahid Afridi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 3.1:
+        non_striker: Taufeeq Umar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahid Afridi
+    - 3.2:
+        non_striker: Shahid Afridi
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 3.3:
+        non_striker: Shahid Afridi
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 3.4:
+        non_striker: Shahid Afridi
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taufeeq Umar
+    - 3.5:
+        non_striker: Shahid Afridi
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 3.6:
+        non_striker: Taufeeq Umar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahid Afridi
+        wicket:
+          player_out: Shahid Afridi
+          fielders:
+          - AC Gilchrist
+          kind: caught
+    - 4.1:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 4.2:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 4.3:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 4.4:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 4.5:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 4.6:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 5.1:
+        non_striker: Taufeeq Umar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 5.2:
+        non_striker: Taufeeq Umar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Saleem Elahi
+    - 5.3:
+        non_striker: Saleem Elahi
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 5.4:
+        non_striker: Saleem Elahi
+        bowler: JN Gillespie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Taufeeq Umar
+    - 5.5:
+        non_striker: Saleem Elahi
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 5.6:
+        non_striker: Saleem Elahi
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 5.7:
+        non_striker: Saleem Elahi
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 6.1:
+        non_striker: Taufeeq Umar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saleem Elahi
+    - 6.2:
+        non_striker: Taufeeq Umar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 6.3:
+        non_striker: Taufeeq Umar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saleem Elahi
+    - 6.4:
+        non_striker: Taufeeq Umar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 6.5:
+        non_striker: Taufeeq Umar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 6.6:
+        non_striker: Taufeeq Umar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 7.1:
+        non_striker: Saleem Elahi
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 7.2:
+        non_striker: Saleem Elahi
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 7.3:
+        non_striker: Saleem Elahi
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 7.4:
+        non_striker: Saleem Elahi
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 7.5:
+        non_striker: Saleem Elahi
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 7.6:
+        non_striker: Saleem Elahi
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taufeeq Umar
+    - 8.1:
+        non_striker: Taufeeq Umar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 8.2:
+        non_striker: Taufeeq Umar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saleem Elahi
+    - 8.3:
+        non_striker: Taufeeq Umar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 8.4:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 8.5:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 8.6:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 9.1:
+        non_striker: Taufeeq Umar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 9.2:
+        non_striker: Saleem Elahi
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 9.3:
+        non_striker: Taufeeq Umar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 9.4:
+        non_striker: Taufeeq Umar
+        bowler: JN Gillespie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Saleem Elahi
+    - 9.5:
+        non_striker: Taufeeq Umar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 9.6:
+        non_striker: Taufeeq Umar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 9.7:
+        non_striker: Taufeeq Umar
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 10.1:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taufeeq Umar
+    - 10.2:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 10.3:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 10.4:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taufeeq Umar
+    - 10.5:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 10.6:
+        non_striker: Taufeeq Umar
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 11.1:
+        non_striker: Saleem Elahi
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 11.2:
+        non_striker: Saleem Elahi
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+        wicket:
+          player_out: Taufeeq Umar
+          fielders:
+          - GB Hogg
+          kind: caught
+    - 11.3:
+        non_striker: Saleem Elahi
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Inzamam-ul-Haq
+    - 11.4:
+        non_striker: Saleem Elahi
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Inzamam-ul-Haq
+    - 11.5:
+        non_striker: Inzamam-ul-Haq
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 11.6:
+        non_striker: Inzamam-ul-Haq
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 11.7:
+        non_striker: Inzamam-ul-Haq
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 12.1:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inzamam-ul-Haq
+    - 12.2:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inzamam-ul-Haq
+    - 12.3:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inzamam-ul-Haq
+    - 12.4:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inzamam-ul-Haq
+    - 12.5:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inzamam-ul-Haq
+    - 12.6:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inzamam-ul-Haq
+    - 13.1:
+        non_striker: Inzamam-ul-Haq
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 13.2:
+        non_striker: Saleem Elahi
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Inzamam-ul-Haq
+    - 13.3:
+        non_striker: Inzamam-ul-Haq
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 13.4:
+        non_striker: Inzamam-ul-Haq
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 13.5:
+        non_striker: Saleem Elahi
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Inzamam-ul-Haq
+    - 13.6:
+        non_striker: Saleem Elahi
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Inzamam-ul-Haq
+    - 13.7:
+        non_striker: Inzamam-ul-Haq
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 14.1:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Inzamam-ul-Haq
+    - 14.2:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Inzamam-ul-Haq
+        wicket:
+          player_out: Inzamam-ul-Haq
+          fielders:
+          - AC Gilchrist
+          kind: caught
+    - 14.3:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 14.4:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 14.5:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 14.6:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yousuf Youhana
+    - 15.1:
+        non_striker: Yousuf Youhana
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 15.2:
+        non_striker: Yousuf Youhana
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Saleem Elahi
+    - 15.3:
+        non_striker: Yousuf Youhana
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saleem Elahi
+    - 15.4:
+        non_striker: Yousuf Youhana
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 15.5:
+        non_striker: Yousuf Youhana
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 15.6:
+        non_striker: Saleem Elahi
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yousuf Youhana
+    - 15.7:
+        non_striker: Saleem Elahi
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 16.1:
+        non_striker: Yousuf Youhana
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 16.2:
+        non_striker: Yousuf Youhana
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 16.3:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 16.4:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 16.5:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 16.6:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 17.1:
+        non_striker: Yousuf Youhana
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 17.2:
+        non_striker: Yousuf Youhana
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Saleem Elahi
+    - 17.3:
+        non_striker: Saleem Elahi
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yousuf Youhana
+    - 17.4:
+        non_striker: Saleem Elahi
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 17.5:
+        non_striker: Saleem Elahi
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 17.6:
+        non_striker: Saleem Elahi
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 17.7:
+        non_striker: Yousuf Youhana
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 18.1:
+        non_striker: Yousuf Youhana
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 18.2:
+        non_striker: Yousuf Youhana
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+    - 18.3:
+        non_striker: Yousuf Youhana
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Saleem Elahi
+    - 18.4:
+        non_striker: Yousuf Youhana
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Saleem Elahi
+    - 18.5:
+        non_striker: Yousuf Youhana
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Saleem Elahi
+    - 18.6:
+        non_striker: Saleem Elahi
+        bowler: GD McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yousuf Youhana
+    - 19.1:
+        non_striker: Yousuf Youhana
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Saleem Elahi
+        wicket:
+          player_out: Saleem Elahi
+          fielders:
+          - B Lee
+          kind: caught
+    - 19.2:
+        non_striker: Younis Khan
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 19.3:
+        non_striker: Younis Khan
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 19.4:
+        non_striker: Yousuf Youhana
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 19.5:
+        non_striker: Yousuf Youhana
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 19.6:
+        non_striker: Younis Khan
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 20.1:
+        non_striker: Yousuf Youhana
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Younis Khan
+    - 20.2:
+        non_striker: Yousuf Youhana
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 20.3:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 20.4:
+        non_striker: Yousuf Youhana
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 20.5:
+        non_striker: Yousuf Youhana
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 20.6:
+        non_striker: Yousuf Youhana
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 21.1:
+        non_striker: Yousuf Youhana
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 21.2:
+        non_striker: Yousuf Youhana
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 21.3:
+        non_striker: Yousuf Youhana
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 21.4:
+        non_striker: Younis Khan
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 21.5:
+        non_striker: Younis Khan
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 21.6:
+        non_striker: Younis Khan
+        bowler: IJ Harvey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yousuf Youhana
+    - 21.7:
+        non_striker: Younis Khan
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 22.1:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 22.2:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 22.3:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 22.4:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 22.5:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yousuf Youhana
+    - 22.6:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 23.1:
+        non_striker: Younis Khan
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 23.2:
+        non_striker: Younis Khan
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 23.3:
+        non_striker: Yousuf Youhana
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 23.4:
+        non_striker: Yousuf Youhana
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 23.5:
+        non_striker: Yousuf Youhana
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 23.6:
+        non_striker: Younis Khan
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 24.1:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 24.2:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 24.3:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 24.4:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 24.5:
+        non_striker: Yousuf Youhana
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 24.6:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Yousuf Youhana
+    - 24.7:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 25.1:
+        non_striker: Younis Khan
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+        wicket:
+          player_out: Yousuf Youhana
+          fielders:
+          - A Symonds
+          kind: caught
+    - 25.2:
+        non_striker: Abdul Razzaq
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 25.3:
+        non_striker: Abdul Razzaq
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 25.4:
+        non_striker: Younis Khan
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Razzaq
+    - 25.5:
+        non_striker: Abdul Razzaq
+        bowler: IJ Harvey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Younis Khan
+    - 25.6:
+        non_striker: Abdul Razzaq
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 25.7:
+        non_striker: Younis Khan
+        bowler: IJ Harvey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abdul Razzaq
+    - 25.8:
+        non_striker: Younis Khan
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Razzaq
+    - 26.1:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+    - 26.2:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+    - 26.3:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Razzaq
+    - 26.4:
+        non_striker: Abdul Razzaq
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Younis Khan
+    - 26.5:
+        non_striker: Abdul Razzaq
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 26.6:
+        non_striker: Abdul Razzaq
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 27.1:
+        non_striker: Younis Khan
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+    - 27.2:
+        non_striker: Younis Khan
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+    - 27.3:
+        non_striker: Younis Khan
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Razzaq
+    - 27.4:
+        non_striker: Abdul Razzaq
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 27.5:
+        non_striker: Younis Khan
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Razzaq
+    - 27.6:
+        non_striker: Abdul Razzaq
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 28.1:
+        non_striker: Abdul Razzaq
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+    - 28.2:
+        non_striker: Abdul Razzaq
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 28.3:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+    - 28.4:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+    - 28.5:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+    - 28.6:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abdul Razzaq
+    - 28.7:
+        non_striker: Younis Khan
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Razzaq
+    - 29.1:
+        non_striker: Younis Khan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Razzaq
+    - 29.2:
+        non_striker: Abdul Razzaq
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 29.3:
+        non_striker: Younis Khan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Razzaq
+    - 29.4:
+        non_striker: Abdul Razzaq
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Younis Khan
+    - 29.5:
+        non_striker: Abdul Razzaq
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Younis Khan
+    - 29.6:
+        non_striker: Younis Khan
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+    - 30.1:
+        non_striker: Abdul Razzaq
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Younis Khan
+        wicket:
+          player_out: Younis Khan
+          fielders:
+          - RT Ponting
+          kind: caught
+    - 30.2:
+        non_striker: Abdul Razzaq
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 30.3:
+        non_striker: Abdul Razzaq
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 30.4:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+    - 30.5:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+    - 30.6:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Razzaq
+    - 31.1:
+        non_striker: Rashid Latif
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abdul Razzaq
+    - 31.2:
+        non_striker: Rashid Latif
+        bowler: B Lee
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Abdul Razzaq
+    - 31.3:
+        non_striker: Rashid Latif
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Razzaq
+    - 31.4:
+        non_striker: Abdul Razzaq
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 31.5:
+        non_striker: Rashid Latif
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Razzaq
+    - 31.6:
+        non_striker: Abdul Razzaq
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 31.7:
+        non_striker: Abdul Razzaq
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 32.1:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdul Razzaq
+    - 32.2:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+    - 32.3:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+    - 32.4:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+    - 32.5:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Razzaq
+    - 32.6:
+        non_striker: Abdul Razzaq
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 33.1:
+        non_striker: Abdul Razzaq
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 33.2:
+        non_striker: Rashid Latif
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+    - 33.3:
+        non_striker: Rashid Latif
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abdul Razzaq
+    - 33.4:
+        non_striker: Rashid Latif
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abdul Razzaq
+    - 33.5:
+        non_striker: Rashid Latif
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abdul Razzaq
+    - 33.6:
+        non_striker: Abdul Razzaq
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 34.1:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abdul Razzaq
+        wicket:
+          player_out: Abdul Razzaq
+          kind: caught and bowled
+    - 34.2:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Wasim Akram
+    - 34.3:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Akram
+    - 34.4:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wasim Akram
+    - 34.5:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Akram
+    - 34.6:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Akram
+    - 34.7:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Akram
+    - 35.1:
+        non_striker: Wasim Akram
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Rashid Latif
+    - 35.2:
+        non_striker: Wasim Akram
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rashid Latif
+    - 35.3:
+        non_striker: Wasim Akram
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rashid Latif
+    - 35.4:
+        non_striker: Wasim Akram
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rashid Latif
+    - 35.5:
+        non_striker: Wasim Akram
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 35.6:
+        non_striker: Wasim Akram
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 36.1:
+        non_striker: Wasim Akram
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 36.2:
+        non_striker: Wasim Akram
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 36.3:
+        non_striker: Wasim Akram
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Rashid Latif
+    - 36.4:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Akram
+    - 36.5:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Wasim Akram
+    - 36.6:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Akram
+    - 37.1:
+        non_striker: Rashid Latif
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Akram
+    - 37.2:
+        non_striker: Rashid Latif
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Akram
+    - 37.3:
+        non_striker: Wasim Akram
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 37.4:
+        non_striker: Wasim Akram
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rashid Latif
+    - 37.5:
+        non_striker: Rashid Latif
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Akram
+    - 37.6:
+        non_striker: Rashid Latif
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wasim Akram
+    - 38.1:
+        non_striker: Wasim Akram
+        bowler: GB Hogg
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          byes: 3
+        batsman: Rashid Latif
+    - 38.2:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wasim Akram
+    - 38.3:
+        non_striker: Rashid Latif
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Akram
+    - 38.4:
+        non_striker: Wasim Akram
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+    - 38.5:
+        non_striker: Wasim Akram
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Rashid Latif
+    - 38.6:
+        non_striker: Wasim Akram
+        bowler: GB Hogg
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rashid Latif
+        wicket:
+          player_out: Rashid Latif
+          kind: bowled
+    - 39.1:
+        non_striker: Waqar Younis
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Akram
+    - 39.2:
+        non_striker: Waqar Younis
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Akram
+    - 39.3:
+        non_striker: Waqar Younis
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Akram
+    - 39.4:
+        non_striker: Waqar Younis
+        bowler: JN Gillespie
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Wasim Akram
+    - 39.5:
+        non_striker: Waqar Younis
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Akram
+    - 39.6:
+        non_striker: Waqar Younis
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Akram
+    - 40.1:
+        non_striker: Waqar Younis
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Akram
+    - 40.2:
+        non_striker: Wasim Akram
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Younis
+    - 40.3:
+        non_striker: Wasim Akram
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Younis
+    - 40.4:
+        non_striker: Waqar Younis
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Wasim Akram
+    - 40.5:
+        non_striker: Waqar Younis
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Wasim Akram
+    - 40.6:
+        non_striker: Waqar Younis
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Akram
+    - 41.1:
+        non_striker: Waqar Younis
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Akram
+    - 41.2:
+        non_striker: Waqar Younis
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Akram
+    - 41.3:
+        non_striker: Waqar Younis
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Akram
+    - 41.4:
+        non_striker: Wasim Akram
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Younis
+    - 41.5:
+        non_striker: Wasim Akram
+        bowler: JN Gillespie
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Waqar Younis
+    - 41.6:
+        non_striker: Wasim Akram
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Younis
+    - 41.7:
+        non_striker: Waqar Younis
+        bowler: JN Gillespie
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Akram
+    - 42.1:
+        non_striker: Waqar Younis
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Wasim Akram
+    - 42.2:
+        non_striker: Wasim Akram
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Younis
+    - 42.3:
+        non_striker: Wasim Akram
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Waqar Younis
+    - 42.4:
+        non_striker: Wasim Akram
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Younis
+    - 42.5:
+        non_striker: Waqar Younis
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Akram
+    - 42.6:
+        non_striker: Waqar Younis
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Wasim Akram
+        wicket:
+          player_out: Wasim Akram
+          fielders:
+          - RT Ponting
+          kind: caught
+    - 43.1:
+        non_striker: Shoaib Akhtar
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Waqar Younis
+    - 43.2:
+        non_striker: Waqar Younis
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Akhtar
+    - 43.3:
+        non_striker: Waqar Younis
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Akhtar
+    - 43.4:
+        non_striker: Waqar Younis
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Akhtar
+    - 43.5:
+        non_striker: Waqar Younis
+        bowler: B Lee
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Shoaib Akhtar
+    - 43.6:
+        non_striker: Waqar Younis
+        bowler: B Lee
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shoaib Akhtar
+    - 44.1:
+        non_striker: Shoaib Akhtar
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Younis
+    - 44.2:
+        non_striker: Shoaib Akhtar
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Younis
+    - 44.3:
+        non_striker: Shoaib Akhtar
+        bowler: IJ Harvey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Waqar Younis
+        wicket:
+          player_out: Waqar Younis
+          fielders:
+          - GD McGrath
+          kind: caught

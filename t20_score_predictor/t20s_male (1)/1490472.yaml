@@ -1,0 +1,1804 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-07-10'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: The Hague
+  dates:
+  - '2025-07-05'
+  gender: male
+  match_type: T20
+  match_type_number: 3277
+  outcome:
+    winner: Italy
+    by:
+      wickets: 7
+  overs: 20
+  player_of_match:
+  - J Mosca
+  players:
+    Guernsey:
+    - B Fitchet
+    - A Martel
+    - M Dale-Bradley
+    - MWR Stokes
+    - T Nightingale
+    - IDA Damarell
+    - OB Nightingale
+    - LT Bichard
+    - ACF Stokes
+    - C Forshaw
+    - Harry Johnson
+    Italy:
+    - J Mosca
+    - EN Gay
+    - JA Burns
+    - HJ Manenti
+    - BAD Manenti
+    - M Campopiano
+    - CJPF Kalugamage
+    - G Stewart
+    - Zain Ali
+    - Jaspreet Singh
+    - TJ Draca
+  registry:
+    people:
+      A Martel: 65cd62a9
+      ACF Stokes: 7f74b21d
+      Aidan Seaver: 862c0b16
+      B Fitchet: d77ecd14
+      BAD Manenti: ab21795b
+      C Forshaw: 0ed66ce6
+      CJPF Kalugamage: 31c04b7b
+      Denavon Hayles: 5cbeeb02
+      EN Gay: aa710a58
+      G Stewart: a77472dc
+      HJ Manenti: 0e56c514
+      Harry Johnson: 80b92515
+      IDA Damarell: 580ae7f2
+      J Mosca: 8f02f6a8
+      JA Burns: 7a5f232a
+      Jaspreet Singh: d76ab352
+      LT Bichard: dfcdb11e
+      M Campopiano: 26d80a9d
+      M Dale-Bradley: 62b2aa65
+      MWR Stokes: c573d173
+      OB Nightingale: 1deb4c0c
+      R Black: 156c8fb1
+      RJ Warren: 9d1c62d7
+      T Nightingale: 51a125b3
+      TJ Draca: 88fac705
+      Zain Ali: cccac242
+  teams:
+  - Guernsey
+  - Italy
+  toss:
+    winner: Italy
+    decision: field
+  umpires:
+  - Aidan Seaver
+  - RJ Warren
+  venue: Sportpark Westvliet, Voorburg
+innings:
+- 1st innings:
+    team: Guernsey
+    deliveries:
+    - 0.1:
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Martel
+        batsman: B Fitchet
+    - 0.2:
+        non_striker: B Fitchet
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Martel
+    - 0.3:
+        non_striker: B Fitchet
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Martel
+    - 0.4:
+        non_striker: B Fitchet
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Martel
+    - 0.5:
+        non_striker: B Fitchet
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Martel
+    - 0.6:
+        non_striker: B Fitchet
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Martel
+        wicket:
+          player_out: A Martel
+          fielders:
+          - J Mosca
+          kind: run out
+    - 1.1:
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Dale-Bradley
+        batsman: B Fitchet
+    - 1.2:
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: M Dale-Bradley
+        batsman: B Fitchet
+    - 1.3:
+        non_striker: B Fitchet
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dale-Bradley
+    - 1.4:
+        non_striker: M Dale-Bradley
+        bowler: TJ Draca
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: B Fitchet
+    - 1.5:
+        non_striker: B Fitchet
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Dale-Bradley
+    - 1.6:
+        non_striker: B Fitchet
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Dale-Bradley
+    - 1.7:
+        non_striker: B Fitchet
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dale-Bradley
+    - 2.1:
+        non_striker: B Fitchet
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dale-Bradley
+    - 2.2:
+        non_striker: M Dale-Bradley
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Fitchet
+    - 2.3:
+        non_striker: M Dale-Bradley
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Fitchet
+    - 2.4:
+        non_striker: M Dale-Bradley
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Fitchet
+    - 2.5:
+        non_striker: B Fitchet
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dale-Bradley
+    - 2.6:
+        non_striker: B Fitchet
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dale-Bradley
+    - 3.1:
+        non_striker: B Fitchet
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Dale-Bradley
+    - 3.2:
+        non_striker: B Fitchet
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dale-Bradley
+    - 3.3:
+        non_striker: B Fitchet
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dale-Bradley
+    - 3.4:
+        non_striker: M Dale-Bradley
+        bowler: HJ Manenti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: B Fitchet
+    - 3.5:
+        non_striker: B Fitchet
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Dale-Bradley
+    - 3.6:
+        non_striker: M Dale-Bradley
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Fitchet
+    - 4.1:
+        non_striker: B Fitchet
+        bowler: TJ Draca
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: M Dale-Bradley
+    - 4.2:
+        non_striker: M Dale-Bradley
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Fitchet
+    - 4.3:
+        non_striker: M Dale-Bradley
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Fitchet
+    - 4.4:
+        non_striker: M Dale-Bradley
+        bowler: TJ Draca
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Fitchet
+    - 4.5:
+        non_striker: M Dale-Bradley
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Fitchet
+    - 4.6:
+        non_striker: M Dale-Bradley
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: B Fitchet
+    - 4.7:
+        non_striker: B Fitchet
+        bowler: TJ Draca
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dale-Bradley
+    - 5.1:
+        non_striker: M Dale-Bradley
+        bowler: HJ Manenti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: B Fitchet
+    - 5.2:
+        non_striker: B Fitchet
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Dale-Bradley
+        wicket:
+          player_out: M Dale-Bradley
+          fielders:
+          - JA Burns
+          kind: caught
+    - 5.3:
+        non_striker: B Fitchet
+        bowler: HJ Manenti
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MWR Stokes
+    - 5.4:
+        non_striker: MWR Stokes
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Fitchet
+        wicket:
+          player_out: B Fitchet
+          kind: lbw
+    - 5.5:
+        non_striker: MWR Stokes
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 5.6:
+        non_striker: MWR Stokes
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 6.1:
+        non_striker: T Nightingale
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 6.2:
+        non_striker: MWR Stokes
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 6.3:
+        non_striker: T Nightingale
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 6.4:
+        non_striker: MWR Stokes
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 6.5:
+        non_striker: MWR Stokes
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 6.6:
+        non_striker: MWR Stokes
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 7.1:
+        non_striker: MWR Stokes
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 7.2:
+        non_striker: T Nightingale
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 7.3:
+        non_striker: T Nightingale
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 7.4:
+        non_striker: T Nightingale
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 7.5:
+        non_striker: MWR Stokes
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 7.6:
+        non_striker: MWR Stokes
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 8.1:
+        non_striker: T Nightingale
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MWR Stokes
+    - 8.2:
+        non_striker: T Nightingale
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 8.3:
+        non_striker: MWR Stokes
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 8.4:
+        non_striker: T Nightingale
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 8.5:
+        non_striker: T Nightingale
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 8.6:
+        non_striker: MWR Stokes
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Nightingale
+    - 9.1:
+        non_striker: T Nightingale
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 9.2:
+        non_striker: MWR Stokes
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 9.3:
+        non_striker: MWR Stokes
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 9.4:
+        non_striker: T Nightingale
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MWR Stokes
+    - 9.5:
+        non_striker: T Nightingale
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 9.6:
+        non_striker: T Nightingale
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MWR Stokes
+    - 10.1:
+        non_striker: T Nightingale
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+    - 10.2:
+        non_striker: T Nightingale
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MWR Stokes
+    - 10.3:
+        non_striker: T Nightingale
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MWR Stokes
+        wicket:
+          player_out: MWR Stokes
+          fielders:
+          - JA Burns
+          kind: caught
+    - 10.4:
+        non_striker: T Nightingale
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDA Damarell
+    - 10.5:
+        non_striker: IDA Damarell
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 10.6:
+        non_striker: T Nightingale
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IDA Damarell
+    - 11.1:
+        non_striker: IDA Damarell
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Nightingale
+    - 11.2:
+        non_striker: IDA Damarell
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 11.3:
+        non_striker: T Nightingale
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDA Damarell
+    - 11.4:
+        non_striker: IDA Damarell
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 11.5:
+        non_striker: T Nightingale
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IDA Damarell
+    - 11.6:
+        non_striker: T Nightingale
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IDA Damarell
+    - 12.1:
+        non_striker: T Nightingale
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IDA Damarell
+        wicket:
+          player_out: IDA Damarell
+          kind: bowled
+    - 12.2:
+        non_striker: T Nightingale
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OB Nightingale
+    - 12.3:
+        non_striker: T Nightingale
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 12.4:
+        non_striker: OB Nightingale
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Nightingale
+    - 12.5:
+        non_striker: OB Nightingale
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Nightingale
+    - 12.6:
+        non_striker: OB Nightingale
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+    - 13.1:
+        non_striker: T Nightingale
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OB Nightingale
+    - 13.2:
+        non_striker: T Nightingale
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 13.3:
+        non_striker: OB Nightingale
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 13.4:
+        non_striker: T Nightingale
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OB Nightingale
+    - 13.5:
+        non_striker: T Nightingale
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 13.6:
+        non_striker: OB Nightingale
+        bowler: CJPF Kalugamage
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Nightingale
+    - 14.1:
+        non_striker: T Nightingale
+        bowler: G Stewart
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: OB Nightingale
+    - 14.2:
+        non_striker: OB Nightingale
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 14.3:
+        non_striker: T Nightingale
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 14.4:
+        non_striker: OB Nightingale
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Nightingale
+    - 14.5:
+        non_striker: T Nightingale
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OB Nightingale
+    - 14.6:
+        non_striker: T Nightingale
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OB Nightingale
+    - 15.1:
+        non_striker: OB Nightingale
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Nightingale
+    - 15.2:
+        non_striker: OB Nightingale
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Nightingale
+        wicket:
+          player_out: T Nightingale
+          kind: caught and bowled
+    - 15.3:
+        non_striker: OB Nightingale
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LT Bichard
+    - 15.4:
+        non_striker: OB Nightingale
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LT Bichard
+    - 15.5:
+        non_striker: OB Nightingale
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LT Bichard
+        wicket:
+          player_out: LT Bichard
+          kind: bowled
+    - 15.6:
+        non_striker: OB Nightingale
+        bowler: BAD Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ACF Stokes
+    - 16.1:
+        non_striker: ACF Stokes
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 16.2:
+        non_striker: OB Nightingale
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ACF Stokes
+    - 16.3:
+        non_striker: OB Nightingale
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ACF Stokes
+    - 16.4:
+        non_striker: OB Nightingale
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ACF Stokes
+        wicket:
+          player_out: ACF Stokes
+          kind: lbw
+    - 16.5:
+        non_striker: OB Nightingale
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Forshaw
+    - 16.6:
+        non_striker: OB Nightingale
+        bowler: G Stewart
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Forshaw
+    - 17.1:
+        non_striker: OB Nightingale
+        bowler: HJ Manenti
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: C Forshaw
+    - 17.2:
+        non_striker: OB Nightingale
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Forshaw
+    - 17.3:
+        non_striker: OB Nightingale
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Forshaw
+    - 17.4:
+        non_striker: C Forshaw
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 17.5:
+        non_striker: OB Nightingale
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Forshaw
+    - 17.6:
+        non_striker: C Forshaw
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 18.1:
+        non_striker: C Forshaw
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 18.2:
+        non_striker: OB Nightingale
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Forshaw
+    - 18.3:
+        non_striker: C Forshaw
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 18.4:
+        non_striker: OB Nightingale
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Forshaw
+    - 18.5:
+        non_striker: OB Nightingale
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Forshaw
+    - 18.6:
+        non_striker: C Forshaw
+        bowler: Jaspreet Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 19.1:
+        non_striker: C Forshaw
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OB Nightingale
+    - 19.2:
+        non_striker: C Forshaw
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: OB Nightingale
+    - 19.3:
+        non_striker: C Forshaw
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: OB Nightingale
+    - 19.4:
+        non_striker: OB Nightingale
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Forshaw
+    - 19.5:
+        non_striker: C Forshaw
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: OB Nightingale
+        wicket:
+          player_out: OB Nightingale
+          fielders:
+          - M Campopiano
+          kind: caught
+    - 19.6:
+        non_striker: C Forshaw
+        bowler: HJ Manenti
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Harry Johnson
+- 2nd innings:
+    team: Italy
+    deliveries:
+    - 0.1:
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: EN Gay
+        batsman: J Mosca
+    - 0.2:
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: EN Gay
+        batsman: J Mosca
+    - 0.3:
+        non_striker: J Mosca
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EN Gay
+    - 0.4:
+        non_striker: J Mosca
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EN Gay
+    - 0.5:
+        non_striker: J Mosca
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EN Gay
+    - 0.6:
+        non_striker: J Mosca
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EN Gay
+        wicket:
+          player_out: EN Gay
+          fielders:
+          - B Fitchet
+          kind: caught
+    - 1.1:
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: JA Burns
+        batsman: J Mosca
+    - 1.2:
+        non_striker: J Mosca
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 1.3:
+        non_striker: J Mosca
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Burns
+    - 1.4:
+        non_striker: JA Burns
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 1.5:
+        non_striker: JA Burns
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 1.6:
+        non_striker: J Mosca
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 2.1:
+        non_striker: JA Burns
+        bowler: C Forshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 2.2:
+        non_striker: JA Burns
+        bowler: C Forshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 2.3:
+        non_striker: JA Burns
+        bowler: C Forshaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 2.4:
+        non_striker: JA Burns
+        bowler: C Forshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 2.5:
+        non_striker: J Mosca
+        bowler: C Forshaw
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 2.6:
+        non_striker: J Mosca
+        bowler: C Forshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Burns
+    - 3.1:
+        non_striker: J Mosca
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Burns
+    - 3.2:
+        non_striker: J Mosca
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Burns
+    - 3.3:
+        non_striker: JA Burns
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Mosca
+    - 3.4:
+        non_striker: JA Burns
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 3.5:
+        non_striker: JA Burns
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mosca
+    - 3.6:
+        non_striker: JA Burns
+        bowler: LT Bichard
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 4.1:
+        non_striker: J Mosca
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 4.2:
+        non_striker: J Mosca
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Burns
+    - 4.3:
+        non_striker: J Mosca
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 4.4:
+        non_striker: J Mosca
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Burns
+    - 4.5:
+        non_striker: J Mosca
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+    - 4.6:
+        non_striker: J Mosca
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Burns
+    - 5.1:
+        non_striker: J Mosca
+        bowler: C Forshaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Burns
+    - 5.2:
+        non_striker: J Mosca
+        bowler: C Forshaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Burns
+    - 5.3:
+        non_striker: J Mosca
+        bowler: C Forshaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Burns
+    - 5.4:
+        non_striker: J Mosca
+        bowler: C Forshaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Burns
+    - 5.5:
+        non_striker: J Mosca
+        bowler: C Forshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Burns
+    - 5.6:
+        non_striker: JA Burns
+        bowler: C Forshaw
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 6.1:
+        non_striker: J Mosca
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Burns
+    - 6.2:
+        non_striker: JA Burns
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 6.3:
+        non_striker: JA Burns
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 6.4:
+        non_striker: JA Burns
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 6.5:
+        non_striker: J Mosca
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Burns
+        wicket:
+          player_out: JA Burns
+          fielders:
+          - T Nightingale
+          kind: caught
+    - 6.6:
+        non_striker: J Mosca
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 7.1:
+        non_striker: J Mosca
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 7.2:
+        non_striker: HJ Manenti
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 7.3:
+        non_striker: HJ Manenti
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 7.4:
+        non_striker: HJ Manenti
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 7.5:
+        non_striker: J Mosca
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 7.6:
+        non_striker: J Mosca
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 8.1:
+        non_striker: J Mosca
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 8.2:
+        non_striker: HJ Manenti
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mosca
+    - 8.3:
+        non_striker: HJ Manenti
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 8.4:
+        non_striker: HJ Manenti
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 8.5:
+        non_striker: HJ Manenti
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Mosca
+    - 8.6:
+        non_striker: HJ Manenti
+        bowler: Harry Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Mosca
+    - 9.1:
+        non_striker: J Mosca
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 9.2:
+        non_striker: HJ Manenti
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 9.3:
+        non_striker: J Mosca
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 9.4:
+        non_striker: J Mosca
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 9.5:
+        non_striker: HJ Manenti
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 9.6:
+        non_striker: J Mosca
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Manenti
+    - 10.1:
+        non_striker: HJ Manenti
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 10.2:
+        non_striker: J Mosca
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 10.3:
+        non_striker: J Mosca
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 10.4:
+        non_striker: J Mosca
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 10.5:
+        non_striker: HJ Manenti
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Mosca
+    - 10.6:
+        non_striker: HJ Manenti
+        bowler: ACF Stokes
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mosca
+    - 11.1:
+        non_striker: J Mosca
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 11.2:
+        non_striker: HJ Manenti
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 11.3:
+        non_striker: J Mosca
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 11.4:
+        non_striker: J Mosca
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Manenti
+    - 11.5:
+        non_striker: J Mosca
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 11.6:
+        non_striker: J Mosca
+        bowler: A Martel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Manenti
+    - 12.1:
+        bowler: C Forshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: HJ Manenti
+        batsman: J Mosca
+    - 12.2:
+        non_striker: J Mosca
+        bowler: C Forshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 12.3:
+        non_striker: HJ Manenti
+        bowler: C Forshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Mosca
+    - 12.4:
+        non_striker: J Mosca
+        bowler: C Forshaw
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Manenti
+    - 12.5:
+        non_striker: HJ Manenti
+        bowler: C Forshaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mosca
+    - 12.6:
+        non_striker: HJ Manenti
+        bowler: C Forshaw
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mosca
+    - 13.1:
+        non_striker: J Mosca
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Manenti
+    - 13.2:
+        non_striker: J Mosca
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+    - 13.3:
+        non_striker: J Mosca
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Manenti
+        wicket:
+          player_out: HJ Manenti
+          fielders:
+          - ACF Stokes
+          kind: caught
+    - 13.4:
+        non_striker: J Mosca
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BAD Manenti
+    - 13.5:
+        non_striker: BAD Manenti
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Mosca
+    - 13.6:
+        non_striker: BAD Manenti
+        bowler: M Dale-Bradley
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: J Mosca

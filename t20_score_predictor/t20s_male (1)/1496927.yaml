@@ -1,0 +1,2076 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-16'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  dates:
+  - '2025-09-15'
+  gender: male
+  match_type: T20
+  match_type_number: 3458
+  outcome:
+    winner: Sri Lanka
+    by:
+      wickets: 4
+  overs: 20
+  player_of_match:
+  - P Nissanka
+  players:
+    Hong Kong:
+    - Zeeshan Ali
+    - Anshuman Rath
+    - Babar Hayat
+    - Nizakat Khan
+    - Yasim Murtaza
+    - Aizaz Khan
+    - Shahid Wasif
+    - KD Shah
+    - Ehsan Khan
+    - A Shukla
+    - Ateeq Iqbal
+    Sri Lanka:
+    - P Nissanka
+    - BKG Mendis
+    - K Mishara
+    - MDKJ Perera
+    - MD Shanaka
+    - KIC Asalanka
+    - PHKD Mendis
+    - PWH de Silva
+    - PVD Chameera
+    - M Theekshana
+    - N Thushara
+  registry:
+    people:
+      A Shukla: a1e80d06
+      AJ Pycroft: 685d3f80
+      Ahmed Shah Pakteen: '43602937'
+      Aizaz Khan: f6c2659d
+      Anshuman Rath: 552b228c
+      Ateeq Iqbal: 29b322c7
+      BKG Mendis: 5d1e7582
+      Babar Hayat: fbb657bb
+      Ehsan Khan: d3851cd8
+      Gazi Sohel: f0df3ed7
+      Izatullah Safi: '0429e73e'
+      K Mishara: 65cebd5d
+      KD Shah: d5ae21a2
+      KIC Asalanka: 732c038e
+      M Theekshana: f24c6701
+      MD Shanaka: 3ff033bb
+      MDKJ Perera: f21043a5
+      Masudur Rahman: 9581ac6b
+      N Thushara: ee1b6c27
+      Nizakat Khan: e3eb9e46
+      P Nissanka: 8ee36b18
+      PHKD Mendis: '08548b13'
+      PVD Chameera: 327b58d3
+      PWH de Silva: a97c8ec2
+      Shahid Wasif: 2cc08c3c
+      Yasim Murtaza: c9d05f1a
+      Zeeshan Ali: 987187b9
+  teams:
+  - Hong Kong
+  - Sri Lanka
+  toss:
+    winner: Sri Lanka
+    decision: field
+  umpires:
+  - Gazi Sohel
+  - Izatullah Safi
+  venue: Dubai International Cricket Stadium
+innings:
+- 1st innings:
+    team: Hong Kong
+    deliveries:
+    - 0.1:
+        non_striker: Anshuman Rath
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Zeeshan Ali
+    - 0.2:
+        non_striker: Zeeshan Ali
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 0.3:
+        non_striker: Zeeshan Ali
+        bowler: N Thushara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Anshuman Rath
+    - 0.4:
+        non_striker: Anshuman Rath
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 0.5:
+        non_striker: Anshuman Rath
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Ali
+    - 0.6:
+        non_striker: Anshuman Rath
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 1.1:
+        non_striker: Zeeshan Ali
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 1.2:
+        non_striker: Anshuman Rath
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 1.3:
+        non_striker: Zeeshan Ali
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 1.4:
+        non_striker: Zeeshan Ali
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Anshuman Rath
+    - 1.5:
+        non_striker: Anshuman Rath
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 1.6:
+        non_striker: Zeeshan Ali
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 2.1:
+        non_striker: Anshuman Rath
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Ali
+    - 2.2:
+        non_striker: Anshuman Rath
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 2.3:
+        non_striker: Zeeshan Ali
+        bowler: N Thushara
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Anshuman Rath
+    - 2.4:
+        non_striker: Zeeshan Ali
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 2.5:
+        non_striker: Anshuman Rath
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Zeeshan Ali
+    - 2.6:
+        non_striker: Anshuman Rath
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 3.1:
+        non_striker: Anshuman Rath
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 3.2:
+        non_striker: Anshuman Rath
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Ali
+    - 3.3:
+        non_striker: Anshuman Rath
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 3.4:
+        non_striker: Zeeshan Ali
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 3.5:
+        non_striker: Anshuman Rath
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Zeeshan Ali
+    - 3.6:
+        non_striker: Anshuman Rath
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Zeeshan Ali
+    - 3.7:
+        non_striker: Zeeshan Ali
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 4.1:
+        non_striker: Zeeshan Ali
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 4.2:
+        non_striker: Zeeshan Ali
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 4.3:
+        non_striker: Anshuman Rath
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Zeeshan Ali
+    - 4.4:
+        non_striker: Anshuman Rath
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+    - 4.5:
+        non_striker: Anshuman Rath
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Zeeshan Ali
+        wicket:
+          player_out: Zeeshan Ali
+          fielders:
+          - BKG Mendis
+          kind: caught
+    - 4.6:
+        non_striker: Anshuman Rath
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 5.1:
+        non_striker: Babar Hayat
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 5.2:
+        non_striker: Babar Hayat
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 5.3:
+        non_striker: Babar Hayat
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 5.4:
+        non_striker: Anshuman Rath
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 5.5:
+        non_striker: Anshuman Rath
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 5.6:
+        non_striker: Anshuman Rath
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 6.1:
+        non_striker: Babar Hayat
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 6.2:
+        non_striker: Babar Hayat
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 6.3:
+        non_striker: Anshuman Rath
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 6.4:
+        non_striker: Babar Hayat
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 6.5:
+        non_striker: Babar Hayat
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anshuman Rath
+    - 6.6:
+        non_striker: Babar Hayat
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 7.1:
+        non_striker: Babar Hayat
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 7.2:
+        non_striker: Anshuman Rath
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Babar Hayat
+    - 7.3:
+        non_striker: Anshuman Rath
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Babar Hayat
+    - 7.4:
+        non_striker: Babar Hayat
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 7.5:
+        non_striker: Anshuman Rath
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 7.6:
+        non_striker: Anshuman Rath
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+    - 8.1:
+        non_striker: Babar Hayat
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 8.2:
+        non_striker: Babar Hayat
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 8.3:
+        non_striker: Babar Hayat
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 8.4:
+        non_striker: Anshuman Rath
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Babar Hayat
+        wicket:
+          player_out: Babar Hayat
+          fielders:
+          - BKG Mendis
+          kind: stumped
+    - 8.5:
+        non_striker: Anshuman Rath
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 8.6:
+        non_striker: Anshuman Rath
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 9.1:
+        non_striker: Nizakat Khan
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 9.2:
+        non_striker: Anshuman Rath
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 9.3:
+        non_striker: Anshuman Rath
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 9.4:
+        non_striker: Anshuman Rath
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 9.5:
+        non_striker: Nizakat Khan
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anshuman Rath
+    - 9.6:
+        non_striker: Nizakat Khan
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 10.1:
+        non_striker: Nizakat Khan
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 10.2:
+        non_striker: Anshuman Rath
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nizakat Khan
+    - 10.3:
+        non_striker: Anshuman Rath
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 10.4:
+        non_striker: Anshuman Rath
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 10.5:
+        non_striker: Nizakat Khan
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 10.6:
+        non_striker: Anshuman Rath
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 11.1:
+        non_striker: Anshuman Rath
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 11.2:
+        non_striker: Nizakat Khan
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 11.3:
+        non_striker: Nizakat Khan
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 11.4:
+        non_striker: Anshuman Rath
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 11.5:
+        non_striker: Anshuman Rath
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 11.6:
+        non_striker: Nizakat Khan
+        bowler: KIC Asalanka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 12.1:
+        non_striker: Nizakat Khan
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 12.2:
+        non_striker: Anshuman Rath
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 12.3:
+        non_striker: Nizakat Khan
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Anshuman Rath
+    - 12.4:
+        non_striker: Nizakat Khan
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 12.5:
+        non_striker: Anshuman Rath
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 12.6:
+        non_striker: Anshuman Rath
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Nizakat Khan
+    - 13.1:
+        non_striker: Anshuman Rath
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 13.2:
+        non_striker: Anshuman Rath
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 13.3:
+        non_striker: Nizakat Khan
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anshuman Rath
+    - 13.4:
+        non_striker: Nizakat Khan
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anshuman Rath
+    - 13.5:
+        non_striker: Nizakat Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 13.6:
+        non_striker: Nizakat Khan
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Anshuman Rath
+    - 13.7:
+        non_striker: Nizakat Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 13.8:
+        non_striker: Anshuman Rath
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 13.9:
+        non_striker: Anshuman Rath
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 14.1:
+        non_striker: Nizakat Khan
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 14.2:
+        non_striker: Anshuman Rath
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 14.3:
+        non_striker: Nizakat Khan
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 14.4:
+        non_striker: Nizakat Khan
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Anshuman Rath
+    - 14.5:
+        non_striker: Nizakat Khan
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 14.6:
+        non_striker: Nizakat Khan
+        bowler: PWH de Silva
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 15.1:
+        non_striker: Nizakat Khan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Anshuman Rath
+    - 15.2:
+        non_striker: Anshuman Rath
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nizakat Khan
+    - 15.3:
+        non_striker: Anshuman Rath
+        bowler: PVD Chameera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Nizakat Khan
+    - 15.4:
+        non_striker: Nizakat Khan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+    - 15.5:
+        non_striker: Nizakat Khan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Anshuman Rath
+        wicket:
+          player_out: Anshuman Rath
+          fielders:
+          - PHKD Mendis
+          kind: caught
+    - 15.6:
+        non_striker: Nizakat Khan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasim Murtaza
+    - 16.1:
+        non_striker: Yasim Murtaza
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 16.2:
+        non_striker: Yasim Murtaza
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 16.3:
+        non_striker: Nizakat Khan
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yasim Murtaza
+    - 16.4:
+        non_striker: Yasim Murtaza
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 16.5:
+        non_striker: Yasim Murtaza
+        bowler: N Thushara
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Nizakat Khan
+    - 16.6:
+        non_striker: Yasim Murtaza
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 16.7:
+        non_striker: Nizakat Khan
+        bowler: N Thushara
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yasim Murtaza
+    - 17.1:
+        non_striker: Yasim Murtaza
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 17.2:
+        non_striker: Nizakat Khan
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yasim Murtaza
+        wicket:
+          player_out: Yasim Murtaza
+          fielders:
+          - PVD Chameera
+          kind: caught
+    - 17.3:
+        non_striker: Nizakat Khan
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aizaz Khan
+    - 17.4:
+        non_striker: Aizaz Khan
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 17.5:
+        non_striker: Nizakat Khan
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aizaz Khan
+    - 17.6:
+        non_striker: Aizaz Khan
+        bowler: MD Shanaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 18.1:
+        non_striker: Aizaz Khan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 18.2:
+        non_striker: Nizakat Khan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aizaz Khan
+    - 18.3:
+        non_striker: Aizaz Khan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 18.4:
+        non_striker: Nizakat Khan
+        bowler: PVD Chameera
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Aizaz Khan
+    - 18.5:
+        non_striker: Aizaz Khan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nizakat Khan
+    - 18.6:
+        non_striker: Aizaz Khan
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nizakat Khan
+    - 19.1:
+        non_striker: Nizakat Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aizaz Khan
+    - 19.2:
+        non_striker: Aizaz Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+    - 19.3:
+        non_striker: Nizakat Khan
+        bowler: M Theekshana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Aizaz Khan
+    - 19.4:
+        non_striker: Aizaz Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nizakat Khan
+    - 19.5:
+        non_striker: Aizaz Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nizakat Khan
+    - 19.6:
+        non_striker: Aizaz Khan
+        bowler: M Theekshana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nizakat Khan
+- 2nd innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: BKG Mendis
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 0.2:
+        non_striker: BKG Mendis
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.3:
+        non_striker: BKG Mendis
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 0.4:
+        non_striker: BKG Mendis
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.5:
+        non_striker: BKG Mendis
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 0.6:
+        non_striker: BKG Mendis
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 1.1:
+        non_striker: P Nissanka
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 1.2:
+        non_striker: P Nissanka
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 1.3:
+        non_striker: P Nissanka
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 1.4:
+        non_striker: P Nissanka
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 1.5:
+        non_striker: BKG Mendis
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 1.6:
+        non_striker: BKG Mendis
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 2.1:
+        non_striker: P Nissanka
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.2:
+        non_striker: P Nissanka
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.3:
+        non_striker: P Nissanka
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.4:
+        non_striker: P Nissanka
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.5:
+        non_striker: P Nissanka
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.6:
+        non_striker: P Nissanka
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 3.1:
+        non_striker: BKG Mendis
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 3.2:
+        non_striker: BKG Mendis
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 3.3:
+        non_striker: P Nissanka
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 3.4:
+        non_striker: P Nissanka
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 3.5:
+        non_striker: P Nissanka
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 3.6:
+        non_striker: P Nissanka
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+        wicket:
+          player_out: BKG Mendis
+          fielders:
+          - Anshuman Rath
+          kind: caught
+    - 4.1:
+        non_striker: K Mishara
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Nissanka
+    - 4.2:
+        non_striker: P Nissanka
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 4.3:
+        non_striker: P Nissanka
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 4.4:
+        non_striker: P Nissanka
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 4.5:
+        non_striker: P Nissanka
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 4.6:
+        non_striker: P Nissanka
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 5.1:
+        non_striker: K Mishara
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 5.2:
+        non_striker: P Nissanka
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mishara
+    - 5.3:
+        non_striker: K Mishara
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 5.4:
+        non_striker: K Mishara
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 5.5:
+        non_striker: K Mishara
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 5.6:
+        non_striker: P Nissanka
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mishara
+    - 6.1:
+        non_striker: P Nissanka
+        bowler: KD Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mishara
+    - 6.2:
+        non_striker: K Mishara
+        bowler: KD Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 6.3:
+        non_striker: K Mishara
+        bowler: KD Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 6.4:
+        non_striker: K Mishara
+        bowler: KD Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 6.5:
+        non_striker: K Mishara
+        bowler: KD Shah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 6.6:
+        non_striker: K Mishara
+        bowler: KD Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 7.1:
+        non_striker: P Nissanka
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 7.2:
+        non_striker: P Nissanka
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Mishara
+    - 7.3:
+        non_striker: P Nissanka
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mishara
+    - 7.4:
+        non_striker: K Mishara
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 7.5:
+        non_striker: K Mishara
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 7.6:
+        non_striker: P Nissanka
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mishara
+    - 8.1:
+        non_striker: P Nissanka
+        bowler: KD Shah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Mishara
+    - 8.2:
+        non_striker: P Nissanka
+        bowler: KD Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mishara
+    - 8.3:
+        non_striker: K Mishara
+        bowler: KD Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 8.4:
+        non_striker: P Nissanka
+        bowler: KD Shah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Mishara
+    - 8.5:
+        non_striker: P Nissanka
+        bowler: KD Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Mishara
+    - 8.6:
+        non_striker: K Mishara
+        bowler: KD Shah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 9.1:
+        non_striker: K Mishara
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 9.2:
+        non_striker: P Nissanka
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+    - 9.3:
+        non_striker: P Nissanka
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Mishara
+        wicket:
+          player_out: K Mishara
+          fielders:
+          - Babar Hayat
+          kind: caught
+    - 9.4:
+        non_striker: P Nissanka
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 9.5:
+        non_striker: MDKJ Perera
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 9.6:
+        non_striker: P Nissanka
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 10.1:
+        non_striker: P Nissanka
+        bowler: Ehsan Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MDKJ Perera
+    - 10.2:
+        non_striker: MDKJ Perera
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Nissanka
+    - 10.3:
+        non_striker: P Nissanka
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 10.4:
+        non_striker: MDKJ Perera
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 10.5:
+        non_striker: MDKJ Perera
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 10.6:
+        non_striker: MDKJ Perera
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 11.1:
+        non_striker: P Nissanka
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 11.2:
+        non_striker: P Nissanka
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 11.3:
+        non_striker: MDKJ Perera
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Nissanka
+    - 11.4:
+        non_striker: MDKJ Perera
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Nissanka
+    - 11.5:
+        non_striker: MDKJ Perera
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 11.6:
+        non_striker: MDKJ Perera
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 12.1:
+        non_striker: MDKJ Perera
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 12.2:
+        non_striker: P Nissanka
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 12.3:
+        non_striker: MDKJ Perera
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 12.4:
+        non_striker: P Nissanka
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 12.5:
+        non_striker: MDKJ Perera
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 12.6:
+        non_striker: MDKJ Perera
+        bowler: A Shukla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 13.1:
+        non_striker: P Nissanka
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MDKJ Perera
+    - 13.2:
+        non_striker: P Nissanka
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 13.3:
+        non_striker: MDKJ Perera
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 13.4:
+        non_striker: MDKJ Perera
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 13.5:
+        non_striker: MDKJ Perera
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 13.6:
+        non_striker: MDKJ Perera
+        bowler: Aizaz Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 14.1:
+        non_striker: P Nissanka
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MDKJ Perera
+    - 14.2:
+        non_striker: P Nissanka
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 14.3:
+        non_striker: MDKJ Perera
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 14.4:
+        non_striker: P Nissanka
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+    - 14.5:
+        non_striker: P Nissanka
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+    - 14.6:
+        non_striker: MDKJ Perera
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 15.1:
+        non_striker: P Nissanka
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MDKJ Perera
+        wicket:
+          player_out: P Nissanka
+          fielders:
+          - Yasim Murtaza
+          - Shahid Wasif
+          kind: run out
+    - 15.2:
+        non_striker: MD Shanaka
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MDKJ Perera
+        wicket:
+          player_out: MDKJ Perera
+          kind: lbw
+    - 15.3:
+        non_striker: MD Shanaka
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 15.4:
+        non_striker: MD Shanaka
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 15.5:
+        non_striker: KIC Asalanka
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 15.6:
+        non_striker: MD Shanaka
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 16.1:
+        non_striker: MD Shanaka
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 16.2:
+        non_striker: MD Shanaka
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+        wicket:
+          player_out: KIC Asalanka
+          fielders:
+          - A Shukla
+          kind: caught
+    - 16.3:
+        non_striker: MD Shanaka
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PHKD Mendis
+    - 16.4:
+        non_striker: MD Shanaka
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+    - 16.5:
+        non_striker: MD Shanaka
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PHKD Mendis
+    - 16.6:
+        non_striker: MD Shanaka
+        bowler: Ehsan Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PHKD Mendis
+    - 17.1:
+        non_striker: MD Shanaka
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PHKD Mendis
+        wicket:
+          player_out: PHKD Mendis
+          fielders:
+          - Babar Hayat
+          kind: caught
+    - 17.2:
+        non_striker: MD Shanaka
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 17.3:
+        non_striker: PWH de Silva
+        bowler: Yasim Murtaza
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: MD Shanaka
+    - 17.4:
+        non_striker: MD Shanaka
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PWH de Silva
+    - 17.5:
+        non_striker: MD Shanaka
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 17.6:
+        non_striker: MD Shanaka
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PWH de Silva
+    - 17.7:
+        non_striker: PWH de Silva
+        bowler: Yasim Murtaza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 18.1:
+        non_striker: MD Shanaka
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PWH de Silva
+    - 18.2:
+        non_striker: MD Shanaka
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 18.3:
+        non_striker: MD Shanaka
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PWH de Silva
+    - 18.4:
+        non_striker: MD Shanaka
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva
+    - 18.5:
+        non_striker: MD Shanaka
+        bowler: Ateeq Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PWH de Silva

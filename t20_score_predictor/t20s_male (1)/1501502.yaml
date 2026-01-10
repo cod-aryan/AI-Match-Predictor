@@ -1,0 +1,2202 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-09-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Malkerns
+  dates:
+  - '2025-09-12'
+  gender: male
+  match_type: T20
+  match_type_number: 3447
+  outcome:
+    winner: Eswatini
+    by:
+      runs: 31
+  overs: 20
+  player_of_match:
+  - M Khojbariya
+  players:
+    Eswatini:
+    - Adil Butt
+    - M Kulfiwala
+    - M Khojbariya
+    - Eric Phiri
+    - H Rashid
+    - H Jangariya
+    - R Sandeep
+    - Umair Qasim
+    - M Jele
+    - M Magagula
+    - S Jele
+    Mozambique:
+    - JJ Huo
+    - LI Salomone
+    - JM Joao
+    - VE Tembo
+    - AA Navicha
+    - CB Roposo
+    - MF Manjate
+    - LF Mavume
+    - JJ Chicuele
+    - MA Algi
+    - CM Mbebe
+  registry:
+    people:
+      AA Navicha: 5c805a60
+      Adil Butt: fde53ec1
+      CB Roposo: 31f01815
+      CM Mbebe: e7db2a56
+      Eric Phiri: b6355062
+      H Jangariya: 0ec2277a
+      H Rashid: 725c73f2
+      JJ Chicuele: 97b5f23d
+      JJ Huo: d816fc1c
+      JM Joao: 2ef6c852
+      LF Mavume: 5b531900
+      LI Salomone: a7b67d5d
+      M Jele: 1a8cedc8
+      M Khojbariya: e1631e47
+      M Kulfiwala: 1f5622a9
+      M Magagula: 7a787b98
+      MA Algi: 17f507e7
+      MF Manjate: 882fd091
+      R Sandeep: 175937f6
+      S Jele: 1c5c65d6
+      Umair Qasim: e086735b
+      VE Tembo: 1439a13c
+  teams:
+  - Eswatini
+  - Mozambique
+  toss:
+    winner: Eswatini
+    decision: bat
+  venue: Malkerns Country Club oval
+innings:
+- 1st innings:
+    team: Eswatini
+    deliveries:
+    - 0.1:
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Kulfiwala
+        batsman: Adil Butt
+    - 0.2:
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: M Kulfiwala
+        batsman: Adil Butt
+    - 0.3:
+        non_striker: M Kulfiwala
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Adil Butt
+        wicket:
+          player_out: Adil Butt
+          fielders:
+          - MA Algi
+          kind: caught
+    - 0.4:
+        non_striker: M Kulfiwala
+        bowler: JJ Huo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Khojbariya
+    - 0.5:
+        non_striker: M Kulfiwala
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+    - 0.6:
+        non_striker: M Kulfiwala
+        bowler: JJ Huo
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: M Khojbariya
+    - 0.7:
+        non_striker: M Kulfiwala
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+        wicket:
+          player_out: M Kulfiwala
+          fielders:
+          - JM Joao
+          - MF Manjate
+          kind: run out
+    - 1.1:
+        non_striker: Eric Phiri
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Khojbariya
+        wicket:
+          player_out: M Khojbariya
+          fielders:
+          - JJ Huo
+          kind: caught
+    - 1.2:
+        non_striker: Eric Phiri
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Rashid
+    - 1.3:
+        non_striker: Eric Phiri
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Rashid
+    - 1.4:
+        non_striker: Eric Phiri
+        bowler: MA Algi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Rashid
+    - 1.5:
+        non_striker: Eric Phiri
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Rashid
+    - 1.6:
+        non_striker: Eric Phiri
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Rashid
+    - 1.7:
+        non_striker: H Rashid
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 2.1:
+        non_striker: Eric Phiri
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Rashid
+    - 2.2:
+        non_striker: H Rashid
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eric Phiri
+    - 2.3:
+        non_striker: Eric Phiri
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Rashid
+    - 2.4:
+        non_striker: H Rashid
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 2.5:
+        non_striker: H Rashid
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 2.6:
+        non_striker: H Rashid
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eric Phiri
+    - 3.1:
+        non_striker: H Rashid
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 3.2:
+        non_striker: H Rashid
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Eric Phiri
+    - 3.3:
+        non_striker: H Rashid
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Eric Phiri
+    - 3.4:
+        non_striker: H Rashid
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Eric Phiri
+    - 3.5:
+        non_striker: H Rashid
+        bowler: MA Algi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Eric Phiri
+    - 3.6:
+        non_striker: H Rashid
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 3.7:
+        non_striker: H Rashid
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 4.1:
+        non_striker: Eric Phiri
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Rashid
+    - 4.2:
+        non_striker: Eric Phiri
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Rashid
+    - 4.3:
+        non_striker: Eric Phiri
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Rashid
+    - 4.4:
+        non_striker: Eric Phiri
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Rashid
+    - 4.5:
+        non_striker: Eric Phiri
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Rashid
+    - 4.6:
+        non_striker: H Rashid
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eric Phiri
+    - 5.1:
+        non_striker: H Rashid
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 5.2:
+        non_striker: H Rashid
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eric Phiri
+    - 5.3:
+        non_striker: Eric Phiri
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Rashid
+    - 5.4:
+        non_striker: Eric Phiri
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Rashid
+    - 5.5:
+        non_striker: Eric Phiri
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Rashid
+    - 5.6:
+        non_striker: H Rashid
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 6.1:
+        non_striker: Eric Phiri
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Rashid
+    - 6.2:
+        non_striker: H Rashid
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eric Phiri
+    - 6.3:
+        non_striker: Eric Phiri
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Rashid
+    - 6.4:
+        non_striker: Eric Phiri
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Rashid
+    - 6.5:
+        non_striker: Eric Phiri
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Rashid
+    - 6.6:
+        non_striker: Eric Phiri
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Rashid
+    - 7.1:
+        non_striker: H Rashid
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 7.2:
+        non_striker: H Rashid
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Eric Phiri
+    - 7.3:
+        non_striker: H Rashid
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 7.4:
+        non_striker: H Rashid
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 7.5:
+        non_striker: H Rashid
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 7.6:
+        non_striker: H Rashid
+        bowler: MA Algi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Eric Phiri
+    - 8.1:
+        non_striker: Eric Phiri
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Rashid
+    - 8.2:
+        non_striker: Eric Phiri
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Rashid
+    - 8.3:
+        non_striker: Eric Phiri
+        bowler: CM Mbebe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Rashid
+    - 8.4:
+        non_striker: Eric Phiri
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Rashid
+    - 8.5:
+        non_striker: Eric Phiri
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Rashid
+    - 8.6:
+        non_striker: Eric Phiri
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Rashid
+    - 8.7:
+        non_striker: H Rashid
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 9.1:
+        non_striker: Eric Phiri
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Rashid
+        wicket:
+          player_out: H Rashid
+          fielders:
+          - LI Salomone
+          kind: caught
+    - 9.2:
+        non_striker: Eric Phiri
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 9.3:
+        non_striker: Eric Phiri
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Jangariya
+    - 9.4:
+        non_striker: Eric Phiri
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 9.5:
+        non_striker: Eric Phiri
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 9.6:
+        non_striker: Eric Phiri
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 10.1:
+        non_striker: H Jangariya
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 10.2:
+        non_striker: H Jangariya
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 10.3:
+        non_striker: H Jangariya
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Eric Phiri
+    - 10.4:
+        non_striker: H Jangariya
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 10.5:
+        non_striker: H Jangariya
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eric Phiri
+    - 10.6:
+        non_striker: Eric Phiri
+        bowler: CM Mbebe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Jangariya
+    - 11.1:
+        non_striker: H Jangariya
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 11.2:
+        non_striker: H Jangariya
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Eric Phiri
+    - 11.3:
+        non_striker: Eric Phiri
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 11.4:
+        non_striker: Eric Phiri
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 11.5:
+        non_striker: H Jangariya
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+    - 11.6:
+        non_striker: H Jangariya
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Eric Phiri
+    - 12.1:
+        non_striker: Eric Phiri
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 12.2:
+        non_striker: H Jangariya
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Eric Phiri
+    - 12.3:
+        non_striker: H Jangariya
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Eric Phiri
+        wicket:
+          player_out: Eric Phiri
+          fielders:
+          - CB Roposo
+          kind: caught
+    - 12.4:
+        non_striker: H Jangariya
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 12.5:
+        non_striker: H Jangariya
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 12.6:
+        non_striker: H Jangariya
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 13.1:
+        non_striker: R Sandeep
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 13.2:
+        non_striker: R Sandeep
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 13.3:
+        non_striker: H Jangariya
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandeep
+    - 13.4:
+        non_striker: R Sandeep
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Jangariya
+    - 13.5:
+        non_striker: R Sandeep
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 13.6:
+        non_striker: H Jangariya
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandeep
+    - 14.1:
+        non_striker: H Jangariya
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 14.2:
+        non_striker: H Jangariya
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 14.3:
+        non_striker: H Jangariya
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandeep
+    - 14.4:
+        non_striker: R Sandeep
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Jangariya
+    - 14.5:
+        non_striker: R Sandeep
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 14.6:
+        non_striker: H Jangariya
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 15.1:
+        non_striker: R Sandeep
+        bowler: CB Roposo
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        batsman: H Jangariya
+    - 15.2:
+        non_striker: R Sandeep
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Jangariya
+    - 15.3:
+        non_striker: R Sandeep
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Jangariya
+    - 15.4:
+        non_striker: R Sandeep
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Jangariya
+    - 15.5:
+        non_striker: R Sandeep
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 15.6:
+        non_striker: H Jangariya
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Sandeep
+    - 15.7:
+        non_striker: H Jangariya
+        bowler: CB Roposo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Sandeep
+        wicket:
+          player_out: R Sandeep
+          fielders:
+          - CB Roposo
+          - MF Manjate
+          kind: run out
+    - 16.1:
+        non_striker: H Jangariya
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Qasim
+    - 16.2:
+        non_striker: Umair Qasim
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 16.3:
+        non_striker: Umair Qasim
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+    - 16.4:
+        non_striker: Umair Qasim
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Jangariya
+    - 16.5:
+        non_striker: Umair Qasim
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 16.6:
+        non_striker: H Jangariya
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Qasim
+    - 17.1:
+        non_striker: H Jangariya
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Umair Qasim
+    - 17.2:
+        non_striker: H Jangariya
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Qasim
+    - 17.3:
+        non_striker: Umair Qasim
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 17.4:
+        non_striker: H Jangariya
+        bowler: JJ Huo
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Umair Qasim
+    - 17.5:
+        non_striker: Umair Qasim
+        bowler: JJ Huo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Jangariya
+    - 17.6:
+        non_striker: Umair Qasim
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 17.7:
+        non_striker: H Jangariya
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umair Qasim
+    - 17.8:
+        non_striker: Umair Qasim
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 18.1:
+        non_striker: Umair Qasim
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 18.2:
+        non_striker: H Jangariya
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Umair Qasim
+    - 18.3:
+        non_striker: H Jangariya
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umair Qasim
+        wicket:
+          player_out: Umair Qasim
+          fielders:
+          - VE Tembo
+          kind: caught
+    - 18.4:
+        non_striker: H Jangariya
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jele
+    - 18.5:
+        non_striker: H Jangariya
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jele
+    - 18.6:
+        non_striker: M Jele
+        bowler: LI Salomone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Jangariya
+    - 19.1:
+        non_striker: M Jele
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Jangariya
+        wicket:
+          player_out: H Jangariya
+          kind: bowled
+    - 19.2:
+        non_striker: M Jele
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Magagula
+    - 19.3:
+        non_striker: M Jele
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Magagula
+    - 19.4:
+        non_striker: M Magagula
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Jele
+    - 19.5:
+        non_striker: M Magagula
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Jele
+    - 19.6:
+        non_striker: M Jele
+        bowler: JJ Huo
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Magagula
+- 2nd innings:
+    team: Mozambique
+    deliveries:
+    - 0.1:
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: LI Salomone
+        batsman: JJ Huo
+    - 0.2:
+        non_striker: JJ Huo
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LI Salomone
+    - 0.3:
+        non_striker: JJ Huo
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LI Salomone
+        wicket:
+          player_out: LI Salomone
+          fielders:
+          - M Magagula
+          kind: run out
+    - 0.4:
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: JM Joao
+        batsman: JJ Huo
+    - 0.5:
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: JM Joao
+        batsman: JJ Huo
+    - 0.6:
+        non_striker: JM Joao
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Huo
+    - 1.1:
+        non_striker: JM Joao
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Huo
+    - 1.2:
+        non_striker: JM Joao
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Huo
+    - 1.3:
+        non_striker: JJ Huo
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 1.4:
+        non_striker: JJ Huo
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 1.5:
+        non_striker: JJ Huo
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 1.6:
+        non_striker: JJ Huo
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 2.1:
+        non_striker: JM Joao
+        bowler: Adil Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JJ Huo
+    - 2.2:
+        non_striker: JM Joao
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Huo
+    - 2.3:
+        non_striker: JM Joao
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Huo
+    - 2.4:
+        non_striker: JJ Huo
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 2.5:
+        non_striker: JJ Huo
+        bowler: Adil Butt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Joao
+    - 2.6:
+        non_striker: JJ Huo
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Joao
+    - 2.7:
+        non_striker: JM Joao
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+    - 2.8:
+        non_striker: JM Joao
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Huo
+    - 3.1:
+        non_striker: JJ Huo
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Joao
+    - 3.2:
+        non_striker: JJ Huo
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 3.3:
+        non_striker: JJ Huo
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Joao
+    - 3.4:
+        non_striker: JM Joao
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+    - 3.5:
+        non_striker: JM Joao
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Huo
+    - 3.6:
+        non_striker: JJ Huo
+        bowler: R Sandeep
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Joao
+    - 4.1:
+        non_striker: JJ Huo
+        bowler: M Jele
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: JM Joao
+    - 4.2:
+        non_striker: JJ Huo
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 4.3:
+        non_striker: JJ Huo
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 4.4:
+        non_striker: JJ Huo
+        bowler: M Jele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Joao
+    - 4.5:
+        non_striker: JJ Huo
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Joao
+    - 4.6:
+        non_striker: JJ Huo
+        bowler: M Jele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JM Joao
+    - 4.7:
+        non_striker: JJ Huo
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Joao
+    - 4.8:
+        non_striker: JJ Huo
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 4.9:
+        non_striker: JJ Huo
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Joao
+    - 5.1:
+        non_striker: JJ Huo
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 5.2:
+        non_striker: JJ Huo
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+    - 5.3:
+        non_striker: JJ Huo
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Joao
+    - 5.4:
+        non_striker: JM Joao
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+    - 5.5:
+        non_striker: JM Joao
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Huo
+        wicket:
+          player_out: JJ Huo
+          fielders:
+          - M Khojbariya
+          kind: caught
+    - 5.6:
+        non_striker: JM Joao
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VE Tembo
+    - 6.1:
+        non_striker: VE Tembo
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Joao
+    - 6.2:
+        non_striker: VE Tembo
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Joao
+    - 6.3:
+        non_striker: JM Joao
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VE Tembo
+    - 6.4:
+        non_striker: JM Joao
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VE Tembo
+        wicket:
+          player_out: VE Tembo
+          kind: caught and bowled
+    - 6.5:
+        non_striker: JM Joao
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Navicha
+    - 6.6:
+        non_striker: AA Navicha
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Joao
+        wicket:
+          player_out: JM Joao
+          fielders:
+          - M Khojbariya
+          kind: caught
+    - 7.1:
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CB Roposo
+        batsman: AA Navicha
+    - 7.2:
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CB Roposo
+        batsman: AA Navicha
+    - 7.3:
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CB Roposo
+        batsman: AA Navicha
+    - 7.4:
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CB Roposo
+        batsman: AA Navicha
+    - 7.5:
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CB Roposo
+        batsman: AA Navicha
+    - 7.6:
+        non_striker: CB Roposo
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Navicha
+    - 8.1:
+        non_striker: AA Navicha
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CB Roposo
+    - 8.2:
+        non_striker: CB Roposo
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Navicha
+    - 8.3:
+        non_striker: AA Navicha
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CB Roposo
+    - 8.4:
+        non_striker: AA Navicha
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CB Roposo
+    - 8.5:
+        non_striker: AA Navicha
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Roposo
+    - 8.6:
+        non_striker: AA Navicha
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Roposo
+    - 9.1:
+        non_striker: CB Roposo
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Navicha
+    - 9.2:
+        non_striker: AA Navicha
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Roposo
+    - 9.3:
+        non_striker: AA Navicha
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CB Roposo
+    - 9.4:
+        non_striker: CB Roposo
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Navicha
+    - 9.5:
+        non_striker: AA Navicha
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CB Roposo
+    - 9.6:
+        non_striker: CB Roposo
+        bowler: H Rashid
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Navicha
+    - 10.1:
+        non_striker: CB Roposo
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AA Navicha
+    - 10.2:
+        non_striker: CB Roposo
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Navicha
+    - 10.3:
+        non_striker: CB Roposo
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Navicha
+    - 10.4:
+        non_striker: CB Roposo
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AA Navicha
+    - 10.5:
+        non_striker: CB Roposo
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AA Navicha
+    - 10.6:
+        non_striker: CB Roposo
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AA Navicha
+    - 11.1:
+        non_striker: AA Navicha
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CB Roposo
+    - 11.2:
+        non_striker: CB Roposo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Navicha
+    - 11.3:
+        non_striker: AA Navicha
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CB Roposo
+    - 11.4:
+        non_striker: CB Roposo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Navicha
+    - 11.5:
+        non_striker: CB Roposo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Navicha
+    - 11.6:
+        non_striker: CB Roposo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Navicha
+    - 12.1:
+        non_striker: AA Navicha
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Roposo
+    - 12.2:
+        non_striker: AA Navicha
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Roposo
+    - 12.3:
+        non_striker: AA Navicha
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Roposo
+    - 12.4:
+        non_striker: AA Navicha
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CB Roposo
+    - 12.5:
+        non_striker: CB Roposo
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Navicha
+    - 12.6:
+        non_striker: AA Navicha
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Roposo
+    - 13.1:
+        non_striker: CB Roposo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Navicha
+        wicket:
+          player_out: AA Navicha
+          fielders:
+          - Adil Butt
+          kind: caught
+    - 13.2:
+        non_striker: CB Roposo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MF Manjate
+        wicket:
+          player_out: MF Manjate
+          kind: bowled
+    - 13.3:
+        non_striker: CB Roposo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Mavume
+    - 13.4:
+        non_striker: CB Roposo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Mavume
+    - 13.5:
+        non_striker: CB Roposo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Mavume
+    - 13.6:
+        non_striker: CB Roposo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Mavume
+    - 14.1:
+        non_striker: LF Mavume
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CB Roposo
+    - 14.2:
+        non_striker: CB Roposo
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Mavume
+    - 14.3:
+        non_striker: CB Roposo
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Mavume
+    - 14.4:
+        non_striker: CB Roposo
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Mavume
+    - 14.5:
+        non_striker: CB Roposo
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LF Mavume
+    - 14.6:
+        non_striker: CB Roposo
+        bowler: Umair Qasim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LF Mavume
+    - 15.1:
+        non_striker: CB Roposo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LF Mavume
+        wicket:
+          player_out: LF Mavume
+          kind: bowled
+    - 15.2:
+        non_striker: CB Roposo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Chicuele
+    - 15.3:
+        non_striker: CB Roposo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Chicuele
+    - 15.4:
+        non_striker: CB Roposo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Chicuele
+    - 15.5:
+        non_striker: CB Roposo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Chicuele
+    - 15.6:
+        non_striker: CB Roposo
+        bowler: M Khojbariya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Chicuele
+    - 16.1:
+        non_striker: JJ Chicuele
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CB Roposo
+    - 16.2:
+        non_striker: JJ Chicuele
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CB Roposo
+        wicket:
+          player_out: CB Roposo
+          kind: lbw
+    - 16.3:
+        non_striker: JJ Chicuele
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Algi
+    - 16.4:
+        non_striker: JJ Chicuele
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Algi
+    - 16.5:
+        non_striker: JJ Chicuele
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MA Algi
+    - 16.6:
+        non_striker: JJ Chicuele
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Algi
+    - 17.1:
+        non_striker: MA Algi
+        bowler: M Jele
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JJ Chicuele
+    - 17.2:
+        non_striker: JJ Chicuele
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Algi
+    - 17.3:
+        non_striker: JJ Chicuele
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Algi
+    - 17.4:
+        non_striker: JJ Chicuele
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Algi
+    - 17.5:
+        non_striker: JJ Chicuele
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Algi
+    - 17.6:
+        non_striker: JJ Chicuele
+        bowler: M Jele
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MA Algi
+    - 18.1:
+        non_striker: MA Algi
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JJ Chicuele
+    - 18.2:
+        non_striker: MA Algi
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Chicuele
+    - 18.3:
+        non_striker: MA Algi
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Chicuele
+    - 18.4:
+        non_striker: JJ Chicuele
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MA Algi
+        wicket:
+          player_out: MA Algi
+          kind: bowled
+    - 18.5:
+        non_striker: JJ Chicuele
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Mbebe
+    - 18.6:
+        non_striker: JJ Chicuele
+        bowler: Adil Butt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Mbebe
+    - 19.1:
+        non_striker: CM Mbebe
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JJ Chicuele
+    - 19.2:
+        non_striker: CM Mbebe
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JJ Chicuele
+    - 19.3:
+        non_striker: CM Mbebe
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JJ Chicuele
+    - 19.4:
+        non_striker: JJ Chicuele
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Mbebe
+    - 19.5:
+        non_striker: JJ Chicuele
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CM Mbebe
+    - 19.6:
+        non_striker: JJ Chicuele
+        bowler: M Magagula
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CM Mbebe

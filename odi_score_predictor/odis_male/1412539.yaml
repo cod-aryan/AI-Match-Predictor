@@ -1,0 +1,2783 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-01-07'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Colombo
+  dates:
+  - '2024-01-06'
+  gender: male
+  match_type: ODI
+  match_type_number: 4718
+  outcome:
+    result: no result
+  overs: 50
+  players:
+    Sri Lanka:
+    - WIA Fernando
+    - BKG Mendis
+    - S Samarawickrama
+    - J Liyanage
+    - KIC Asalanka
+    - SSD Arachchige
+    - MD Shanaka
+    - M Theekshana
+    - PVD Chameera
+    - JDF Vandersay
+    - D Madushanka
+    Zimbabwe:
+    - T Kaitano
+    - TS Kamunhukamwe
+    - CR Ervine
+    - M Shumba
+    - Sikandar Raza
+    - RP Burl
+    - C Madande
+    - M Faraz Akram
+    - R Ngarava
+    - B Muzarabani
+    - T Mufudza
+  registry:
+    people:
+      AG Wharf: 2e0fcc58
+      B Muzarabani: 449f4e3c
+      BKG Mendis: 5d1e7582
+      C Madande: 3560a786
+      CR Ervine: c96311d4
+      D Madushanka: de7d833e
+      J Liyanage: 84212ffb
+      JDF Vandersay: aceb7654
+      KIC Asalanka: 732c038e
+      M Erasmus: 15d3c895
+      M Faraz Akram: '38214163'
+      M Shumba: 6766ca00
+      M Theekshana: f24c6701
+      MD Shanaka: 3ff033bb
+      PVD Chameera: 327b58d3
+      R Ngarava: 6e3f5a5c
+      RP Burl: b08252b8
+      RR Wimalasiri: 4950c8db
+      RS Madugalle: 766b5798
+      RSA Palliyaguruge: 4339c19d
+      S Samarawickrama: 9ab2914d
+      SSD Arachchige: c05f9d20
+      Sikandar Raza: 26d041c4
+      T Kaitano: df7ed601
+      T Mufudza: d38b80df
+      TS Kamunhukamwe: 4e1b4323
+      WIA Fernando: 9550470d
+  teams:
+  - Sri Lanka
+  - Zimbabwe
+  toss:
+    winner: Sri Lanka
+    decision: bat
+  umpires:
+  - AG Wharf
+  - RSA Palliyaguruge
+  venue: R Premadasa Stadium, Colombo
+innings:
+- 1st innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 0.2:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 0.3:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 0.4:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+    - 0.5:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WIA Fernando
+        wicket:
+          player_out: WIA Fernando
+          fielders:
+          - C Madande
+          kind: caught
+    - 0.6:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 1.1:
+        non_striker: S Samarawickrama
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 1.2:
+        non_striker: S Samarawickrama
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 1.3:
+        non_striker: S Samarawickrama
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 1.4:
+        non_striker: S Samarawickrama
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 1.5:
+        non_striker: BKG Mendis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 1.6:
+        non_striker: BKG Mendis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 2.1:
+        non_striker: S Samarawickrama
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 2.2:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 2.3:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 2.4:
+        non_striker: S Samarawickrama
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 2.5:
+        non_striker: S Samarawickrama
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 2.6:
+        non_striker: S Samarawickrama
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 3.1:
+        non_striker: BKG Mendis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 3.2:
+        non_striker: BKG Mendis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 3.3:
+        non_striker: BKG Mendis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 3.4:
+        non_striker: BKG Mendis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 3.5:
+        non_striker: S Samarawickrama
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 3.6:
+        non_striker: S Samarawickrama
+        bowler: B Muzarabani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BKG Mendis
+    - 3.7:
+        non_striker: S Samarawickrama
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 4.1:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 4.2:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 4.3:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 4.4:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 4.5:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 4.6:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 5.1:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 5.2:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 5.3:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 5.4:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 5.5:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 5.6:
+        non_striker: S Samarawickrama
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 6.1:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Samarawickrama
+    - 6.2:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 6.3:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 6.4:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 6.5:
+        non_striker: S Samarawickrama
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 6.6:
+        non_striker: S Samarawickrama
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 7.1:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 7.2:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 7.3:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 7.4:
+        non_striker: S Samarawickrama
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 7.5:
+        non_striker: S Samarawickrama
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 7.6:
+        non_striker: S Samarawickrama
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BKG Mendis
+    - 8.1:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+    - 8.2:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Samarawickrama
+    - 8.3:
+        non_striker: S Samarawickrama
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 8.4:
+        non_striker: S Samarawickrama
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 8.5:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Samarawickrama
+    - 8.6:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Samarawickrama
+        wicket:
+          player_out: S Samarawickrama
+          fielders:
+          - CR Ervine
+          kind: caught
+    - 9.1:
+        non_striker: J Liyanage
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 9.2:
+        non_striker: J Liyanage
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 9.3:
+        non_striker: J Liyanage
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 9.4:
+        non_striker: J Liyanage
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 9.5:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 9.6:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 10.1:
+        non_striker: J Liyanage
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 10.2:
+        non_striker: J Liyanage
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 10.3:
+        non_striker: J Liyanage
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 10.4:
+        non_striker: J Liyanage
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 10.5:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 10.6:
+        non_striker: BKG Mendis
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 11.1:
+        non_striker: BKG Mendis
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Liyanage
+    - 11.2:
+        non_striker: BKG Mendis
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 11.3:
+        non_striker: J Liyanage
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BKG Mendis
+    - 11.4:
+        non_striker: BKG Mendis
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 11.5:
+        non_striker: BKG Mendis
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 11.6:
+        non_striker: BKG Mendis
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 12.1:
+        non_striker: BKG Mendis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 12.2:
+        non_striker: J Liyanage
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 12.3:
+        non_striker: BKG Mendis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 12.4:
+        non_striker: BKG Mendis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 12.5:
+        non_striker: BKG Mendis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Liyanage
+    - 12.6:
+        non_striker: BKG Mendis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 13.1:
+        non_striker: J Liyanage
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 13.2:
+        non_striker: J Liyanage
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 13.3:
+        non_striker: J Liyanage
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 13.4:
+        non_striker: BKG Mendis
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Liyanage
+    - 13.5:
+        non_striker: BKG Mendis
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 13.6:
+        non_striker: J Liyanage
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 14.1:
+        non_striker: BKG Mendis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 14.2:
+        non_striker: J Liyanage
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 14.3:
+        non_striker: BKG Mendis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 14.4:
+        non_striker: BKG Mendis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 14.5:
+        non_striker: J Liyanage
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 14.6:
+        non_striker: BKG Mendis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 15.1:
+        non_striker: BKG Mendis
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 15.2:
+        non_striker: BKG Mendis
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 15.3:
+        non_striker: J Liyanage
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 15.4:
+        non_striker: BKG Mendis
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 15.5:
+        non_striker: J Liyanage
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 15.6:
+        non_striker: J Liyanage
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 16.1:
+        non_striker: J Liyanage
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 16.2:
+        non_striker: BKG Mendis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 16.3:
+        non_striker: J Liyanage
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 16.4:
+        non_striker: BKG Mendis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 16.5:
+        non_striker: BKG Mendis
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 16.6:
+        non_striker: J Liyanage
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BKG Mendis
+    - 17.1:
+        non_striker: BKG Mendis
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 17.2:
+        non_striker: BKG Mendis
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 17.3:
+        non_striker: BKG Mendis
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 17.4:
+        non_striker: J Liyanage
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 17.5:
+        non_striker: BKG Mendis
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Liyanage
+    - 17.6:
+        non_striker: J Liyanage
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 18.1:
+        non_striker: J Liyanage
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 18.2:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 18.3:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+    - 18.4:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Liyanage
+    - 18.5:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Liyanage
+        wicket:
+          player_out: J Liyanage
+          fielders:
+          - Sikandar Raza
+          kind: caught
+    - 18.6:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 19.1:
+        non_striker: BKG Mendis
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 19.2:
+        non_striker: BKG Mendis
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 19.3:
+        non_striker: BKG Mendis
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 19.4:
+        non_striker: KIC Asalanka
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 19.5:
+        non_striker: KIC Asalanka
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 19.6:
+        non_striker: KIC Asalanka
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+    - 20.1:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KIC Asalanka
+    - 20.2:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 20.3:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KIC Asalanka
+    - 20.4:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 20.5:
+        non_striker: KIC Asalanka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BKG Mendis
+    - 20.6:
+        non_striker: BKG Mendis
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 21.1:
+        non_striker: BKG Mendis
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 21.2:
+        non_striker: KIC Asalanka
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BKG Mendis
+        wicket:
+          player_out: BKG Mendis
+          fielders:
+          - Sikandar Raza
+          kind: run out
+    - 21.3:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 21.4:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 21.5:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 21.6:
+        non_striker: KIC Asalanka
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+    - 22.1:
+        non_striker: SSD Arachchige
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 22.2:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+    - 22.3:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 22.4:
+        non_striker: SSD Arachchige
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 22.5:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 22.6:
+        non_striker: SSD Arachchige
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KIC Asalanka
+    - 23.1:
+        non_striker: KIC Asalanka
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+    - 23.2:
+        non_striker: KIC Asalanka
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+    - 23.3:
+        non_striker: KIC Asalanka
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 23.4:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 23.5:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 23.6:
+        non_striker: KIC Asalanka
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 24.1:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+    - 24.2:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 24.3:
+        non_striker: SSD Arachchige
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 24.4:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 24.5:
+        non_striker: SSD Arachchige
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 24.6:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+    - 25.1:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 25.2:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 25.3:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 25.4:
+        non_striker: KIC Asalanka
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+    - 25.5:
+        non_striker: KIC Asalanka
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 25.6:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 26.1:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 26.2:
+        non_striker: SSD Arachchige
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KIC Asalanka
+    - 26.3:
+        non_striker: SSD Arachchige
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KIC Asalanka
+    - 26.4:
+        non_striker: SSD Arachchige
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 26.5:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+    - 26.6:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 27.1:
+        non_striker: KIC Asalanka
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 27.2:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 27.3:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 27.4:
+        non_striker: KIC Asalanka
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SSD Arachchige
+    - 27.5:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 27.6:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 28.1:
+        non_striker: SSD Arachchige
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 28.2:
+        non_striker: SSD Arachchige
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 28.3:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+    - 28.4:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+    - 28.5:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+    - 28.6:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+    - 29.1:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KIC Asalanka
+    - 29.2:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 29.3:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 29.4:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 29.5:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 29.6:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KIC Asalanka
+    - 29.7:
+        non_striker: SSD Arachchige
+        bowler: T Mufudza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 30.1:
+        non_striker: SSD Arachchige
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 30.2:
+        non_striker: KIC Asalanka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SSD Arachchige
+        wicket:
+          player_out: SSD Arachchige
+          kind: caught and bowled
+    - 30.3:
+        non_striker: KIC Asalanka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 30.4:
+        non_striker: KIC Asalanka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 30.5:
+        non_striker: MD Shanaka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 30.6:
+        non_striker: MD Shanaka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 31.1:
+        non_striker: MD Shanaka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 31.2:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 31.3:
+        non_striker: MD Shanaka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KIC Asalanka
+    - 31.4:
+        non_striker: MD Shanaka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 31.5:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 31.6:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 32.1:
+        non_striker: MD Shanaka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 32.2:
+        non_striker: KIC Asalanka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 32.3:
+        non_striker: KIC Asalanka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 32.4:
+        non_striker: MD Shanaka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 32.5:
+        non_striker: MD Shanaka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 32.6:
+        non_striker: KIC Asalanka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 33.1:
+        non_striker: MD Shanaka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 33.2:
+        non_striker: MD Shanaka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 33.3:
+        non_striker: MD Shanaka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 33.4:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 33.5:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 33.6:
+        non_striker: MD Shanaka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 34.1:
+        non_striker: MD Shanaka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 34.2:
+        non_striker: MD Shanaka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 34.3:
+        non_striker: KIC Asalanka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 34.4:
+        non_striker: KIC Asalanka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 34.5:
+        non_striker: MD Shanaka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 34.6:
+        non_striker: MD Shanaka
+        bowler: M Faraz Akram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KIC Asalanka
+    - 34.7:
+        non_striker: MD Shanaka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 35.1:
+        non_striker: MD Shanaka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 35.2:
+        non_striker: MD Shanaka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 35.3:
+        non_striker: MD Shanaka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 35.4:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 35.5:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 35.6:
+        non_striker: MD Shanaka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 36.1:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 36.2:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 36.3:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 36.4:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 36.5:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+        wicket:
+          player_out: MD Shanaka
+          fielders:
+          - RP Burl
+          kind: caught
+    - 36.6:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 37.1:
+        non_striker: M Theekshana
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 37.2:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 37.3:
+        non_striker: M Theekshana
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 37.4:
+        non_striker: M Theekshana
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 37.5:
+        non_striker: M Theekshana
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 37.6:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 38.1:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 38.2:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 38.3:
+        non_striker: M Theekshana
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 38.4:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 38.5:
+        non_striker: M Theekshana
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 38.6:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: M Theekshana
+    - 39.1:
+        non_striker: M Theekshana
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 39.2:
+        non_striker: M Theekshana
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 39.3:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 39.4:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 39.5:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 39.6:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 40.1:
+        non_striker: KIC Asalanka
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Theekshana
+    - 40.2:
+        non_striker: KIC Asalanka
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Theekshana
+    - 40.3:
+        non_striker: KIC Asalanka
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+    - 40.4:
+        non_striker: KIC Asalanka
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Theekshana
+    - 40.5:
+        non_striker: M Theekshana
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KIC Asalanka
+    - 40.6:
+        non_striker: M Theekshana
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 41.1:
+        non_striker: M Theekshana
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 41.2:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Theekshana
+        wicket:
+          player_out: M Theekshana
+          kind: bowled
+    - 41.3:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 41.4:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 41.5:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 41.6:
+        non_striker: KIC Asalanka
+        bowler: Sikandar Raza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 42.1:
+        non_striker: PVD Chameera
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 42.2:
+        non_striker: KIC Asalanka
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PVD Chameera
+    - 42.3:
+        non_striker: KIC Asalanka
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 42.4:
+        non_striker: PVD Chameera
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 42.5:
+        non_striker: KIC Asalanka
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PVD Chameera
+    - 42.6:
+        non_striker: KIC Asalanka
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 43.1:
+        non_striker: PVD Chameera
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 43.2:
+        non_striker: KIC Asalanka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 43.3:
+        non_striker: PVD Chameera
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 43.4:
+        non_striker: KIC Asalanka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 43.5:
+        non_striker: PVD Chameera
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KIC Asalanka
+    - 43.6:
+        non_striker: PVD Chameera
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 44.1:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 44.2:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 44.3:
+        non_striker: PVD Chameera
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 44.4:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PVD Chameera
+    - 44.5:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 44.6:
+        non_striker: PVD Chameera
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 45.1:
+        non_striker: PVD Chameera
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 45.2:
+        non_striker: KIC Asalanka
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 45.3:
+        non_striker: PVD Chameera
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 45.4:
+        non_striker: PVD Chameera
+        bowler: R Ngarava
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KIC Asalanka
+    - 45.5:
+        non_striker: PVD Chameera
+        bowler: R Ngarava
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KIC Asalanka
+    - 45.6:
+        non_striker: PVD Chameera
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: RP Burl
+            out: R Ngarava
+            reason: injury
+            role: bowler
+        batsman: KIC Asalanka
+    - 45.7:
+        non_striker: KIC Asalanka
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 46.1:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PVD Chameera
+    - 46.2:
+        non_striker: PVD Chameera
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 46.3:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 46.4:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PVD Chameera
+    - 46.5:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 46.6:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 47.1:
+        non_striker: PVD Chameera
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KIC Asalanka
+    - 47.2:
+        non_striker: PVD Chameera
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KIC Asalanka
+    - 47.3:
+        non_striker: PVD Chameera
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 47.4:
+        non_striker: PVD Chameera
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 47.5:
+        non_striker: PVD Chameera
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+    - 47.6:
+        non_striker: KIC Asalanka
+        bowler: RP Burl
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 48.1:
+        non_striker: PVD Chameera
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: KIC Asalanka
+    - 48.2:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+        wicket:
+          player_out: PVD Chameera
+          fielders:
+          - RP Burl
+          kind: caught
+    - 48.3:
+        non_striker: KIC Asalanka
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDF Vandersay
+    - 48.4:
+        non_striker: JDF Vandersay
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KIC Asalanka
+    - 48.5:
+        non_striker: JDF Vandersay
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 48.6:
+        non_striker: JDF Vandersay
+        bowler: B Muzarabani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 49.1:
+        non_striker: KIC Asalanka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDF Vandersay
+    - 49.2:
+        non_striker: JDF Vandersay
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KIC Asalanka
+    - 49.3:
+        non_striker: JDF Vandersay
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KIC Asalanka
+        wicket:
+          player_out: KIC Asalanka
+          fielders:
+          - C Madande
+          - T Mufudza
+          kind: run out
+    - 49.4:
+        non_striker: JDF Vandersay
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Madushanka
+    - 49.5:
+        non_striker: D Madushanka
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JDF Vandersay
+    - 49.6:
+        non_striker: JDF Vandersay
+        bowler: M Faraz Akram
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Madushanka
+- 2nd innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        non_striker: TS Kamunhukamwe
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kaitano
+    - 0.2:
+        non_striker: TS Kamunhukamwe
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kaitano
+    - 0.3:
+        non_striker: TS Kamunhukamwe
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kaitano
+    - 0.4:
+        non_striker: TS Kamunhukamwe
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kaitano
+    - 0.5:
+        non_striker: TS Kamunhukamwe
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kaitano
+    - 0.6:
+        non_striker: TS Kamunhukamwe
+        bowler: D Madushanka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Kaitano
+    - 1.1:
+        non_striker: TS Kamunhukamwe
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kaitano
+    - 1.2:
+        non_striker: TS Kamunhukamwe
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kaitano
+    - 1.3:
+        non_striker: TS Kamunhukamwe
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kaitano
+    - 1.4:
+        non_striker: TS Kamunhukamwe
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kaitano
+    - 1.5:
+        non_striker: TS Kamunhukamwe
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kaitano
+    - 1.6:
+        non_striker: TS Kamunhukamwe
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kaitano
+    - 2.1:
+        non_striker: T Kaitano
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Kamunhukamwe
+        wicket:
+          player_out: TS Kamunhukamwe
+          kind: bowled
+    - 2.2:
+        non_striker: T Kaitano
+        bowler: D Madushanka
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: CR Ervine
+    - 2.3:
+        non_striker: T Kaitano
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 2.4:
+        non_striker: T Kaitano
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 2.5:
+        non_striker: T Kaitano
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+        wicket:
+          player_out: CR Ervine
+          fielders:
+          - SSD Arachchige
+          kind: caught
+    - 2.6:
+        non_striker: T Kaitano
+        bowler: D Madushanka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba
+    - 3.1:
+        non_striker: M Shumba
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kaitano
+    - 3.2:
+        non_striker: M Shumba
+        bowler: PVD Chameera
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: T Kaitano
+    - 3.3:
+        non_striker: M Shumba
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Kaitano
+    - 3.4:
+        non_striker: M Shumba
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Kaitano
+    - 3.5:
+        non_striker: T Kaitano
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Shumba
+    - 3.6:
+        non_striker: T Kaitano
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Shumba

@@ -1,0 +1,4440 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-14'
+  revision: 2
+info:
+  balls_per_over: 6
+  city: Sharjah
+  dates:
+  - '2003-04-10'
+  gender: male
+  match_type: ODI
+  match_type_number: 2000
+  outcome:
+    winner: Pakistan
+    by:
+      wickets: 8
+  overs: 50
+  player_of_match:
+  - Taufeeq Umar
+  players:
+    Zimbabwe:
+    - CB Wishart
+    - DA Marillier
+    - GJ Rennie
+    - GW Flower
+    - T Taibu
+    - SM Ervine
+    - DD Ebrahim
+    - HH Streak
+    - AM Blignaut
+    - RW Price
+    - DT Hondo
+    Pakistan:
+    - Mohammad Hafeez
+    - Taufeeq Umar
+    - Faisal Iqbal
+    - Yousuf Youhana
+    - Younis Khan
+    - Shoaib Malik
+    - Rashid Latif
+    - Abdul Razzaq
+    - Mohammad Sami
+    - Danish Kaneria
+    - Umar Gul
+  registry:
+    people:
+      AM Blignaut: 80ec5dfd
+      AM Ebrahim: 814fafa7
+      AV Jayaprakash: bde6e9ef
+      Abdul Razzaq: 390ff45b
+      BR Doctrove: cbebf805
+      CB Wishart: 8319b9ea
+      DA Marillier: 656202a7
+      DD Ebrahim: b590a4d8
+      DT Hondo: 7fe5deb8
+      Danish Kaneria: 0be1b885
+      Faisal Iqbal: 267269e1
+      GJ Rennie: b863eae9
+      GW Flower: 348195ea
+      HH Streak: 37f501d7
+      KC Barbour: 4359f89a
+      Mohammad Hafeez: 9ab63e7b
+      Mohammad Sami: 68ddabdb
+      RW Price: 67af6f81
+      Rashid Latif: d32782ae
+      SM Ervine: 556302a7
+      Shoaib Malik: 64c34cd0
+      T Taibu: 75de770f
+      Taufeeq Umar: c73bb037
+      Umar Gul: 16dfcc19
+      Younis Khan: 33cb3411
+      Yousuf Youhana: e237b28c
+  teams:
+  - Zimbabwe
+  - Pakistan
+  toss:
+    winner: Zimbabwe
+    decision: bat
+  umpires:
+  - AV Jayaprakash
+  - BR Doctrove
+  venue: Sharjah Cricket Association Stadium
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DA Marillier
+        batsman: CB Wishart
+    - 0.2:
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DA Marillier
+        batsman: CB Wishart
+    - 0.3:
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DA Marillier
+        batsman: CB Wishart
+        wicket:
+          player_out: CB Wishart
+          fielders:
+          - Rashid Latif
+          kind: caught
+    - 0.4:
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DA Marillier
+        batsman: GJ Rennie
+    - 0.5:
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DA Marillier
+        batsman: GJ Rennie
+    - 0.6:
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: DA Marillier
+        batsman: GJ Rennie
+    - 1.1:
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DA Marillier
+        batsman: GJ Rennie
+    - 1.2:
+        bowler: Umar Gul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        non_striker: DA Marillier
+        batsman: GJ Rennie
+    - 1.3:
+        non_striker: GJ Rennie
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Marillier
+    - 1.4:
+        non_striker: GJ Rennie
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Marillier
+    - 1.5:
+        non_striker: GJ Rennie
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Marillier
+    - 1.6:
+        non_striker: DA Marillier
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Rennie
+    - 2.1:
+        non_striker: GJ Rennie
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Marillier
+    - 2.2:
+        non_striker: GJ Rennie
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Marillier
+    - 2.3:
+        non_striker: GJ Rennie
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Marillier
+    - 2.4:
+        non_striker: GJ Rennie
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Marillier
+    - 2.5:
+        non_striker: DA Marillier
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GJ Rennie
+    - 2.6:
+        non_striker: GJ Rennie
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Marillier
+    - 3.1:
+        non_striker: DA Marillier
+        bowler: Umar Gul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GJ Rennie
+    - 3.2:
+        non_striker: DA Marillier
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Rennie
+    - 3.3:
+        non_striker: DA Marillier
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Rennie
+    - 3.4:
+        non_striker: DA Marillier
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Rennie
+    - 3.5:
+        non_striker: DA Marillier
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Rennie
+    - 3.6:
+        non_striker: DA Marillier
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GJ Rennie
+    - 3.7:
+        non_striker: DA Marillier
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Rennie
+    - 4.1:
+        non_striker: GJ Rennie
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Marillier
+    - 4.2:
+        non_striker: GJ Rennie
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Marillier
+    - 4.3:
+        non_striker: GJ Rennie
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Marillier
+    - 4.4:
+        non_striker: GJ Rennie
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Marillier
+    - 4.5:
+        non_striker: GJ Rennie
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Marillier
+    - 4.6:
+        non_striker: GJ Rennie
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Marillier
+    - 5.1:
+        non_striker: GJ Rennie
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Marillier
+    - 5.2:
+        non_striker: GJ Rennie
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Marillier
+    - 5.3:
+        non_striker: GJ Rennie
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Marillier
+    - 5.4:
+        non_striker: DA Marillier
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Rennie
+    - 5.5:
+        non_striker: DA Marillier
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Rennie
+    - 5.6:
+        non_striker: DA Marillier
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Rennie
+    - 6.1:
+        non_striker: GJ Rennie
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Marillier
+    - 6.2:
+        non_striker: DA Marillier
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Rennie
+    - 6.3:
+        non_striker: DA Marillier
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Rennie
+    - 6.4:
+        non_striker: DA Marillier
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Rennie
+    - 6.5:
+        non_striker: DA Marillier
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GJ Rennie
+        wicket:
+          player_out: GJ Rennie
+          fielders:
+          - Rashid Latif
+          kind: caught
+    - 6.6:
+        non_striker: DA Marillier
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 7.1:
+        non_striker: GW Flower
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Marillier
+    - 7.2:
+        non_striker: GW Flower
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Marillier
+    - 7.3:
+        non_striker: GW Flower
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Marillier
+    - 7.4:
+        non_striker: GW Flower
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Marillier
+    - 7.5:
+        non_striker: GW Flower
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Marillier
+    - 7.6:
+        non_striker: DA Marillier
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 8.1:
+        non_striker: GW Flower
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Marillier
+    - 8.2:
+        non_striker: GW Flower
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Marillier
+    - 8.3:
+        non_striker: GW Flower
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Marillier
+        wicket:
+          player_out: DA Marillier
+          kind: bowled
+    - 8.4:
+        non_striker: GW Flower
+        bowler: Mohammad Sami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Taibu
+    - 8.5:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 8.6:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GW Flower
+    - 9.1:
+        non_striker: GW Flower
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 9.2:
+        non_striker: GW Flower
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 9.3:
+        non_striker: GW Flower
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 9.4:
+        non_striker: GW Flower
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 9.5:
+        non_striker: GW Flower
+        bowler: Umar Gul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Taibu
+    - 9.6:
+        non_striker: GW Flower
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 9.7:
+        non_striker: GW Flower
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 10.1:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GW Flower
+    - 10.2:
+        non_striker: GW Flower
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 10.3:
+        non_striker: GW Flower
+        bowler: Mohammad Sami
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: T Taibu
+    - 10.4:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GW Flower
+    - 10.5:
+        non_striker: GW Flower
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 10.6:
+        non_striker: GW Flower
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 10.7:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GW Flower
+    - 10.8:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GW Flower
+    - 11.1:
+        non_striker: T Taibu
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 11.2:
+        non_striker: T Taibu
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 11.3:
+        non_striker: T Taibu
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GW Flower
+    - 11.4:
+        non_striker: GW Flower
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 11.5:
+        non_striker: GW Flower
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 11.6:
+        non_striker: GW Flower
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 12.1:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GW Flower
+    - 12.2:
+        non_striker: GW Flower
+        bowler: Shoaib Malik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: T Taibu
+    - 12.3:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 12.4:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+    - 12.5:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GW Flower
+        wicket:
+          player_out: GW Flower
+          fielders:
+          - Younis Khan
+          kind: caught
+    - 12.6:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 13.1:
+        non_striker: SM Ervine
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 13.2:
+        non_striker: SM Ervine
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 13.3:
+        non_striker: SM Ervine
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 13.4:
+        non_striker: SM Ervine
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 13.5:
+        non_striker: SM Ervine
+        bowler: Umar Gul
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Taibu
+    - 13.6:
+        non_striker: SM Ervine
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 13.7:
+        non_striker: SM Ervine
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 14.1:
+        non_striker: SM Ervine
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 14.2:
+        non_striker: SM Ervine
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 14.3:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: SM Ervine
+    - 14.4:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 14.5:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 14.6:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 14.7:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 15.1:
+        non_striker: SM Ervine
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Taibu
+    - 15.2:
+        non_striker: SM Ervine
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 15.3:
+        non_striker: SM Ervine
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Taibu
+    - 15.4:
+        non_striker: SM Ervine
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 15.5:
+        non_striker: SM Ervine
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: T Taibu
+    - 15.6:
+        non_striker: SM Ervine
+        bowler: Umar Gul
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 16.1:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 16.2:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Ervine
+    - 16.3:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 16.4:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 16.5:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SM Ervine
+    - 16.6:
+        non_striker: SM Ervine
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Taibu
+    - 17.1:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 17.2:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 17.3:
+        non_striker: SM Ervine
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 17.4:
+        non_striker: SM Ervine
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 17.5:
+        non_striker: SM Ervine
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 17.6:
+        non_striker: SM Ervine
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 18.1:
+        non_striker: SM Ervine
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Taibu
+    - 18.2:
+        non_striker: SM Ervine
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 18.3:
+        non_striker: SM Ervine
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 18.4:
+        non_striker: SM Ervine
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 18.5:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 18.6:
+        non_striker: SM Ervine
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 19.1:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 19.2:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 19.3:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 19.4:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 19.5:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 19.6:
+        non_striker: SM Ervine
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 20.1:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 20.2:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 20.3:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 20.4:
+        non_striker: SM Ervine
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 20.5:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 20.6:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 21.1:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Ervine
+    - 21.2:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Ervine
+    - 21.3:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 21.4:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 21.5:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 21.6:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Ervine
+    - 22.1:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Ervine
+    - 22.2:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+    - 22.3:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Ervine
+        wicket:
+          player_out: SM Ervine
+          fielders:
+          - Rashid Latif
+          kind: caught
+    - 22.4:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 22.5:
+        non_striker: DD Ebrahim
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 22.6:
+        non_striker: DD Ebrahim
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 23.1:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 23.2:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 23.3:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 23.4:
+        non_striker: DD Ebrahim
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 23.5:
+        non_striker: DD Ebrahim
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 23.6:
+        non_striker: DD Ebrahim
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 24.1:
+        non_striker: DD Ebrahim
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 24.2:
+        non_striker: DD Ebrahim
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 24.3:
+        non_striker: DD Ebrahim
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 24.4:
+        non_striker: DD Ebrahim
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 24.5:
+        non_striker: DD Ebrahim
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 24.6:
+        non_striker: DD Ebrahim
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 25.1:
+        non_striker: DD Ebrahim
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 25.2:
+        non_striker: DD Ebrahim
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 25.3:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 25.4:
+        non_striker: DD Ebrahim
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 25.5:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 25.6:
+        non_striker: DD Ebrahim
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Taibu
+    - 26.1:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 26.2:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 26.3:
+        non_striker: DD Ebrahim
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 26.4:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 26.5:
+        non_striker: DD Ebrahim
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 26.6:
+        non_striker: DD Ebrahim
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 27.1:
+        non_striker: DD Ebrahim
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 27.2:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 27.3:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 27.4:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 27.5:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 27.6:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 28.1:
+        non_striker: DD Ebrahim
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 28.2:
+        non_striker: DD Ebrahim
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 28.3:
+        non_striker: DD Ebrahim
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 28.4:
+        non_striker: DD Ebrahim
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 28.5:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 28.6:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 29.1:
+        non_striker: DD Ebrahim
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 29.2:
+        non_striker: DD Ebrahim
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Taibu
+    - 29.3:
+        non_striker: DD Ebrahim
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 29.4:
+        non_striker: DD Ebrahim
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 29.5:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DD Ebrahim
+    - 29.6:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 30.1:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 30.2:
+        non_striker: DD Ebrahim
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 30.3:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 30.4:
+        non_striker: DD Ebrahim
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 30.5:
+        non_striker: DD Ebrahim
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Taibu
+    - 30.6:
+        non_striker: DD Ebrahim
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 31.1:
+        non_striker: DD Ebrahim
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 31.2:
+        non_striker: DD Ebrahim
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 31.3:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 31.4:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 31.5:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 31.6:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 32.1:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 32.2:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 32.3:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+    - 32.4:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DD Ebrahim
+    - 32.5:
+        non_striker: DD Ebrahim
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 32.6:
+        non_striker: DD Ebrahim
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 33.1:
+        non_striker: DD Ebrahim
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 33.2:
+        non_striker: DD Ebrahim
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 33.3:
+        non_striker: DD Ebrahim
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 33.4:
+        non_striker: DD Ebrahim
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Taibu
+    - 33.5:
+        non_striker: DD Ebrahim
+        bowler: Danish Kaneria
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: T Taibu
+    - 33.6:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DD Ebrahim
+        wicket:
+          player_out: DD Ebrahim
+          fielders:
+          - Shoaib Malik
+          kind: caught
+    - 33.7:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 34.1:
+        non_striker: HH Streak
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 34.2:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 34.3:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 34.4:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+    - 34.5:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Streak
+        wicket:
+          player_out: HH Streak
+          kind: lbw
+    - 34.6:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+    - 35.1:
+        non_striker: AM Blignaut
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 35.2:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Blignaut
+    - 35.3:
+        non_striker: AM Blignaut
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 35.4:
+        non_striker: AM Blignaut
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 35.5:
+        non_striker: AM Blignaut
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 35.6:
+        non_striker: AM Blignaut
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 36.1:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AM Blignaut
+    - 36.2:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Blignaut
+        wicket:
+          player_out: AM Blignaut
+          kind: caught and bowled
+    - 36.3:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RW Price
+    - 36.4:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 36.5:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 36.6:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 36.7:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 37.1:
+        non_striker: RW Price
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 37.2:
+        non_striker: RW Price
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Taibu
+    - 37.3:
+        non_striker: RW Price
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 37.4:
+        non_striker: RW Price
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 37.5:
+        non_striker: RW Price
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 37.6:
+        non_striker: RW Price
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Taibu
+    - 38.1:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 38.2:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 38.3:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 38.4:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 38.5:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 38.6:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RW Price
+    - 39.1:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 39.2:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 39.3:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 39.4:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 39.5:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+    - 39.6:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RW Price
+        wicket:
+          player_out: RW Price
+          kind: lbw
+    - 40.1:
+        non_striker: DT Hondo
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 40.2:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 40.3:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 40.4:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: DT Hondo
+    - 40.5:
+        non_striker: DT Hondo
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 40.6:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 41.1:
+        non_striker: DT Hondo
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 41.2:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 41.3:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 41.4:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 41.5:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 41.6:
+        non_striker: T Taibu
+        bowler: Danish Kaneria
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 42.1:
+        non_striker: DT Hondo
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 42.2:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 42.3:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 42.4:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 42.5:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 42.6:
+        non_striker: T Taibu
+        bowler: Mohammad Hafeez
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 43.1:
+        non_striker: DT Hondo
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 43.2:
+        non_striker: DT Hondo
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 43.3:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 43.4:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 43.5:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Hondo
+    - 43.6:
+        non_striker: DT Hondo
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 44.1:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 44.2:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 44.3:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 44.4:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 44.5:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 44.6:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 45.1:
+        non_striker: DT Hondo
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 45.2:
+        non_striker: DT Hondo
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 45.3:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 45.4:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DT Hondo
+    - 45.5:
+        non_striker: DT Hondo
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 45.6:
+        non_striker: DT Hondo
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 46.1:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 46.2:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DT Hondo
+    - 46.3:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 46.4:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: DT Hondo
+    - 46.5:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 46.6:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 46.7:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 47.1:
+        non_striker: DT Hondo
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Taibu
+    - 47.2:
+        non_striker: DT Hondo
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 47.3:
+        non_striker: DT Hondo
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 47.4:
+        non_striker: DT Hondo
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Taibu
+    - 47.5:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 47.6:
+        non_striker: T Taibu
+        bowler: Abdul Razzaq
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+    - 48.1:
+        non_striker: DT Hondo
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Taibu
+    - 48.2:
+        non_striker: DT Hondo
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 48.3:
+        non_striker: DT Hondo
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Taibu
+    - 48.4:
+        non_striker: DT Hondo
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Taibu
+    - 48.5:
+        non_striker: DT Hondo
+        bowler: Mohammad Sami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Taibu
+    - 48.6:
+        non_striker: DT Hondo
+        bowler: Mohammad Sami
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: T Taibu
+    - 48.7:
+        non_striker: T Taibu
+        bowler: Mohammad Sami
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: DT Hondo
+    - 48.8:
+        non_striker: DT Hondo
+        bowler: Mohammad Sami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Taibu
+    - 49.1:
+        non_striker: T Taibu
+        bowler: Shoaib Malik
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DT Hondo
+        wicket:
+          player_out: DT Hondo
+          fielders:
+          - Yousuf Youhana
+          kind: caught
+- 2nd innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 0.2:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 0.3:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Mohammad Hafeez
+    - 0.4:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 0.5:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 0.6:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 1.1:
+        non_striker: Mohammad Hafeez
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 1.2:
+        non_striker: Mohammad Hafeez
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Taufeeq Umar
+    - 1.3:
+        non_striker: Mohammad Hafeez
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 1.4:
+        non_striker: Mohammad Hafeez
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taufeeq Umar
+    - 1.5:
+        non_striker: Mohammad Hafeez
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 1.6:
+        non_striker: Mohammad Hafeez
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 1.7:
+        non_striker: Mohammad Hafeez
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 2.1:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 2.2:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+    - 2.3:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Mohammad Hafeez
+    - 2.4:
+        non_striker: Mohammad Hafeez
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 2.5:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammad Hafeez
+        wicket:
+          player_out: Mohammad Hafeez
+          fielders:
+          - CB Wishart
+          kind: caught
+    - 2.6:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Iqbal
+    - 2.7:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Iqbal
+    - 3.1:
+        non_striker: Faisal Iqbal
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Taufeeq Umar
+    - 3.2:
+        non_striker: Faisal Iqbal
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 3.3:
+        non_striker: Faisal Iqbal
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 3.4:
+        non_striker: Faisal Iqbal
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 3.5:
+        non_striker: Faisal Iqbal
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 3.6:
+        non_striker: Faisal Iqbal
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 3.7:
+        non_striker: Faisal Iqbal
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Taufeeq Umar
+    - 3.8:
+        non_striker: Faisal Iqbal
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 4.1:
+        non_striker: Faisal Iqbal
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 4.2:
+        non_striker: Faisal Iqbal
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 4.3:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Iqbal
+    - 4.4:
+        non_striker: Faisal Iqbal
+        bowler: HH Streak
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Taufeeq Umar
+    - 4.5:
+        non_striker: Faisal Iqbal
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 4.6:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Iqbal
+    - 4.7:
+        non_striker: Faisal Iqbal
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 5.1:
+        non_striker: Taufeeq Umar
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Faisal Iqbal
+    - 5.2:
+        non_striker: Taufeeq Umar
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Iqbal
+    - 5.3:
+        non_striker: Faisal Iqbal
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 5.4:
+        non_striker: Faisal Iqbal
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 5.5:
+        non_striker: Faisal Iqbal
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 5.6:
+        non_striker: Taufeeq Umar
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Iqbal
+    - 5.7:
+        non_striker: Taufeeq Umar
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Faisal Iqbal
+    - 6.1:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Faisal Iqbal
+    - 6.2:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Iqbal
+    - 6.3:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Iqbal
+    - 6.4:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Faisal Iqbal
+        wicket:
+          player_out: Faisal Iqbal
+          fielders:
+          - GJ Rennie
+          kind: caught
+    - 6.5:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 6.6:
+        non_striker: Yousuf Youhana
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 7.1:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taufeeq Umar
+    - 7.2:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 7.3:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 7.4:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 7.5:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 7.6:
+        non_striker: Taufeeq Umar
+        bowler: AM Blignaut
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Yousuf Youhana
+    - 8.1:
+        non_striker: Yousuf Youhana
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 8.2:
+        non_striker: Yousuf Youhana
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 8.3:
+        non_striker: Yousuf Youhana
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taufeeq Umar
+    - 8.4:
+        non_striker: Yousuf Youhana
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 8.5:
+        non_striker: Yousuf Youhana
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 8.6:
+        non_striker: Yousuf Youhana
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 9.1:
+        non_striker: Taufeeq Umar
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yousuf Youhana
+    - 9.2:
+        non_striker: Taufeeq Umar
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 9.3:
+        non_striker: Taufeeq Umar
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 9.4:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 9.5:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Taufeeq Umar
+    - 9.6:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Taufeeq Umar
+    - 9.7:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 9.8:
+        non_striker: Taufeeq Umar
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 10.1:
+        non_striker: Yousuf Youhana
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 10.2:
+        non_striker: Yousuf Youhana
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 10.3:
+        non_striker: Yousuf Youhana
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 10.4:
+        non_striker: Yousuf Youhana
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 10.5:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 10.6:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Yousuf Youhana
+    - 11.1:
+        non_striker: Taufeeq Umar
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 11.2:
+        non_striker: Taufeeq Umar
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yousuf Youhana
+    - 11.3:
+        non_striker: Taufeeq Umar
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 11.4:
+        non_striker: Yousuf Youhana
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 11.5:
+        non_striker: Yousuf Youhana
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taufeeq Umar
+    - 11.6:
+        non_striker: Yousuf Youhana
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 12.1:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 12.2:
+        non_striker: Yousuf Youhana
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 12.3:
+        non_striker: Yousuf Youhana
+        bowler: HH Streak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Taufeeq Umar
+    - 12.4:
+        non_striker: Yousuf Youhana
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 12.5:
+        non_striker: Yousuf Youhana
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 12.6:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 12.7:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 13.1:
+        non_striker: Yousuf Youhana
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 13.2:
+        non_striker: Yousuf Youhana
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 13.3:
+        non_striker: Yousuf Youhana
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 13.4:
+        non_striker: Yousuf Youhana
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taufeeq Umar
+    - 13.5:
+        non_striker: Yousuf Youhana
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 13.6:
+        non_striker: Yousuf Youhana
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 14.1:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 14.2:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 14.3:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 14.4:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 14.5:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 14.6:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 15.1:
+        non_striker: Yousuf Youhana
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 15.2:
+        non_striker: Yousuf Youhana
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 15.3:
+        non_striker: Yousuf Youhana
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 15.4:
+        non_striker: Yousuf Youhana
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taufeeq Umar
+    - 15.5:
+        non_striker: Yousuf Youhana
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 15.6:
+        non_striker: Taufeeq Umar
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 16.1:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 16.2:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 16.3:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 16.4:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 16.5:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 16.6:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 17.1:
+        non_striker: Yousuf Youhana
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 17.2:
+        non_striker: Yousuf Youhana
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 17.3:
+        non_striker: Taufeeq Umar
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 17.4:
+        non_striker: Taufeeq Umar
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 17.5:
+        non_striker: Taufeeq Umar
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yousuf Youhana
+    - 17.6:
+        non_striker: Taufeeq Umar
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yousuf Youhana
+    - 18.1:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 18.2:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 18.3:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 18.4:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 18.5:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 18.6:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 19.1:
+        non_striker: Yousuf Youhana
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 19.2:
+        non_striker: Yousuf Youhana
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 19.3:
+        non_striker: Yousuf Youhana
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 19.4:
+        non_striker: Taufeeq Umar
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 19.5:
+        non_striker: Taufeeq Umar
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yousuf Youhana
+    - 19.6:
+        non_striker: Taufeeq Umar
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 20.1:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 20.2:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 20.3:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 20.4:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 20.5:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 20.6:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 21.1:
+        non_striker: Taufeeq Umar
+        bowler: DA Marillier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 21.2:
+        non_striker: Yousuf Youhana
+        bowler: DA Marillier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 21.3:
+        non_striker: Taufeeq Umar
+        bowler: DA Marillier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 21.4:
+        non_striker: Yousuf Youhana
+        bowler: DA Marillier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 21.5:
+        non_striker: Yousuf Youhana
+        bowler: DA Marillier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 21.6:
+        non_striker: Yousuf Youhana
+        bowler: DA Marillier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 22.1:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 22.2:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 22.3:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 22.4:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 22.5:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Yousuf Youhana
+    - 22.6:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 23.1:
+        non_striker: Yousuf Youhana
+        bowler: DA Marillier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 23.2:
+        non_striker: Yousuf Youhana
+        bowler: DA Marillier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 23.3:
+        non_striker: Yousuf Youhana
+        bowler: DA Marillier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 23.4:
+        non_striker: Taufeeq Umar
+        bowler: DA Marillier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 23.5:
+        non_striker: Taufeeq Umar
+        bowler: DA Marillier
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yousuf Youhana
+    - 23.6:
+        non_striker: Taufeeq Umar
+        bowler: DA Marillier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 24.1:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 24.2:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 24.3:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 24.4:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 24.5:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 24.6:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 25.1:
+        non_striker: Yousuf Youhana
+        bowler: DA Marillier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 25.2:
+        non_striker: Taufeeq Umar
+        bowler: DA Marillier
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 25.3:
+        non_striker: Taufeeq Umar
+        bowler: DA Marillier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 25.4:
+        non_striker: Yousuf Youhana
+        bowler: DA Marillier
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Taufeeq Umar
+    - 25.5:
+        non_striker: Yousuf Youhana
+        bowler: DA Marillier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 25.6:
+        non_striker: Taufeeq Umar
+        bowler: DA Marillier
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 26.1:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 26.2:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 26.3:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 26.4:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 26.5:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Taufeeq Umar
+    - 26.6:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 27.1:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Taufeeq Umar
+    - 27.2:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Taufeeq Umar
+    - 27.3:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 27.4:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 27.5:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 27.6:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 27.7:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 27.8:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 28.1:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 28.2:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 28.3:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 28.4:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 28.5:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 28.6:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taufeeq Umar
+    - 29.1:
+        non_striker: Taufeeq Umar
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 29.2:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 29.3:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 5
+          batsman: 5
+        batsman: Taufeeq Umar
+    - 29.4:
+        non_striker: Taufeeq Umar
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Yousuf Youhana
+    - 29.5:
+        non_striker: Taufeeq Umar
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 29.6:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 30.1:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Yousuf Youhana
+    - 30.2:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 30.3:
+        non_striker: Yousuf Youhana
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 30.4:
+        non_striker: Yousuf Youhana
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 30.5:
+        non_striker: Yousuf Youhana
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 30.6:
+        non_striker: Taufeeq Umar
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 31.1:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 31.2:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 31.3:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Taufeeq Umar
+    - 31.4:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 31.5:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 31.6:
+        non_striker: Taufeeq Umar
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 31.7:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 32.1:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 32.2:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 32.3:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 32.4:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 32.5:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 32.6:
+        non_striker: Taufeeq Umar
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Yousuf Youhana
+    - 33.1:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 33.2:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 33.3:
+        non_striker: Taufeeq Umar
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Yousuf Youhana
+    - 33.4:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taufeeq Umar
+    - 33.5:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 33.6:
+        non_striker: Yousuf Youhana
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Taufeeq Umar
+    - 34.1:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 34.2:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 34.3:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taufeeq Umar
+    - 34.4:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 34.5:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 34.6:
+        non_striker: Yousuf Youhana
+        bowler: RW Price
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Taufeeq Umar
+    - 35.1:
+        non_striker: Taufeeq Umar
+        bowler: DD Ebrahim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Yousuf Youhana
+    - 35.2:
+        non_striker: Yousuf Youhana
+        bowler: DD Ebrahim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Taufeeq Umar

@@ -1,0 +1,961 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Leeds
+  dates:
+  - '2003-07-01'
+  gender: male
+  match_type: ODI
+  match_type_number: 2031
+  outcome:
+    result: no result
+  overs: 50
+  players:
+    England:
+    - ME Trescothick
+    - VS Solanki
+    - CMW Read
+    - MP Vaughan
+    - A Flintoff
+    - A McGrath
+    - JO Troughton
+    - Kabir Ali
+    - JM Anderson
+    - RL Johnson
+    - D Gough
+    Zimbabwe:
+    - DA Marillier
+    - DD Ebrahim
+    - GW Flower
+    - S Matsikenyeri
+    - TJ Friend
+    - T Taibu
+    - HH Streak
+    - AM Blignaut
+    - SM Ervine
+    - DT Hondo
+    - GB Brent
+  registry:
+    people:
+      A Flintoff: ddc0828d
+      A McGrath: e8b5ea8d
+      AM Blignaut: 80ec5dfd
+      CH Lloyd: 5b445db0
+      CMW Read: be4cefab
+      D Gough: fcbf5a30
+      DA Marillier: 656202a7
+      DD Ebrahim: b590a4d8
+      DR Shepherd: 8a578048
+      DT Hondo: 7fe5deb8
+      GB Brent: da785bf8
+      GW Flower: 348195ea
+      HH Streak: 37f501d7
+      JM Anderson: d12143bf
+      JO Troughton: af2cc80a
+      JW Lloyds: 112b8472
+      Kabir Ali: 60dd8960
+      ME Trescothick: ea42ddb9
+      MP Vaughan: 6e1b1ec0
+      RL Johnson: 3967930c
+      S Matsikenyeri: e7ba1233
+      SJA Taufel: 4b43d5ac
+      SM Ervine: 556302a7
+      T Taibu: 75de770f
+      TJ Friend: 3e91a87f
+      VS Solanki: 7ee2ce62
+  teams:
+  - England
+  - Zimbabwe
+  toss:
+    winner: Zimbabwe
+    decision: field
+  umpires:
+  - DR Shepherd
+  - SJA Taufel
+  venue: Headingley, Leeds
+innings:
+- 1st innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: VS Solanki
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 0.2:
+        non_striker: ME Trescothick
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 0.3:
+        non_striker: ME Trescothick
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 0.4:
+        non_striker: ME Trescothick
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 0.5:
+        non_striker: ME Trescothick
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 0.6:
+        non_striker: VS Solanki
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 1.1:
+        non_striker: ME Trescothick
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 1.2:
+        non_striker: VS Solanki
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 1.3:
+        non_striker: VS Solanki
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 1.4:
+        non_striker: ME Trescothick
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VS Solanki
+    - 1.5:
+        non_striker: ME Trescothick
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 1.6:
+        non_striker: ME Trescothick
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VS Solanki
+    - 2.1:
+        non_striker: VS Solanki
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Trescothick
+    - 2.2:
+        non_striker: ME Trescothick
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+        wicket:
+          player_out: VS Solanki
+          fielders:
+          - GW Flower
+          kind: caught
+    - 2.3:
+        non_striker: ME Trescothick
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CMW Read
+    - 2.4:
+        non_striker: CMW Read
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 2.5:
+        non_striker: CMW Read
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 2.6:
+        non_striker: CMW Read
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+        wicket:
+          player_out: ME Trescothick
+          fielders:
+          - GW Flower
+          kind: caught
+    - 3.1:
+        non_striker: MP Vaughan
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CMW Read
+    - 3.2:
+        non_striker: MP Vaughan
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CMW Read
+    - 3.3:
+        non_striker: MP Vaughan
+        bowler: DT Hondo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CMW Read
+    - 3.4:
+        non_striker: MP Vaughan
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CMW Read
+        wicket:
+          player_out: CMW Read
+          fielders:
+          - GB Brent
+          kind: run out
+    - 3.5:
+        non_striker: A Flintoff
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 3.6:
+        non_striker: A Flintoff
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Vaughan
+    - 3.7:
+        non_striker: A Flintoff
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 4.1:
+        non_striker: MP Vaughan
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Flintoff
+    - 4.2:
+        non_striker: MP Vaughan
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Flintoff
+    - 4.3:
+        non_striker: A Flintoff
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Vaughan
+    - 4.4:
+        non_striker: A Flintoff
+        bowler: HH Streak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Vaughan
+    - 4.5:
+        non_striker: A Flintoff
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 4.6:
+        non_striker: A Flintoff
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 4.7:
+        non_striker: A Flintoff
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 5.1:
+        non_striker: A Flintoff
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 5.2:
+        non_striker: A Flintoff
+        bowler: DT Hondo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MP Vaughan
+    - 5.3:
+        non_striker: MP Vaughan
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Flintoff
+    - 5.4:
+        non_striker: A Flintoff
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 5.5:
+        non_striker: MP Vaughan
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Flintoff
+    - 5.6:
+        non_striker: A Flintoff
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 6.1:
+        non_striker: A Flintoff
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 6.2:
+        non_striker: A Flintoff
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 6.3:
+        non_striker: A Flintoff
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Vaughan
+    - 6.4:
+        non_striker: A Flintoff
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 6.5:
+        non_striker: A Flintoff
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 6.6:
+        non_striker: A Flintoff
+        bowler: HH Streak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 7.1:
+        non_striker: MP Vaughan
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Flintoff
+    - 7.2:
+        non_striker: MP Vaughan
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Flintoff
+    - 7.3:
+        non_striker: MP Vaughan
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Flintoff
+    - 7.4:
+        non_striker: MP Vaughan
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Flintoff
+    - 7.5:
+        non_striker: MP Vaughan
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Flintoff
+    - 7.6:
+        non_striker: MP Vaughan
+        bowler: DT Hondo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Flintoff
+    - 8.1:
+        non_striker: MP Vaughan
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Flintoff
+    - 8.2:
+        non_striker: MP Vaughan
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Flintoff
+        wicket:
+          player_out: A Flintoff
+          fielders:
+          - TJ Friend
+          kind: caught
+    - 8.3:
+        non_striker: A McGrath
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 8.4:
+        non_striker: A McGrath
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 8.5:
+        non_striker: MP Vaughan
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McGrath
+    - 8.6:
+        non_striker: MP Vaughan
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A McGrath
+    - 9.1:
+        non_striker: A McGrath
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 9.2:
+        non_striker: MP Vaughan
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McGrath
+    - 9.3:
+        non_striker: A McGrath
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 9.4:
+        non_striker: MP Vaughan
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McGrath
+    - 9.5:
+        non_striker: MP Vaughan
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McGrath
+    - 9.6:
+        non_striker: A McGrath
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Vaughan
+    - 10.1:
+        non_striker: MP Vaughan
+        bowler: AM Blignaut
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A McGrath
+    - 10.2:
+        non_striker: MP Vaughan
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McGrath
+    - 10.3:
+        non_striker: A McGrath
+        bowler: AM Blignaut
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: MP Vaughan
+    - 10.4:
+        non_striker: A McGrath
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 10.5:
+        non_striker: A McGrath
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 10.6:
+        non_striker: MP Vaughan
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McGrath
+    - 10.7:
+        non_striker: A McGrath
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 11.1:
+        non_striker: MP Vaughan
+        bowler: SM Ervine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A McGrath
+    - 11.2:
+        non_striker: MP Vaughan
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McGrath
+    - 11.3:
+        non_striker: A McGrath
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 11.4:
+        non_striker: A McGrath
+        bowler: SM Ervine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Vaughan
+    - 11.5:
+        non_striker: A McGrath
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 11.6:
+        non_striker: MP Vaughan
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McGrath
+    - 11.7:
+        non_striker: A McGrath
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 11.8:
+        non_striker: MP Vaughan
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McGrath
+    - 12.1:
+        non_striker: A McGrath
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 12.2:
+        non_striker: A McGrath
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 12.3:
+        non_striker: A McGrath
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 12.4:
+        non_striker: A McGrath
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 12.5:
+        non_striker: A McGrath
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 12.6:
+        non_striker: MP Vaughan
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McGrath
+    - 13.1:
+        non_striker: A McGrath
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Vaughan
+    - 13.2:
+        non_striker: A McGrath
+        bowler: SM Ervine
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: MP Vaughan
+    - 13.3:
+        non_striker: A McGrath
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 13.4:
+        non_striker: MP Vaughan
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McGrath
+    - 13.5:
+        non_striker: A McGrath
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 13.6:
+        non_striker: MP Vaughan
+        bowler: SM Ervine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McGrath
+    - 14.1:
+        non_striker: MP Vaughan
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McGrath
+    - 14.2:
+        non_striker: MP Vaughan
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McGrath
+    - 14.3:
+        non_striker: A McGrath
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 14.4:
+        non_striker: MP Vaughan
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McGrath
+    - 14.5:
+        non_striker: MP Vaughan
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A McGrath
+    - 14.6:
+        non_striker: MP Vaughan
+        bowler: AM Blignaut
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McGrath
+    - 15.1:
+        non_striker: A McGrath
+        bowler: GB Brent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 15.2:
+        non_striker: MP Vaughan
+        bowler: GB Brent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McGrath
+    - 15.3:
+        non_striker: MP Vaughan
+        bowler: GB Brent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McGrath
+    - 15.4:
+        non_striker: A McGrath
+        bowler: GB Brent
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Vaughan
+    - 15.5:
+        non_striker: A McGrath
+        bowler: GB Brent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 15.6:
+        non_striker: A McGrath
+        bowler: GB Brent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 16.1:
+        non_striker: MP Vaughan
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McGrath
+    - 16.2:
+        non_striker: A McGrath
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Vaughan
+    - 16.3:
+        non_striker: A McGrath
+        bowler: TJ Friend
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Vaughan
+    - 16.4:
+        non_striker: A McGrath
+        bowler: TJ Friend
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan

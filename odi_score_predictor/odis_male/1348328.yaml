@@ -1,0 +1,737 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Harare
+  dates:
+  - '2023-01-23'
+  gender: male
+  match_type: ODI
+  match_type_number: 4510
+  outcome:
+    result: no result
+  overs: 50
+  players:
+    Zimbabwe:
+    - I Kaia
+    - CJ Chibhabha
+    - CR Ervine
+    - Sikandar Raza
+    - RP Burl
+    - T Marumani
+    - LM Jongwe
+    - WP Masakadza
+    - B Evans
+    - B Mavuta
+    - R Ngarava
+    Ireland:
+    - PR Stirling
+    - ST Doheny
+    - M Commins
+    - HT Tector
+    - C Campher
+    - L Tucker
+    - GH Dockrell
+    - GJ Delany
+    - MR Adair
+    - GI Hume
+    - J Little
+  registry:
+    people:
+      AJ Pycroft: 685d3f80
+      B Evans: e7e86505
+      B Mavuta: dadb9703
+      C Campher: 478a63e7
+      CJ Chibhabha: f32dbc84
+      CR Ervine: c96311d4
+      F Mutizwa: d3e83eef
+      GH Dockrell: 99cddc5e
+      GI Hume: 25550d06
+      GJ Delany: 33b3d2df
+      HT Tector: 59ea70a4
+      I Chabi: 5e39110e
+      I Kaia: 5ad8c974
+      J Little: 9061a703
+      L Rusere: 6a4734ae
+      L Tucker: 3979b5e0
+      LM Jongwe: b8704508
+      M Commins: c537cf4d
+      MA Gough: 76752ac8
+      MR Adair: fc55ec67
+      PR Stirling: cf494ffe
+      R Ngarava: 6e3f5a5c
+      RP Burl: b08252b8
+      ST Doheny: 4992d6f6
+      Sikandar Raza: 26d041c4
+      T Marumani: 3d5d51a5
+      WP Masakadza: 4bc0a378
+  teams:
+  - Zimbabwe
+  - Ireland
+  toss:
+    winner: Zimbabwe
+    decision: bat
+  umpires:
+  - L Rusere
+  - MA Gough
+  venue: Harare Sports Club
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CJ Chibhabha
+        batsman: I Kaia
+    - 0.2:
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: CJ Chibhabha
+        batsman: I Kaia
+    - 0.3:
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: CJ Chibhabha
+        batsman: I Kaia
+    - 0.4:
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: CJ Chibhabha
+        batsman: I Kaia
+    - 0.5:
+        non_striker: I Kaia
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 0.6:
+        non_striker: I Kaia
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Chibhabha
+    - 1.1:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 1.2:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 1.3:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 1.4:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 1.5:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 1.6:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Chibhabha
+    - 2.1:
+        non_striker: CJ Chibhabha
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 2.2:
+        non_striker: CJ Chibhabha
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 2.3:
+        non_striker: CJ Chibhabha
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Kaia
+    - 2.4:
+        non_striker: CJ Chibhabha
+        bowler: J Little
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: I Kaia
+    - 2.5:
+        non_striker: I Kaia
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 2.6:
+        non_striker: I Kaia
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Chibhabha
+    - 3.1:
+        non_striker: CJ Chibhabha
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Kaia
+    - 3.2:
+        non_striker: CJ Chibhabha
+        bowler: GI Hume
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: I Kaia
+    - 3.3:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 3.4:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 3.5:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 3.6:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Chibhabha
+    - 4.1:
+        non_striker: I Kaia
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 4.2:
+        non_striker: I Kaia
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 4.3:
+        non_striker: I Kaia
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 4.4:
+        non_striker: I Kaia
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 4.5:
+        non_striker: I Kaia
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Chibhabha
+    - 4.6:
+        non_striker: CJ Chibhabha
+        bowler: J Little
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 5.1:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 5.2:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CJ Chibhabha
+    - 5.3:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 5.4:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 5.5:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CJ Chibhabha
+    - 5.6:
+        non_striker: CJ Chibhabha
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 6.1:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 6.2:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 6.3:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+    - 6.4:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CJ Chibhabha
+        wicket:
+          player_out: CJ Chibhabha
+          fielders:
+          - M Commins
+          kind: caught
+    - 6.5:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 6.6:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CR Ervine
+    - 7.1:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 7.2:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 7.3:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 7.4:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 7.5:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 7.6:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 8.1:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 8.2:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 8.3:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 8.4:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 8.5:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 8.6:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 9.1:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Kaia
+    - 9.2:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 9.3:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: I Kaia
+    - 9.4:
+        non_striker: I Kaia
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 9.5:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 9.6:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 9.7:
+        non_striker: CR Ervine
+        bowler: GI Hume
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 10.1:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 10.2:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 10.3:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 10.4:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 10.5:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 10.6:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 11.1:
+        non_striker: I Kaia
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 11.2:
+        non_striker: CR Ervine
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Kaia
+    - 11.3:
+        non_striker: CR Ervine
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 11.4:
+        non_striker: I Kaia
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 11.5:
+        non_striker: I Kaia
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 11.6:
+        non_striker: CR Ervine
+        bowler: C Campher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 12.1:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 12.2:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 12.3:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CR Ervine
+    - 12.4:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Kaia
+    - 12.5:
+        non_striker: CR Ervine
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Kaia
+    - 12.6:
+        non_striker: I Kaia
+        bowler: MR Adair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CR Ervine
+    - 13.1:
+        non_striker: CR Ervine
+        bowler: C Campher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Kaia

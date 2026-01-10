@@ -1,0 +1,2891 @@
+---
+meta:
+  data_version: 0.92
+  created: '2023-01-13'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: London
+  dates:
+  - '2003-07-12'
+  gender: male
+  match_type: ODI
+  match_type_number: 2037
+  outcome:
+    winner: England
+    by:
+      wickets: 7
+  overs: 50
+  player_of_match:
+  - D Gough
+  players:
+    South Africa:
+    - GC Smith
+    - HH Gibbs
+    - MN van Wyk
+    - JH Kallis
+    - JA Rudolph
+    - MV Boucher
+    - M van Jaarsveld
+    - SM Pollock
+    - AJ Hall
+    - A Nel
+    - M Ntini
+    England:
+    - ME Trescothick
+    - VS Solanki
+    - MP Vaughan
+    - A McGrath
+    - A Flintoff
+    - R Clarke
+    - CMW Read
+    - AF Giles
+    - D Gough
+    - JM Anderson
+    - RL Johnson
+  registry:
+    people:
+      A Flintoff: ddc0828d
+      A McGrath: e8b5ea8d
+      A Nel: 2503e881
+      AF Giles: a4af4849
+      AJ Hall: 6b0c3a20
+      CH Lloyd: 5b445db0
+      CMW Read: be4cefab
+      D Gough: fcbf5a30
+      GC Smith: '72861603'
+      HH Gibbs: e1d1b294
+      JA Rudolph: 42537f07
+      JH Kallis: 86dc8f2e
+      JM Anderson: d12143bf
+      JW Lloyds: 112b8472
+      M Ntini: 20a941bb
+      M van Jaarsveld: f407e354
+      ME Trescothick: ea42ddb9
+      MN van Wyk: 710dd98c
+      MP Vaughan: 6e1b1ec0
+      MV Boucher: f3cb53a1
+      NA Mallender: 3b5dfcd4
+      R Clarke: 8728a058
+      RL Johnson: 3967930c
+      SJA Taufel: 4b43d5ac
+      SM Pollock: 88fccd6c
+      VS Solanki: 7ee2ce62
+  teams:
+  - South Africa
+  - England
+  toss:
+    winner: England
+    decision: field
+  umpires:
+  - NA Mallender
+  - SJA Taufel
+  venue: Lord's, London
+innings:
+- 1st innings:
+    team: South Africa
+    deliveries:
+    - 0.1:
+        bowler: JM Anderson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: HH Gibbs
+        batsman: GC Smith
+    - 0.2:
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: HH Gibbs
+        batsman: GC Smith
+    - 0.3:
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        non_striker: HH Gibbs
+        batsman: GC Smith
+    - 0.4:
+        non_striker: GC Smith
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Gibbs
+    - 0.5:
+        non_striker: HH Gibbs
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 0.6:
+        non_striker: HH Gibbs
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 0.7:
+        non_striker: HH Gibbs
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Smith
+    - 1.1:
+        non_striker: GC Smith
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 1.2:
+        non_striker: GC Smith
+        bowler: D Gough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: HH Gibbs
+    - 1.3:
+        non_striker: GC Smith
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 1.4:
+        non_striker: GC Smith
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 1.5:
+        non_striker: GC Smith
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 1.6:
+        non_striker: GC Smith
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 1.7:
+        non_striker: GC Smith
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 2.1:
+        non_striker: HH Gibbs
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+    - 2.2:
+        non_striker: HH Gibbs
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Smith
+        wicket:
+          player_out: GC Smith
+          fielders:
+          - ME Trescothick
+          kind: caught
+    - 2.3:
+        non_striker: HH Gibbs
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 2.4:
+        non_striker: HH Gibbs
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 2.5:
+        non_striker: HH Gibbs
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MN van Wyk
+    - 2.6:
+        non_striker: HH Gibbs
+        bowler: JM Anderson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MN van Wyk
+    - 2.7:
+        non_striker: HH Gibbs
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 3.1:
+        non_striker: MN van Wyk
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 3.2:
+        non_striker: MN van Wyk
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 3.3:
+        non_striker: MN van Wyk
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 3.4:
+        non_striker: MN van Wyk
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 3.5:
+        non_striker: MN van Wyk
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 3.6:
+        non_striker: MN van Wyk
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 4.1:
+        non_striker: HH Gibbs
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 4.2:
+        non_striker: HH Gibbs
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 4.3:
+        non_striker: HH Gibbs
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 4.4:
+        non_striker: HH Gibbs
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MN van Wyk
+    - 4.5:
+        non_striker: MN van Wyk
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 4.6:
+        non_striker: MN van Wyk
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 5.1:
+        non_striker: HH Gibbs
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 5.2:
+        non_striker: HH Gibbs
+        bowler: D Gough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MN van Wyk
+    - 5.3:
+        non_striker: HH Gibbs
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 5.4:
+        non_striker: HH Gibbs
+        bowler: D Gough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MN van Wyk
+    - 5.5:
+        non_striker: MN van Wyk
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Gibbs
+    - 5.6:
+        non_striker: MN van Wyk
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 5.7:
+        non_striker: MN van Wyk
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 6.1:
+        non_striker: HH Gibbs
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MN van Wyk
+    - 6.2:
+        non_striker: MN van Wyk
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Gibbs
+    - 6.3:
+        non_striker: MN van Wyk
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Gibbs
+    - 6.4:
+        non_striker: MN van Wyk
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 6.5:
+        non_striker: MN van Wyk
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 6.6:
+        non_striker: MN van Wyk
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+    - 7.1:
+        non_striker: HH Gibbs
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 7.2:
+        non_striker: HH Gibbs
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 7.3:
+        non_striker: HH Gibbs
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MN van Wyk
+    - 7.4:
+        non_striker: MN van Wyk
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Gibbs
+        wicket:
+          player_out: HH Gibbs
+          fielders:
+          - CMW Read
+          kind: caught
+    - 7.5:
+        non_striker: MN van Wyk
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 7.6:
+        non_striker: MN van Wyk
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 8.1:
+        non_striker: JH Kallis
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+    - 8.2:
+        non_striker: JH Kallis
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 8.3:
+        non_striker: JH Kallis
+        bowler: JM Anderson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MN van Wyk
+    - 8.4:
+        non_striker: JH Kallis
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MN van Wyk
+    - 8.5:
+        non_striker: JH Kallis
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MN van Wyk
+        wicket:
+          player_out: MN van Wyk
+          kind: bowled
+    - 8.6:
+        non_striker: JH Kallis
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 8.7:
+        non_striker: JH Kallis
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 9.1:
+        non_striker: JA Rudolph
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 9.2:
+        non_striker: JA Rudolph
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 9.3:
+        non_striker: JA Rudolph
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 9.4:
+        non_striker: JA Rudolph
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 9.5:
+        non_striker: JA Rudolph
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 9.6:
+        non_striker: JA Rudolph
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 10.1:
+        non_striker: JH Kallis
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 10.2:
+        non_striker: JH Kallis
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 10.3:
+        non_striker: JH Kallis
+        bowler: JM Anderson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Rudolph
+    - 10.4:
+        non_striker: JH Kallis
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 10.5:
+        non_striker: JH Kallis
+        bowler: JM Anderson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Rudolph
+    - 10.6:
+        non_striker: JH Kallis
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 10.7:
+        non_striker: JH Kallis
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 10.8:
+        non_striker: JH Kallis
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 11.1:
+        non_striker: JH Kallis
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 11.2:
+        non_striker: JH Kallis
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 11.3:
+        non_striker: JA Rudolph
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 11.4:
+        non_striker: JA Rudolph
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 11.5:
+        non_striker: JA Rudolph
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+    - 11.6:
+        non_striker: JA Rudolph
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JH Kallis
+        wicket:
+          player_out: JH Kallis
+          fielders:
+          - CMW Read
+          kind: caught
+    - 12.1:
+        non_striker: MV Boucher
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 12.2:
+        non_striker: MV Boucher
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 12.3:
+        non_striker: MV Boucher
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 12.4:
+        non_striker: MV Boucher
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 12.5:
+        non_striker: MV Boucher
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 12.6:
+        non_striker: MV Boucher
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 13.1:
+        non_striker: JA Rudolph
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 13.2:
+        non_striker: JA Rudolph
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 13.3:
+        non_striker: JA Rudolph
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 13.4:
+        non_striker: JA Rudolph
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 13.5:
+        non_striker: JA Rudolph
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 13.6:
+        non_striker: JA Rudolph
+        bowler: D Gough
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: MV Boucher
+    - 13.7:
+        non_striker: JA Rudolph
+        bowler: D Gough
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 14.1:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 14.2:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 14.3:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JA Rudolph
+    - 14.4:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 14.5:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 14.6:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 15.1:
+        non_striker: JA Rudolph
+        bowler: RL Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MV Boucher
+    - 15.2:
+        non_striker: JA Rudolph
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 15.3:
+        non_striker: JA Rudolph
+        bowler: RL Johnson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MV Boucher
+    - 15.4:
+        non_striker: JA Rudolph
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 15.5:
+        non_striker: JA Rudolph
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 15.6:
+        non_striker: JA Rudolph
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 15.7:
+        non_striker: JA Rudolph
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 15.8:
+        non_striker: JA Rudolph
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 16.1:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 16.2:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 16.3:
+        non_striker: JA Rudolph
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Boucher
+    - 16.4:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 16.5:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 16.6:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 17.1:
+        non_striker: JA Rudolph
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 17.2:
+        non_striker: JA Rudolph
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Boucher
+    - 17.3:
+        non_striker: MV Boucher
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 17.4:
+        non_striker: JA Rudolph
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 17.5:
+        non_striker: JA Rudolph
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MV Boucher
+    - 17.6:
+        non_striker: JA Rudolph
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 18.1:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 18.2:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 18.3:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JA Rudolph
+    - 18.4:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 18.5:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 18.6:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 18.7:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JA Rudolph
+    - 19.1:
+        non_striker: JA Rudolph
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Boucher
+    - 19.2:
+        non_striker: MV Boucher
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 19.3:
+        non_striker: MV Boucher
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JA Rudolph
+    - 19.4:
+        non_striker: JA Rudolph
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Boucher
+    - 19.5:
+        non_striker: MV Boucher
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 19.6:
+        non_striker: MV Boucher
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 20.1:
+        non_striker: JA Rudolph
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 20.2:
+        non_striker: JA Rudolph
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MV Boucher
+    - 20.3:
+        non_striker: JA Rudolph
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 20.4:
+        non_striker: JA Rudolph
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MV Boucher
+    - 20.5:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+    - 20.6:
+        non_striker: MV Boucher
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JA Rudolph
+        wicket:
+          player_out: JA Rudolph
+          fielders:
+          - CMW Read
+          kind: caught
+    - 21.1:
+        non_striker: M van Jaarsveld
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 21.2:
+        non_striker: M van Jaarsveld
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 21.3:
+        non_striker: M van Jaarsveld
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 21.4:
+        non_striker: M van Jaarsveld
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 21.5:
+        non_striker: M van Jaarsveld
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+    - 21.6:
+        non_striker: M van Jaarsveld
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MV Boucher
+        wicket:
+          player_out: MV Boucher
+          fielders:
+          - CMW Read
+          kind: caught
+    - 22.1:
+        non_striker: SM Pollock
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 22.2:
+        non_striker: SM Pollock
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 22.3:
+        non_striker: SM Pollock
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 22.4:
+        non_striker: SM Pollock
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 22.5:
+        non_striker: SM Pollock
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 22.6:
+        non_striker: SM Pollock
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Jaarsveld
+    - 23.1:
+        non_striker: SM Pollock
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 23.2:
+        non_striker: SM Pollock
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Jaarsveld
+    - 23.3:
+        non_striker: SM Pollock
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Jaarsveld
+    - 23.4:
+        non_striker: M van Jaarsveld
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Pollock
+    - 23.5:
+        non_striker: M van Jaarsveld
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Pollock
+    - 23.6:
+        non_striker: SM Pollock
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 24.1:
+        non_striker: M van Jaarsveld
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Pollock
+    - 24.2:
+        non_striker: M van Jaarsveld
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Pollock
+    - 24.3:
+        non_striker: M van Jaarsveld
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Pollock
+    - 24.4:
+        non_striker: M van Jaarsveld
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Pollock
+    - 24.5:
+        non_striker: M van Jaarsveld
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Pollock
+    - 24.6:
+        non_striker: SM Pollock
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 25.1:
+        non_striker: M van Jaarsveld
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Pollock
+    - 25.2:
+        non_striker: M van Jaarsveld
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Pollock
+    - 25.3:
+        non_striker: SM Pollock
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 25.4:
+        non_striker: SM Pollock
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M van Jaarsveld
+    - 25.5:
+        non_striker: SM Pollock
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 25.6:
+        non_striker: SM Pollock
+        bowler: RL Johnson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 26.1:
+        non_striker: M van Jaarsveld
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Pollock
+    - 26.2:
+        non_striker: M van Jaarsveld
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Pollock
+    - 26.3:
+        non_striker: SM Pollock
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 26.4:
+        non_striker: SM Pollock
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M van Jaarsveld
+    - 26.5:
+        non_striker: M van Jaarsveld
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Pollock
+    - 26.6:
+        non_striker: SM Pollock
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 27.1:
+        non_striker: M van Jaarsveld
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Pollock
+    - 27.2:
+        non_striker: M van Jaarsveld
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Pollock
+    - 27.3:
+        non_striker: M van Jaarsveld
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Pollock
+    - 27.4:
+        non_striker: SM Pollock
+        bowler: AF Giles
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M van Jaarsveld
+    - 27.5:
+        non_striker: SM Pollock
+        bowler: AF Giles
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M van Jaarsveld
+    - 27.6:
+        non_striker: SM Pollock
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+    - 27.7:
+        non_striker: SM Pollock
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M van Jaarsveld
+        wicket:
+          player_out: M van Jaarsveld
+          kind: caught and bowled
+    - 27.8:
+        non_striker: SM Pollock
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hall
+    - 28.1:
+        non_striker: AJ Hall
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Pollock
+    - 28.2:
+        non_striker: SM Pollock
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hall
+    - 28.3:
+        non_striker: SM Pollock
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hall
+    - 28.4:
+        non_striker: SM Pollock
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Hall
+        wicket:
+          player_out: AJ Hall
+          fielders:
+          - MP Vaughan
+          kind: caught
+    - 28.5:
+        non_striker: A Nel
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Pollock
+    - 28.6:
+        non_striker: A Nel
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Pollock
+    - 29.1:
+        non_striker: SM Pollock
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nel
+    - 29.2:
+        non_striker: SM Pollock
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nel
+    - 29.3:
+        non_striker: SM Pollock
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nel
+    - 29.4:
+        non_striker: SM Pollock
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nel
+    - 29.5:
+        non_striker: SM Pollock
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nel
+    - 29.6:
+        non_striker: SM Pollock
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nel
+    - 30.1:
+        non_striker: A Nel
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Pollock
+    - 30.2:
+        non_striker: A Nel
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Pollock
+    - 30.3:
+        non_striker: A Nel
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Pollock
+    - 30.4:
+        non_striker: SM Pollock
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nel
+    - 30.5:
+        non_striker: SM Pollock
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nel
+    - 30.6:
+        non_striker: SM Pollock
+        bowler: JM Anderson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Nel
+    - 31.1:
+        non_striker: SM Pollock
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nel
+    - 31.2:
+        non_striker: SM Pollock
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Nel
+        wicket:
+          player_out: A Nel
+          kind: lbw
+    - 31.3:
+        non_striker: SM Pollock
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ntini
+    - 31.4:
+        non_striker: SM Pollock
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ntini
+    - 31.5:
+        non_striker: SM Pollock
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ntini
+    - 31.6:
+        non_striker: SM Pollock
+        bowler: AF Giles
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Ntini
+    - 32.1:
+        non_striker: M Ntini
+        bowler: A Flintoff
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Pollock
+        wicket:
+          player_out: SM Pollock
+          fielders:
+          - CMW Read
+          kind: caught
+- 2nd innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: VS Solanki
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 0.2:
+        non_striker: VS Solanki
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 0.3:
+        non_striker: VS Solanki
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 0.4:
+        non_striker: VS Solanki
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 0.5:
+        non_striker: VS Solanki
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 0.6:
+        non_striker: VS Solanki
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 1.1:
+        non_striker: ME Trescothick
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 1.2:
+        non_striker: VS Solanki
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 1.3:
+        non_striker: VS Solanki
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+    - 1.4:
+        non_striker: VS Solanki
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Trescothick
+        wicket:
+          player_out: ME Trescothick
+          fielders:
+          - AJ Hall
+          kind: caught
+    - 1.5:
+        non_striker: VS Solanki
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 1.6:
+        non_striker: MP Vaughan
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 2.1:
+        non_striker: VS Solanki
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 2.2:
+        non_striker: MP Vaughan
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 2.3:
+        non_striker: VS Solanki
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 2.4:
+        non_striker: MP Vaughan
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 2.5:
+        non_striker: MP Vaughan
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 2.6:
+        non_striker: MP Vaughan
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 3.1:
+        non_striker: VS Solanki
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 3.2:
+        non_striker: VS Solanki
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 3.3:
+        non_striker: VS Solanki
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 3.4:
+        non_striker: VS Solanki
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 3.5:
+        non_striker: VS Solanki
+        bowler: M Ntini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: MP Vaughan
+    - 3.6:
+        non_striker: MP Vaughan
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 4.1:
+        non_striker: VS Solanki
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 4.2:
+        non_striker: VS Solanki
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 4.3:
+        non_striker: VS Solanki
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 4.4:
+        non_striker: MP Vaughan
+        bowler: SM Pollock
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: VS Solanki
+    - 4.5:
+        non_striker: MP Vaughan
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 4.6:
+        non_striker: MP Vaughan
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 4.7:
+        non_striker: MP Vaughan
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 5.1:
+        non_striker: MP Vaughan
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 5.2:
+        non_striker: MP Vaughan
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 5.3:
+        non_striker: MP Vaughan
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 5.4:
+        non_striker: MP Vaughan
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 5.5:
+        non_striker: VS Solanki
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 5.6:
+        non_striker: VS Solanki
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Vaughan
+    - 6.1:
+        non_striker: MP Vaughan
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 6.2:
+        non_striker: MP Vaughan
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 6.3:
+        non_striker: MP Vaughan
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VS Solanki
+    - 6.4:
+        non_striker: MP Vaughan
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 6.5:
+        non_striker: MP Vaughan
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 6.6:
+        non_striker: MP Vaughan
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 7.1:
+        non_striker: VS Solanki
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 7.2:
+        non_striker: MP Vaughan
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 7.3:
+        non_striker: MP Vaughan
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 7.4:
+        non_striker: MP Vaughan
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VS Solanki
+    - 7.5:
+        non_striker: MP Vaughan
+        bowler: M Ntini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VS Solanki
+    - 7.6:
+        non_striker: MP Vaughan
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 7.7:
+        non_striker: MP Vaughan
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 8.1:
+        non_striker: VS Solanki
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Vaughan
+    - 8.2:
+        non_striker: VS Solanki
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Vaughan
+    - 8.3:
+        non_striker: VS Solanki
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 8.4:
+        non_striker: MP Vaughan
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 8.5:
+        non_striker: MP Vaughan
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 8.6:
+        non_striker: MP Vaughan
+        bowler: SM Pollock
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 9.1:
+        non_striker: VS Solanki
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Vaughan
+    - 9.2:
+        non_striker: VS Solanki
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 9.3:
+        non_striker: MP Vaughan
+        bowler: M Ntini
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VS Solanki
+    - 9.4:
+        non_striker: MP Vaughan
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VS Solanki
+    - 9.5:
+        non_striker: MP Vaughan
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 9.6:
+        non_striker: VS Solanki
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MP Vaughan
+    - 9.7:
+        non_striker: VS Solanki
+        bowler: M Ntini
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 10.1:
+        non_striker: MP Vaughan
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VS Solanki
+    - 10.2:
+        non_striker: MP Vaughan
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VS Solanki
+    - 10.3:
+        non_striker: MP Vaughan
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 10.4:
+        non_striker: MP Vaughan
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 10.5:
+        non_striker: MP Vaughan
+        bowler: JH Kallis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VS Solanki
+    - 10.6:
+        non_striker: MP Vaughan
+        bowler: JH Kallis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: VS Solanki
+    - 10.7:
+        non_striker: MP Vaughan
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VS Solanki
+    - 10.8:
+        non_striker: MP Vaughan
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 11.1:
+        non_striker: VS Solanki
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 11.2:
+        non_striker: MP Vaughan
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 11.3:
+        non_striker: MP Vaughan
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 11.4:
+        non_striker: MP Vaughan
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 11.5:
+        non_striker: MP Vaughan
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 11.6:
+        non_striker: MP Vaughan
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VS Solanki
+    - 12.1:
+        non_striker: VS Solanki
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 12.2:
+        non_striker: MP Vaughan
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VS Solanki
+    - 12.3:
+        non_striker: MP Vaughan
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 12.4:
+        non_striker: MP Vaughan
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 12.5:
+        non_striker: MP Vaughan
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 12.6:
+        non_striker: MP Vaughan
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VS Solanki
+    - 13.1:
+        non_striker: VS Solanki
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 13.2:
+        non_striker: VS Solanki
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MP Vaughan
+    - 13.3:
+        non_striker: VS Solanki
+        bowler: A Nel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Vaughan
+    - 13.4:
+        non_striker: VS Solanki
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Vaughan
+    - 13.5:
+        non_striker: MP Vaughan
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: VS Solanki
+    - 13.6:
+        non_striker: VS Solanki
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 13.7:
+        non_striker: VS Solanki
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+    - 14.1:
+        non_striker: MP Vaughan
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: VS Solanki
+    - 14.2:
+        non_striker: MP Vaughan
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 14.3:
+        non_striker: MP Vaughan
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: VS Solanki
+    - 14.4:
+        non_striker: MP Vaughan
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: VS Solanki
+    - 14.5:
+        non_striker: MP Vaughan
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 14.6:
+        non_striker: MP Vaughan
+        bowler: JH Kallis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 15.1:
+        non_striker: VS Solanki
+        bowler: A Nel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MP Vaughan
+    - 15.2:
+        non_striker: VS Solanki
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Vaughan
+        wicket:
+          player_out: MP Vaughan
+          fielders:
+          - M Ntini
+          kind: caught
+    - 15.3:
+        non_striker: VS Solanki
+        bowler: A Nel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A McGrath
+    - 15.4:
+        non_striker: VS Solanki
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McGrath
+    - 15.5:
+        non_striker: VS Solanki
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McGrath
+    - 15.6:
+        non_striker: VS Solanki
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McGrath
+    - 15.7:
+        non_striker: VS Solanki
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McGrath
+    - 15.8:
+        non_striker: VS Solanki
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McGrath
+    - 16.1:
+        non_striker: A McGrath
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 16.2:
+        non_striker: A McGrath
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 16.3:
+        non_striker: A McGrath
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+    - 16.4:
+        non_striker: A McGrath
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: VS Solanki
+        wicket:
+          player_out: VS Solanki
+          kind: bowled
+    - 16.5:
+        non_striker: A McGrath
+        bowler: AJ Hall
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Flintoff
+    - 16.6:
+        non_striker: A McGrath
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Flintoff
+    - 16.7:
+        non_striker: A Flintoff
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A McGrath
+    - 17.1:
+        non_striker: A Flintoff
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A McGrath
+    - 17.2:
+        non_striker: A McGrath
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Flintoff
+    - 17.3:
+        non_striker: A McGrath
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Flintoff
+    - 17.4:
+        non_striker: A McGrath
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Flintoff
+    - 17.5:
+        non_striker: A McGrath
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Flintoff
+    - 17.6:
+        non_striker: A McGrath
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Flintoff
+    - 18.1:
+        non_striker: A McGrath
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Flintoff
+    - 18.2:
+        non_striker: A McGrath
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Flintoff
+    - 18.3:
+        non_striker: A McGrath
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Flintoff
+    - 18.4:
+        non_striker: A Flintoff
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McGrath
+    - 18.5:
+        non_striker: A Flintoff
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McGrath
+    - 18.6:
+        non_striker: A Flintoff
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A McGrath
+    - 19.1:
+        non_striker: A McGrath
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Flintoff
+    - 19.2:
+        non_striker: A McGrath
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Flintoff
+    - 19.3:
+        non_striker: A McGrath
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Flintoff
+    - 19.4:
+        non_striker: A Flintoff
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McGrath
+    - 19.5:
+        non_striker: A Flintoff
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A McGrath
+    - 19.6:
+        non_striker: A McGrath
+        bowler: A Nel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Flintoff
+    - 20.1:
+        non_striker: A Flintoff
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A McGrath
+    - 20.2:
+        non_striker: A Flintoff
+        bowler: AJ Hall
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A McGrath
