@@ -157,9 +157,9 @@ if calc_btn:
     # Aggression Bonus
     aggression_bonus = 0
     if wickets_left >= 3 and over_base >= 8:
-        momentum = max(0, crr - 8.3) 
-        base_bonus = (wickets_left * 1.3) + (momentum * 1.6) + (balls_left * 0.08)+(l5_runs * 0.2)
-        penalty = l5_wickets * 3.0
+        momentum = max(0, crr - 8.8) 
+        base_bonus = (wickets_left * 1.3) + (momentum * 1.6)
+        penalty = l5_wickets * 2.5
         aggression_bonus = max(0, base_bonus - penalty)
 
     # 7.3 Model Input Preparation
@@ -204,4 +204,5 @@ if calc_btn:
         m_col2.metric(f"{algorithm} Model", int(pred + aggression_bonus))
         
     except Exception as e:
+
         st.error(f"Prediction Error: {e}")
