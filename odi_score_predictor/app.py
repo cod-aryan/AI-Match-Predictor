@@ -104,11 +104,12 @@ if st.button('🔥 RUN PREDICTION'):
                 # Bonus multiplier based on wickets in hand
                 wicket_factor = (wickets_left ** 1.5) / 5
                 # Acceleration factor based on remaining balls
-                phase_factor = (balls_left / 300) * 10
+                phase_factor = (balls_left / 300) * 5
                 # Momentum check
-                momentum_factor = max(0, (l10_runs / 10) - 5.5) 
+                momentum_factor =  (l10_runs / 10) - 5.5
                 
-                agg_bonus = (wicket_factor * 6) + (momentum_factor * 10) + (phase_factor * 5) - (l10_wickets * 6)
+                
+                agg_bonus = (wicket_factor * 1.5) + (momentum_factor * 3) + (phase_factor * 3) - (l10_wickets * 6)
 
             # 3. Create DataFrame
             input_df = pd.DataFrame({
@@ -140,4 +141,5 @@ if st.button('🔥 RUN PREDICTION'):
             st.info(f"Insight: Predicted run rate for remaining {balls_left} balls is approx {((final_score-score)/(balls_left/6)):.2f} rpo.")
 
         except Exception as e:
+
             st.error(f"⚠️ Internal Prediction Error: {e}")
