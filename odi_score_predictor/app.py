@@ -109,7 +109,7 @@ if st.button('🔥 RUN PREDICTION'):
                 momentum_factor =  (l10_runs / 10) - 5.5
                 
                 
-                agg_bonus = (wicket_factor * 1.5) + (momentum_factor * 3) + (phase_factor * 3) - (l10_wickets * 6)
+                agg_bonus = (wicket_factor * 1.3) + (momentum_factor * 2.6) + (phase_factor * 2.5) - (l10_wickets * 7)
 
             # 3. Create DataFrame
             input_df = pd.DataFrame({
@@ -143,3 +143,4 @@ if st.button('🔥 RUN PREDICTION'):
         except Exception as e:
 
             st.error(f"⚠️ Internal Prediction Error: {e}")
+
