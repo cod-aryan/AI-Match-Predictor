@@ -109,7 +109,7 @@ if st.button('🔥 RUN PREDICTION'):
                 momentum_factor =  (l10_runs / 10) - 5.5
                 
                 
-                agg_bonus = (wicket_factor * 1.3) + (momentum_factor * 2.6) + (phase_factor * 2.5) - (l10_wickets * 7)
+                agg_bonus = (wicket_factor * 1.5) + (momentum_factor * 3.4) + (phase_factor * 2.7) - (l10_wickets * 7)
 
             # 3. Create DataFrame
             input_df = pd.DataFrame({
