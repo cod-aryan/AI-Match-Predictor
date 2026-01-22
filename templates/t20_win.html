@@ -1,0 +1,272 @@
+{% extends 'base.html' %}
+
+{% block title %}T20 Win Predictor{% endblock %}
+
+{% block content %}
+<div class="page-title">
+    <h1><i class="fas fa-percentage"></i> T20 Second Inning Win Predictor</h1>
+    <p>Live Win Probability Prediction</p>
+</div>
+
+<div class="row">
+    <!-- Input Form -->
+    <div class="col-lg-7">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-sliders-h"></i> Match Setup</h5>
+            </div>
+            <div class="card-body">
+                <form id="predictionForm">
+                    <!-- Team Selection -->
+                    <div class="row mb-4">
+                        <div class="col-md-4">
+                            <label class="form-label">Batting Team</label>
+                            <select class="form-select" id="batting_team" required>
+                                {% for team in teams %}
+                                <option value="{{ team }}">{{ team }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label">Bowling Team</label>
+                            <select class="form-select" id="bowling_team" required>
+                                {% for team in teams %}
+                                <option value="{{ team }}" {% if loop.index == 2 %}selected{% endif %}>{{ team }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label">City</label>
+                            <select class="form-select" id="city" required>
+                                {% for city in cities %}
+                                <option value="{{ city }}">{{ city }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <!-- Target -->
+                    <div class="row mb-4">
+                        <div class="col-md-4">
+                            <label class="form-label">Target Score</label>
+                            <input type="number" class="form-control" id="target" min="1" value="150" required>
+                        </div>
+                    </div>
+                    
+                    <!-- Live Match Data -->
+                    <h6 class="mb-3"><i class="fas fa-broadcast-tower"></i> Live Scorecard</h6>
+                    <div class="row mb-4">
+                        <div class="col-md-4">
+                            <label class="form-label">Current Score</label>
+                            <input type="number" class="form-control" id="score" min="0" value="50" required>
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label">Wickets Fallen</label>
+                            <input type="number" class="form-control" id="wickets" min="0" max="9" value="2" required>
+                        </div>
+                        <div class="col-md-4">
+                            <label class="form-label">Overs Completed</label>
+                            <input type="number" class="form-control" id="overs" min="0" max="19.5" step="0.1" value="10.0" required>
+                        </div>
+                    </div>
+                    
+                    <!-- Recent Trend -->
+                    <h6 class="mb-3"><i class="fas fa-chart-area"></i> Momentum (Last 5 Overs)</h6>
+                    <div class="row mb-4">
+                        <div class="col-md-6">
+                            <label class="form-label">Runs in Last 5 Overs</label>
+                            <input type="number" class="form-control" id="l5_runs" min="0" value="30" required>
+                        </div>
+                        <div class="col-md-6">
+                            <label class="form-label">Wickets in Last 5 Overs</label>
+                            <input type="number" class="form-control" id="l5_wickets" min="0" max="9" value="1" required>
+                        </div>
+                    </div>
+                    
+                    <button type="submit" class="btn btn-predict">
+                        <i class="fas fa-bolt me-2"></i> PREDICT WIN PROBABILITY
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Results Panel -->
+    <div class="col-lg-5">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-poll"></i> Win Probability</h5>
+            </div>
+            <div class="card-body">
+                <!-- Loading Spinner -->
+                <div class="spinner-container" id="loadingSpinner">
+                    <div class="spinner-border text-success" role="status">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                    <p class="mt-2">Calculating probabilities...</p>
+                </div>
+                
+                <!-- Error Message -->
+                <div class="alert-error d-none" id="errorMessage"></div>
+                
+                <!-- Result Display -->
+                <div class="result-container" id="resultContainer">
+                    <!-- Win Probability Chart -->
+                    <div class="chart-container mb-4">
+                        <canvas id="probabilityChart"></canvas>
+                    </div>
+                    
+                    <!-- Probability Bars -->
+                    <div class="mb-3">
+                        <div class="d-flex justify-content-between mb-1">
+                            <span id="battingTeamName">Batting Team</span>
+                            <span id="winProbText">0%</span>
+                        </div>
+                        <div class="probability-bar">
+                            <div class="probability-fill win" id="winProbBar" style="width: 0%"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="mb-4">
+                        <div class="d-flex justify-content-between mb-1">
+                            <span id="bowlingTeamName">Bowling Team</span>
+                            <span id="lossProbText">0%</span>
+                        </div>
+                        <div class="probability-bar">
+                            <div class="probability-fill loss" id="lossProbBar" style="width: 0%"></div>
+                        </div>
+                    </div>
+                    
+                    <!-- Stats Grid -->
+                    <div class="row g-3">
+                        <div class="col-4">
+                            <div class="stat-box">
+                                <div class="stat-value" id="runsLeft">--</div>
+                                <div class="stat-label">Runs Left</div>
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <div class="stat-box">
+                                <div class="stat-value" id="ballsLeft">--</div>
+                                <div class="stat-label">Balls Left</div>
+                            </div>
+                        </div>
+                        <div class="col-4">
+                            <div class="stat-box">
+                                <div class="stat-value" id="requiredRR">--</div>
+                                <div class="stat-label">Req. RR</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Placeholder -->
+                <div id="placeholderText" class="text-center text-muted">
+                    <i class="fas fa-chart-pie fa-3x mb-3"></i>
+                    <p>Enter match details to see win probability</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+let probabilityChart = null;
+
+document.getElementById('predictionForm').addEventListener('submit', async function(e) {
+    e.preventDefault();
+    
+    document.getElementById('placeholderText').classList.add('d-none');
+    document.getElementById('resultContainer').classList.remove('show');
+    document.getElementById('errorMessage').classList.add('d-none');
+    document.getElementById('loadingSpinner').classList.add('show');
+    
+    const formData = {
+        batting_team: document.getElementById('batting_team').value,
+        bowling_team: document.getElementById('bowling_team').value,
+        city: document.getElementById('city').value,
+        target: document.getElementById('target').value,
+        score: document.getElementById('score').value,
+        wickets: document.getElementById('wickets').value,
+        overs: document.getElementById('overs').value,
+        l5_runs: document.getElementById('l5_runs').value,
+        l5_wickets: document.getElementById('l5_wickets').value
+    };
+    
+    try {
+        const response = await fetch('/t20-win/predict', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(formData)
+        });
+        
+        const data = await response.json();
+        document.getElementById('loadingSpinner').classList.remove('show');
+        
+        if (data.error) {
+            document.getElementById('errorMessage').textContent = '⚠️ ' + data.error;
+            document.getElementById('errorMessage').classList.remove('d-none');
+        } else {
+            // Update team names
+            document.getElementById('battingTeamName').textContent = data.batting_team;
+            document.getElementById('bowlingTeamName').textContent = data.bowling_team;
+            
+            // Update probability bars
+            document.getElementById('winProbText').textContent = data.win_probability + '%';
+            document.getElementById('lossProbText').textContent = data.loss_probability + '%';
+            document.getElementById('winProbBar').style.width = data.win_probability + '%';
+            document.getElementById('lossProbBar').style.width = data.loss_probability + '%';
+            
+            // Update stats
+            document.getElementById('runsLeft').textContent = data.runs_left;
+            document.getElementById('ballsLeft').textContent = data.balls_left;
+            document.getElementById('requiredRR').textContent = data.required_rr;
+            
+            // Update chart
+            updateChart(data.batting_team, data.bowling_team, data.win_probability, data.loss_probability);
+            
+            document.getElementById('resultContainer').classList.add('show');
+        }
+    } catch (error) {
+        document.getElementById('loadingSpinner').classList.remove('show');
+        document.getElementById('errorMessage').textContent = '⚠️ Connection error. Please try again.';
+        document.getElementById('errorMessage').classList.remove('d-none');
+    }
+});
+
+function updateChart(battingTeam, bowlingTeam, winProb, lossProb) {
+    const ctx = document.getElementById('probabilityChart').getContext('2d');
+    
+    if (probabilityChart) {
+        probabilityChart.destroy();
+    }
+    
+    probabilityChart = new Chart(ctx, {
+        type: 'doughnut',
+        data: {
+            labels: [battingTeam, bowlingTeam],
+            datasets: [{
+                data: [winProb, lossProb],
+                backgroundColor: ['#00ff00', '#ff4b4b'],
+                borderColor: ['#00cc00', '#cc0000'],
+                borderWidth: 2
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            cutout: '60%',
+            plugins: {
+                legend: {
+                    display: true,
+                    position: 'bottom',
+                    labels: { color: '#fff' }
+                }
+            }
+        }
+    });
+}
+</script>
+{% endblock %}

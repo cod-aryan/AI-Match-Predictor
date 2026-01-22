@@ -206,3 +206,4 @@ if calc_btn:
     except Exception as e:
 
         st.error(f"Prediction Error: {e}")
+

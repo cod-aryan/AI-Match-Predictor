@@ -9,6 +9,7 @@ model_performance = {
     "LightGBM": {"rmse": 13.44, "file": 'lgbm_model_odi_score.pkl'},
     "CatBoost": {"rmse": 14.78, "file": 'cat_model_odi_score.pkl'},
     "Random Forest": {"rmse": 22.13, "file": 'rf_model_odi_score.pkl'},
+    "Gradient Boosting": {"rmse": 16.35, "file": 'gb_model_odi_score.pkl'},
     "Linear Regression": {"rmse": 28.71, "file": 'lr_model_odi_score.pkl'}
 }
 
@@ -143,4 +144,5 @@ if st.button('🔥 RUN PREDICTION'):
         except Exception as e:
 
             st.error(f"⚠️ Internal Prediction Error: {e}")
+
 

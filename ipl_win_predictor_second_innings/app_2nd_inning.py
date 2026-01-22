@@ -189,4 +189,5 @@ if calc_btn:
             st.write(f"### {batting_team}: {round(win*100)}%")
             st.progress(int(win*100))
             st.write(f"### {bowling_team}: {round(loss*100)}%")
+
             st.progress(int(loss*100))

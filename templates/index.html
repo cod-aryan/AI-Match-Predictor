@@ -1,0 +1,156 @@
+{% extends 'base.html' %}
+
+{% block title %}Cricket Prediction Pro - Home{% endblock %}
+
+{% block content %}
+<div class="page-title">
+    <h1><i class="fas fa-cricket-bat-ball"></i> Cricket Prediction Pro</h1>
+    <p>Advanced Machine Learning Models for Cricket Match Predictions</p>
+</div>
+
+<div class="row">
+    <!-- IPL Section -->
+    <div class="col-lg-4 mb-4">
+        <div class="card h-100">
+            <div class="card-header" style="background: linear-gradient(90deg, #FDB913, #004BA0);">
+                <h5><i class="fas fa-trophy"></i> IPL Predictions</h5>
+            </div>
+            <div class="card-body">
+                <p class="text-muted mb-4">Predict scores and win probabilities for Indian Premier League matches using advanced ML models trained on historical IPL data.</p>
+                
+                <div class="d-grid gap-3">
+                    <a href="/ipl-score" class="btn btn-outline-light">
+                        <i class="fas fa-chart-line me-2"></i>
+                        Score Predictor
+                        <small class="d-block mt-1 text-muted">First Innings Score Prediction</small>
+                    </a>
+                    <a href="/ipl-win" class="btn btn-outline-light">
+                        <i class="fas fa-percentage me-2"></i>
+                        Win Predictor
+                        <small class="d-block mt-1 text-muted">Second Innings Chase Probability</small>
+                    </a>
+                </div>
+                
+                <div class="mt-4">
+                    <small class="text-muted">
+                        <i class="fas fa-database me-1"></i> Features: DLS Method, Player Stats, Venue Analysis
+                    </small>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- ODI Section -->
+    <div class="col-lg-4 mb-4">
+        <div class="card h-100">
+            <div class="card-header" style="background: linear-gradient(90deg, #1D4ED8, #007A33);">
+                <h5><i class="fas fa-globe"></i> ODI Predictions</h5>
+            </div>
+            <div class="card-body">
+                <p class="text-muted mb-4">Predict One Day International match outcomes with models trained on international cricket data from major tournaments.</p>
+                
+                <div class="d-grid gap-3">
+                    <a href="/odi-score" class="btn btn-outline-light">
+                        <i class="fas fa-chart-line me-2"></i>
+                        Score Predictor
+                        <small class="d-block mt-1 text-muted">50-Over Score Prediction</small>
+                    </a>
+                    <a href="/odi-win" class="btn btn-outline-light">
+                        <i class="fas fa-percentage me-2"></i>
+                        Win Predictor
+                        <small class="d-block mt-1 text-muted">Chase Success Probability</small>
+                    </a>
+                </div>
+                
+                <div class="mt-4">
+                    <small class="text-muted">
+                        <i class="fas fa-database me-1"></i> Features: Run Rate Analysis, Momentum Tracking
+                    </small>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- T20 Section -->
+    <div class="col-lg-4 mb-4">
+        <div class="card h-100">
+            <div class="card-header" style="background: linear-gradient(90deg, #E61B2E, #FFCD00);">
+                <h5><i class="fas fa-bolt"></i> T20 Predictions</h5>
+            </div>
+            <div class="card-body">
+                <p class="text-muted mb-4">T20 World Cup and International T20 predictions powered by cutting-edge machine learning algorithms.</p>
+                
+                <div class="d-grid gap-3">
+                    <a href="/t20-score" class="btn btn-outline-light">
+                        <i class="fas fa-chart-line me-2"></i>
+                        Score Predictor
+                        <small class="d-block mt-1 text-muted">20-Over Score Prediction</small>
+                    </a>
+                    <a href="/t20-win" class="btn btn-outline-light">
+                        <i class="fas fa-percentage me-2"></i>
+                        Win Predictor
+                        <small class="d-block mt-1 text-muted">Live Win Probability</small>
+                    </a>
+                </div>
+                
+                <div class="mt-4">
+                    <small class="text-muted">
+                        <i class="fas fa-database me-1"></i> Features: Aggression Bonus, Pressure Index
+                    </small>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Features Section -->
+<div class="row mt-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5><i class="fas fa-cogs"></i> Powered By Advanced ML Models</h5>
+            </div>
+            <div class="card-body">
+                <div class="row text-center">
+                    <div class="col-md-2 col-4 mb-3">
+                        <div class="stat-box">
+                            <div class="stat-value"><i class="fas fa-brain"></i></div>
+                            <div class="stat-label">XGBoost</div>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-4 mb-3">
+                        <div class="stat-box">
+                            <div class="stat-value"><i class="fas fa-leaf"></i></div>
+                            <div class="stat-label">LightGBM</div>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-4 mb-3">
+                        <div class="stat-box">
+                            <div class="stat-value"><i class="fas fa-cat"></i></div>
+                            <div class="stat-label">CatBoost</div>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-4 mb-3">
+                        <div class="stat-box">
+                            <div class="stat-value"><i class="fas fa-tree"></i></div>
+                            <div class="stat-label">Random Forest</div>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-4 mb-3">
+                        <div class="stat-box">
+                            <div class="stat-value"><i class="fas fa-chart-area"></i></div>
+                            <div class="stat-label">SVR</div>
+                        </div>
+                    </div>
+                    <div class="col-md-2 col-4 mb-3">
+                        <div class="stat-box">
+                            <div class="stat-value"><i class="fas fa-chart-line"></i></div>
+                            <div class="stat-label">Linear Reg</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

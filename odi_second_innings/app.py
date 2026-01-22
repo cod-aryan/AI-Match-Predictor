@@ -21,12 +21,12 @@ TEAM_COLORS = {
 @st.cache_resource
 def load_odi_assets():
     try:
-        pipe = pickle.load(open('pipe.pkl', 'rb'))
-        teams = pickle.load(open('team.pkl', 'rb'))
-        cities = pickle.load(open('city.pkl', 'rb'))
+        pipe = pickle.load(open('pipe_odi_second_innings.pkl', 'rb'))
+        teams = pickle.load(open('team_odi_second_innings.pkl', 'rb'))
+        cities = pickle.load(open('city_odi_second_innings.pkl', 'rb'))
         return pipe, teams, cities
     except FileNotFoundError:
-        st.error("Model files not found! Ensure pipe.pkl, team.pkl, and city.pkl are present.")
+        st.error("Model files not found! Ensure pipe_odi_second_innings.pkl, team_odi_second_innings.pkl, and city_odi_second_innings.pkl are present.")
         return None, None, None
 
 pipe, teams, cities = load_odi_assets()
